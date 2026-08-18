@@ -76,7 +76,7 @@ En este sentido, el informe de Booz Allen Hamilton es un llamado a la acción pa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

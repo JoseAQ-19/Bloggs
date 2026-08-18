@@ -71,7 +71,7 @@ Los artesanos locales deben enfocarse en la sostenibilidad y la autenticidad par
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

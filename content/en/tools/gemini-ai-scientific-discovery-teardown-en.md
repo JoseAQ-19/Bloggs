@@ -57,7 +57,7 @@ As AI tools become deeply embedded in scientific workflows, the focus must shift
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

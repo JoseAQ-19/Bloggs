@@ -85,7 +85,7 @@ Athletes must stop treating the number on the screen as ground truth. The action
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

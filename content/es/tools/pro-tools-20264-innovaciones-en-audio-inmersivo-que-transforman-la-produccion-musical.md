@@ -72,7 +72,7 @@ En conclusión, mientras que Pro Tools 2026.4 promete expandir las fronteras de 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

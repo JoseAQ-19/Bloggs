@@ -87,7 +87,7 @@ Get ready to be haunted by *Mora*—it's not just a film, it's a transformation.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

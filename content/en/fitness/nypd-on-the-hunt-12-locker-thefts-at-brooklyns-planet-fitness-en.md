@@ -87,7 +87,7 @@ The gym experience should be one of empowerment and well-being, not anxiety and 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -86,7 +86,7 @@ The strides made in simulating Type Ia supernovae are promising, yet challenges 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

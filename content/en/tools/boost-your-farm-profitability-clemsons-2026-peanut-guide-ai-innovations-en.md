@@ -76,7 +76,7 @@ The future of peanut farming lies in adopting sustainable practices and innovati
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

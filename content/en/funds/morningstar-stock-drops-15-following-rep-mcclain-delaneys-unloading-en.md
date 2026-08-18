@@ -81,7 +81,7 @@ Morningstar's total expense ratio of 0.75% is competitive but higher than some o
 ### What should investors look for in the next earnings report?
 Investors should pay close attention to revenue growth, management's strategic direction, and any commentary on market conditions that could affect future performance.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -96,7 +96,7 @@ Investors should pay close attention to revenue growth, management's strategic d
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

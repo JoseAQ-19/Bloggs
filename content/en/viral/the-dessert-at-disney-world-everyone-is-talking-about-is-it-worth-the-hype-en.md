@@ -83,7 +83,7 @@ The quiet collapse of the Gideon's hype will be a victory for common sense over 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

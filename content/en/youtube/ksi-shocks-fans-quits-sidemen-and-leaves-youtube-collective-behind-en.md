@@ -81,7 +81,7 @@ This isn't just the end of an era—it's the beginning of a creator economy Darw
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

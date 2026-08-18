@@ -70,7 +70,7 @@ Consider the company’s financial health, dividend history, and its potential f
 
 We believe that a balanced approach, combining traditional dividend stocks with those at the forefront of the AI revolution, may provide a compelling investment strategy. The key will be to remain vigilant about valuations and macroeconomic indicators that could impact both growth and income. By carefully selecting dividend stocks with strong fundamentals and a clear strategy for leveraging AI, we can position ourselves to benefit from this evolving market landscape while mitigating risks. 
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "NewsArticle",  

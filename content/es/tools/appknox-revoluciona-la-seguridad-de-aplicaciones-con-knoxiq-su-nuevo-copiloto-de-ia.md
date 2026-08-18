@@ -102,7 +102,7 @@ El futuro de la ciberseguridad no reside en confiar ciegamente en algoritmos que
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

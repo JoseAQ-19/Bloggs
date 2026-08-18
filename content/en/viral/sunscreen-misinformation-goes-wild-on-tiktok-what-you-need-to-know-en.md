@@ -88,7 +88,7 @@ In a world where appearance often takes precedence over health, it is crucial to
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

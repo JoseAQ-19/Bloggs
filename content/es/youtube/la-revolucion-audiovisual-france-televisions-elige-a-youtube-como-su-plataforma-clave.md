@@ -89,7 +89,7 @@ Puedes consultar el informe de HP sobre el impacto del streaming en el entreteni
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -86,7 +86,7 @@ The UNECE's initiative is a necessary architectural intervention, but without ma
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

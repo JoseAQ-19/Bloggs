@@ -144,7 +144,7 @@ In the battle for creator revenue, adaptation is not just an option; it's a nece
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

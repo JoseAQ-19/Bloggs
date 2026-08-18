@@ -86,7 +86,7 @@ The future of progressive politics hangs in the balance. A fractured base can le
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

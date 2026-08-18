@@ -71,7 +71,7 @@ La IA generativa en el Ejército de EE.UU. presenta tanto oportunidades como rie
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

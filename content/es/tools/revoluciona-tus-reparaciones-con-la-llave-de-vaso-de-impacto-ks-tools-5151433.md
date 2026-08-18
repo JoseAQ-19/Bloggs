@@ -82,7 +82,7 @@ Al final del día, invertir en herramientas de calidad no solo es una decisión 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

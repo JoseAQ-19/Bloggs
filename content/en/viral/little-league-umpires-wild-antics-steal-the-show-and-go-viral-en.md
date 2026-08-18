@@ -72,7 +72,7 @@ In conclusion, the current state of youth sports demands a concerted effort from
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

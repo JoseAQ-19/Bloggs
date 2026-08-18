@@ -87,7 +87,7 @@ For a detailed perspective on AI’s economic and technical underpinnings, the N
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

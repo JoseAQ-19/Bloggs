@@ -89,7 +89,7 @@ Love may be in the air, but so are the dangers of nature—let's not forget that
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

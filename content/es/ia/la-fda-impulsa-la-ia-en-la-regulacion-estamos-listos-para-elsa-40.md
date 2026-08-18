@@ -87,7 +87,7 @@ La eficiencia algorítmica no es progreso si el coste es la precarización de la
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

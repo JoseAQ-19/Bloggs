@@ -78,7 +78,7 @@ Aunque el sector tecnológico ha mostrado un crecimiento robusto, los inversores
 Creemos que el CT (Lux) Global Technology Fund ofrece una oportunidad atractiva para los inversores que buscan capitalizar el crecimiento del sector tecnológico. Su sólido rendimiento, combinado con un enfoque de gestión proactivo, lo convierte en un competidor destacado en el espacio de fondos tecnológicos. Sin embargo, es fundamental que los inversores mantengan una vigilancia sobre los riesgos inherentes al sector y ajusten sus carteras en consecuencia.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

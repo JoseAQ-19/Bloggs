@@ -87,7 +87,7 @@ El CT (Lux) Global Technology Fund ha superado a varios fondos competidores en t
 
 No necesariamente. Los inversores deben evaluar su tolerancia al riesgo y la necesidad de diversificación en su cartera.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -101,7 +101,7 @@ No necesariamente. Los inversores deben evaluar su tolerancia al riesgo y la nec
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

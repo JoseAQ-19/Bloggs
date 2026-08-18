@@ -80,7 +80,7 @@ In this digital age, the right video could be the key to unlocking a happier, mo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

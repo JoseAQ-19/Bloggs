@@ -95,7 +95,7 @@ In the world of fitness, the only limits are the ones we set for ourselves. As t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

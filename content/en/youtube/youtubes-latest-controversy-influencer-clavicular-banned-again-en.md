@@ -103,7 +103,7 @@ YouTube’s ruthless efficiency in terminating Clavicular’s channels proves th
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

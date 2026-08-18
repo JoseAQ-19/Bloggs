@@ -58,7 +58,7 @@ The technical limitations of current beauty gadgets are severe and inherent to t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -103,7 +103,7 @@ Finalmente, la cultura del castigo y la tolerancia en el deporte profesional ref
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

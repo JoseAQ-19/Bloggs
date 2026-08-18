@@ -79,7 +79,7 @@ AI is not likely to replace financial advisors but will augment their capabiliti
 
 In this rapidly changing environment, the integration of AI tools like those developed by Morningstar and Perplexity represents a crucial step forward for financial advisors seeking to enhance their research capabilities and deliver superior investment outcomes. The evolution towards a more AI-driven landscape is not merely an option; it is a necessity for those who wish to remain competitive in the financial advisory space. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -96,7 +96,7 @@ In this rapidly changing environment, the integration of AI tools like those dev
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

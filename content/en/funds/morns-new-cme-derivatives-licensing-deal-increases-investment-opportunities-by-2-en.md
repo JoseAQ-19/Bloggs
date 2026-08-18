@@ -98,7 +98,7 @@ Experts highlight the need for asset managers to adapt to changing market dynami
 ### Can derivatives lead to higher fees for mutual funds?
 Yes, funds utilizing derivatives may have higher fees, but the potential for enhanced returns can justify these costs.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "MORN’s New CME Derivatives Licensing Deal Increases Investment Opportunities by 25%",
@@ -108,7 +108,7 @@ Yes, funds utilizing derivatives may have higher fees, but the potential for enh
     "name": "Senior Financial Analyst"
   }
 }</script>
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

@@ -58,7 +58,7 @@ Secret channels expose the creator economy's biggest lie: that success requires 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

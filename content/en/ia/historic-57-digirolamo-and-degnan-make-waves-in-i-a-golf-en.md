@@ -86,7 +86,7 @@ In golf, as in many facets of life, breaking records often requires breaking the
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

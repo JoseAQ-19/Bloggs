@@ -69,7 +69,7 @@ La burbuja del helado viral puede ser tentadora, pero si las marcas no se adapta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

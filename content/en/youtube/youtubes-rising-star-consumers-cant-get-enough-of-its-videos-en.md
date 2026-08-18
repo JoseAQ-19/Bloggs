@@ -89,7 +89,7 @@ Creators must stop viewing YouTube as a partner and start viewing it as a high-r
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

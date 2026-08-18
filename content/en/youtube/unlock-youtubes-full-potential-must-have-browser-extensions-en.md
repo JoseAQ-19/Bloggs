@@ -103,7 +103,7 @@ The time to act is now—before your browser’s helpers become your worst enemi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

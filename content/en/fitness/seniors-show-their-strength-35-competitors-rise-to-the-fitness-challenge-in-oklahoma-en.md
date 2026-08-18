@@ -101,7 +101,7 @@ Elevating the standards of senior fitness is a shared responsibility that can le
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

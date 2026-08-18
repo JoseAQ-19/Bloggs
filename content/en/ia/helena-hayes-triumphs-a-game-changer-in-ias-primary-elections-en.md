@@ -71,7 +71,7 @@ The future will belong to those who can navigate these complexities while mainta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

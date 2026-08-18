@@ -121,7 +121,7 @@ Diversification helps mitigate risk by spreading investments across various asse
 ### How can historical performance correlation guide investment decisions?
 Understanding a fund's performance correlation with key benchmarks helps investors gauge its resilience and adaptability to market changes, informing future investment choices.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Brian Ferdinand Reveals 5 Key Metrics for Resilient Investment Strategies",
@@ -136,7 +136,7 @@ Understanding a fund's performance correlation with key benchmarks helps investo
 }
 </script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

@@ -56,7 +56,7 @@ Tomando en cuenta la situaci√≥n actual, es crucial que YouTube refuerce sus pol√
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

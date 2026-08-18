@@ -87,7 +87,7 @@ The YouTube Hype feature presents a double-edged sword for creators, offering po
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

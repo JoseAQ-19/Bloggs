@@ -81,7 +81,7 @@ Trust is the currency of finance, and current AI technology is effectively runni
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

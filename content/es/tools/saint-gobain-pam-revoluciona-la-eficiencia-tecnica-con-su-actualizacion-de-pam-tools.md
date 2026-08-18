@@ -65,7 +65,7 @@ La actualización de PAM TOOLS de Saint-Gobain PAM es un avance significativo, p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

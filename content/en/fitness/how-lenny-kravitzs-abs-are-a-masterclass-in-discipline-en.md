@@ -81,7 +81,7 @@ Start today by incorporating small, consistent changes into your routine, such a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

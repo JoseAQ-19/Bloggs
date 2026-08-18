@@ -83,7 +83,7 @@ YouTube's existing systems are not equipped to handle the complexities of a rapi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

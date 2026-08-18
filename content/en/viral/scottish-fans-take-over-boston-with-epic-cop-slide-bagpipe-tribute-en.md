@@ -74,7 +74,7 @@ In summary, the "Cop Slide" is more than just a viral moment; it represents a cu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

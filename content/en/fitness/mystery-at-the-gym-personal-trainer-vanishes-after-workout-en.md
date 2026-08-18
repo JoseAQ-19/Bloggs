@@ -185,7 +185,7 @@ To further emphasize the importance of safety in fitness environments, it is ess
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

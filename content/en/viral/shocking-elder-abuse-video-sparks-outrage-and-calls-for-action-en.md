@@ -89,7 +89,7 @@ It’s imperative to prioritize the protection of older adults from financial ex
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

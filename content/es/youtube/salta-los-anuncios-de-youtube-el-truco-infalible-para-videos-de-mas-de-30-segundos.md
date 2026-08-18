@@ -98,7 +98,7 @@ La narrativa de que los usuarios están obligados a aceptar anuncios para "apoya
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

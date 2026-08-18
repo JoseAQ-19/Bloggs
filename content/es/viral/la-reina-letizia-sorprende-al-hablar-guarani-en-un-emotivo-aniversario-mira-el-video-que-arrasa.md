@@ -75,7 +75,7 @@ La Reina Letizia ha dado un paso significativo hacia la conexión cultural entre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

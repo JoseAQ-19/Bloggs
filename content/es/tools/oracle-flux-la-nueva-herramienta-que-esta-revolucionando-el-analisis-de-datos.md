@@ -78,7 +78,7 @@ La adopción de Oracle Flux es una jugada estratégica para las empresas que bus
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

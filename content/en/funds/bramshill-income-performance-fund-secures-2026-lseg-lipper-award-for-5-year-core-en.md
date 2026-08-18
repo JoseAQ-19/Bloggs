@@ -88,7 +88,7 @@ While the fund has historically provided consistent returns, future performance 
 Yes, the fund's focus on capital preservation and income generation makes it a suitable option for conservative investors, although they should consider the associated risks. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -102,7 +102,7 @@ Yes, the fund's focus on capital preservation and income generation makes it a s
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

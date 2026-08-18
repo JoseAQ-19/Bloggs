@@ -71,7 +71,7 @@ The path forward requires action from all stakeholders. Fitness businesses need 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

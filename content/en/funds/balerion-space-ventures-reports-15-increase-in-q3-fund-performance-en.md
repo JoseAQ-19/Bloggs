@@ -70,7 +70,7 @@ While Balerion has shown strong growth, market conditions and individual investm
 
 We believe that investing in Balerion Space Ventures offers a unique opportunity to gain exposure to a rapidly expanding market. The fund's solid performance, coupled with its strategic positioning, makes it a compelling choice for investors seeking growth in the innovative space sector. However, as with any investment, a balanced approach that considers both potential returns and associated risks is essential for achieving long-term financial objectives. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -85,7 +85,7 @@ We believe that investing in Balerion Space Ventures offers a unique opportunity
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

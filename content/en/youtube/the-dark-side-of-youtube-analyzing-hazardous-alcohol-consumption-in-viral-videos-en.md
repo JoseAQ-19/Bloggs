@@ -99,7 +99,7 @@ The creator economy's obsession with growth metrics is actively eroding the cogn
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

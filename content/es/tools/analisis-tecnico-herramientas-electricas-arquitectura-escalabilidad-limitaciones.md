@@ -80,7 +80,7 @@ Priorizar la seguridad y la educación al usar herramientas eléctricas es esenc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

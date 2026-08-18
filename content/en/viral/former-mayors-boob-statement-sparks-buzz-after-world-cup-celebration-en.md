@@ -92,7 +92,7 @@ It's time to level the playing field—not just on the field, but in our words a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

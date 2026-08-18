@@ -80,7 +80,7 @@ La adopción de IA no es opcional; es una cuestión de vida o muerte para las PY
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

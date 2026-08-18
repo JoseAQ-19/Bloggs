@@ -75,7 +75,7 @@ Se recomienda que los legisladores comiencen a explorar marcos legales que permi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

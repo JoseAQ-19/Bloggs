@@ -61,7 +61,7 @@ Embedded systems development is trapped in a downward spiral of complexity, frag
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

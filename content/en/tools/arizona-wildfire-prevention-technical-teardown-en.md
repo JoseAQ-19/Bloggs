@@ -82,7 +82,7 @@ Arizona's wildfire crisis is a solvable engineering problem, but the current pol
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

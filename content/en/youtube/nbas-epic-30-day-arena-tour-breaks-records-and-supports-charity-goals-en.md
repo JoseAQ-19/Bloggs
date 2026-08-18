@@ -99,7 +99,7 @@ The league must fundamentally reimagine its relationship with communities and ta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

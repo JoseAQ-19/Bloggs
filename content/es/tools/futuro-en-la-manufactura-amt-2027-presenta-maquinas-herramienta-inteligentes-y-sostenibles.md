@@ -58,7 +58,7 @@ La clave para el éxito en esta nueva era de la manufactura radica en una planif
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

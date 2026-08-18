@@ -79,7 +79,7 @@ As the late-night landscape evolves, staying ahead of these trends is crucial fo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

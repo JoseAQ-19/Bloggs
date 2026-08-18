@@ -78,7 +78,7 @@ Se recomienda a las empresas comenzar a invertir en tecnolog√≠a de IA y formaci√
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

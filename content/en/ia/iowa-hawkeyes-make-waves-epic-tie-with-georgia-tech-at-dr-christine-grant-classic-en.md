@@ -70,7 +70,7 @@ The Iowa Hawkeyes' NIL success juxtaposed with potential limitations highlights 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

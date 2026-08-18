@@ -83,7 +83,7 @@ The only thing soaring higher than misinformation is the need for accurate data 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

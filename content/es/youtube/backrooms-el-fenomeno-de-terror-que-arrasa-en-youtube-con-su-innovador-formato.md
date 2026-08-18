@@ -77,7 +77,7 @@ El futuro del terror no está en los clichés establecidos, sino en la interacti
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

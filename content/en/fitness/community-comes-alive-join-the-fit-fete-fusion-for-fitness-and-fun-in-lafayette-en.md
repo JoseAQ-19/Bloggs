@@ -86,7 +86,7 @@ In conclusion, the fitness industry must evolve to prioritize inclusivity and co
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

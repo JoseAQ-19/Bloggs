@@ -74,7 +74,7 @@ The 12-minute revolution is a bubble driven by the hubris of engineers who belie
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

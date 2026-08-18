@@ -72,7 +72,7 @@ La dominación de Google, Microsoft y OpenAI plantea tanto oportunidades como ri
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

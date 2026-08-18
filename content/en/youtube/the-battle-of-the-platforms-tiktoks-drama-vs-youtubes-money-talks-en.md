@@ -90,7 +90,7 @@ As TikTok rises to prominence, YouTube's dominance is no longer a guarantee. The
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -88,7 +88,7 @@ To mitigate the risks of open water swimming, every triathlete must implement a 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

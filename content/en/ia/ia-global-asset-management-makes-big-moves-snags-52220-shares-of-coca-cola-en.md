@@ -104,7 +104,7 @@ The hype surrounding generative models must be tempered with a grounded understa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

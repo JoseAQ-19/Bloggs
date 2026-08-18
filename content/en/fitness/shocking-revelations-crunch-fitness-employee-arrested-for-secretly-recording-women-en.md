@@ -97,7 +97,7 @@ The path forward requires collaboration between gyms and their members to redefi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -85,7 +85,7 @@ In the battle for attention, control is the new currency—reclaim yours and red
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -92,7 +92,7 @@ La tendencia hacia el estilo mediterráneo no es una simple moda estética, sino
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

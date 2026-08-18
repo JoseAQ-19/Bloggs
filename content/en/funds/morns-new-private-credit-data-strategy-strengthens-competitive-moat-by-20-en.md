@@ -79,7 +79,7 @@ As we analyze the performance metrics, fee structures, and expert insights, it i
 We believe that Morningstar’s strategic focus on enhancing its private credit data capabilities provides a formidable competitive edge. As the market continues to evolve, embracing data analytics will likely be a crucial factor in maintaining investor trust and driving fund performance. Balancing the opportunities presented by this strategic shift with the inherent risks will be essential for long-term success in this dynamic environment.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

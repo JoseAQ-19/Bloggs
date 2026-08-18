@@ -82,7 +82,7 @@ Los fondos indexados pueden no adaptarse rápidamente a cambios drásticos en el
 Es fundamental evaluar tu nivel de conocimiento financiero, el tiempo disponible para gestionar inversiones y tu tolerancia al riesgo.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

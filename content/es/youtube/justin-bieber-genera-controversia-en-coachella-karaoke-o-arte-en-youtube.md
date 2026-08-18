@@ -85,7 +85,7 @@ Para entender las complejidades legales que enfrentan los creadores, se recomien
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -69,7 +69,7 @@ La verdadera tentación radica en cómo estos formatos moldean nuestra realidad 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

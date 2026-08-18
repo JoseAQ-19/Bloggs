@@ -79,7 +79,7 @@ Las autoridades están apostando por una estrategia de "crecimiento o muerte" qu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

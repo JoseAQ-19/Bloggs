@@ -83,7 +83,7 @@ Risks include interest rate fluctuations, economic downturns, and reliance on th
 **When will the THOR ETF start providing historical performance data?**  
 Performance data will be available once the fund has been operational for a period, typically within one quarter of its launch.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Thornburg's THOR ETF Joins Income Builder Franchise, Targeting 5% Annual Yield",
@@ -96,7 +96,7 @@ Performance data will be available once the fund has been operational for a peri
 }
 </script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [

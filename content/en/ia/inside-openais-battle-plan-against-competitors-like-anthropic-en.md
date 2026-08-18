@@ -71,7 +71,7 @@ The reality is clear: the hype surrounding AI must be tempered with a grounded u
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

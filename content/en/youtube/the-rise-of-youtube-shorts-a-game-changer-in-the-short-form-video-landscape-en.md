@@ -105,7 +105,7 @@ YouTube Shorts has built a sophisticated trap disguised as opportunity. The vira
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

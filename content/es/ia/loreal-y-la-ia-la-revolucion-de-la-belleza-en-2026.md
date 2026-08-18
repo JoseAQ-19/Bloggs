@@ -69,7 +69,7 @@ La implementación exitosa de IA en la belleza dependerá de la capacidad de las
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

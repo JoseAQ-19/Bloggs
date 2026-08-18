@@ -95,7 +95,7 @@ La integración de robots humanoides cazadores en la sociedad debe ser abordada 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ Adaptarse a la IA generativa en SEO es una cuestión de supervivencia estratégi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

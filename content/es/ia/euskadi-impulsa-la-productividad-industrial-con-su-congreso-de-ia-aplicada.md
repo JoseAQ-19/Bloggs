@@ -85,7 +85,7 @@ Euskadi está cayendo en la trampa de confesar la fe en la IA sin pagar el preci
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

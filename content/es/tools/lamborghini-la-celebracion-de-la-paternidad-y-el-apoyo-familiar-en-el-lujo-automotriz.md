@@ -75,7 +75,7 @@ Lamborghini está en una encrucijada entre el crecimiento y la sostenibilidad, y
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

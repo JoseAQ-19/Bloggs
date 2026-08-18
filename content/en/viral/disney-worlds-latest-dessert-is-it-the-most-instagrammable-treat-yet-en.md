@@ -86,7 +86,7 @@ Don’t let the filters fool you; sometimes, the prettiest desserts taste the wo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

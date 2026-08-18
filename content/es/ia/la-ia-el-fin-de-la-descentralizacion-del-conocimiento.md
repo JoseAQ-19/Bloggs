@@ -109,7 +109,7 @@ La IA no es una herramienta de liberación, es un arma de eficiencia brutal que 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

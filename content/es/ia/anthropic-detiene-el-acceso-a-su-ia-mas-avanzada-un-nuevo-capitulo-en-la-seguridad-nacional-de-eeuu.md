@@ -78,7 +78,7 @@ La industria de la IA está en un punto crítico. La capacidad de EE.UU. para li
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -84,7 +84,7 @@ El desarrollo urbano no debe ser un espectáculo para inversores, sino un proces
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

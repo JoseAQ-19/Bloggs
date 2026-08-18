@@ -61,7 +61,7 @@ The creator economy bears the brunt of this system. Creators producing health mi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

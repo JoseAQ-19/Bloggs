@@ -113,7 +113,7 @@ Es imperativo que los creadores de contenido exijan protección legal ante el us
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

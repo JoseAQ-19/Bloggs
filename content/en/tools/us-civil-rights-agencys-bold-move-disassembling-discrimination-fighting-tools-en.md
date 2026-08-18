@@ -48,7 +48,7 @@ The decision to dismantle these discrimination data collection tools is not an e
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

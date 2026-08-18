@@ -79,7 +79,7 @@ In the game of life, fitness is the ultimate play, uniting generations for a hea
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -79,7 +79,7 @@ Billie Eilish's Coachella autotune controversy wasn't just a momentary PR blunde
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

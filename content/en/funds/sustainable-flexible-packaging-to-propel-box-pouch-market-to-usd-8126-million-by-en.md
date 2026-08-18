@@ -101,7 +101,7 @@ Fund performance can be evaluated using metrics like return over different perio
 
 Key trends include the increasing regulatory focus on sustainability, innovations in materials science, and shifting consumer preferences towards eco-friendly products. Staying informed about these developments can help investors make better decisions.
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "NewsArticle",  
@@ -114,7 +114,7 @@ Key trends include the increasing regulatory focus on sustainability, innovation
   }  
 }  
 </script>  
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "FAQPage",  

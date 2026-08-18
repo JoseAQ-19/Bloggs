@@ -80,7 +80,7 @@ La industria tecnológica debe exigir auditorías regulares, protocolos de contr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

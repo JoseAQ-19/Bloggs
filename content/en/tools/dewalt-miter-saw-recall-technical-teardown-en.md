@@ -94,7 +94,7 @@ DeWalt’s handling of the miter saw recall raises serious questions about consu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -85,7 +85,7 @@ For more on the enduring influence of George Michael’s philanthropy, visit **G
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -117,7 +117,7 @@ The collision between a human body and a steel scoreboard was not an unpredictab
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

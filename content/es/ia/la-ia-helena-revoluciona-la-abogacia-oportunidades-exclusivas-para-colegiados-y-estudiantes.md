@@ -49,7 +49,7 @@ La IA HELENA representa un avance técnico innegable, pero su promesa de ahorro 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

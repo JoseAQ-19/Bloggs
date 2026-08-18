@@ -78,7 +78,7 @@ La rentabilidad del 9,60% de *Azvalor Iberia* en 2026 subraya su capacidad para 
 
 Sin embargo, es esencial que los inversores evalúen su perfil de riesgo y diversifiquen adecuadamente su cartera para mitigar posibles impactos negativos en el futuro. La clave será seguir de cerca las tendencias del mercado y ajustar las estrategias de inversión en consecuencia. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Azvalor Iberia alcanza un 9,60% de rentabilidad, superando a sus competidores en 2026",

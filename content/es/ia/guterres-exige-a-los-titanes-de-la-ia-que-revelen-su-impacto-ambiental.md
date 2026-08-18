@@ -78,7 +78,7 @@ La inteligencia artificial no debería costar nuestro planeta. La innovación de
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

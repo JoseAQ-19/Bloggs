@@ -61,7 +61,7 @@ El desafío radica en equilibrar la innovación con la responsabilidad ética, a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

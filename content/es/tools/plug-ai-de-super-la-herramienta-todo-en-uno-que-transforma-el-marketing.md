@@ -74,7 +74,7 @@ La personalización efectiva es un problema de ingeniería de sistemas complejos
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

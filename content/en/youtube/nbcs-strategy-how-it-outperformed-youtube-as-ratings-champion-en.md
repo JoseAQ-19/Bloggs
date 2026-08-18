@@ -79,7 +79,7 @@ In the battle for viewer attention, NBC is playing chess while others are still 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

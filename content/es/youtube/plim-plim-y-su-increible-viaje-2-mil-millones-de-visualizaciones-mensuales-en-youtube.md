@@ -70,7 +70,7 @@ El éxito de Plim Plim es una clara señal de que la innovación y la conexión 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -90,7 +90,7 @@ The ongoing crisis surrounding teen takeovers is not merely a teenage issue; it 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -90,7 +90,7 @@ Investors, tech innovators, and healthcare professionals must collaborate to dri
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

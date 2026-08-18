@@ -73,7 +73,7 @@ La adaptación a estas herramientas puede requerir tiempo y esfuerzo, pero los p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

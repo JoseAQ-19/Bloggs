@@ -66,7 +66,7 @@ La nueva función de YouTube es un paso positivo hacia la mejora de la experienc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

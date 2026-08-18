@@ -94,7 +94,7 @@ In the world of professional golf, as the money shifts, so too must the strategi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

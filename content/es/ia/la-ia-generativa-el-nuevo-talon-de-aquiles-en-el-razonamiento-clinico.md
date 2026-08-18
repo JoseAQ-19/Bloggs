@@ -73,7 +73,7 @@ El debate sobre el uso de la IA en la medicina es complejo y multifacético, y e
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

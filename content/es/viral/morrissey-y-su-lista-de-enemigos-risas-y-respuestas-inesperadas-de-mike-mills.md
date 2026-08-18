@@ -75,7 +75,7 @@ La dinámica entre Morrissey y Mike Mills refleja la complejidad de las relacion
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

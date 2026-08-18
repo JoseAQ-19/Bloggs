@@ -72,7 +72,7 @@ La automatización por IA no es un destino inevitable, sino un experimento socia
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -65,7 +65,7 @@ Los cineastas deben aprovechar esta oportunidad y experimentar con las herramien
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

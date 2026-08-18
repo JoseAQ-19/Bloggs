@@ -96,7 +96,7 @@ La ironía suprema es que utilicemos la inteligencia artificial más avanzada pa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

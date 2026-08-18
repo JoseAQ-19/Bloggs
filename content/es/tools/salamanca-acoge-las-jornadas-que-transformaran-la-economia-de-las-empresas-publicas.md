@@ -70,7 +70,7 @@ El futuro real de blockchain en la administración pública no reside en reempla
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

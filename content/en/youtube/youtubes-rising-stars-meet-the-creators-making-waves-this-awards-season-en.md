@@ -96,7 +96,7 @@ En resumen, la influencia de los creadores digitales en Hollywood es un fenómen
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

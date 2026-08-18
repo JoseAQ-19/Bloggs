@@ -96,7 +96,7 @@ For further technical guidance on penetration testing methodologies and cloud se
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

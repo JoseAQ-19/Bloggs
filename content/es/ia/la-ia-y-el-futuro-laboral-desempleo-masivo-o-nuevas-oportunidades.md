@@ -71,7 +71,7 @@ La narrativa en torno a la IA no puede enfocarse únicamente en el crecimiento y
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

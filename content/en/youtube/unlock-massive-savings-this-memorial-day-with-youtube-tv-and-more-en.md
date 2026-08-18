@@ -75,7 +75,7 @@ YouTube TV’s ascent represents the maturation of the streaming revolution—fr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -67,7 +67,7 @@ El debate central en la evaluación académica moderna no debería centrarse en 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

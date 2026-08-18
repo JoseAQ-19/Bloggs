@@ -78,7 +78,7 @@ In a digital age where authenticity reigns supreme, it’s time for brands to em
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

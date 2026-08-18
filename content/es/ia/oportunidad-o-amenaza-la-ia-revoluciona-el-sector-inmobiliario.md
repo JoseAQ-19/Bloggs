@@ -67,7 +67,7 @@ En el mercado de alquiler, el panorama es igualmente preocupante. Proyectos arge
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

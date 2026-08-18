@@ -74,7 +74,7 @@ Investors often express their concerns and seek clarity regarding SpaceX's IPO. 
 
 The discourse surrounding SpaceX's IPO reflects the complexities of valuing companies in the rapidly evolving aerospace sector. Investors must remain vigilant and informed to navigate this speculative landscape. 
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "NewsArticle",  
@@ -87,7 +87,7 @@ The discourse surrounding SpaceX's IPO reflects the complexities of valuing comp
   "mainEntityOfPage": "https://www.example.com/space-x-ipo-overvaluation"  
 }  
 </script>  
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "FAQPage",  

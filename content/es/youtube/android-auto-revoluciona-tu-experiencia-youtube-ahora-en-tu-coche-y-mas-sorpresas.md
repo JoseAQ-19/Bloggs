@@ -87,7 +87,7 @@ Para más información detallada sobre este tema, puede consultarse el análisis
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

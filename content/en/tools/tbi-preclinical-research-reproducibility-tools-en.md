@@ -68,7 +68,7 @@ Stakeholders should prioritize investments in open science initiatives and bioma
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

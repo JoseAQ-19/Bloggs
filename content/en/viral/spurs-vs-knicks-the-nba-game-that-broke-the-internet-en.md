@@ -63,7 +63,7 @@ The Knicks' historic closeout dominance has set a new standard for playoff perfo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

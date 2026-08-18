@@ -83,7 +83,7 @@ In the pursuit of fitness, safety should never take a backseat. The emphasis on 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ Creators must recognize the importance of data-driven decision-making, focusing 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

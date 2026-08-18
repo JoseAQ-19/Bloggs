@@ -70,7 +70,7 @@ Investors often express concerns regarding the implications of such acquisitions
 
 This acquisition by EQT presents a pivotal moment for Intertek and its shareholders. The market will be closely monitoring how this deal unfolds and its implications for the company’s future growth trajectory. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Intertek Accepts EQT's Bid Valued at $2 Billion in Private Equity Deal",

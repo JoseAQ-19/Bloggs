@@ -91,7 +91,7 @@ La IA es real, es silicio y líneas de código, y está reconfigurando el empleo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

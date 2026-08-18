@@ -79,7 +79,7 @@ La diversificación se puede lograr invirtiendo en diferentes fondos que abarcan
 
 Creemos que la clave para una inversión exitosa en fondos de dividendos radica en la combinación de rentabilidad, gestión de riesgos y tarifas competitivas. Al evaluar estos aspectos, los inversores pueden posicionarse favorablemente en un mercado que favorece la generación de ingresos pasivos. El análisis exhaustivo y la consulta con expertos financieros son fundamentales para tomar decisiones informadas.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Cinco fondos de dividendos que superan el 10% de rentabilidad en 2023",
@@ -94,7 +94,7 @@ Creemos que la clave para una inversión exitosa en fondos de dividendos radica 
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

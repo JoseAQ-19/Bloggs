@@ -83,7 +83,7 @@ Closed-end funds can be a good option for income-seeking investors due to their 
 
 Evaluating metrics such as volatility, Sharpe ratio, and the fund's historical performance can provide insight into its risk profile. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -101,7 +101,7 @@ Evaluating metrics such as volatility, Sharpe ratio, and the fund's historical p
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

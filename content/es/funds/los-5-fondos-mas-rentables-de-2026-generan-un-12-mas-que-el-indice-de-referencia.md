@@ -79,7 +79,7 @@ La diversificación se puede lograr invirtiendo en diferentes tipos de activos, 
 
 Creemos que la selección de fondos que han demostrado un rendimiento consistente y una gestión de riesgo efectiva es fundamental para el éxito a largo plazo. Los fondos destacados han demostrado no solo la capacidad de generar rendimientos superiores, sino también de adaptarse a un entorno cambiante. Invertir en estos fondos podría ser una estrategia sólida para aquellos que buscan maximizar su rentabilidad manteniendo un riesgo controlado. La clave está en seguir de cerca el desempeño y ajustar la estrategia en función de las condiciones del mercado.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -96,7 +96,7 @@ Creemos que la selección de fondos que han demostrado un rendimiento consistent
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

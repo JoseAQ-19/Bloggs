@@ -73,7 +73,7 @@ The journey toward a responsible and sustainable AI ecosystem has just begun, an
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

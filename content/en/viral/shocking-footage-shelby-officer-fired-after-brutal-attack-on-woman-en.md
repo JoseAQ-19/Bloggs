@@ -99,7 +99,7 @@ The law must serve justice, not protect misconduct.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

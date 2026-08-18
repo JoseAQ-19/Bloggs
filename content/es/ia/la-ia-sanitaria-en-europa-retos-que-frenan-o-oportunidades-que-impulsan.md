@@ -73,7 +73,7 @@ La regulación debe ser clara y específica, creando un marco que proteja a los 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

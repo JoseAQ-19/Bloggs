@@ -75,7 +75,7 @@ La IA tiene potencial para revolucionar la arqueología, pero su implementación
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

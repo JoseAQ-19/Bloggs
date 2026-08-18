@@ -86,7 +86,7 @@ In an era where social issues often seem insurmountable, Minh’s story serves a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -85,7 +85,7 @@ La regulación de los deepfakes es una carrera de armamentos que la burocracia e
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

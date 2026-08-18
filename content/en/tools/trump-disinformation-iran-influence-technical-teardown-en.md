@@ -79,7 +79,7 @@ The system is broken, and patching it with voluntary AI safety pledges is a wast
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

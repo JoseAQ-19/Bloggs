@@ -70,7 +70,7 @@ La decisión de Nintendo es un recordatorio de que, en la búsqueda de maximizar
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

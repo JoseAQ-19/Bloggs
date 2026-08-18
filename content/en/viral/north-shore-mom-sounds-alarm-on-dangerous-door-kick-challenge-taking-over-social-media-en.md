@@ -79,7 +79,7 @@ It is time to turn the tide on trends that could turn into tragedies. The respon
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

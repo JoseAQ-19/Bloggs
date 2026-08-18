@@ -97,7 +97,7 @@ While they enhance product longevity, the environmental impacts of the productio
 
 By protecting crops from harmful UV radiation, these additives help maintain plant health and yield, contributing to more efficient agricultural production.
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "NewsArticle",  
@@ -112,7 +112,7 @@ By protecting crops from harmful UV radiation, these additives help maintain pla
 }  
 </script>  
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "FAQPage",  

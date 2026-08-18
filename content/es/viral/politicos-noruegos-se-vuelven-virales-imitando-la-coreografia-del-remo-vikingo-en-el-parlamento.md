@@ -77,7 +77,7 @@ La acción del Parlamento noruego es una muestra valiosa de cómo el deporte pue
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

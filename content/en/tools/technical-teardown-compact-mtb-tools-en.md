@@ -69,7 +69,7 @@ Mixing tubeless sealants is a chemical gamble with devastating financial and saf
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -80,7 +80,7 @@ Investors and developers alike need to reassess their priorities, focusing on su
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

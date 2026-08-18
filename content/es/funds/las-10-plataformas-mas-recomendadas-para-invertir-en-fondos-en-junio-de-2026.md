@@ -89,7 +89,7 @@ El rendimiento varía según el tipo de fondo y el entorno del mercado. Históri
 
 La evaluación crítica de las plataformas de inversión es esencial para maximizar el rendimiento y gestionar el riesgo. Los inversores deben permanecer informados y adaptar sus estrategias según las condiciones cambiantes del mercado. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -107,7 +107,7 @@ La evaluación crítica de las plataformas de inversión es esencial para maximi
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

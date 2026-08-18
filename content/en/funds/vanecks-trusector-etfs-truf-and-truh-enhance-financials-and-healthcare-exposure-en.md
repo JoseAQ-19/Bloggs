@@ -83,7 +83,7 @@ We believe the TruSector ETFs represent a strategic addition to a diversified in
 
 Investors looking to enhance their portfolios should consider these funds, especially in times of economic recovery. The key is to stay informed and aware of the inherent risks associated with sector-specific investments.
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "http://schema.org",  
   "@type": "NewsArticle",  

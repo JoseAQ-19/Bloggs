@@ -131,7 +131,7 @@ La recomendación estratégica no es comprar más camiones, sino repensar el mod
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

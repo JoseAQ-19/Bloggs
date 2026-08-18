@@ -84,7 +84,7 @@ To thrive in this evolving landscape, companies need to adopt responsible AI pra
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

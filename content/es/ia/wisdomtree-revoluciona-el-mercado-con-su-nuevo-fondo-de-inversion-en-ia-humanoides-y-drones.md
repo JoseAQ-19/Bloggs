@@ -68,7 +68,7 @@ A medida que la IA avanza, el verdadero desafío será equilibrar la rentabilida
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

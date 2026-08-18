@@ -84,7 +84,7 @@ In the race for sustainable transport, itâ€™s not just about going electric; itâ
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

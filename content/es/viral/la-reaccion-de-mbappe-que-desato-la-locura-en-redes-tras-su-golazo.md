@@ -89,7 +89,7 @@ La presión mediática y los conflictos internos en PSG están creando un ambien
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -79,7 +79,7 @@ El futuro de la salud pública está en nuestras manos, y con cada avance, enfre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

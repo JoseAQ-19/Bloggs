@@ -85,7 +85,7 @@ The Middlebrook agrihood is a high-stakes experiment in land use that conflates 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

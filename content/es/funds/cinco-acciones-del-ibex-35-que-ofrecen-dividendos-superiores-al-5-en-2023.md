@@ -95,7 +95,7 @@ La inflación puede erosionar el poder adquisitivo de los dividendos. Invertir e
 
 Reinvertir dividendos puede ser una estrategia efectiva para aumentar la acumulación de capital a largo plazo, aprovechando el interés compuesto.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -112,7 +112,7 @@ Reinvertir dividendos puede ser una estrategia efectiva para aumentar la acumula
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

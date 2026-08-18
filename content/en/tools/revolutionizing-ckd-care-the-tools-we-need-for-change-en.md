@@ -83,7 +83,7 @@ The discovery of natural GLP-1 in joint fluid is a critical vulnerability in our
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

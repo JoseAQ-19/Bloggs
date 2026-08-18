@@ -90,7 +90,7 @@ As the gig economy continues to evolve, it is essential to remember that behind 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

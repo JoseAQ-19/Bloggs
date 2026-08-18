@@ -70,7 +70,7 @@ In the face of increasing scrutiny and growing vulnerabilities, organizations ha
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

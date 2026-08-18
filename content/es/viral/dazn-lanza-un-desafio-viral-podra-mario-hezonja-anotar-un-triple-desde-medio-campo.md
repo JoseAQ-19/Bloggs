@@ -103,7 +103,7 @@ El desafío de DAZN con Mario Hezonja es una operación de maquillaje financiero
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -90,7 +90,7 @@ Atlassian está cometiendo un suicidio estratégico al sacrificar calidad y conf
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

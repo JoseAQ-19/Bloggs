@@ -74,7 +74,7 @@ The tragic story of the Oklahoma girl illustrates that the risks of such trends 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

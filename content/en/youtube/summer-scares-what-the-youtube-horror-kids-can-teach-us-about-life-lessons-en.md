@@ -101,7 +101,7 @@ En conclusión, el futuro de los creadores de contenido en YouTube es incierto, 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

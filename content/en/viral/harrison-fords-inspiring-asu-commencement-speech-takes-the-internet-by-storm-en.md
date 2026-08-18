@@ -90,7 +90,7 @@ Ultimately, the narrative surrounding Gen Z's career aspirations is complex. It 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

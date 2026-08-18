@@ -93,7 +93,7 @@ For creators, this technical mess is a business risk. Viewer retention is the cu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

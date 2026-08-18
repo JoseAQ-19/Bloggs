@@ -112,7 +112,7 @@ The future of creator economics lies in authentic engagement rather than manufac
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

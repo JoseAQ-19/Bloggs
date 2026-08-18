@@ -79,7 +79,7 @@ La innovación no espera a nadie; el futuro del trading ya está aquí. Adaptars
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

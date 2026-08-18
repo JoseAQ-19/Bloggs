@@ -81,7 +81,7 @@ Spring deals create urgency but not value. The wearable industry's growth relies
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

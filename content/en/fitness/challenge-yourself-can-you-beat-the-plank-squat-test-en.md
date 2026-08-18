@@ -73,7 +73,7 @@ Remember to start slowly and gradually increase the intensity and duration of yo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

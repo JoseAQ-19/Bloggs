@@ -103,7 +103,7 @@ Rockstar's marketing strategy must evolve to meet the demands of a discerning au
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

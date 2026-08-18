@@ -73,7 +73,7 @@ La impresión 3D no es solo una técnica; es el futuro de la innovación. En un 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -88,7 +88,7 @@ For those navigating today’s hype-heavy tech landscape, Brent Allen Butler’s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

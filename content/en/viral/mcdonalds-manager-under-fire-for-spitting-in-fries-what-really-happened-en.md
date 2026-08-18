@@ -80,7 +80,7 @@ As consumers, we have a responsibility to advocate for better food safety practi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

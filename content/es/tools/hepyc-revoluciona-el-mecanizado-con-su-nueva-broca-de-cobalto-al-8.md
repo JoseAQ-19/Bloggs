@@ -72,7 +72,7 @@ Este caso es otro recordatorio de que detrás del brillo de los modelos de lengu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

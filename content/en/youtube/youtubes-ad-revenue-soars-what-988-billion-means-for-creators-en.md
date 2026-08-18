@@ -82,7 +82,7 @@ The narrative that YouTube's success is a one-size-fits-all solution for creator
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

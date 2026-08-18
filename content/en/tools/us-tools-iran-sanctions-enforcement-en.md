@@ -81,7 +81,7 @@ If the U.S. doesn't act now, the future of its sanctions regime may be written i
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

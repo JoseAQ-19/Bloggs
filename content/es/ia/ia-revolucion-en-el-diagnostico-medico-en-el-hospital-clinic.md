@@ -95,7 +95,7 @@ El movimiento del código abierto en inteligencia artificial está plagado de me
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

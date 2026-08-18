@@ -102,7 +102,7 @@ The future of the small business tech stack must be defined by subtraction, not 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

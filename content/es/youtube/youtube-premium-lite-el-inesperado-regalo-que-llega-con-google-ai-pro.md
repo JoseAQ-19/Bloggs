@@ -76,7 +76,7 @@ Una recomendación específica sería considerar alternativas más completas com
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

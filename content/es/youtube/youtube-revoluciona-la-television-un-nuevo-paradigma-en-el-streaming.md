@@ -78,7 +78,7 @@ Las cadenas de televisión deben invertir en contenido digital y plataformas de 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -85,7 +85,7 @@ El coste computacional de generar un video de alta resolución en tiempo real es
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

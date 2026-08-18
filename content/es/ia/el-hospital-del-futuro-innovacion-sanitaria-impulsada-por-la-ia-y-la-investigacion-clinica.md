@@ -60,7 +60,7 @@ La inversión de 180 millones de euros es un parche insuficiente sobre un sistem
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -80,7 +80,7 @@ Industry stakeholders should foster dialogue on the implications of celebrity ac
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

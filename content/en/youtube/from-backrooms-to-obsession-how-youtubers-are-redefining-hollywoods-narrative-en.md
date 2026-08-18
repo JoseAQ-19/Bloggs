@@ -67,7 +67,7 @@ The traditional film industry faces a reckoning as YouTube fame becomes a viable
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

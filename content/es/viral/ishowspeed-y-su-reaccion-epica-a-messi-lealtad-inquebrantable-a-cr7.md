@@ -59,7 +59,7 @@ La lealtad de IShowSpeed hacia CR7 y su reacción a Messi son un reflejo de la p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

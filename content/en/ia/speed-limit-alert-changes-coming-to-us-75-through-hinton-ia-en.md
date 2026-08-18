@@ -69,7 +69,7 @@ Raising speed limits may accelerate traffic, but it also accelerates death—let
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

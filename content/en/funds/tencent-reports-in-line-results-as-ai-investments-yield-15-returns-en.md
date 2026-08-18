@@ -74,7 +74,7 @@ Investors can purchase Tencent shares through brokerage accounts that offer acce
 
 We believe Tencent's strategic focus on AI and its robust financial performance position it favorably for future growth. However, potential investors should weigh the inherent risks against the backdrop of a rapidly evolving regulatory environment. The company's ability to navigate these challenges while continuing to innovate will be critical in sustaining its competitive advantage and delivering value to shareholders. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -88,7 +88,7 @@ We believe Tencent's strategic focus on AI and its robust financial performance 
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

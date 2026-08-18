@@ -80,7 +80,7 @@ The advertising world is changing rapidly, and brands that resist innovation ris
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

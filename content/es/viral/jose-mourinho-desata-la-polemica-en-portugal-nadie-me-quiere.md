@@ -95,7 +95,7 @@ La situación de Mourinho es crítica, y su falta de conexión con los aficionad
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -89,7 +89,7 @@ España está inmersa en una fiebre de adopción de IA que confunde la tasa de p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

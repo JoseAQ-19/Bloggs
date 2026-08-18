@@ -105,7 +105,7 @@ As Reich's Dropout demonstrates, sustainable creator economics require balance b
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

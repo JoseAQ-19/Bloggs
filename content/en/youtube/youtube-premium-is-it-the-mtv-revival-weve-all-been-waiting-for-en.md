@@ -83,7 +83,7 @@ YouTube’s rapid subscriber growth is overshadowed by creator burnout and poten
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

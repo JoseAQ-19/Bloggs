@@ -90,7 +90,7 @@ La ciberseguridad no es solo una opción; es una necesidad para la supervivencia
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

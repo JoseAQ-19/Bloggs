@@ -95,7 +95,7 @@ The $10 million payout for a performance defined by its reliance on technology c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

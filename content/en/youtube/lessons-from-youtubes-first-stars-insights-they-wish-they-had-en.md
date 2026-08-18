@@ -80,7 +80,7 @@ Until mental well-being becomes a priority, the creator economy risks losing its
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

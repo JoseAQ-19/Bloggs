@@ -78,7 +78,7 @@ The future belongs to those who understand the importance of connection—YouTub
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

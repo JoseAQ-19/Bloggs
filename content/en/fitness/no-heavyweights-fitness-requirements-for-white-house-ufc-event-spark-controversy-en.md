@@ -93,7 +93,7 @@ In the pursuit of victory, fighters must recognize that true competitive longevi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

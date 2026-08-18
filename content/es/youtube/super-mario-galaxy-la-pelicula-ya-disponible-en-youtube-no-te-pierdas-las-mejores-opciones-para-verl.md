@@ -72,7 +72,7 @@ Se recomienda que productoras y creativos escuchen más a su audiencia para evit
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

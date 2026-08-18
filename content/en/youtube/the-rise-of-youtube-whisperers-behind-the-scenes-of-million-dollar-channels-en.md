@@ -97,7 +97,7 @@ The future of YouTube content creation favors those who blend AI tools with auth
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

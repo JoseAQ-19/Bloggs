@@ -71,7 +71,7 @@ Investors often have pressing questions regarding their investments in mutual fu
 Investors must navigate the complexities of SpaceX's valuation within their mutual funds carefully. The combination of expert insights and a thorough understanding of market dynamics is essential for making informed investment decisions in this evolving landscape. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -87,7 +87,7 @@ Investors must navigate the complexities of SpaceX's valuation within their mutu
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

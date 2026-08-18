@@ -73,7 +73,7 @@ The rise of AI-generated antisemitic content on platforms like YouTube represent
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

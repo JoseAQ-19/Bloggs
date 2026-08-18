@@ -82,7 +82,7 @@ La próxima revolución en entretenimiento está a solo un clic de distancia; no
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

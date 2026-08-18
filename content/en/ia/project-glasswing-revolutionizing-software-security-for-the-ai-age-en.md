@@ -100,7 +100,7 @@ For a detailed technical foundation on zero-trust architecture and supply chain 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -105,7 +105,7 @@ translationKey: "43406093-5a8f-f187-fed1-3ac7e12220df"
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

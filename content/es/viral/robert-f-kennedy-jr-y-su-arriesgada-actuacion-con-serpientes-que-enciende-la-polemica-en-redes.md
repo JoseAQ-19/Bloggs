@@ -71,7 +71,7 @@ La controversia de Robert F. Kennedy Jr. no es un accidente mediático sino un s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

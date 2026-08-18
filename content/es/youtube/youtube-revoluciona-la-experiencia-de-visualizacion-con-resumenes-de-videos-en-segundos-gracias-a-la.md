@@ -120,7 +120,7 @@ La integración de resúmenes de IA en YouTube es una trampa que sacrifica la pr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

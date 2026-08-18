@@ -72,7 +72,7 @@ As streaming services grapple with the realities of their business models, consu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

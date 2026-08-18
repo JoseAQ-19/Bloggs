@@ -82,7 +82,7 @@ La estrategia 'IA First' de Bankinter es una apuesta arriesgada que confunde la 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

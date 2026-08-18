@@ -81,7 +81,7 @@ True friendship can be life’s greatest support system—never underestimate it
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

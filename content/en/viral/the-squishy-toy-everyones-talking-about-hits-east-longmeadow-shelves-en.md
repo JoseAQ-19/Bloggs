@@ -96,7 +96,7 @@ In conclusion, the squishy toy phenomenon serves as a cautionary tale that highl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

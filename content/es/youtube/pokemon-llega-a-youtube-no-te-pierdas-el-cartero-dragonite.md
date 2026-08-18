@@ -69,7 +69,7 @@ La publicidad infantil necesita ser más responsable y transparente, considerand
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

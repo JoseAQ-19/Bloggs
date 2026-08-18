@@ -98,7 +98,7 @@ Nuestra lectura: El saludo de Florentino y Valverde no cambió el fútbol españ
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

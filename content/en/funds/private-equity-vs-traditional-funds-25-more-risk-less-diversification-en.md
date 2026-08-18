@@ -99,7 +99,7 @@ Allocating to private equity can be beneficial for sophisticated investors who u
 In light of the complexities surrounding private equity and traditional funds, we advocate for a cautious approach that prioritizes diversification and risk management. Investors are encouraged to conduct thorough research and consider expert insights when making their investment decisions.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

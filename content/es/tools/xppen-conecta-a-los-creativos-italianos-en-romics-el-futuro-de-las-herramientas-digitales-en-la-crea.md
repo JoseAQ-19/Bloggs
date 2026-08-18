@@ -68,7 +68,7 @@ La llegada de XPPen a Romics representa un cambio significativo en la creación 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

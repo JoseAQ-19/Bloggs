@@ -87,7 +87,7 @@ The Church of Scientology built a fortress to keep the world out, only to realiz
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

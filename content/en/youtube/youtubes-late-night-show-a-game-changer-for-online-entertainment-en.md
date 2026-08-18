@@ -81,7 +81,7 @@ The Bottom Line: YouTube's monetization strategy represents not just a bad busin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

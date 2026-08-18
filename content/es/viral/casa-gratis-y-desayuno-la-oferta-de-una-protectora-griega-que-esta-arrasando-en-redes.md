@@ -91,7 +91,7 @@ La estrategia de "Casa Gratis y Desayuno" es innovadora, pero enfrenta desafíos
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

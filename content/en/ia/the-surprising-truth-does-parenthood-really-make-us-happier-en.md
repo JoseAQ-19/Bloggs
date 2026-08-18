@@ -90,7 +90,7 @@ In conclusion, the complexities surrounding parenthood and happiness call for a 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

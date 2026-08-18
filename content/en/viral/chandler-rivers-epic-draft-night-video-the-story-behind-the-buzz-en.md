@@ -80,7 +80,7 @@ The landscape of the NBA Draft is shifting, and the influence of social media is
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

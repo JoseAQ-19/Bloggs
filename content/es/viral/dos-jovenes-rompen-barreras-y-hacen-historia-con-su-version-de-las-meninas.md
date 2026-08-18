@@ -93,7 +93,7 @@ La IA generativa no es el fin del arte, pero sí el fin de la excusa para no apr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

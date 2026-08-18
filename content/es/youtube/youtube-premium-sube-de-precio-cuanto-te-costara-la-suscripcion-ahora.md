@@ -82,7 +82,7 @@ Se recomienda al lector que considere alternativas legales como Brave para acced
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

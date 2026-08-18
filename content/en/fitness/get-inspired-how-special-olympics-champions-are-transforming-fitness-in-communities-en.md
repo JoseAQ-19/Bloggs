@@ -95,7 +95,7 @@ To truly revolutionize community fitness, we must ensure no one is left on the s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -73,7 +73,7 @@ This urgent call to action should not fall on deaf ears. The stakes are too high
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

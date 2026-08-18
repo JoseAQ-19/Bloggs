@@ -87,7 +87,7 @@ The Monona case is a stark reminder that high-speed chases are not just adrenali
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

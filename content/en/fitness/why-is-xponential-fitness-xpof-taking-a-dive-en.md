@@ -77,7 +77,7 @@ Xponential Fitness is a case study in the dangers of prioritizing growth over un
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

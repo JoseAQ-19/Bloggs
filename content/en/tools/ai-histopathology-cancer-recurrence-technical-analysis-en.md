@@ -67,7 +67,7 @@ The AI pathology revolution is a sophisticated scam selling technological soluti
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

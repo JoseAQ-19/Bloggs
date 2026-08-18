@@ -57,7 +57,7 @@ La prohibición de las redes sociales para menores de 16 años en el Reino Unido
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

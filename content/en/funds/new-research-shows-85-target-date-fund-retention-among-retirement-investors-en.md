@@ -78,7 +78,7 @@ Not all retirement plans include Target Date Funds, but a significant percentage
 ### Are Target Date Funds suitable for younger investors?
 Yes, younger investors can benefit from Target Date Funds as they typically offer higher growth potential in the early years, gradually becoming more conservative as they approach retirement age. 
 
-<script type="application/ld+json"> 
+<script type="application/ld+json"></script>
 { 
   "@context": "https://schema.org", 
   "@type": "NewsArticle", 
@@ -95,7 +95,7 @@ Yes, younger investors can benefit from Target Date Funds as they typically offe
 } 
 </script> 
 
-<script type="application/ld+json"> 
+<script type="application/ld+json"></script>
 { 
   "@context": "https://schema.org", 
   "@type": "FAQPage", 

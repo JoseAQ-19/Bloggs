@@ -88,7 +88,7 @@ Iowa’s juvenile justice system is failing its youth, particularly those from m
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

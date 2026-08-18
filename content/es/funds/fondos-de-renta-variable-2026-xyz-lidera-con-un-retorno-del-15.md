@@ -73,7 +73,7 @@ Los fondos de renta variable tienden a ofrecer mayores rendimientos potenciales,
 
 El fondo XYZ se ha consolidado como un referente en el ámbito de la renta variable en 2026, ofreciendo a los inversores un balance atractivo entre rendimiento y riesgo. Las perspectivas para este tipo de inversiones siguen siendo positivas, a medida que más ahorradores buscan maximizar sus rendimientos en un entorno incierto y cambiante. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Fondos de renta variable 2026: XYZ lidera con un retorno del 15%",
@@ -88,7 +88,7 @@ El fondo XYZ se ha consolidado como un referente en el ámbito de la renta varia
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

@@ -84,7 +84,7 @@ The dot cake trend embodies the paradox of modern food culture: a blend of creat
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

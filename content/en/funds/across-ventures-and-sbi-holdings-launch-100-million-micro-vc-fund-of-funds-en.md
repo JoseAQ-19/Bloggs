@@ -89,7 +89,7 @@ Investors can participate in micro VC through direct investment in funds or by i
 
 The average return for micro VC funds is around 15%, although this can vary widely based on fund performance and market conditions. 
 
-<script type="application/ld+json"> 
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -106,7 +106,7 @@ The average return for micro VC funds is around 15%, although this can vary wide
 }
 </script>
 
-<script type="application/ld+json"> 
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

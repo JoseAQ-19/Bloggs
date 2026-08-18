@@ -101,7 +101,7 @@ Marc Giró es el producto final de una industria mediática que ha decidido vend
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

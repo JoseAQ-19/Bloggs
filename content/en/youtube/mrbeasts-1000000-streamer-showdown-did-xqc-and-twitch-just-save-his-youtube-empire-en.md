@@ -88,7 +88,7 @@ The $1,000,000 showdown is more than just a spectacle; it represents a critical 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

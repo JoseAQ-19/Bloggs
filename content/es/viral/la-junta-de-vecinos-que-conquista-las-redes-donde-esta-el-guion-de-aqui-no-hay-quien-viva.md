@@ -83,7 +83,7 @@ La historia de esta serie no solo es un éxito de audiencia, sino también un ll
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

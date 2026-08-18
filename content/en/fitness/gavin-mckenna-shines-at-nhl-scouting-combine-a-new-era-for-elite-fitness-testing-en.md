@@ -82,7 +82,7 @@ The time for innovation is now, and teams that resist change may find themselves
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

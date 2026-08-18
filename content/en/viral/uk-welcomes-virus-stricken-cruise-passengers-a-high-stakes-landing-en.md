@@ -103,7 +103,7 @@ The cruise industry must prioritize passenger and crew safety to regain trust an
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

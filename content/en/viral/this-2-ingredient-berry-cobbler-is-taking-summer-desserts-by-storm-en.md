@@ -82,7 +82,7 @@ The landscape of AI agents is riddled with potential pitfalls. The excitement su
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

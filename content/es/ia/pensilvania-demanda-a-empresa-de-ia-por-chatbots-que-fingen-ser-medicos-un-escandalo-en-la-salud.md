@@ -81,7 +81,7 @@ La salud no es un sandbox para ingenieros de software que juegan a ser Dios; la 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

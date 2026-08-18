@@ -87,7 +87,7 @@ Wawa tiene el potencial de redefinir el mercado español de tiendas de convenien
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

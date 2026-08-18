@@ -70,7 +70,7 @@ Si estás interesado en un wearable sin pantalla de Apple, es importante seguir 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

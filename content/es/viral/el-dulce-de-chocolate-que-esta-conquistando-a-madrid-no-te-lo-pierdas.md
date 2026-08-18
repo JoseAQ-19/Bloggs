@@ -103,7 +103,7 @@ A pesar de la creciente preocupación por los precios, los consumidores siguen p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -77,7 +77,7 @@ Ultimately, the future of the creator economy hinges on how effectively YouTube 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

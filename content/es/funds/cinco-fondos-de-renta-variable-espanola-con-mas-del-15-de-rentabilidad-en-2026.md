@@ -110,7 +110,7 @@ Sí, la diversificación puede ayudar a reducir el riesgo y mejorar la estabilid
 
 Creemos que la selección cuidadosa de fondos de renta variable española es vital en el contexto actual. La identificación de fondos con sólidos fundamentos, gestión eficiente y rentabilidad comprobada es esencial para alcanzar los objetivos financieros. La evaluación continua del rendimiento y la adaptación de estrategias de inversión permitirán a los inversores capitalizar las oportunidades que el mercado presenta. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -127,7 +127,7 @@ Creemos que la selección cuidadosa de fondos de renta variable española es vit
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

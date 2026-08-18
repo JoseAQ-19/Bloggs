@@ -91,7 +91,7 @@ Broadridge provides various online materials and tools through its website, enab
 
 While AI can provide valuable insights, users should remain cautious and verify the information with additional sources, especially when making significant financial decisions. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -107,7 +107,7 @@ While AI can provide valuable insights, users should remain cautious and verify 
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

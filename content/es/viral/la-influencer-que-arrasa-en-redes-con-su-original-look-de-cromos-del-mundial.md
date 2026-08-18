@@ -65,7 +65,7 @@ El desafío está en cómo las marcas y los creadores de contenido pueden navega
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

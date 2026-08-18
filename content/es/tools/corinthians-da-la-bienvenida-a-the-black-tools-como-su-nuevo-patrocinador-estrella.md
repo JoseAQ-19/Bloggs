@@ -69,7 +69,7 @@ La clave para el éxito radica en encontrar un equilibrio entre las necesidades 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

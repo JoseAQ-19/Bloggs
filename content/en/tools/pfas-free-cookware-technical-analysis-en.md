@@ -84,7 +84,7 @@ The cookware industry is selling a safety fantasy that current material science 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

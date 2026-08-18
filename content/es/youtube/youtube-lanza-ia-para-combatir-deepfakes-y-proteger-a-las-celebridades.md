@@ -68,7 +68,7 @@ Esta IA de YouTube es un avance importante, pero no la panacea contra la crisis 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

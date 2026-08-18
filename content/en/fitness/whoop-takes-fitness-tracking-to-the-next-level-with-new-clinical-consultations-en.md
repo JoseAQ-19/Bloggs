@@ -86,7 +86,7 @@ To navigate the landscape of wearable biometrics without falling victim to the h
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

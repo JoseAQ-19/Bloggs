@@ -82,7 +82,7 @@ Without closing the digital divide, telehealth remains a mirage for those who ne
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -78,7 +78,7 @@ Un aumento en las tasas de interés generalmente reduce el valor de los bonos ex
 
 El bono español a 10 años ha demostrado ser una opción atractiva en términos de rendimiento y estabilidad. A pesar de los riesgos asociados, su rendimiento del 3.5% lo coloca favorablemente frente a fondos indexados menos rentables. La combinación de ambos tipos de activos en una cartera puede ofrecer tanto seguridad como oportunidades de crecimiento. A medida que los mercados continúan evolucionando, los inversores deben permanecer vigilantes y ajustar sus estrategias según las condiciones cambiantes del mercado y sus objetivos financieros.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -95,7 +95,7 @@ El bono español a 10 años ha demostrado ser una opción atractiva en términos
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -82,7 +82,7 @@ La política de liquidez del fondo determinará la facilidad con la que puedes r
 Creemos que el nuevo fondo de Actinver y Morningstar ofrece una propuesta atractiva en un mercado que busca opciones de inversión más rentables y con menores costos. La combinación de comisiones reducidas y un enfoque en empresas con sólidos fundamentos puede resultar en un vehículo de inversión competitivo. Sin embargo, es esencial que los inversores se mantengan informados sobre los riesgos y las condiciones del mercado, adaptando sus estrategias de inversión en consecuencia.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -94,7 +94,7 @@ Creemos que el nuevo fondo de Actinver y Morningstar ofrece una propuesta atract
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

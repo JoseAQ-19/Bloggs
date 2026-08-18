@@ -68,7 +68,7 @@ La fusión de diseño y oficio es el camino a seguir; las empresas deben adaptar
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

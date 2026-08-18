@@ -83,7 +83,7 @@ In conclusion, the safety of children in daycare facilities is a critical issue 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -70,7 +70,7 @@ El mercado se profesionaliza rápidamente bajo la mirada de los reguladores glob
     <h4>✍️ Sobre el Analista</h4><p><strong>Dr. Marc Valls (Analista On-Chain & DeFi)</strong> es un especialista en el área dedicado a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos técnicos y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

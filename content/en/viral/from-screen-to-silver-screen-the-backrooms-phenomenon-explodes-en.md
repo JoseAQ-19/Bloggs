@@ -94,7 +94,7 @@ The Backrooms illustrates the fundamental tension between internet culture's org
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

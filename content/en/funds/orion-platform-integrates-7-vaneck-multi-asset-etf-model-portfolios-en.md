@@ -89,7 +89,7 @@ Investors should evaluate their individual risk tolerance and financial goals be
 ### How can I monitor the performance of my investments in these portfolios?
 Investors can access performance metrics and updates through the Orion platform, which provides real-time data on portfolio performance and adjustments.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Orion Platform Integrates 7 VanEck Multi-Asset ETF Model Portfolios",
@@ -106,7 +106,7 @@ Investors can access performance metrics and updates through the Orion platform,
   "mainEntityOfPage": "https://example.com"
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

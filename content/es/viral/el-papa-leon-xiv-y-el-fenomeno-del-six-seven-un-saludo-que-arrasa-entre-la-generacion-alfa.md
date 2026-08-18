@@ -95,7 +95,7 @@ La Generación Alfa ya navega con redes de depredadores que se adaptan más ráp
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

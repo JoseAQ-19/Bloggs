@@ -82,7 +82,7 @@ In an era where technological advancements can both enhance and undermine trust,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

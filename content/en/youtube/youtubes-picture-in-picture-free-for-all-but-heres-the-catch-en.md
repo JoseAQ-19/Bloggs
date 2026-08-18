@@ -86,7 +86,7 @@ The future of YouTube will depend on its ability to balance revenue generation w
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

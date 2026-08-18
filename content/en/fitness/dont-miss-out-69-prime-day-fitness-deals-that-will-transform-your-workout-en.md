@@ -61,7 +61,7 @@ Investing in quality fitness equipment during Prime Day is a smart financial mov
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

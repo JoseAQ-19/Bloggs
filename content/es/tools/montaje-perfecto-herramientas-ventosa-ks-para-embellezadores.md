@@ -86,7 +86,7 @@ Recomiendo a los consumidores investigar y optar por alternativas más seguras y
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

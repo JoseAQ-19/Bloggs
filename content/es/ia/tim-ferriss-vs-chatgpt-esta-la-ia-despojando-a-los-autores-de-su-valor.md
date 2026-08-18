@@ -71,7 +71,7 @@ Los lectores tienen un papel crucial en este ecosistema. Al apoyar y buscar cont
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

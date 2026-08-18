@@ -94,7 +94,7 @@ Bariatric surgery offers life-changing potential, but it comes with significant 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

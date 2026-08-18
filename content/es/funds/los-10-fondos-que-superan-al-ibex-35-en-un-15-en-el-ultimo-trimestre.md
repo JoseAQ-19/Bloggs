@@ -77,7 +77,7 @@ No necesariamente. Aunque un TER más bajo puede ser atractivo, es importante ev
 Creemos que identificar fondos que han superado al IBEX 35 en el último trimestre es una excelente forma de explorar oportunidades de inversión. Sin embargo, es crucial hacerlo con un enfoque analítico y consciente de los riesgos asociados. La inversión en fondos de alto rendimiento requiere una evaluación constante y una adaptabilidad a las condiciones cambiantes del mercado. La diversificación y la gestión activa seguirán siendo las claves para un éxito sostenible en el mundo de las inversiones.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -96,7 +96,7 @@ Creemos que identificar fondos que han superado al IBEX 35 en el último trimest
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

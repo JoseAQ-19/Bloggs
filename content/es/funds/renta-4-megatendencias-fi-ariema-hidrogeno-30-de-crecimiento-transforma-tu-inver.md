@@ -75,7 +75,7 @@ Creemos que el Renta 4 Megatendencias Fi Ariema Hidrógeno representa una oportu
 
 A medida que la demanda de hidrógeno y tecnologías relacionadas continúa creciendo, los inversores deben evaluar tanto las oportunidades como los desafíos que el sector presenta. La clave será mantenerse informado y evaluar continuamente el rendimiento del fondo en un entorno de mercado cambiante.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -90,7 +90,7 @@ A medida que la demanda de hidrógeno y tecnologías relacionadas continúa crec
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

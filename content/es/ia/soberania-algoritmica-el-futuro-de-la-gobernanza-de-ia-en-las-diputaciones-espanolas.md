@@ -54,7 +54,7 @@ Nuestra lectura: La soberanía algorítmica no es solo una opción técnica, es 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

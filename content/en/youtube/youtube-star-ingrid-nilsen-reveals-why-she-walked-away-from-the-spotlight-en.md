@@ -83,7 +83,7 @@ As the digital landscape evolves, embracing authenticity over perfection may be 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

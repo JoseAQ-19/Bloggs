@@ -105,7 +105,7 @@ YouTube must navigate the complexities of its leadership transition while addres
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

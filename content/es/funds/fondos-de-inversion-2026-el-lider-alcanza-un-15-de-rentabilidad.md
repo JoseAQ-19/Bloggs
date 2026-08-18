@@ -83,7 +83,7 @@ Es crucial evaluar la rentabilidad, la volatilidad, la gestión de costos y la e
 Creemos que, en el actual panorama de inversiones, la elección del fondo adecuado es más crítica que nunca. La combinación de un rendimiento sólido y una gestión de riesgos efectiva es clave para el éxito a largo plazo. La tendencia de rentabilidades altas, como el 15% del fondo líder, puede atraer a muchos inversores, pero es esencial mantener una visión crítica sobre los riesgos involucrados. Una estrategia diversificada y un análisis continuo de las condiciones del mercado serán fundamentales para navegar por el entorno de inversión en 2026. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -107,7 +107,7 @@ Creemos que, en el actual panorama de inversiones, la elección del fondo adecua
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

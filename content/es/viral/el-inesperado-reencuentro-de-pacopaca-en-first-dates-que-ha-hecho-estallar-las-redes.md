@@ -58,7 +58,7 @@ España está a punto de aprobar una ley que limitará la manipulación emociona
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

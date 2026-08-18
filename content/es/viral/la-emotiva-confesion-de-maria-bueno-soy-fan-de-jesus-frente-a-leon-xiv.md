@@ -87,7 +87,7 @@ La confesión de María Bueno es un recordatorio de que la fe no tiene por qué 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

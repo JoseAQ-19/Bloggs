@@ -68,7 +68,7 @@ The fear surrounding AI and job loss is valid, but it also opens the door to new
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

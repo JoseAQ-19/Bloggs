@@ -85,7 +85,7 @@ The future of retail safety hinges on recognizing that technology alone cannot s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

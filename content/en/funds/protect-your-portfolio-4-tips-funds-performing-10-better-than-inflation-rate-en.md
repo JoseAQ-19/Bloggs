@@ -83,7 +83,7 @@ Fees for TIPS funds vary, but many leading options have expense ratios below 0.2
 
 While TIPS are designed to protect against inflation, investors can still incur losses if interest rates rise significantly, leading to declines in bond prices.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Protect Your Portfolio: 4 TIPS Funds Performing 10% Better Than Inflation Rate",

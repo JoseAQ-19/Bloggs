@@ -82,7 +82,7 @@ As the digital realm continues to evolve, the quest for doppelgängers may fade,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

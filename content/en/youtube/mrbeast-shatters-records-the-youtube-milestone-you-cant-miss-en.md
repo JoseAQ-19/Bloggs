@@ -87,7 +87,7 @@ In a world full of noise, be the creator who gives back and sparks joy—because
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

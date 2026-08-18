@@ -80,7 +80,7 @@ La elección primaria de 2026 es crucial para determinar el control del Senado y
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

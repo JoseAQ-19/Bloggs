@@ -67,7 +67,7 @@ Como conclusión, el futuro del trabajo en el sector de herramientas profesional
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

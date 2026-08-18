@@ -71,7 +71,7 @@ La IA no es el futuro; es el presente que nos obliga a adaptarnos o quedarnos at
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

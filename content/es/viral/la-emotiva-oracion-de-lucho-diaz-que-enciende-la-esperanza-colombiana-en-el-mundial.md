@@ -83,7 +83,7 @@ Al final, el fútbol es más que un juego; es un lazo que une a un país en mome
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

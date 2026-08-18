@@ -67,7 +67,7 @@ Recomiendo a los abogados que aprovechen esta oportunidad para solicitar una de 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

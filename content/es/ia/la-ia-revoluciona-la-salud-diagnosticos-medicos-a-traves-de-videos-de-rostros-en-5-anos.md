@@ -63,7 +63,7 @@ La IA tiene el potencial para transformar la medicina, pero la implementación r
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

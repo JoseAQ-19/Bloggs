@@ -79,7 +79,7 @@ YouTube's decision to monetize playback speed is a cynical gamble that alienates
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

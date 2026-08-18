@@ -98,7 +98,7 @@ Para profundizar en esta problemática, recomendamos la lectura de análisis det
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

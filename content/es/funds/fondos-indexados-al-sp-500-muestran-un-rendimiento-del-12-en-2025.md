@@ -82,7 +82,7 @@ Sí, la diversificación entre diferentes fondos indexados y otras clases de act
 Creemos que los fondos indexados al S&P 500 son una opción atractiva para muchos inversores, especialmente aquellos que buscan una estrategia de inversión pasiva y de bajo costo. La combinación de un rendimiento sólido, una volatilidad relativamente baja y la opinión de expertos que respaldan su eficacia hace que estos fondos sean una elección viable para construir una cartera a largo plazo. Es fundamental que los inversores mantengan una perspectiva informada y diversificada mientras navegan por el complejo paisaje de inversión actual. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -80,7 +80,7 @@ The traditional narrative of Hollywood is being rewritten, and those who ignore 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

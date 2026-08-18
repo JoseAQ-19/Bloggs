@@ -69,7 +69,7 @@ The urgent need for a collective approach to address the dangers associated with
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

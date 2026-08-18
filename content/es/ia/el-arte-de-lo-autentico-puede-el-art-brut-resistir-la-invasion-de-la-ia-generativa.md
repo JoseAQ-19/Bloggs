@@ -77,7 +77,7 @@ La diversidad visual no se protege con filtros ni con leyes tibias, se protege a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

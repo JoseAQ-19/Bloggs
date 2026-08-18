@@ -79,7 +79,7 @@ En un mundo donde la validación digital puede ser efímera, la conexión autén
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

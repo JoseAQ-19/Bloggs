@@ -82,7 +82,7 @@ Sports fandom transcends the game itself; it encompasses the shared stories, str
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

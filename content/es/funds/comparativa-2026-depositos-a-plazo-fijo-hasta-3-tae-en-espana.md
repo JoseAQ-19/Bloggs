@@ -93,7 +93,7 @@ Si bien los depósitos a plazo fijo son seguros, pueden no ser la mejor opción 
 
 Creemos que los depósitos a plazo fijo seguirán siendo una opción viable en el contexto actual, especialmente para inversores que priorizan la seguridad. Sin embargo, la diversificación y la consideración de otros instrumentos financieros son fundamentales para maximizar el rendimiento a largo plazo. La vigilancia continua del entorno económico y la adaptación a las condiciones del mercado permitirán a los inversores optimizar sus carteras en los próximos años. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -112,7 +112,7 @@ Creemos que los depósitos a plazo fijo seguirán siendo una opción viable en e
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

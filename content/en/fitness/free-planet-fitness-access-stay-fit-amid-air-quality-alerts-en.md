@@ -68,7 +68,7 @@ Actionable recommendation: Residents should visit Planet Fitness locations and e
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

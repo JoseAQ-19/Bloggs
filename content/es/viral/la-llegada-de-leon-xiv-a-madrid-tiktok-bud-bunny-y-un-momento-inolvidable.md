@@ -80,7 +80,7 @@ Se recomienda seguir de cerca cómo se desarrollan las relaciones entre la Igles
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

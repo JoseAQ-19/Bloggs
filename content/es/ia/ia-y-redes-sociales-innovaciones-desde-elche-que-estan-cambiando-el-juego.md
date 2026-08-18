@@ -69,7 +69,7 @@ Es necesario abrazar la revolución de la IA, pero con precaución y responsabil
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

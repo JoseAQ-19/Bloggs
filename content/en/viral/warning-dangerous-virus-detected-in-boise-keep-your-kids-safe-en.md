@@ -65,7 +65,7 @@ The Boise Respiratory Virus is not just another seasonal bug; it is a growing th
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

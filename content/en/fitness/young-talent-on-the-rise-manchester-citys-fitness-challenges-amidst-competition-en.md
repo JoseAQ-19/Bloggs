@@ -91,7 +91,7 @@ The data is unequivocal: continuing down the path of early specialization and hi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -71,7 +71,7 @@ Iowa’s manufacturing contest exemplifies a dangerous industrial myth: that loc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

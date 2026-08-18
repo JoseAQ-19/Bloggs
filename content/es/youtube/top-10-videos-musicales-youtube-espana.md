@@ -89,7 +89,7 @@ La industria musical debe dejar de obsesionarse con Bad Bunny y empezar a presta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

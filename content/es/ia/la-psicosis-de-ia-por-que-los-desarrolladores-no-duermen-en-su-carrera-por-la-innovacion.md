@@ -103,7 +103,7 @@ La inteligencia artificial no es una herramienta de liberación, sino un mecanis
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

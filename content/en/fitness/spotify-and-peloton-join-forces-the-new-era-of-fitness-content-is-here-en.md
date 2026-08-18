@@ -91,7 +91,7 @@ As fitness becomes more intertwined with digital platforms, the industry must ad
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

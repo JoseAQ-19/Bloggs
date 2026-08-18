@@ -84,7 +84,7 @@ In a world where every dollar counts, YouTube's free content could be the lifeli
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

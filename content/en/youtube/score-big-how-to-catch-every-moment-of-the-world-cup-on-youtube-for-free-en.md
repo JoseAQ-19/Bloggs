@@ -91,7 +91,7 @@ With every match just a click away, fans can indulge in the excitement of the Wo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

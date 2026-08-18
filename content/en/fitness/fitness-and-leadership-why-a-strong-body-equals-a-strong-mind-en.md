@@ -76,7 +76,7 @@ In a world where the stakes are high, the intersection of fitness and leadership
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

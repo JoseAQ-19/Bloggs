@@ -72,7 +72,7 @@ As we continue to navigate the complexities of health and fitness, Reveille stan
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

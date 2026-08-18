@@ -81,7 +81,7 @@ El helado de chocolate belga y pistacho es una representación de cómo la innov
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

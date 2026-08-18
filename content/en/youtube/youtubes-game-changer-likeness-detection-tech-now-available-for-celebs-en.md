@@ -74,7 +74,7 @@ YouTube's likeness detection is a defensive moat for the elite, offering a Band-
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

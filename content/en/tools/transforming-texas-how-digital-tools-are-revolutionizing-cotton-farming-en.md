@@ -84,7 +84,7 @@ The adoption of AI in Texas cotton farming represents a pivotal shift that could
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

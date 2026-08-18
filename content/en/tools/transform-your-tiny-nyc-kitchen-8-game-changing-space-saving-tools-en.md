@@ -75,7 +75,7 @@ In conclusion, small kitchens require creative solutions to maximize storage and
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

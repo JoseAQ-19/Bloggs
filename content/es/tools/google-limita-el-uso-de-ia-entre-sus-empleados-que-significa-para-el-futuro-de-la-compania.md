@@ -85,7 +85,7 @@ La innovación no puede prosperar en entornos controlados. Google necesita desar
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

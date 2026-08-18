@@ -79,7 +79,7 @@ Sí, VOO ofrece la opción de reinvertir dividendos, lo que puede ser beneficios
 
 La volatilidad del mercado puede afectar los precios de las acciones en las que invierte VOO, pero su diversificación ayuda a reducir el riesgo general de la cartera.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "VOO alcanza 1 billón de dólares: Impacto en inversores europeos en un contexto inflacionario",
@@ -99,7 +99,7 @@ La volatilidad del mercado puede afectar los precios de las acciones en las que 
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

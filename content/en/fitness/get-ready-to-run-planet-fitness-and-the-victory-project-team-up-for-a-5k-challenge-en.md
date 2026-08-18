@@ -88,7 +88,7 @@ Despite the lofty goals, the actual execution of these programs often fails to m
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

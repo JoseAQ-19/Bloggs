@@ -73,7 +73,7 @@ La recomendaci√≥n es clara: las empresas deben invertir en programas de formaci√
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

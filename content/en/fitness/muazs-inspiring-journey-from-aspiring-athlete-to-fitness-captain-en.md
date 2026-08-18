@@ -80,7 +80,7 @@ Readers can take actionable steps from Muaz’s experience: consider forming or 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

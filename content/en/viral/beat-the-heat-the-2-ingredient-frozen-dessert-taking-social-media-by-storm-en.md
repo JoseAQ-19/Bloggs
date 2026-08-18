@@ -99,7 +99,7 @@ Nice cream represents the algorithm's ultimate triumph and culinary culture's mo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

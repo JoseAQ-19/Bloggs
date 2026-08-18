@@ -60,7 +60,7 @@ The Bottom Line: AI-powered audiobook piracy isn't just a legal problem; it's a 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ In the world of power tools, sometimes a bargain is just a red flag in disguise.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

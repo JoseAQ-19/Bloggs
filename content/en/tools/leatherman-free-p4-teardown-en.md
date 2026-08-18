@@ -83,7 +83,7 @@ Professionals and enthusiasts alike should view the Free P4 with skepticism. The
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

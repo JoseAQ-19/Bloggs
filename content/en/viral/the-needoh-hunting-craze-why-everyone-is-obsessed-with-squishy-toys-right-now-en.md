@@ -136,7 +136,7 @@ The lesson here is clear for the tech and toy sectors alike: virality is not a s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

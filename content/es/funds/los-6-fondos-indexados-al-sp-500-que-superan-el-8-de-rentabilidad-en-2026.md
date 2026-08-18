@@ -86,7 +86,7 @@ Ambos buscan replicar el rendimiento de un índice, pero los ETFs se negocian co
 
 La inversión en fondos indexados al S&P 500 en 2026 ha demostrado ser una estrategia eficaz para muchos inversores. A medida que los mercados evolucionan, es crucial mantenerse informado y evaluar regularmente las opciones disponibles en el mercado. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -101,7 +101,7 @@ La inversión en fondos indexados al S&P 500 en 2026 ha demostrado ser una estra
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

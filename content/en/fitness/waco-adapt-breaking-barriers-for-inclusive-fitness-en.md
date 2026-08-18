@@ -81,7 +81,7 @@ The future lies in the integration of "closed-loop" systems. Current wearables a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

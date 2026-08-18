@@ -74,7 +74,7 @@ As the industry moves forward, the focus must shift from merely achieving record
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -97,7 +97,7 @@ However, the model is fragile. It relies on a physical margin of error that invi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

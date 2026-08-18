@@ -83,7 +83,7 @@ En conclusión, el éxito de MrBeast es un testimonio de la perseverancia y la d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

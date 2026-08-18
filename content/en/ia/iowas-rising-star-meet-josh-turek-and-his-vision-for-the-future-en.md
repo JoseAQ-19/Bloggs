@@ -78,7 +78,7 @@ In an environment where the stakes are high and the pressures are mounting, the 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -124,7 +124,7 @@ Gentrification threatens the very fabric of Black neighborhoods in Detroit, and 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

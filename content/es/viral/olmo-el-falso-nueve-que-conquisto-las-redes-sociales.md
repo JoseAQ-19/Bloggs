@@ -94,7 +94,7 @@ La manipulación de información en redes sociales representa un riesgo existenc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

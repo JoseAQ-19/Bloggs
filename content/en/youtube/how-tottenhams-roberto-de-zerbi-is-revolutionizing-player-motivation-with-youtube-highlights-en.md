@@ -77,7 +77,7 @@ Roberto De Zerbi’s appointment is a Hail Mary pass thrown by a quarterback who
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

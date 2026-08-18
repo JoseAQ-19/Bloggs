@@ -82,7 +82,7 @@ In the world of country music, authenticity is the key that unlocks deeper conne
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

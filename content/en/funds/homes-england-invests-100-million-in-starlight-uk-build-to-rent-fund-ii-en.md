@@ -83,7 +83,7 @@ The fund aims to build approximately 20,000 new homes within the next five years
 
 Current market conditions suggest strong demand for rental properties, but investors should remain cautious of economic uncertainties that could impact returns.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -102,7 +102,7 @@ Current market conditions suggest strong demand for rental properties, but inves
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

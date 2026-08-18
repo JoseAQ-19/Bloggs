@@ -87,7 +87,7 @@ As consumers continue to seek out visually appealing foods, the challenge for cr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

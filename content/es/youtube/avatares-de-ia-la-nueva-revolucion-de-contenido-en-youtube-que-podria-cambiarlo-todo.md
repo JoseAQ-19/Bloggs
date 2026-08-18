@@ -89,7 +89,7 @@ El tiempo para reaccionar es ahora. Ignorar estas señales solo profundizará el
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -84,7 +84,7 @@ In the end, Nanjiani's story is not just a celebrity transformation tale; it is 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

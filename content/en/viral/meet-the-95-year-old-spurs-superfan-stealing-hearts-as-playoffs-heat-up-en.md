@@ -80,7 +80,7 @@ The intersection of sports, community, and aging forms a powerful narrative that
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

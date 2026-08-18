@@ -67,7 +67,7 @@ En un mar de contenido basura, el auténtico brillo siempre encontrará su camin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

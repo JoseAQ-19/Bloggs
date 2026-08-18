@@ -175,7 +175,7 @@ Social media algorithms are designed to optimize for engagement, not change. Thi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

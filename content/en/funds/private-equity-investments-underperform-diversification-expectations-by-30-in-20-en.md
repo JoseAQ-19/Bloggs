@@ -87,7 +87,7 @@ Illiquidity can limit an investor's ability to access funds during critical mark
 
 While some sectors may be performing relatively better, overall, private equity as an asset class has struggled to meet historical return expectations. Investors should conduct thorough sector analyses before committing capital.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -102,7 +102,7 @@ While some sectors may be performing relatively better, overall, private equity 
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

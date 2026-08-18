@@ -75,7 +75,7 @@ La necesidad de un diálogo abierto y transparente sobre los riesgos y beneficio
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

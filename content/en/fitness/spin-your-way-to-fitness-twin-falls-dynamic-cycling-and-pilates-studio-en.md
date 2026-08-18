@@ -91,7 +91,7 @@ The boutique fitness industry’s $40 billion valuation is built on mathematical
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

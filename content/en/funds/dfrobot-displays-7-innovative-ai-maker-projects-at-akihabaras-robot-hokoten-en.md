@@ -76,7 +76,7 @@ Prices vary depending on the complexity of the project, ranging from affordable 
 
 By focusing on innovation and user engagement, DFRobot continues to pave the way in the AI maker movement, providing valuable tools for creativity and learning. The combination of robust product offerings, expert insights, and an understanding of market dynamics positions DFRobot for continued success in the evolving landscape of AI technology. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "DFRobot Displays 7 Innovative AI Maker Projects at Akihabara's Robot Hokoten",
@@ -91,7 +91,7 @@ By focusing on innovation and user engagement, DFRobot continues to pave the way
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

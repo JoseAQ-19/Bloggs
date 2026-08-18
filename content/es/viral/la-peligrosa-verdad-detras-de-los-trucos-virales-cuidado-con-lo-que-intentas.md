@@ -73,7 +73,7 @@ El aumento del 40% en las estafas online en España es solo la punta del iceberg
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

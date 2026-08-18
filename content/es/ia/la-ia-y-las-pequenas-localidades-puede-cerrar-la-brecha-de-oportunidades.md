@@ -74,7 +74,7 @@ El futuro de las pequeñas comunidades en España dependerá no solo de la adopc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

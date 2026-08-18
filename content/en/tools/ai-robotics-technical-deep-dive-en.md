@@ -90,7 +90,7 @@ The proliferation of AI robotics poses a dual threat: reshaping industries while
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

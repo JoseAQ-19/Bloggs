@@ -51,7 +51,7 @@ The Marshalltown HMA Rehab Project serves as a cautionary tale of mismanagement 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

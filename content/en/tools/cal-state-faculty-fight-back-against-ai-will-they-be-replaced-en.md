@@ -86,7 +86,7 @@ La integración de la inteligencia artificial en la educación es un tema comple
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

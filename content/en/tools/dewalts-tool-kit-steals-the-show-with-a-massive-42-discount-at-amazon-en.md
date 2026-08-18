@@ -90,7 +90,7 @@ The 42% discount on DeWalt tool kits is a market correction that brings the pric
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

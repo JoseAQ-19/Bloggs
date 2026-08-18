@@ -74,7 +74,7 @@ To remain competitive and sustain growth, Planet Fitness must not only justify i
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

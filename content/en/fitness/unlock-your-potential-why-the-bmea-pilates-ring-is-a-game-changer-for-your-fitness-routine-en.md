@@ -108,7 +108,7 @@ The BMEA Pilates Ring is more than a passing trend; it is a vital tool for anyon
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

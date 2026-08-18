@@ -75,7 +75,7 @@ Investing in research that prioritizes T cell response in vaccine development is
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

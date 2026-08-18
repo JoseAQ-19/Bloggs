@@ -77,7 +77,7 @@ The potential for CAA and TPG to reshape the future of content creation is immen
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -72,7 +72,7 @@ The Taylor Swift wedding entrance isn’t just a funny story—it’s a symptom 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

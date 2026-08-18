@@ -86,7 +86,7 @@ En resumen, la investigación sobre la genética y la longevidad está en consta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

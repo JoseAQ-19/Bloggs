@@ -83,7 +83,7 @@ For those still navigating their fitness journeys, it is crucial to seek environ
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -114,7 +114,7 @@ AI in protein design is not magic; it is silicon-bound approximation shackled by
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

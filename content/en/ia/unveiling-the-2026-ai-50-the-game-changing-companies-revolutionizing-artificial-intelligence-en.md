@@ -92,7 +92,7 @@ The future of AI isn't just being shaped by the giants; it's being revolutionize
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

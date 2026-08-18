@@ -78,7 +78,7 @@ El futuro del trabajo en la era de la IA es incierto. Sin embargo, lo que está 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

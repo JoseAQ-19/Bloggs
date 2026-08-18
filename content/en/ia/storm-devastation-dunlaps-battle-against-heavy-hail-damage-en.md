@@ -77,7 +77,7 @@ In a hail-prone future, proactive measures are essential to safeguard solar inve
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -83,7 +83,7 @@ The long-term outlook hinges on successful client acquisition and operational ef
 
 In light of these factors, we believe that while Amazon's supply chain services could eventually yield fruitful results, the immediate impact is likely to be limited. The company's established e-commerce dominance does not guarantee similar success in the logistics domain, making this an area to watch closely. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Amazon's New Supply Chain Services: Limited Impact Expected in the Short Term",
@@ -96,7 +96,7 @@ In light of these factors, we believe that while Amazon's supply chain services 
   "articleBody": "Amazon's recent foray into supply chain services may only slightly alter the competitive landscape in the logistics sector, with predictions indicating minimal short-term impact. The article continues with detailed financial analysis, expert opinions, and a comprehensive look at the risks and challenges."
 }
 </script>
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

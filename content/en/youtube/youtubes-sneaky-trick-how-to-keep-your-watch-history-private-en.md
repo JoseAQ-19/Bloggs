@@ -81,7 +81,7 @@ Relying on YouTube's algorithm for business survival is a fool's errand in an un
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -50,7 +50,7 @@ The threat of deepfakes and misinformation in Nevada’s elections is real and g
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

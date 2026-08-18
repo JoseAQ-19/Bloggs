@@ -73,7 +73,7 @@ El fenómeno de Tim Payne no solo es un caso aislado, sino que puede ser un indi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

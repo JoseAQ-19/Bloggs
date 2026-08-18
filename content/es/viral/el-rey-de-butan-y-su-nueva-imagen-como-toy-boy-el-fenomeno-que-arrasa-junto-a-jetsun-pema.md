@@ -92,7 +92,7 @@ La atención que la pareja ha recibido a nivel internacional sugiere que su infl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

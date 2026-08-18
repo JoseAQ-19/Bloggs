@@ -77,7 +77,7 @@ Los dividendos pueden proporcionar un ingreso adicional y mejorar el rendimiento
 
 Nuestro análisis sugiere que las acciones con un PER de 12 son una opción a considerar en la cartera de cualquier inversor que busque crecimiento y estabilidad. La combinación de valoración atractiva y potencial de rendimiento hace que estas acciones sean difíciles de ignorar en un entorno de mercado competitivo. La diversificación y el análisis de los fundamentales son claves para maximizar las oportunidades de inversión en este segmento del mercado.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "6 acciones europeas con PER 12: su ventaja competitiva que no puedes ignorar",
@@ -91,7 +91,7 @@ Nuestro análisis sugiere que las acciones con un PER de 12 son una opción a co
 }
 </script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

@@ -91,7 +91,7 @@ The allure of the dot cake is undeniable, yet the reality of baking is often far
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

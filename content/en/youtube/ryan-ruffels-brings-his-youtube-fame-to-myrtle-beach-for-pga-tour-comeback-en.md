@@ -92,7 +92,7 @@ In a sport traditionally steeped in history, Ryan Ruffels is rewriting the rules
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

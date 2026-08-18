@@ -71,7 +71,7 @@ La tecnología no es neutral. Los 8.1 millones de adictos móviles en España so
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

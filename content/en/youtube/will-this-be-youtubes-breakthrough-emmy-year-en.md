@@ -74,7 +74,7 @@ This could be the year YouTube finally takes its rightful place at the Emmy tabl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

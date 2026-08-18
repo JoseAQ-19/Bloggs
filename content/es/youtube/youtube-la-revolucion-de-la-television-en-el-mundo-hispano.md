@@ -87,7 +87,7 @@ El auge de YouTube sobre Netflix en España destaca una transformación en el co
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

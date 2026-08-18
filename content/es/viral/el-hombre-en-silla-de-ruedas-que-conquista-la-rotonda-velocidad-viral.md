@@ -117,7 +117,7 @@ La obsesi√≥n por la velocidad en las sillas de ruedas es un espejo de la obsesi√
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -82,7 +82,7 @@ In a world where traditional media narratives often fall short, personal brandin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -103,7 +103,7 @@ By adopting these strategies, players can not only improve their performance but
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

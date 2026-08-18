@@ -89,7 +89,7 @@ Typically, ETFs can be purchased in shares, with the minimum investment being th
 
 Active management aims to outperform the market through strategic stock selection, which can provide higher returns but also introduces the risk of underperformance.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -104,7 +104,7 @@ Active management aims to outperform the market through strategic stock selectio
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

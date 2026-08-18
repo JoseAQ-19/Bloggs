@@ -74,7 +74,7 @@ Market conditions heavily influence fund performance, as actively managed funds 
 ### What role does diversification play in investment strategy?
 Diversification is crucial for mitigating risk and enhancing potential returns, and it varies significantly between index and actively managed funds. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -88,7 +88,7 @@ Diversification is crucial for mitigating risk and enhancing potential returns, 
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

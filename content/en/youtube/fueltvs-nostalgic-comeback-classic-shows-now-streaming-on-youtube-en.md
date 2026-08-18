@@ -76,7 +76,7 @@ FuelTV's revival of classic shows is a strategic, albeit risky, move that could 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

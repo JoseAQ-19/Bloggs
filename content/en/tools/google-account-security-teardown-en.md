@@ -94,7 +94,7 @@ Implementing phishing-resistant MFA solutions and establishing a continuous disc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

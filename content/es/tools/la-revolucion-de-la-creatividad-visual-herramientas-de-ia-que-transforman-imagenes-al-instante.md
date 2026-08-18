@@ -62,7 +62,7 @@ La autenticidad en la fotografía no está amenazada por la IA, sino por la come
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

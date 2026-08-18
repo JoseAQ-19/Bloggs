@@ -89,7 +89,7 @@ España tiene una exposición media-alta a la IA según **Francisco Rodríguez-F
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

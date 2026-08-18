@@ -89,7 +89,7 @@ For deeper technical context on player tracking and AR visualization techniques,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -76,7 +76,7 @@ Los creadores deben ser proactivos y explorar todas las vías disponibles, desde
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

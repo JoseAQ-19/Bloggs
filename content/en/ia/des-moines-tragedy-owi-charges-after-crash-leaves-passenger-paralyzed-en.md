@@ -84,7 +84,7 @@ The road ahead is fraught with challenges, but by addressing these issues head-o
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

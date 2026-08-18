@@ -103,7 +103,7 @@ El éxito de esta operación no se medirá en likes ni en videos motivacionales,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

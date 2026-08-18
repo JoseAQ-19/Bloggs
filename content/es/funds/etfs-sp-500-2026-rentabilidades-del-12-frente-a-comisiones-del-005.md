@@ -96,7 +96,7 @@ Un escenario de recesión podría afectar negativamente el rendimiento de los ET
 
 La combinación de una rentabilidad del 12% y comisiones del 0.05% presenta una oportunidad inmejorable para los inversores en el S&P 500. Sin embargo, es vital mantener la vigilancia sobre la volatilidad y los riesgos asociados, adaptando las estrategias de inversión a las condiciones cambiantes del mercado. La inversión pasiva a través de ETFs del S&P 500 puede ofrecer un camino sólido hacia la acumulación de riqueza a largo plazo. 
 
-<script type="application/ld+json">  
+<script type="application/ld+json"></script>
 {  
   "@context": "https://schema.org",  
   "@type": "NewsArticle",  

@@ -97,7 +97,7 @@ El sistema de la Universidad de Cádiz es una demostración de ingeniería impre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

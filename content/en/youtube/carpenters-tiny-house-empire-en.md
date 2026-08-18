@@ -97,7 +97,7 @@ The tiny home movement is a speculative trap that exchanges long-term financial 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

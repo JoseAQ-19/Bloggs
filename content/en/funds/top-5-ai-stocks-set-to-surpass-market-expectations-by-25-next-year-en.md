@@ -73,7 +73,7 @@ Given the projected growth in the AI sector and the performance of leading compa
 ### What should I look for when evaluating AI stocks?
 Focus on performance metrics, market position, innovation capabilities, and expense ratios when evaluating potential AI investments.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -89,7 +89,7 @@ Focus on performance metrics, market position, innovation capabilities, and expe
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -76,7 +76,7 @@ Los aficionados deben aprovechar estas nuevas plataformas para vivir el Mundial 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

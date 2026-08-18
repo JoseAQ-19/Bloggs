@@ -63,7 +63,7 @@ El futuro de la atención sanitaria debe ser uno donde la tecnología y la human
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

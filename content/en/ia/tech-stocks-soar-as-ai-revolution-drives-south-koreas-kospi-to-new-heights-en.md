@@ -95,7 +95,7 @@ The KOSPI is a leveraged bet on the physics of memory packaging, and physics is 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

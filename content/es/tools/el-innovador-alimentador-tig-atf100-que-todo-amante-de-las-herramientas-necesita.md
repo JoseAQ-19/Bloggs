@@ -90,7 +90,7 @@ El Tig ATF100 es una trampa financiera disfrazada de herramienta de entrada, dis
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

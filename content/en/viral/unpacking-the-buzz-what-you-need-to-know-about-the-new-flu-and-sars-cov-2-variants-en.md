@@ -93,7 +93,7 @@ Predicting variants is merely the first step in a far more complex equation.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

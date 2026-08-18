@@ -69,7 +69,7 @@ It's critical for parents, educators, and policymakers to engage in informed dis
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

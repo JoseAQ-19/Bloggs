@@ -74,7 +74,7 @@ As we stand at the crossroads of technological advancement and ethical responsib
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

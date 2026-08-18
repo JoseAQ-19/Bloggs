@@ -92,7 +92,7 @@ As the financial landscape continues to evolve, the reality is that companies mu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

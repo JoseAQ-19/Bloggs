@@ -88,7 +88,7 @@ Read more on the topic at **HuffPost Entertainment**.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -65,7 +65,7 @@ In the world of digital media, where content is constantly created and consumed 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

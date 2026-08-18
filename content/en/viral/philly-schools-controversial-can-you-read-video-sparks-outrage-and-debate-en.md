@@ -81,7 +81,7 @@ If we fail to act now, we risk losing an entire generation to educational inadeq
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

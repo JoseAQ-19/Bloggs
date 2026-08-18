@@ -91,7 +91,7 @@ We believe that both PIMCO and Capital Group have established themselves as indu
 In the ever-evolving landscape of asset management, these firms exemplify how innovation, adaptability, and a focus on cost efficiency can lead to sustained success. Investors should weigh the strengths of these funds against their risk tolerance and investment objectives to make informed decisions.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -76,7 +76,7 @@ Se recomienda a los trabajadores y empresas invertir en formación y desarrollo 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

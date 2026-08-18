@@ -81,7 +81,7 @@ The power dynamics within the league are shifting, and fans are no longer willin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

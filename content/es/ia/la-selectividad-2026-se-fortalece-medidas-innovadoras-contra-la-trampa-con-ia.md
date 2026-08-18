@@ -79,7 +79,7 @@ Cuatro comunidades autónomas han comenzado a utilizar detectores de frecuencia 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

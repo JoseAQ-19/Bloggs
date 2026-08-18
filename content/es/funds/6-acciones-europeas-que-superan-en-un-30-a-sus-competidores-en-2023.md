@@ -98,7 +98,7 @@ Sí, diversificar entre estas acciones puede ayudar a mitigar riesgos y aprovech
 Es fundamental considerar el rendimiento histórico, la posición en el mercado, la volatilidad y las comisiones asociadas a la inversión en acciones.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

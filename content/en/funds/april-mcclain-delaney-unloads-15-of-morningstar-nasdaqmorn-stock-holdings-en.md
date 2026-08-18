@@ -85,7 +85,7 @@ Investors should focus on revenue growth, expense management, market share, and 
 
 While Morningstar has a solid track record, investors should consider other funds or stocks that may have lower fees, better performance metrics, or more favorable risk profiles based on their investment objectives.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "April McClain Delaney Unloads 15% of Morningstar (NASDAQ:MORN) Stock Holdings",

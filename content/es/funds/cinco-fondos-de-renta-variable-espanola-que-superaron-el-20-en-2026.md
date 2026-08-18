@@ -92,7 +92,7 @@ Los inversores deben revisar periódicamente su cartera y ajustar su estrategia 
 
 Creemos que la selección de fondos de renta variable española que han demostrado rendimientos superiores al 20% en 2026 puede ser una estrategia atractiva para los inversores. Sin embargo, es esencial mantenerse informado sobre las condiciones del mercado y estar preparados para adaptarse a los cambios. La diversificación sigue siendo clave para maximizar el potencial de retorno mientras se mitiga el riesgo.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -114,7 +114,7 @@ Creemos que la selección de fondos de renta variable española que han demostra
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -55,7 +55,7 @@ Children driving family fitness is not a utopian health movement; it's a high-st
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

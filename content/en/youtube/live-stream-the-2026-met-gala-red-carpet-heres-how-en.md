@@ -83,7 +83,7 @@ The red carpet is about to become a rendering farm, and unless regulators act fa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

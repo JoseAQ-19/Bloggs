@@ -61,7 +61,7 @@ La situación de Fluz pone de manifiesto las vulnerabilidades en el ecosistema d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

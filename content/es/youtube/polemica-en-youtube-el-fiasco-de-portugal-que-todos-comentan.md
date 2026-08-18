@@ -61,7 +61,7 @@ La crisis en Portugal sirve como un microcosmos de los problemas más amplios qu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

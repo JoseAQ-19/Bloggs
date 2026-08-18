@@ -96,7 +96,7 @@ In a world of dark money, grassroots light is the only beacon of hope for democr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -84,7 +84,7 @@ If you want to escape the Shorts trap, it's time to take matters into your own h
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -78,7 +78,7 @@ Fans should advocate for transparent pricing and access to games as negotiations
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

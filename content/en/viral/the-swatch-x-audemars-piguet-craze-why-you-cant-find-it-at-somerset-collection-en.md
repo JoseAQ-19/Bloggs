@@ -93,7 +93,7 @@ If Swatch can't outsmart the bots, it may find its luxury dreams turned into a r
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -75,7 +75,7 @@ As the landscape of street art evolves, those who act quickly may reap the creat
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

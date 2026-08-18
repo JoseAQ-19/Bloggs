@@ -74,7 +74,7 @@ The landscape of children's media is at a crossroads. The choices made today wil
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

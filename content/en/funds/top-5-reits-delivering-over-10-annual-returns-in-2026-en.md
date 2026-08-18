@@ -110,7 +110,7 @@ REITs can serve as a hedge against inflation because property values and rental 
 
 Investors can diversify their REIT investments by allocating funds across different sectors (e.g., residential, commercial, industrial) and geographic regions, which can help mitigate risks associated with specific markets.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -124,7 +124,7 @@ Investors can diversify their REIT investments by allocating funds across differ
 }
 </script> 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

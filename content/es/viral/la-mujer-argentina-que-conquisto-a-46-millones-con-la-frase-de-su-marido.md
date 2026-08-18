@@ -72,7 +72,7 @@ Recomiendo a los aspirantes a influencers enfocarse en construir una conexión g
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

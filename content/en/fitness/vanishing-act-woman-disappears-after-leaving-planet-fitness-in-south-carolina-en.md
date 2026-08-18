@@ -88,7 +88,7 @@ La desaparición de Moore es un recordatorio de la importancia de la vigilancia 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -82,7 +82,7 @@ Nuestra lectura es que la crisis de superbacterias no será contenida solo con a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

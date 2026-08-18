@@ -74,7 +74,7 @@ Ronaldo's pursuit of 1000 career goals, as reported by **Nestor Watach**, may be
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -75,7 +75,7 @@ Ana Gómez resume la experiencia con una frase contundente: "Con un poco de cono
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

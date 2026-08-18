@@ -88,7 +88,7 @@ In an era where the sacrifices of veterans can often be overlooked, it is crucia
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

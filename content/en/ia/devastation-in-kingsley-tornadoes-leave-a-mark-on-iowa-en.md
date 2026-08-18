@@ -81,7 +81,7 @@ Iowa's experience with the 2020 derecho reveals critical infrastructure vulnerab
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

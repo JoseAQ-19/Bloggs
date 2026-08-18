@@ -80,7 +80,7 @@ Higher expense ratios can erode returns over time, making lower-cost funds like 
 **Can market conditions affect active ETF performance?**  
 Yes, market volatility and economic shifts can significantly impact the performance of actively managed funds.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "3 Vanguard Active ETFs Surpassing Market Returns by 5% in 2023",

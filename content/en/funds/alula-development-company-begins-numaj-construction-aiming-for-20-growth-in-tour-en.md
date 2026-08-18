@@ -79,7 +79,7 @@ The region expects to attract approximately 1.5 million tourists annually by 203
 The influx of tourists is expected to stimulate local businesses, providing new opportunities for growth and development.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

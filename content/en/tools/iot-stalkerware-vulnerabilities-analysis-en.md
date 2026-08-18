@@ -102,7 +102,7 @@ The growing prevalence of stalkerware and IoT vulnerabilities demands urgent att
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

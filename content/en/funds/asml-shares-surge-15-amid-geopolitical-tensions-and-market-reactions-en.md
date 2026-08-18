@@ -77,7 +77,7 @@ Given its market positioning and growth potential, ASML is considered a strong c
 
 ASML's prospects are bolstered by increasing demand for advanced semiconductor technology, particularly in AI and machine learning applications, suggesting a favorable outlook as the industry continues to evolve. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "http://schema.org",
   "@type": "NewsArticle",
@@ -94,7 +94,7 @@ ASML's prospects are bolstered by increasing demand for advanced semiconductor t
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "http://schema.org",
   "@type": "FAQPage",

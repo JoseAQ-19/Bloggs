@@ -70,7 +70,7 @@ The reality is that a low price tag can cloud judgment. The true cost of a gym m
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

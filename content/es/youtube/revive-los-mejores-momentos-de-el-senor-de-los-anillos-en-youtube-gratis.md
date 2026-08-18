@@ -89,7 +89,7 @@ La magia de la Tierra Media no debería perderse en la neblina digital de la mod
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

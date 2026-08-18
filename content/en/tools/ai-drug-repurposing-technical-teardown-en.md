@@ -90,7 +90,7 @@ The AI-driven drug repurposing landscape is a high-stakes gamble where the house
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

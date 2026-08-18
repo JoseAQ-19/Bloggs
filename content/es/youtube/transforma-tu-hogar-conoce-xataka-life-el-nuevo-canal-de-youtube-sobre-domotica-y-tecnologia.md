@@ -58,7 +58,7 @@ La seguridad del hogar inteligente no es un lujo, sino una necesidad urgente. La
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

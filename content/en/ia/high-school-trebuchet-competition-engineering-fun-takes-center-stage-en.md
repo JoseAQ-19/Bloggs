@@ -72,7 +72,7 @@ Until we fix the foundational math deficit, handing students AI tools for engine
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -80,7 +80,7 @@ La propuesta de Radio Club puede ser la chispa que encienda una revolución en l
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

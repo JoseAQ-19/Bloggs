@@ -77,7 +77,7 @@ En conclusión, la implementación de la IA en Facebook es un ejemplo de cómo l
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

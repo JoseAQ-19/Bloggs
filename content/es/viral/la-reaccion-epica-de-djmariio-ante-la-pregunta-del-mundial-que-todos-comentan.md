@@ -79,7 +79,7 @@ La tendencia hacia la crítica honesta en el deporte es un fenómeno que podría
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

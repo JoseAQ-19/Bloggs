@@ -86,7 +86,7 @@ The future of streaming is uncertain, but one thing is clear: as prices rise, on
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

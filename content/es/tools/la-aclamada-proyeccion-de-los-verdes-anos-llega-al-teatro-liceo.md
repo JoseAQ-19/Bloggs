@@ -76,7 +76,7 @@ El modelo de financiación cultural en España es una arquitectura diseñada par
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -102,7 +102,7 @@ Chapman Guitars is learning the hard way that tone is temporary, but trust is fo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

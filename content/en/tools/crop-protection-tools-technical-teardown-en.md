@@ -90,7 +90,7 @@ Drones represent a transformative force in agriculture, but the transition comes
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

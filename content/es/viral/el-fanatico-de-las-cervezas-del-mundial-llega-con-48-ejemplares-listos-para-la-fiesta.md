@@ -77,7 +77,7 @@ La fiesta cervecera del Mundial podría ser lo que todos necesitamos para unir c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

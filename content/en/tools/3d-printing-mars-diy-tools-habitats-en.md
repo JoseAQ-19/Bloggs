@@ -53,7 +53,7 @@ The intersection of astronomical transport costs, nascent 3D printing technology
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

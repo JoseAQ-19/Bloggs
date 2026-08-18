@@ -75,7 +75,7 @@ The real breakthrough won't come from viral suppression alone. It will require a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

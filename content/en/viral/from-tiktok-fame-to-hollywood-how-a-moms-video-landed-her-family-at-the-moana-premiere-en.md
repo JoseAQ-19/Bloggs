@@ -90,7 +90,7 @@ In the end, the Johnsons remind us that the allure of fame is often accompanied 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

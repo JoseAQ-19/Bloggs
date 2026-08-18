@@ -63,7 +63,7 @@ El veredicto es implacable: España está perdiendo la batalla por el talento en
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ Se recomienda a los líderes empresariales adoptar plataformas integradas que me
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

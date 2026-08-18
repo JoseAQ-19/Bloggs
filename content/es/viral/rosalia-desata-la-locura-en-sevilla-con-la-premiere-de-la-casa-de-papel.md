@@ -87,7 +87,7 @@ Cuando se trata de entretenimiento, la unión de talento local y plataformas glo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

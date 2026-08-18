@@ -74,7 +74,7 @@ Los Wolves pueden caer en la tabla, pero el verdadero reto está en transformar 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -72,7 +72,7 @@ Es importante considerar la dependencia de la gestión pasiva y el impacto de la
 
 Nuestra análisis indica que los nuevos fondos de Vanguard son una opción sólida para los inversores que buscan minimizar costos y maximizar la diversificación. Sin embargo, es esencial realizar un análisis de riesgo adecuado y considerar el contexto de mercado en el que se invierte. La oferta de Vanguard, aunque competitiva, no es la única opción en el mercado, y los inversores deben evaluar su situación financiera y objetivos antes de tomar decisiones. La inversión informada es la clave para el éxito financiero a largo plazo. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -86,7 +86,7 @@ Nuestra análisis indica que los nuevos fondos de Vanguard son una opción sóli
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

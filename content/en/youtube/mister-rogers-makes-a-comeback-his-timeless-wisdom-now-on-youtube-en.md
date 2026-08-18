@@ -76,7 +76,7 @@ In a world yearning for kindness, Mister Rogers’ Neighborhood is back—but le
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

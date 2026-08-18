@@ -95,7 +95,7 @@ La implementación de IA en el Tranvía de Tenerife es un ejercicio necesario de
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

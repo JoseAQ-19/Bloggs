@@ -79,7 +79,7 @@ In the war against GTM stack bloat, Aurasell has drawn the first blood, but the 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -82,7 +82,7 @@ La obsolescencia laboral impulsada por la IA no es una teoría del futuro, sino 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

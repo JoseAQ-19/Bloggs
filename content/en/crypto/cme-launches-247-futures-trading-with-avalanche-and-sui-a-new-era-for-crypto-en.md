@@ -107,7 +107,7 @@ The risks of 24/7 futures trading on Avalanche and Sui necessitate heightened aw
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

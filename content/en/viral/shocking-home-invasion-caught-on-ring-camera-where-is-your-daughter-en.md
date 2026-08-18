@@ -113,7 +113,7 @@ We are trading our souls for a sense of security that is as synthetic as the vid
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

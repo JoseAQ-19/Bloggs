@@ -90,7 +90,7 @@ The rapid shift towards MCP adoption is both an opportunity and a challenge, req
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

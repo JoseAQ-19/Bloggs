@@ -88,7 +88,7 @@ Se recomienda a los restauradores y emprendedores buscar alternativas creativas 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

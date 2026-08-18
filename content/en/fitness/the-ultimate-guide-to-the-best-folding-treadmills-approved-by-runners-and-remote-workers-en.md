@@ -60,7 +60,7 @@ The mechanism of this interference lies in the competition for cortical processi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

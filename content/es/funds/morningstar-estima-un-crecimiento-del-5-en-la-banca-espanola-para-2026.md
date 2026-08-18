@@ -84,7 +84,7 @@ Sí, diversificar dentro del sector bancario y en otras áreas puede proteger su
 
 La proyección de crecimiento del 5% en la banca española para 2026 sugiere un panorama optimista, pero también es un recordatorio de la necesidad de una vigilancia continua. Invertir en este sector puede ofrecer oportunidades, pero es esencial hacerlo con conocimiento y estrategia. La selección de los fondos adecuados y la comprensión de los riesgos involucrados son elementos cruciales para el éxito en este entorno financiero en evolución.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Morningstar estima un crecimiento del 5% en la banca española para 2026",
@@ -95,7 +95,7 @@ La proyección de crecimiento del 5% en la banca española para 2026 sugiere un 
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

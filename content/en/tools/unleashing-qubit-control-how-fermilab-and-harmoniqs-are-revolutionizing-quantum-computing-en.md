@@ -59,7 +59,7 @@ Quantum computing’s trillion-dollar potential remains unrealized not due to ha
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

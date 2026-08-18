@@ -66,7 +66,7 @@ El **veredicto** es claro: la revolución cuántica en Euskadi no depende de pro
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

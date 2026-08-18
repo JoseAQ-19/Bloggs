@@ -98,7 +98,7 @@ To survive the ACFT without becoming a statistic, soldiers must abandon the
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

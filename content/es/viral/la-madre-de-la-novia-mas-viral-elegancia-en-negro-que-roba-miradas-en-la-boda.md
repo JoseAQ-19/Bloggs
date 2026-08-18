@@ -74,7 +74,7 @@ Es crucial que las elecciones de vestuario reflejen no solo el gusto personal, s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

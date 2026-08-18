@@ -57,7 +57,7 @@ La máquina de IA china genera $500 millones por hora, pero su verdadero costo s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

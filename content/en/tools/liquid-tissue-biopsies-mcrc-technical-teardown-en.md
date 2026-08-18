@@ -71,7 +71,7 @@ The liquid biopsy market's growth narrative creates dangerous illusions about di
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

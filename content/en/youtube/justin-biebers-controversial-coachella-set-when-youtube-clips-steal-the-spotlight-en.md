@@ -71,7 +71,7 @@ The "live" event is becoming a high-risk asset class where the cost of verificat
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

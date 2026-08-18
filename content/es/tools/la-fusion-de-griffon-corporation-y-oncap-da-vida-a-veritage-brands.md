@@ -62,7 +62,7 @@ La fusión entre Griffon y ONCAP presenta un escenario arriesgado que podría ll
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

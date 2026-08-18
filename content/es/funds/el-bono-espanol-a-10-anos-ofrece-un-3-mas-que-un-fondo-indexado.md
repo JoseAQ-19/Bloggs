@@ -71,7 +71,7 @@ La inflación puede erosionar el rendimiento real de los bonos. Si la inflación
 
 En un entorno de incertidumbre, los bonos suelen ser preferibles debido a su menor volatilidad y riesgo de crédito. Sin embargo, la diversificación sigue siendo clave en cualquier estrategia de inversión.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -84,7 +84,7 @@ En un entorno de incertidumbre, los bonos suelen ser preferibles debido a su men
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

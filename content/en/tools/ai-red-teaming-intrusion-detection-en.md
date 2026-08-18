@@ -76,7 +76,7 @@ The current approach to AI red teaming is fundamentally inadequate, creating a d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

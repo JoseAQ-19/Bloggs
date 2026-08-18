@@ -89,7 +89,7 @@ La inteligencia artificial en el ámbito financiero ha dejado de ser una herrami
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

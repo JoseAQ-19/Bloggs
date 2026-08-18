@@ -85,7 +85,7 @@ To mitigate the risk of PTSD and optimize mental health outcomes, soldiers and t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

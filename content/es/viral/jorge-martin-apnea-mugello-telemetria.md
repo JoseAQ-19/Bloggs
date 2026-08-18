@@ -91,7 +91,7 @@ La presión de los neumáticos es un tema que va más allá de una simple regula
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

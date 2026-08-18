@@ -106,7 +106,7 @@ Ignoring Long COVID is not just a health risk; it's a potential financial catast
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -83,7 +83,7 @@ No dejes que las ofertas te nublen el juicio. Investiga y ahorra sabiamente.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

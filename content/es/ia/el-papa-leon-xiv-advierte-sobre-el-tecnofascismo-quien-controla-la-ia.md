@@ -57,7 +57,7 @@ El tecnofascismo no es una distopía lejana, sino el resultado lógico de delega
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

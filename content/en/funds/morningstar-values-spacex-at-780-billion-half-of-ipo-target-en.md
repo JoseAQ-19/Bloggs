@@ -78,7 +78,7 @@ We believe that potential investors need to conduct thorough due diligence befor
 
 Engaging with this investment requires a nuanced understanding of both the growth opportunities and the volatility inherent in the aerospace sector. As the market evolves, we advocate for a balanced approach, integrating both traditional aerospace investments and newer entrants like SpaceX into a diversified portfolio. This strategy could potentially mitigate risks while positioning investors to benefit from the future of space exploration. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -82,7 +82,7 @@ En última instancia, el deporte debe ser un espacio donde se valore el crecimie
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

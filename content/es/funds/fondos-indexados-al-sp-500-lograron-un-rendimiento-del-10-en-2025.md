@@ -86,7 +86,7 @@ Un enfoque a largo plazo es recomendable, idealmente de 5 a 10 años, para maxim
 Creemos que los fondos indexados al S&P 500 siguen siendo una opción sólida para los inversores que buscan crecimiento a largo plazo con un costo mínimo. Sin embargo, es prudente considerar una combinación de estrategias que incluya tanto fondos indexados como fondos de gestión activa para aprovechar al máximo las oportunidades del mercado. La adaptabilidad y la diversificación son fundamentales para navegar en un entorno financiero en constante cambio.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -104,7 +104,7 @@ Creemos que los fondos indexados al S&P 500 siguen siendo una opción sólida pa
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -79,7 +79,7 @@ Ignoring the obesity epidemic in cats is not an option; it is time to take actio
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

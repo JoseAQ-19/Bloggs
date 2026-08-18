@@ -78,7 +78,7 @@ Meitav’s management strategy, which focuses on alternative investments and ada
 We believe Meitav Investment House is well-positioned for continued growth, given its strong financial performance, experienced management team, and strategic focus on high-demand investment products. However, potential investors should remain vigilant regarding external economic factors that could affect future performance. Balancing the current positive outlook with an awareness of the inherent risks will be crucial in navigating investment decisions related to Meitav. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

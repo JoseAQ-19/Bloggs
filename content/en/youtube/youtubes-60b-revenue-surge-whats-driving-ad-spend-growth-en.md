@@ -83,7 +83,7 @@ The next few years will be critical for brands as they navigate the complex worl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

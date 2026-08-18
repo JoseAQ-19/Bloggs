@@ -99,7 +99,7 @@ As wealth accumulates in the hands of one generation, the urgency for change has
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

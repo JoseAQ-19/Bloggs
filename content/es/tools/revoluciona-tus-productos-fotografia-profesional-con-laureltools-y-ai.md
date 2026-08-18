@@ -61,7 +61,7 @@ Es crucial que los fotógrafos abracen la IA, pero sin dejar de lado su creativi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

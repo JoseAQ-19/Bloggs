@@ -87,7 +87,7 @@ As the landscape shifts against unchecked tech power, it is imperative for users
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

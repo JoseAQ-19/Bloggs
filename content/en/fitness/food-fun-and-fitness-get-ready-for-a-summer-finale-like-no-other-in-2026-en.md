@@ -92,7 +92,7 @@ The world will be watching as Atlanta prepares for this monumental event. Will t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

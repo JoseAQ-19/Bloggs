@@ -78,7 +78,7 @@ Investors can purchase Vanguard active ETFs through brokerage accounts, similar 
 ### What risks should I consider before investing in active ETFs?
 Investors should be aware of the potential for underperformance relative to passive strategies and the variability of returns depending on market conditions. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -95,7 +95,7 @@ Investors should be aware of the potential for underperformance relative to pass
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

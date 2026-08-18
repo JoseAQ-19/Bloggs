@@ -73,7 +73,7 @@ En términos de rendimiento y gestión de riesgos, el *CT (Lux) Global Technolog
 
 El entorno de tasas de interés más altas podría afectar el crecimiento de las empresas tecnológicas, lo que requerirá un monitoreo constante de la cartera y ajustes estratégicos por parte de los gestores del fondo.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -90,7 +90,7 @@ El entorno de tasas de interés más altas podría afectar el crecimiento de las
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

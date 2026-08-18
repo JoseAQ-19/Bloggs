@@ -97,7 +97,7 @@ TikTok isn’t just a platform; it is a chaotic force of nature that demands a c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

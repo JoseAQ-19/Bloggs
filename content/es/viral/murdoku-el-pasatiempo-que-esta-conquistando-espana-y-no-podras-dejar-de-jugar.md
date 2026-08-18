@@ -71,7 +71,7 @@ La burbuja de la adicción a los videojuegos está en riesgo de estallar, y si n
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

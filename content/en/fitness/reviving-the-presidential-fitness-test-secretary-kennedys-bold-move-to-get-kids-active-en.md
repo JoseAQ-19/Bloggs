@@ -96,7 +96,7 @@ The real question remains: Will this new initiative truly make America fit again
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

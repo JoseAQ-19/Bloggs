@@ -56,7 +56,7 @@ The Fitbit Air is a game-changer in the fitness tracker market, combining comfor
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -53,7 +53,7 @@ La administración pública española está atrapada en un mito: el de que la in
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

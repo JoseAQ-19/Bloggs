@@ -75,7 +75,7 @@ The world of social media can be alluring, but it is essential to remember that 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

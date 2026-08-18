@@ -79,7 +79,7 @@ La configuración de OBS Studio no es una tarea de configuración inicial, sino 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

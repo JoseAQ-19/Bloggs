@@ -93,7 +93,7 @@ The Bottom Line: Colbert's YouTube success underscores the critical importance o
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

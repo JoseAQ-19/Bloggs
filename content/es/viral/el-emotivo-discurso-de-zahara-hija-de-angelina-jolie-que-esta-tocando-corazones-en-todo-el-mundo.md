@@ -79,7 +79,7 @@ En un entorno donde las etiquetas y los juicios son comunes, es fundamental reco
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -61,7 +61,7 @@ Las empresas deben diversificar sus proveedores para mitigar el riesgo de futura
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

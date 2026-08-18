@@ -90,7 +90,7 @@ To thrive in this evolving landscape, fitness studios must abandon the "more is 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

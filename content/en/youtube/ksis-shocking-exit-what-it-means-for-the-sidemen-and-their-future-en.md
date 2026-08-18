@@ -107,7 +107,7 @@ The Sidemen's empire may be at risk, but the show must go on—if they can find 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

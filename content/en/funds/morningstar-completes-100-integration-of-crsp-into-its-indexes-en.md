@@ -77,7 +77,7 @@ As with any market change, there is inherent risk. However, the historical perfo
 While past performance is not a guarantee of future results, Morningstar's historical data shows a tendency to outperform traditional benchmarks, especially in specific asset classes. Investors should conduct their due diligence based on their individual risk tolerance and investment goals.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -93,7 +93,7 @@ While past performance is not a guarantee of future results, Morningstar's histo
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -73,7 +73,7 @@ La falta de transparencia y regulación en la IA representa un riesgo inminente 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

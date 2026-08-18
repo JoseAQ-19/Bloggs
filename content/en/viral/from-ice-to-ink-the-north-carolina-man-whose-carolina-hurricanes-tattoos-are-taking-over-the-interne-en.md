@@ -73,7 +73,7 @@ However, fans should consider their motivations and the long-term implications o
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

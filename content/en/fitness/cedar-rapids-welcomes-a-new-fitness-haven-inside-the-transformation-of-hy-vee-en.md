@@ -80,7 +80,7 @@ In the race for better health, Cedar Rapids must ensure the finish line isn't ju
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -69,7 +69,7 @@ La cultura de la creación de contenido infantil debe evolucionar hacia un model
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

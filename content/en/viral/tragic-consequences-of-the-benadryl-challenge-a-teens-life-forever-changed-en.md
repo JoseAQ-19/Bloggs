@@ -71,7 +71,7 @@ Ultimately, it is time to turn the tide on harmful trends and empower our youth 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

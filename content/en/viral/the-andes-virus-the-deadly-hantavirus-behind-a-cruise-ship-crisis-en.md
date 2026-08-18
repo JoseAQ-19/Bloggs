@@ -93,7 +93,7 @@ If the Andes virus has shown us anything, it’s that complacency on the high se
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -51,7 +51,7 @@ En conclusión, la iniciativa de Clio es un paso importante hacia la modernizaci
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

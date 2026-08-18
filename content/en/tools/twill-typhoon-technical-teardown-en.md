@@ -80,7 +80,7 @@ Defense against Twill Typhoon is no longer a static fortress; it's a relentless 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

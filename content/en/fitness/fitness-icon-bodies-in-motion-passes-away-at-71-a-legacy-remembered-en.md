@@ -86,7 +86,7 @@ Readers should incorporate both aerobic and recovery practices into their fitnes
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

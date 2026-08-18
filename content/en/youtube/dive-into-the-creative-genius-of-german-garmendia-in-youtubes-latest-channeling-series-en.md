@@ -85,7 +85,7 @@ Aspiring creators should prioritize ethical engagement over sheer numbers to bui
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

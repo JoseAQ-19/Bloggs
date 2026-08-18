@@ -119,7 +119,7 @@ Yes, while Dividend Kings are generally more stable, stock prices can still fluc
 
 Most Dividend Kings pay dividends quarterly, but some may have different payout schedules. It's important to check each company's dividend policy.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -79,7 +79,7 @@ La estrategia de Meta en IA está en crisis y necesita un cambio radical para re
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

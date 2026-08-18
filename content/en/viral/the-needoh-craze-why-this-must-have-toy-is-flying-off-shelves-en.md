@@ -97,7 +97,7 @@ The sensory toy boom is a temporary distraction from the harder work of parentin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -79,7 +79,7 @@ With an expense ratio of 0.65%, the Bramshill fund enhances net returns compared
 
 Investing in bond funds carries risks such as interest rate risk and credit risk. While the fund has a strong track record, market conditions can change, affecting performance.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -99,7 +99,7 @@ Investing in bond funds carries risks such as interest rate risk and credit risk
   }
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

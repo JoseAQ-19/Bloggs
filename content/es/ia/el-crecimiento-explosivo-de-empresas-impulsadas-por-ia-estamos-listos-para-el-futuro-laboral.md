@@ -70,7 +70,7 @@ La adaptación es clave. No se puede permitir que la IA consuma a los trabajador
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

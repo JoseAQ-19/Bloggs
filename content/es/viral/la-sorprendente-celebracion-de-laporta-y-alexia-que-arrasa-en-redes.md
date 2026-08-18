@@ -82,7 +82,7 @@ La celebración de Laporta y Alexia es el síntoma de una profunda crisis en el 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -103,7 +103,7 @@ Wismichu es el canario en la mina de la economía creativa. Su lamento por los 6
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -85,7 +85,7 @@ In the end, empowering patients with the right tools leads to a healthier, more 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

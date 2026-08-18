@@ -84,7 +84,7 @@ The digital age has provided unprecedented opportunities for connection and empa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

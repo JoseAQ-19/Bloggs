@@ -90,7 +90,7 @@ Parents and educators should take note: building leaders starts at home. By appl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -75,7 +75,7 @@ The music industry must grapple with the implications of AI-driven curation. Whi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

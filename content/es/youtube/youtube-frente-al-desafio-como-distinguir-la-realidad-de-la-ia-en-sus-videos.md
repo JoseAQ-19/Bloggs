@@ -77,7 +77,7 @@ La batalla por la verdad en el contenido digital apenas comienza; es hora de que
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

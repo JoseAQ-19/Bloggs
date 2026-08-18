@@ -61,7 +61,7 @@ The question remains: how will educators adapt their teaching strategies to harn
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

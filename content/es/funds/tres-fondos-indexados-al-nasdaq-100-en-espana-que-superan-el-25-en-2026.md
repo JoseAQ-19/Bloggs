@@ -78,7 +78,7 @@ Es crucial analizar el rendimiento histórico, las comisiones, la volatilidad, y
 
 Creemos que los fondos indexados al Nasdaq 100 ofrecen una excelente oportunidad para capturar el crecimiento en el sector tecnológico. Sin embargo, es fundamental que los inversores realicen un análisis cuidadoso de cada fondo, considerando tanto los rendimientos como los costos y la volatilidad. Además, una estrategia diversificada puede ayudar a mitigar riesgos y maximizar rendimientos a largo plazo. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -91,7 +91,7 @@ Creemos que los fondos indexados al Nasdaq 100 ofrecen una excelente oportunidad
   "mainEntityOfPage": "https://news.google.com"
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

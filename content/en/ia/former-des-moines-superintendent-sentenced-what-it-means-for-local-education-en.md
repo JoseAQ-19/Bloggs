@@ -64,7 +64,7 @@ Recovery requires radical transparency. DMPS must publish superintendent selecti
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -92,7 +92,7 @@ In the game of football, even the most talented must prioritize health over hype
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

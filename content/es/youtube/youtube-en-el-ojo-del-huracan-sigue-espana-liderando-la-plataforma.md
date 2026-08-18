@@ -71,7 +71,7 @@ La posición de YouTube en España es cada vez más vulnerable. Su futuro depend
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

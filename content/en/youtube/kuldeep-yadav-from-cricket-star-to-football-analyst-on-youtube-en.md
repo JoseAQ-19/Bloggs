@@ -147,7 +147,7 @@ The business of sports analysis is evolving rapidly, with new technologies and p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

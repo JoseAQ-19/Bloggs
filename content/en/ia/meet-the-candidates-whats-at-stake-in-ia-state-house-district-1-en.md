@@ -53,7 +53,7 @@ The $18.7 million poured into Iowa House District 1 is more than money—it’s 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

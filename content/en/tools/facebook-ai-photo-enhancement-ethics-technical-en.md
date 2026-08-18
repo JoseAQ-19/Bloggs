@@ -84,7 +84,7 @@ Users must recognize that the convenience of auto-enhanced photos comes at the c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

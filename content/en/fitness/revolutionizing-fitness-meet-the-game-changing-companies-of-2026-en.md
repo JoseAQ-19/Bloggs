@@ -90,7 +90,7 @@ In the race for fitness, it's time wearables stop missing the mark and start del
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -94,7 +94,7 @@ It outperforms many of its peers in terms of returns and exhibits lower volatili
 ### Are there any risks associated with investing in the Lazard Global Total Return Fund?
 Yes, potential risks include exposure to global economic fluctuations and the impact of inflation on fixed-income securities. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Lazard Global Total Return Fund Declares 0.05% Monthly Distribution for April",
@@ -110,7 +110,7 @@ Yes, potential risks include exposure to global economic fluctuations and the im
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

@@ -68,7 +68,7 @@ La valoración y las estrategias de OpenAI indican una clara dirección hacia la
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

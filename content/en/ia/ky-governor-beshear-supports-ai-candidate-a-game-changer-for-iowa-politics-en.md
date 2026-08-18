@@ -84,7 +84,7 @@ The coming election cycles will test the viability of AI candidates, and how pol
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

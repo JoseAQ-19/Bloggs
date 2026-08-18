@@ -76,7 +76,7 @@ The technical architecture of DoorDash's AI Merchant Tools prioritizes data extr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

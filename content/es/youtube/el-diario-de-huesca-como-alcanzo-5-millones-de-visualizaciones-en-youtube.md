@@ -99,7 +99,7 @@ La recomendación es clara: invertir en capacitación técnica sobre SEO, retenc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

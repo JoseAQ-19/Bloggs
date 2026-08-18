@@ -99,7 +99,7 @@ The era of easy money is over. The creator economy is maturing into a highly reg
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -105,7 +105,7 @@ España ha demostrado ser una potencia en la implementación de tratamientos far
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

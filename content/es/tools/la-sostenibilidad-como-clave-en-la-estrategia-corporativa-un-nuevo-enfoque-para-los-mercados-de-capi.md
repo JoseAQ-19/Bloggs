@@ -67,7 +67,7 @@ La sostenibilidad ha pasado de ser una opción a convertirse en una necesidad cr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

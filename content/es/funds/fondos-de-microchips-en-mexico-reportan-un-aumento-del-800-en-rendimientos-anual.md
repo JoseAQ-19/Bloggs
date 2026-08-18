@@ -77,7 +77,7 @@ El futuro parece prometedor, pero dependerá de factores externos como la regula
 Creemos que la inversión en fondos de microchips puede ser beneficiosa, pero es crucial abordar esta oportunidad con cautela. El análisis de rendimiento, riesgos y tarifas es esencial para tomar decisiones informadas. La diversificación y el enfoque en el perfil de riesgo individual son fundamentales para maximizar las oportunidades de retorno en este dinámico sector.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -90,7 +90,7 @@ Creemos que la inversión en fondos de microchips puede ser beneficiosa, pero es
   "mainEntityOfPage": "https://url-del-articulo.com"
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

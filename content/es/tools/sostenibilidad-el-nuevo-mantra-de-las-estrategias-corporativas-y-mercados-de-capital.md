@@ -80,7 +80,7 @@ La sostenibilidad no es solo una tendencia, es el futuro del mercado de capitale
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

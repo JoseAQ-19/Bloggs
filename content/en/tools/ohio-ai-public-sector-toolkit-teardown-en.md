@@ -94,7 +94,7 @@ Ohio’s AI ecosystem is unsustainable without massive intervention. The 1 milli
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

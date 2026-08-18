@@ -111,7 +111,7 @@ YouTube está ejecutando una estrategia de explotación calculada, utilizando da
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

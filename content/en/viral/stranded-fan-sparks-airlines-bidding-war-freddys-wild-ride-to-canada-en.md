@@ -79,7 +79,7 @@ The narrative surrounding Freddy's experience serves as a microcosm of the broad
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

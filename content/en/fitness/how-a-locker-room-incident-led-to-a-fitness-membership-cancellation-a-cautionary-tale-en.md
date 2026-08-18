@@ -67,7 +67,7 @@ The fitness industry's profit model prioritizes acquiring members over protectin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

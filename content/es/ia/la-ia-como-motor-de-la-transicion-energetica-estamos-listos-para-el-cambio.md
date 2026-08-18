@@ -69,7 +69,7 @@ El futuro del sector energético español depende de la capacidad para integrar 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

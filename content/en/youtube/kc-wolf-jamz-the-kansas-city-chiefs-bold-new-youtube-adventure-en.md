@@ -79,7 +79,7 @@ The potential for KC Wolf Jamz to reshape the NFL's engagement landscape is sign
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

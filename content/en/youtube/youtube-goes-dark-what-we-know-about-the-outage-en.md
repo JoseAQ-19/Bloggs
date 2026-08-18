@@ -81,7 +81,7 @@ The reliance on YouTube's recommendation system is a trap that many creators fin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -78,7 +78,7 @@ The PGA Tour's refusal to adapt its media rights model is a strategic failure th
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

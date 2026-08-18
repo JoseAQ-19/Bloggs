@@ -113,7 +113,7 @@ The sea lions of Pier 39 are not just adorable attractions; they are a biologica
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

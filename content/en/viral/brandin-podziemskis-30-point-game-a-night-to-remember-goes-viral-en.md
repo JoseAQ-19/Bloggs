@@ -71,7 +71,7 @@ In the end, "empty stats" may not fill the Warriors' championship aspirations. A
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

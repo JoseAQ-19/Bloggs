@@ -57,7 +57,7 @@ AI hallucinations represent an existential threat to scientific integrity, with 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

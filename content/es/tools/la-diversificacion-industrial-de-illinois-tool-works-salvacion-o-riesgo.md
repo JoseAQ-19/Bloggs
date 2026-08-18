@@ -80,7 +80,7 @@ La estrategia de ITW no es una solución sostenible ante una recesión inminente
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

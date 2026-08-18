@@ -107,7 +107,7 @@ El altercado entre Begoña Gómez y Vito Quiles es una tragicomedia posmoderna q
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

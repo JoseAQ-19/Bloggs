@@ -103,7 +103,7 @@ La productividad del 9% es una métrica de marketing que oculta una crisis de in
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

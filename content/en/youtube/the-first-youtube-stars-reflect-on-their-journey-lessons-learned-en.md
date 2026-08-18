@@ -95,7 +95,7 @@ The landscape of content creation is fraught with burnout risks that require imm
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

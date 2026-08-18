@@ -92,7 +92,7 @@ AI scribe tools are a brittle, expensive patch on a fractured healthcare system,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

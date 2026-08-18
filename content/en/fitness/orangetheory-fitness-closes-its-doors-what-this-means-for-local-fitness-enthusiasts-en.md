@@ -97,7 +97,7 @@ Local gyms are not just places to work out; they are essential hubs of community
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

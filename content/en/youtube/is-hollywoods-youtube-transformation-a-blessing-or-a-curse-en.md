@@ -103,7 +103,7 @@ Creators must invest in building sustainable, diversified income streams instead
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

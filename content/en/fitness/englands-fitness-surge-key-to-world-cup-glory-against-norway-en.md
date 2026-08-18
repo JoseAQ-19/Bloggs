@@ -93,7 +93,7 @@ For fans, closely following the upcoming match and supporting the team could amp
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

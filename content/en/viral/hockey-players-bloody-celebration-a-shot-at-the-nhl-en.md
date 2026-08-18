@@ -69,7 +69,7 @@ Jack Hughes has proven himself as an emerging superstar in both the NHL and inte
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

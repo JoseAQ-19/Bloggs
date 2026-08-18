@@ -101,7 +101,7 @@ Cruz must navigate these challenges carefully, as failing to address
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -67,7 +67,7 @@ Lockdown Mode's greatest failure is its inability to address the core paradox of
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

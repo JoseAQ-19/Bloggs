@@ -101,7 +101,7 @@ In a world filled with curated online content, real renovations come with real c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

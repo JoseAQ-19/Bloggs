@@ -137,7 +137,7 @@ YouTube filmmakers like Kane Parsons aren't just disrupting Hollywood—they're 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

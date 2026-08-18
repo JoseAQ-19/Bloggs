@@ -71,7 +71,7 @@ The urgency of addressing the hidden water crisis is paramount for the future of
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

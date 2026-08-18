@@ -77,7 +77,7 @@ El verdadero camino hacia la libertad no es volver a un pasado idealizado, sino 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

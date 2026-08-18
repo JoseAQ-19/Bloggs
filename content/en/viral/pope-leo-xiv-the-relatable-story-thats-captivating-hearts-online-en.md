@@ -101,7 +101,7 @@ In an age of digital disconnection, the Church's true challenge lies in fosterin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

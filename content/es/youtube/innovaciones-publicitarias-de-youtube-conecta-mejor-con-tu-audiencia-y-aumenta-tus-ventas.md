@@ -72,7 +72,7 @@ La situación actual de la publicidad en YouTube es una llamada de atención par
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

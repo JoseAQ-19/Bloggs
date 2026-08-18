@@ -95,7 +95,7 @@ LIV Golf is a $5 billion lesson in why you cannot brute-force user acquisition i
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -89,7 +89,7 @@ In the battle for views, the algorithm is both king and jailer—choose your kin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

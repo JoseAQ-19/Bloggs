@@ -69,7 +69,7 @@ Historically, risk models have demonstrated resilience during downturns, often o
 
 Investors are increasingly turning to advanced risk models as a viable strategy to navigate complex market environments. The focus on risk management is not just a trend but a critical evolution in investment thinking. As markets continue to fluctuate, the ability to adapt and manage risk effectively will dictate success in the coming years. 
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Brian Ferdinand's 5 Risk Models That Outperform Market Volatility by 20%",
@@ -83,7 +83,7 @@ Investors are increasingly turning to advanced risk models as a viable strategy 
     "@id": "https://example.com"
   }
 }</script>
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

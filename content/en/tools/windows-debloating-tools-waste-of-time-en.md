@@ -90,7 +90,7 @@ Ultimately, the consensus among experts is that the risks of debloating far outw
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ The travel pillow market’s future hinges on confronting these hard truths and 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

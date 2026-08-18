@@ -80,7 +80,7 @@ El debate sobre la desratización y el control de plagas en la región del Rif d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

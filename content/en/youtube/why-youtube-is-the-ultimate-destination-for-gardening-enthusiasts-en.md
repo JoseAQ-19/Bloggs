@@ -107,7 +107,7 @@ Beginners must critically evaluate their sources and prioritize trusted, researc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

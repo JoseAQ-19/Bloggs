@@ -95,7 +95,7 @@ The creator economy has never been more lucrative for platforms or more precario
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

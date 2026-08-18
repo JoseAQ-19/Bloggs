@@ -87,7 +87,7 @@ Las marcas deben adoptar un enfoque proactivo y ético en su publicidad en YouTu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

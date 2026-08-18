@@ -60,7 +60,7 @@ As the officiating crisis escalates, the future of high school sports in Iowa ha
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

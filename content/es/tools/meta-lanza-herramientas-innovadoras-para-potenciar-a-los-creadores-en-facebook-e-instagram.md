@@ -56,7 +56,7 @@ Meta presenta su IA como una herramienta de "creatividad potenciada", pero su in
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

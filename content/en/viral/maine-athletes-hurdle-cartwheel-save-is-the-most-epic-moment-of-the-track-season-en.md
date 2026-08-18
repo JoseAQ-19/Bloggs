@@ -84,7 +84,7 @@ The future of track and field hinges on prioritizing athlete safety over perform
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

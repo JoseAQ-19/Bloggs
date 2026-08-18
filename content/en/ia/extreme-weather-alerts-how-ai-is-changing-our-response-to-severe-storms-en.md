@@ -85,7 +85,7 @@ Speed without physics is just hype. AI weather forecasting's 100,000x accelerati
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

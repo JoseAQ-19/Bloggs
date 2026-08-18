@@ -104,7 +104,7 @@ La industria del ciclismo debe reconocer la importancia de ofrecer productos que
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

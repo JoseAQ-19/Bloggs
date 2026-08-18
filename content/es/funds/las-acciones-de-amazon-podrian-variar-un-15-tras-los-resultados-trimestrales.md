@@ -71,7 +71,7 @@ La inflación puede afectar los costos operativos de Amazon, pero su capacidad p
 Los analistas tienen opiniones mixtas, pero muchos creen que la compañía tiene un sólido potencial de crecimiento a largo plazo si puede manejar los desafíos actuales.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -89,7 +89,7 @@ Los analistas tienen opiniones mixtas, pero muchos creen que la compañía tiene
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

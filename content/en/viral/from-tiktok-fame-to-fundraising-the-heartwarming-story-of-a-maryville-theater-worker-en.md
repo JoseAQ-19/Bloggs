@@ -84,7 +84,7 @@ When one person dances, an entire community can join in and make a difference. T
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

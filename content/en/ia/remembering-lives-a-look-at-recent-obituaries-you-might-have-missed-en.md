@@ -114,7 +114,7 @@ The mourning market’s growth is no accident—it’s a data-driven, compute-in
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -63,7 +63,7 @@ La verdencia de "Iron Lung" no está en su recaudación, sino en su sinceridad b
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

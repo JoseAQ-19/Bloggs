@@ -58,7 +58,7 @@ Modular versatility translates to operational fragility. Physical attachment poi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

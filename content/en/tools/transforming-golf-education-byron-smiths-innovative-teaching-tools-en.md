@@ -80,7 +80,7 @@ With the right tools, every golfer can unlock their full potential on the course
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

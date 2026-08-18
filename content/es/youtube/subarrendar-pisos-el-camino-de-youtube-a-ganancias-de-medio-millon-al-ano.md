@@ -95,7 +95,7 @@ Cerrar el negocio de subarrendar sin permiso podría ser la mejor decisión para
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

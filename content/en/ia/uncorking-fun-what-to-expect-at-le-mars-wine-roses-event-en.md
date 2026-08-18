@@ -86,7 +86,7 @@ As the industry progresses, stakeholders must advocate for transparency in model
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

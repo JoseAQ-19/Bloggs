@@ -80,7 +80,7 @@ The future of fitness is here, and it’s powered by AI—don’t get left behin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

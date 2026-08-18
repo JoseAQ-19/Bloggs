@@ -75,7 +75,7 @@ Se recomienda visitar la instalación para experimentar de primera mano su impac
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

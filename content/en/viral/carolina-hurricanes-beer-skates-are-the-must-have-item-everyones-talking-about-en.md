@@ -82,7 +82,7 @@ Beer Skates are more than a novelty—they represent a new era in sports merchan
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -150,7 +150,7 @@ In the world of creativity, laughter should reign supreme, not litigation.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

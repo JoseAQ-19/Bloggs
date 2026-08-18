@@ -80,7 +80,7 @@ Aberdeen's closed-end funds have shown strong performance, with the Aberdeen Glo
 Experts have expressed mixed views; while some praise the commitment to increasing distributions, others caution about the potential risks associated with higher yields in a volatile market.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

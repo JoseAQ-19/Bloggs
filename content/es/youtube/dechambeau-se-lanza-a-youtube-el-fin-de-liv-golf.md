@@ -88,7 +88,7 @@ La transición hacia una nueva era en el golf está en marcha, y el futuro de LI
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

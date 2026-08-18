@@ -74,7 +74,7 @@ Recomiendo a los consumidores estar atentos a las reseñas y comparativas antes 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

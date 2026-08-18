@@ -84,7 +84,7 @@ In the battle for brainpower, sweat is the only nootropic that actually works.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

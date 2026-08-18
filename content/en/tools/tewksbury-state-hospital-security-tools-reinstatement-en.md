@@ -108,7 +108,7 @@ The reinstatement of defensive weapons at Tewksbury Hospital is a tacit admissio
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

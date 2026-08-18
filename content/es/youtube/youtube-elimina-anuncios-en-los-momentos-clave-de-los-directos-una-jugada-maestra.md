@@ -76,7 +76,7 @@ Los creadores de contenido deben diversificar sus fuentes de ingresos y explorar
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

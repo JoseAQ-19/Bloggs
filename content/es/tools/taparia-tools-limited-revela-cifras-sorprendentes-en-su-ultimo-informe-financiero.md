@@ -82,7 +82,7 @@ Invertir en tecnologías de optimización de costos y diversificación de provee
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

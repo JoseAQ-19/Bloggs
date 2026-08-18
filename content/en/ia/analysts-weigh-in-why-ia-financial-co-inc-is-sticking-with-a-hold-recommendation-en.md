@@ -67,7 +67,7 @@ The "Hold" recommendation is a lie of omission; it omits the fact that the oppor
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

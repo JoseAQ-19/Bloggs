@@ -73,7 +73,7 @@ La desconfianza de los médicos hacia la IA en salud es un llamado de atención 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

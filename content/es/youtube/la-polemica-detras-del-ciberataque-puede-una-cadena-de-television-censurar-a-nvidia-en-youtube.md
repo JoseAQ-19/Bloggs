@@ -69,7 +69,7 @@ El escándalo de Nvidia no es solo un caso aislado; es un llamado de atención s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

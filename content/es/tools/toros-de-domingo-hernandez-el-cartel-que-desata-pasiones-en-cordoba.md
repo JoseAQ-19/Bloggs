@@ -67,7 +67,7 @@ La tauromaquia, aunque rica en tradición, debe evolucionar para responder a las
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

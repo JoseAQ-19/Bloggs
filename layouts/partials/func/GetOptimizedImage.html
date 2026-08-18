@@ -24,60 +24,78 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 
 {{/* Attempt 1: Page bundle resource match */}}
 {{- with $page.Params.featured_image -}}
-{{- with $page.Resources.GetMatch . -}}
-{{- $img600 := .Resize $spec -}}
-<img src="{{ $img600.RelPermalink }}"
-    width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
-    alt="{{ $alt }}" class="{{ $class }}"
-    style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}"
-    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
-{{- $processed = true -}}
-{{- end -}}
-{{- end -}}
-
-{{/* Attempt 2: Global assets */}}
-{{- if not $processed -}}
-{{- with $page.Params.featured_image -}}
-{{- $cleanPath := strings.TrimPrefix "/" . -}}
-{{- with resources.Get $cleanPath -}}
-{{- $img600 := .Resize $spec -}}
-<img src="{{ $img600.RelPermalink }}"
-    width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
-    alt="{{ $alt }}" class="{{ $class }}"
-    style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}"
-    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
-{{- $processed = true -}}
-{{- end -}}
-{{- end -}}
+  {{- with $page.Resources.GetMatch . -}}
+    {{- $img := .Resize $spec -}}
+    <img src="{{ $img.RelPermalink }}"
+        width="{{ $img.Width }}" height="{{ $img.Height }}" 
+        alt="{{ $alt }}" class="{{ $class }}"
+        style="{{ $style | safeCSS }}"
+        loading="{{ $loading }}" decoding="{{ $decoding }}"
+        {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
+    {{- $processed = true -}}
+  {{- end -}}
 {{- end -}}
 
-{{/* Attempt 3: External URL fetching via resources.GetRemote */}}
+{{/* Attempt 2: Page bundle default image search (featured.*, cover.*) */}}
 {{- if not $processed -}}
-{{- if in $featured_image "http" -}}
-{{- with resources.GetRemote $featured_image -}}
-{{- if eq .ResourceType "image" -}}
-{{- $img600 := .Resize $spec -}}
-<img src="{{ $img600.RelPermalink }}"
-    width="{{ $img600.Width }}" height="{{ $img600.Height }}"
-    alt="{{ $alt }}" class="{{ $class }}"
-    style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}"
-    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
-{{- $processed = true -}}
-{{- end -}}
-{{- end -}}
-{{- end -}}
+  {{- with $page.Resources.ByType "image" -}}
+    {{- with .GetMatch "**{feature,cover}*" -}}
+      {{- $img := .Resize $spec -}}
+      <img src="{{ $img.RelPermalink }}"
+          width="{{ $img.Width }}" height="{{ $img.Height }}" 
+          alt="{{ $alt }}" class="{{ $class }}"
+          style="{{ $style | safeCSS }}"
+          loading="{{ $loading }}" decoding="{{ $decoding }}"
+          {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
+      {{- $processed = true -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 
-{{/* Fallback: Raw external URL or non-processable */}}
+{{/* Attempt 3: Global assets resource (assets/) */}}
 {{- if not $processed -}}
-<img src="{{ $featured_image }}" alt="{{ $alt }}" class="{{ $class }}" 
-    width="800" height="450"
-    style="{{ $style | safeCSS }}"
-    loading="{{ $loading }}" decoding="{{ $decoding }}"
-    {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
+  {{- with $page.Params.featured_image -}}
+    {{- $cleanPath := strings.TrimPrefix "/" . -}}
+    {{- with resources.Get $cleanPath -}}
+      {{- $img := .Resize $spec -}}
+      <img src="{{ $img.RelPermalink }}"
+          width="{{ $img.Width }}" height="{{ $img.Height }}" 
+          alt="{{ $alt }}" class="{{ $class }}"
+          style="{{ $style | safeCSS }}"
+          loading="{{ $loading }}" decoding="{{ $decoding }}"
+          {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
+      {{- $processed = true -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Attempt 4: External URL fetching via resources.GetRemote ONLY for valid non-localhost remote URLs */}}
+{{- if not $processed -}}
+  {{- if and (or (hasPrefix $featured_image "http://") (hasPrefix $featured_image "https://")) (not (in $featured_image "localhost")) (not (in $featured_image "127.0.0.1")) -}}
+    {{- with try (resources.GetRemote $featured_image) -}}
+      {{- with .Value -}}
+        {{- if eq .ResourceType "image" -}}
+          {{- $img := .Resize $spec -}}
+          <img src="{{ $img.RelPermalink }}"
+              width="{{ $img.Width }}" height="{{ $img.Height }}"
+              alt="{{ $alt }}" class="{{ $class }}"
+              style="{{ $style | safeCSS }}"
+              loading="{{ $loading }}" decoding="{{ $decoding }}"
+              {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
+          {{- $processed = true -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Fallback: Static URL or raw relative path */}}
+{{- if not $processed -}}
+  <img src="{{ $featured_image | relURL }}" alt="{{ $alt }}" class="{{ $class }}" 
+      width="1200" height="675"
+      style="{{ $style | safeCSS }}"
+      loading="{{ $loading }}" decoding="{{ $decoding }}"
+      {{ if eq $loading "eager" }}fetchpriority="high"{{ end }}>
 {{- end -}}
 
 {{- end -}}

@@ -80,7 +80,7 @@ Yes, many mutual funds and ETFs focus on REITs, providing diversified exposure t
 
 Investors aiming for robust returns in the REIT sector must navigate both opportunities and risks thoughtfully. With careful analysis and strategic selection, REITs can remain a lucrative investment avenue in 2026 and beyond.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Top 5 REITs with Over 10% Annual Returns for 2026",

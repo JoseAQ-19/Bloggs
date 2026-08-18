@@ -75,7 +75,7 @@ La optimización de sitios web no es una tendencia pasajera, es una necesidad de
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

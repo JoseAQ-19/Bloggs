@@ -74,7 +74,7 @@ Yes, the fund is designed to provide regular rental income distributions to inve
 
 The Starlight UK Build-to-Rent Fund II represents a robust investment opportunity in a challenging housing market. As we navigate economic uncertainties, the fund's focus on sustainable rental solutions aligns well with both investor interests and societal needs. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -87,7 +87,7 @@ The Starlight UK Build-to-Rent Fund II represents a robust investment opportunit
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

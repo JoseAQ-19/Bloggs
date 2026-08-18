@@ -76,7 +76,7 @@ In an age where viral moments can define public perception, the responsibility l
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

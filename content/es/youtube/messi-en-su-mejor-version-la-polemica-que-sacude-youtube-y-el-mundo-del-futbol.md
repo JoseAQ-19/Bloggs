@@ -71,7 +71,7 @@ En definitiva, Messi puede seguir siendo un faro mediático, pero el verdadero f
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

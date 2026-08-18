@@ -92,7 +92,7 @@ The path forward requires both immediate enforcement actions and long-term struc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -78,7 +78,7 @@ Investors can monitor MORN's performance through financial news platforms and th
 
 We believe that the Fast-Track IPO Index Strategy represents a significant opportunity for MORN to enhance its investment appeal. The combination of historical performance with the potential for future growth positions the fund favorably in a competitive landscape. However, it is imperative for investors to conduct comprehensive due diligence and consider their risk tolerance before committing capital to this innovative strategy. The IPO market can offer substantial rewards, but it is not without its pitfalls, and a balanced approach remains essential for successful investing. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -96,7 +96,7 @@ We believe that the Fast-Track IPO Index Strategy represents a significant oppor
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

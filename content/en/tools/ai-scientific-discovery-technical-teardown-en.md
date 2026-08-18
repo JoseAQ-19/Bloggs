@@ -70,7 +70,7 @@ The transformative potential of AI in scientific research is immense, but it com
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

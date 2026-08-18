@@ -75,7 +75,7 @@ Brands should immediately reassess their advertising strategies to incorporate Y
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

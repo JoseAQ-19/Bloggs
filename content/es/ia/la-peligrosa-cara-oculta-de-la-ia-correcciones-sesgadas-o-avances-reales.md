@@ -75,7 +75,7 @@ La implementación de políticas inclusivas y la creación de equipos diversos s
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

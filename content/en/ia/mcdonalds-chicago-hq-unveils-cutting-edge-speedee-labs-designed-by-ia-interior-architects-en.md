@@ -81,7 +81,7 @@ McDonald's Speedee Labs is a high-stakes wager on automation and design to drive
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

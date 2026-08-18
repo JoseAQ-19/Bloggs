@@ -94,7 +94,7 @@ The festival serves as a reminder that the quest for empowerment in the fitness 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -84,7 +84,7 @@ The regulatory environment, governed by the IHSAA and outlined in [state legisla
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

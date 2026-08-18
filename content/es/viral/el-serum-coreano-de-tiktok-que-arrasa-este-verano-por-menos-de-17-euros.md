@@ -70,7 +70,7 @@ La cosmética coreana no es revolucionaria, sino una maquinaria de capitalismo e
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

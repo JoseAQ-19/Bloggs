@@ -85,7 +85,7 @@ La estrategia de Tijjani Reijnders para dominar YouTube no es una fórmula mági
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -93,7 +93,7 @@ The summer of 2026 won’t just be remembered for the heat, but for a sugary pow
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

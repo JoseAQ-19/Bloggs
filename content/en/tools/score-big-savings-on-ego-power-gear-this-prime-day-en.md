@@ -56,7 +56,7 @@ En resumen, las herramientas eléctricas de EGO Power+ son una excelente opción
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

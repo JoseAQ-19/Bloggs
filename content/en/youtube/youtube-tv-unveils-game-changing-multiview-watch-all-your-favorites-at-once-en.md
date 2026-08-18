@@ -82,7 +82,7 @@ In the battle for viewership, flexibility is no longer just a luxury—it's a ne
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

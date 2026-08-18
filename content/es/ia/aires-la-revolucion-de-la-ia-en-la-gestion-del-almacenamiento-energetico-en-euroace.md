@@ -92,7 +92,7 @@ La implementación de AIRES puede ser una herramienta poderosa en la lucha contr
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

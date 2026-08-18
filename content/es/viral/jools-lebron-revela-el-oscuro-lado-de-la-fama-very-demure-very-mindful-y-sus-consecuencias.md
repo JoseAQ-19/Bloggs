@@ -95,7 +95,7 @@ La fama digital no es un trampolín, sino una trampa de acero. Jools Lebron no f
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

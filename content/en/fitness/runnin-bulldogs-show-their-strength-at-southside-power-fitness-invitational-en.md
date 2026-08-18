@@ -85,7 +85,7 @@ The crisis in college athletics demands immediate attention to athlete mental he
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

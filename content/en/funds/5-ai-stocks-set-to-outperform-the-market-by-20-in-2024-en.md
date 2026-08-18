@@ -111,7 +111,7 @@ Timing the market can be challenging. A diversified investment strategy that inc
 Investing in AI stocks necessitates a combination of optimism for growth and a pragmatic understanding of the risks involved. The landscape is evolving, and astute investors will harness opportunities while remaining vigilant against inherent market volatility. 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -131,7 +131,7 @@ Investing in AI stocks necessitates a combination of optimism for growth and a p
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

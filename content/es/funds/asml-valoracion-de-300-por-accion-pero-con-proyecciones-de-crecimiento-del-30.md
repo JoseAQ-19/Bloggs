@@ -75,7 +75,7 @@ Una estrategia a largo plazo podría ser la más efectiva, considerando su poten
 Creemos que la inversión en ASML puede ser beneficiosa en el contexto actual del mercado tecnológico, siempre y cuando los inversores sean conscientes de los riesgos y mantengan una perspectiva a largo plazo. La combinación de un sólido crecimiento esperado y una valoración actual elevada sugiere que los inversores deben actuar con cautela, evaluando continuamente su posición en el mercado y ajustando sus inversiones según sea necesario.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -93,7 +93,7 @@ Creemos que la inversión en ASML puede ser beneficiosa en el contexto actual de
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

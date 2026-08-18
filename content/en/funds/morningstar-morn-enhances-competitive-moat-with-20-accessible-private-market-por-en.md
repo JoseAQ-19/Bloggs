@@ -74,7 +74,7 @@ Morningstar’s extensive research capabilities and commitment to transparency m
 ### What should I consider before investing in private markets?
 Investors should consider their risk tolerance, investment horizon, and the complexities associated with private market investments, including potential illiquidity and valuation challenges.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -93,7 +93,7 @@ Investors should consider their risk tolerance, investment horizon, and the comp
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

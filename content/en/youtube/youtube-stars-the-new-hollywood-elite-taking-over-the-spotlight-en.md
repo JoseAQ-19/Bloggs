@@ -86,7 +86,7 @@ As we continue to witness this evolution, it becomes apparent that the days of t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

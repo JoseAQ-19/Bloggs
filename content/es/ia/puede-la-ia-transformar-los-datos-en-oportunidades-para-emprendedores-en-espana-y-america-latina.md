@@ -79,7 +79,7 @@ Recomiendo a los empresarios que prioricen la formación en IA y la mejora de su
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

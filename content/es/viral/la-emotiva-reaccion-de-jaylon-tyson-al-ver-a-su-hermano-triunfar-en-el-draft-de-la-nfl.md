@@ -83,7 +83,7 @@ La historia de los Tyson es un ejemplo de cómo el talento español está ganand
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

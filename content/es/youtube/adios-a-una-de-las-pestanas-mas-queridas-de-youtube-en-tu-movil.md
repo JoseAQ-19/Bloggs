@@ -63,7 +63,7 @@ El veredicto es claro: YouTube está cavando su propia tumba al priorizar gananc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

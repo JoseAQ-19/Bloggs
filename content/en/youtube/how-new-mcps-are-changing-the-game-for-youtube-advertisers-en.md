@@ -71,7 +71,7 @@ In conclusion, advertisers must adapt quickly or risk being left behind. The era
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

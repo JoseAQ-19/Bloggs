@@ -75,7 +75,7 @@ Se recomienda a los clubes ser cautelosos y considerar el desarrollo a largo pla
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

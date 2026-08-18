@@ -65,7 +65,7 @@ Sin una regulación ética y eficaz, la inteligencia artificial no será una her
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

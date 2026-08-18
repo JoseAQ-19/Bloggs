@@ -76,7 +76,7 @@ The future outlook for private equity remains positive, with expectations of con
 ### How do performance fees work in private equity?
 Performance fees in private equity typically involve a "carry" structure, where managers earn a percentage of profits above a certain threshold, commonly around 20% of profits after returning initial capital to investors.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -90,7 +90,7 @@ En un mundo donde la viralidad no tiene fronteras, la autenticidad es el verdade
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

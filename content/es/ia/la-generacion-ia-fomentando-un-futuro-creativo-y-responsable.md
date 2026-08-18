@@ -73,7 +73,7 @@ La IA puede ser una aliada poderosa en el proceso creativo, pero no debe ser vis
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

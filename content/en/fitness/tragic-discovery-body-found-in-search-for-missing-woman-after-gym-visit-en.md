@@ -82,7 +82,7 @@ This tragedy should be a point of no return, compelling all stakeholders to tran
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -115,7 +115,7 @@ For those seeking to understand the raw mechanics behind crash data, the Nationa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

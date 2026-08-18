@@ -88,7 +88,7 @@ Supporting independent artists is not just a personal choice; it is a collective
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

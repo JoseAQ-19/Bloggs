@@ -78,7 +78,7 @@ Este protocolo de entrenamiento es diseñado para promover el progreso a largo p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

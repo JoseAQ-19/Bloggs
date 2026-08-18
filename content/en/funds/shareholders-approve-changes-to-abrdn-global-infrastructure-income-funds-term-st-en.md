@@ -91,7 +91,7 @@ The dividend yield for ASGI currently stands at 7.2%, which is attractive relati
 #### Should I invest in ASGI now?
 Investing in ASGI may be prudent given its strong performance metrics, but investors should carefully consider their risk tolerance and investment horizon.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

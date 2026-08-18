@@ -66,7 +66,7 @@ Yes, potential risks include market volatility and exposure to geopolitical tens
 ### How does this fund compare to other income-generating investments?
 The fund offers stable distributions but may be less cost-effective than some passive options, which could be a consideration for cost-sensitive investors. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

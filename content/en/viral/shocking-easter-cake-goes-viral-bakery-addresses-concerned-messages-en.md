@@ -81,7 +81,7 @@ As the food industry continues to evolve, consumers must advocate for stronger r
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

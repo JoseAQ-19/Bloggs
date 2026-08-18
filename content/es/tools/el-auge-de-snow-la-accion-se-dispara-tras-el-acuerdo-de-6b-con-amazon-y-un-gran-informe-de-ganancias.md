@@ -75,7 +75,7 @@ El acuerdo entre Snowflake y AWS es un paso audaz que podría ofrecer a las star
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

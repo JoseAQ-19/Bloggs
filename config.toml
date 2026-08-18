@@ -6,6 +6,12 @@ defaultContentLanguageInSubdir = true
 enableEmoji = true
 enableRobotsTXT = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [languages]
   [languages.en]
     languageName = "English"

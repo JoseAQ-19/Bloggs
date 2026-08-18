@@ -69,7 +69,7 @@ With AI superchips redefining the landscape, the question isn't if you’ll adap
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

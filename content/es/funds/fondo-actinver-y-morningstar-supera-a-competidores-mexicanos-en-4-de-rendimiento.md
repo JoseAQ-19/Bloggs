@@ -76,7 +76,7 @@ La volatilidad del mercado y la concentración en un número limitado de activos
 Dada su sólida trayectoria y gestión activa, podría ser una opción atractiva para inversores que busquen rendimientos robustos a largo plazo, aunque la diversificación y la vigilancia de riesgos son esenciales.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -94,7 +94,7 @@ Dada su sólida trayectoria y gestión activa, podría ser una opción atractiva
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

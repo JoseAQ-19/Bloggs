@@ -80,7 +80,7 @@ In a landscape often dominated by rivalry and competition, McCarthy's act stands
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

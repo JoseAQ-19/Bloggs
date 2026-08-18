@@ -77,7 +77,7 @@ Se recomienda a los consumidores que apoyen la compra de plátanos locales a pre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

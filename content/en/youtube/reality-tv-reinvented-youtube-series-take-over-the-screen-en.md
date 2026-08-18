@@ -80,7 +80,7 @@ YouTube’s gamble on AI-driven interactive reality TV is a high-stakes bet wort
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

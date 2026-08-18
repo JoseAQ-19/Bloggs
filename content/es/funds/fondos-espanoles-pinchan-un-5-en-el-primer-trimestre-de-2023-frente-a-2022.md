@@ -80,7 +80,7 @@ Las métricas clave incluyen la rentabilidad histórica, la volatilidad y las ta
 Creemos que, a pesar de la volatilidad reciente, hay oportunidades valiosas en el mercado español. La selección de fondos debe basarse en un enfoque analítico que contemple tanto el rendimiento histórico como la gestión activa. Además, es vital mantenerse informado sobre las tendencias macroeconómicas y ajustar las carteras en consecuencia.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -97,7 +97,7 @@ Creemos que, a pesar de la volatilidad reciente, hay oportunidades valiosas en e
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

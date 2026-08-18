@@ -84,7 +84,7 @@ Dolls Fitness Studio exemplifies how creative and inclusive fitness solutions ca
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

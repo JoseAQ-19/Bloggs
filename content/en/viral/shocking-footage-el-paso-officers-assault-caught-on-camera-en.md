@@ -90,7 +90,7 @@ Without accountability, the badge becomes a shield for misconduct, not a symbol 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

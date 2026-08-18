@@ -71,7 +71,7 @@ Los riesgos incluyen alta volatilidad, falta de regulación, y la posibilidad de
 Creemos que la reciente caída de Bitcoin es un signo de la volatilidad inherente al mercado de criptomonedas. La diversificación y una estrategia de inversión a largo plazo son esenciales para navegar en este entorno incierto. Nos encontramos en un momento crítico donde los inversores deben evaluar su exposición y estar preparados para adaptarse a las condiciones cambiantes del mercado.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

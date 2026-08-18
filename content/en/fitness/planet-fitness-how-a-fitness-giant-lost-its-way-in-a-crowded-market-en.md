@@ -96,7 +96,7 @@ If Planet Fitness doesn't rethink its membership strategy, half its members migh
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

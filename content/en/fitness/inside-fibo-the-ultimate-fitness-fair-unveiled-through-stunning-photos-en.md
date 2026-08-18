@@ -93,7 +93,7 @@ The fitness revolution is here, but it is a double-edged sword that demands a di
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -99,7 +99,7 @@ For more on rural healthcare challenges and telehealth infrastructure, see **Iow
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -107,7 +107,7 @@ In the game of digital fandom, authenticity is the only asset that cannot be alg
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

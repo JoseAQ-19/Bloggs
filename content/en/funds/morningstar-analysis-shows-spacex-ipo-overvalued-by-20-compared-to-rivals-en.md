@@ -75,7 +75,7 @@ Given the perceived overvaluation and risks outlined, potential investors should
 
 Investors might explore more stable companies in the aerospace sector, such as Blue Origin, which have demonstrated consistent performance and more favorable valuations.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Morningstar Analysis Shows SpaceX IPO Overvalued by 20% Compared to Rivals",

@@ -106,7 +106,7 @@ Depender de YouTube para el almacenamiento masivo de datos es una negligencia im
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -75,7 +75,7 @@ Farm chores sold 250,000 tickets. Your labor might sell less.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

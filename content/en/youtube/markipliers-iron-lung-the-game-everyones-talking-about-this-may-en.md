@@ -90,7 +90,7 @@ In an industry that thrives on creativity and innovation, the success of indie g
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

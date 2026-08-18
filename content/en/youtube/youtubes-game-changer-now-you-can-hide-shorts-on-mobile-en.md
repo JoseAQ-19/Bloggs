@@ -74,7 +74,7 @@ YouTube Shorts algorithm currently functions as a discriminatory system favoring
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

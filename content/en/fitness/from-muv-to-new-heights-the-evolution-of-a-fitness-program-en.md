@@ -99,7 +99,7 @@ Don't let algorithms dictate your health journey; seek personalized guidance tha
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

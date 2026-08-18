@@ -72,7 +72,7 @@ AI in clinical trials is a scam wrapped in technological promises, with API limi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

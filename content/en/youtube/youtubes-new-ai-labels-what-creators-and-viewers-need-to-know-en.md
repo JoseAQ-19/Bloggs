@@ -97,7 +97,7 @@ YouTube's AI labeling initiative exposes fundamental flaws in platform transpare
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

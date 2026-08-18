@@ -61,7 +61,7 @@ El análisis de Pol Guasch invita a reflexionar sobre la responsabilidad que tie
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

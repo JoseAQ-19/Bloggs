@@ -51,7 +51,7 @@ La caída de 165,191 espectadores de Eurovisión 2026 en YouTube es el síntoma 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

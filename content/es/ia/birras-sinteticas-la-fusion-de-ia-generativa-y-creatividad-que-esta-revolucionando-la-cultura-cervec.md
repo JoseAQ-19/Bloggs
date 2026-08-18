@@ -75,7 +75,7 @@ La integración de IA en la industria cervecera es una evolución industrial ine
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

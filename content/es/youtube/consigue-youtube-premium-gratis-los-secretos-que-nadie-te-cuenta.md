@@ -69,7 +69,7 @@ La realidad es que YouTube Premium ofrece ventajas significativas, y aunque los 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

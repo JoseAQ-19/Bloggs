@@ -78,7 +78,7 @@ The bottom line is that where you live can make all the difference in your healt
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

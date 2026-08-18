@@ -76,7 +76,7 @@ El futuro de YouTube está en juego. La comunidad de creadores debe unirse para 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

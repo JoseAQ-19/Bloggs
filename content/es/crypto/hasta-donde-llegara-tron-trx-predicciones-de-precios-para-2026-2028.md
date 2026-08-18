@@ -72,7 +72,7 @@ Los retos son numerosos, pero TRON tiene el potencial de alcanzar los 10 dólare
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

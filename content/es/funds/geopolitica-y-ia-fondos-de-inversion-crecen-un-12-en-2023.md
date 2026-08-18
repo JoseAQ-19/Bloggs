@@ -77,7 +77,7 @@ La elección entre gestión activa y pasiva depende de los objetivos del inverso
 
 Creemos que la integración de la inteligencia artificial en la gestión de inversiones es una tendencia que continuará creciendo. Sin embargo, es vital mantener un enfoque equilibrado que incluya diversificación y una evaluación continua de los riesgos asociados. La combinación de una selección de fondos centrados en tecnología y una adecuada cobertura de los riesgos geopolíticos puede ofrecer una estrategia robusta para navegar por el complejo panorama de inversión actual.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -91,7 +91,7 @@ Creemos que la integración de la inteligencia artificial en la gestión de inve
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

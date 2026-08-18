@@ -64,7 +64,7 @@ En resumen, el anuncio de Apple sobre Siri AI es un paso importante en la direcc
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

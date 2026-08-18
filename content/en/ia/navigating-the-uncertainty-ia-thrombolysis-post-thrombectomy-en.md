@@ -63,7 +63,7 @@ AI-driven thrombolysis tools demonstrably accelerate stroke diagnosis and increa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

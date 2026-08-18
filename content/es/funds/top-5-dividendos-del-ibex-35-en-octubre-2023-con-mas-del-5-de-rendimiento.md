@@ -88,7 +88,7 @@ Creemos que las acciones del Ibex 35 con altos dividendos, como Telefónica, End
 ### Schema Markup
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -105,7 +105,7 @@ Creemos que las acciones del Ibex 35 con altos dividendos, como Telefónica, End
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

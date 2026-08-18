@@ -77,7 +77,7 @@ In the battle against Ebola, trust may just be the most powerful medicine.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -75,7 +75,7 @@ Invertir en el equipo adecuado no solo ahorra dinero, sino que también asegura 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

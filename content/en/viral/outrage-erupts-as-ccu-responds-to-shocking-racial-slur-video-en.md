@@ -75,7 +75,7 @@ In a climate where accountability and social justice are paramount, CCU must rec
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -103,7 +103,7 @@ The Backrooms phenomenon exposes the creator economy's fundamental myth of democ
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

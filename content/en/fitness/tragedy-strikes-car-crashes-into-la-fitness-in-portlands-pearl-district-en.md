@@ -88,7 +88,7 @@ A concrete recommendation for fitness centers is to conduct a comprehensive safe
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

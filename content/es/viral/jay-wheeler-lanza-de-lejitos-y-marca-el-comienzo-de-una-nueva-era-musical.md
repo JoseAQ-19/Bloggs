@@ -96,7 +96,7 @@ La viralidad de "De Lejitos" es una burbuja a punto de estallar. En 6 meses, dos
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -84,7 +84,7 @@ In a world where viruses evolve faster than our responses, the fight for effecti
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -87,7 +87,7 @@ Yes, most award-winning funds are available through various brokerage platforms.
 
 The Malaysian mutual fund industry continues to evolve, presenting both opportunities and challenges for investors. The trends reflected in the 2026 Morningstar Investment Excellence Awards underscore the importance of performance, cost-efficiency, and strategic asset allocation in achieving long-term investment success. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -101,7 +101,7 @@ The Malaysian mutual fund industry continues to evolve, presenting both opportun
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

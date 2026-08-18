@@ -79,7 +79,7 @@ In a world where virality can change everything, the key to success lies in navi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -81,7 +81,7 @@ The stakes are high as creators confront these challenges head-on. They must lev
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

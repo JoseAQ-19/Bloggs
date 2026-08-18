@@ -79,7 +79,7 @@ As AI continues to encroach on creative spaces, it is crucial for creators to re
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

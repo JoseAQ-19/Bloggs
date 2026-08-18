@@ -88,7 +88,7 @@ Referencias técnicas y análisis detallados pueden consultarse en las publicaci
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

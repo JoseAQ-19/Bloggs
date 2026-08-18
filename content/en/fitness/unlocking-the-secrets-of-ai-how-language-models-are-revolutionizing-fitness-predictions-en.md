@@ -77,7 +77,7 @@ As Evo redefines the landscape of genomic research, it is crucial for stakeholde
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

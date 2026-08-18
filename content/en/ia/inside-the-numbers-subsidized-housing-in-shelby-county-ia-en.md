@@ -84,7 +84,7 @@ The time for action is now. The choices made by local leaders in the coming mont
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

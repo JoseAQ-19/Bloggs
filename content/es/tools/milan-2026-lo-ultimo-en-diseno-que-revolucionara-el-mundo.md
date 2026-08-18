@@ -70,7 +70,7 @@ El futuro de nuestras ciudades depende de nuestra capacidad para innovar y adapt
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -73,7 +73,7 @@ Al seguir estos pasos, puedes construir una comunidad exitosa que fomente la lea
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

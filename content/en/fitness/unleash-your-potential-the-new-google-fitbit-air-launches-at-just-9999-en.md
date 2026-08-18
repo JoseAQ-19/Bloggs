@@ -72,7 +72,7 @@ Google’s Fitbit Air represents a significant step toward making advanced fitne
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -71,7 +71,7 @@ Embrace your unique story; it could be the key to your own viral moment.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

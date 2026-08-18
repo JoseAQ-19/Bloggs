@@ -82,7 +82,7 @@ With clear-eyed leadership and resource mobilization, Iowa’s nonprofits could 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

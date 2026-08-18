@@ -80,7 +80,7 @@ La responsabilidad no solo recae en los usuarios, sino también en las plataform
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

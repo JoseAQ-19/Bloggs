@@ -81,7 +81,7 @@ The purchase of Kelly Clarkson's house by her granddaughter underscores the fund
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

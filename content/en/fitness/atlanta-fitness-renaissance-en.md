@@ -63,7 +63,7 @@ Furthermore, the reliance on wearables can create a dependency on external valid
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

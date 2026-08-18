@@ -85,7 +85,7 @@ In the battle for your screen time, British TV is taking the crown.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

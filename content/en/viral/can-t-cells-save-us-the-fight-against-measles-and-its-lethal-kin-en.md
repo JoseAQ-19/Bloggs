@@ -71,7 +71,7 @@ To prepare for this new paradigm, public health officials should begin integrati
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

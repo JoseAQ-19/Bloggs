@@ -70,7 +70,7 @@ El futuro del video es solo uno de los muchos ámbitos en los que el AI está te
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

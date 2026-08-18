@@ -77,7 +77,7 @@ Con el incremento previsto en el gasto en defensa, se espera que Rheinmetall cre
 
 Creemos que Rheinmetall presenta una oportunidad atractiva de inversión tras la reciente caída de sus acciones, pero los inversores deben ser cautelosos y considerar tanto los fundamentos como los riesgos potenciales. La capacidad de la empresa para adaptarse a un entorno de defensa en evolución y su posición en el mercado serán clave para su éxito futuro.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Rheinmetall: Oportunidad de inversión tras una caída del 30% en sus acciones",
@@ -93,7 +93,7 @@ Creemos que Rheinmetall presenta una oportunidad atractiva de inversión tras la
   }
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

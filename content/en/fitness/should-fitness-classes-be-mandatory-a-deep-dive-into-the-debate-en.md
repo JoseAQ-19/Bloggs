@@ -75,7 +75,7 @@ In summary, the current landscape of compulsory physical education in the U.S. i
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

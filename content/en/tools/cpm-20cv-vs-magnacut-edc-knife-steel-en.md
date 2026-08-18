@@ -88,7 +88,7 @@ The metallurgical truth is that wear resistance cannot be faked, and CPM-20CV re
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

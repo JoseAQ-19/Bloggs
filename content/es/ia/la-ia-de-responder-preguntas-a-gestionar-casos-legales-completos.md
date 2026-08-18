@@ -84,7 +84,7 @@ El desafío es enorme, pero las recompensas pueden ser significativas. La clave 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

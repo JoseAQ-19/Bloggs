@@ -82,7 +82,7 @@ In a world where fun should never come at the cost of safety, prioritizing our c
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

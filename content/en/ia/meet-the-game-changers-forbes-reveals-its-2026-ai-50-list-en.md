@@ -64,7 +64,7 @@ The constraint is no longer human coordination; it is model hallucination and la
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

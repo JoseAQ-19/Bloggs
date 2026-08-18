@@ -64,7 +64,7 @@ The failure to recognize chimpanzee engineering isn't just scientific malpractic
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

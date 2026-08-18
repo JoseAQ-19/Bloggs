@@ -76,7 +76,7 @@ Nuestra lectura es clara: la IA no es un mito ni una promesa, sino una realidad 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

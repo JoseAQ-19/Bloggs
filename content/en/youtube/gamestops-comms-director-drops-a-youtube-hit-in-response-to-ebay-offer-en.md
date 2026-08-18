@@ -95,7 +95,7 @@ In a world where clarity is currency, GameStop may be running low.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

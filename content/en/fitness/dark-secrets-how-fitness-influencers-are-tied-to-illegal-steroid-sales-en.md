@@ -89,7 +89,7 @@ In the quest for fitness, the truth is often the first casualty.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

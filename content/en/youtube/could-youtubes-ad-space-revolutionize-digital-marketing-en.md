@@ -87,7 +87,7 @@ Adapt or fade away—YouTube's new ad space is here to stay, and so should your 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

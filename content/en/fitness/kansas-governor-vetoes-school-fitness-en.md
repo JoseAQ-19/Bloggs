@@ -82,7 +82,7 @@ If proactive measures are not taken today, we risk compromising the futures of o
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -107,7 +107,7 @@ The U.S. must urgently accelerate its drone technology development to maintain a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -80,7 +80,7 @@ Recomiendo invertir en la investigación de alimentos que no solo sean nutritivo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

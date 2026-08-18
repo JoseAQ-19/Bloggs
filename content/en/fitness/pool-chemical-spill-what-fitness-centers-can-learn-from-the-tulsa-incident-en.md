@@ -88,7 +88,7 @@ By actively prioritizing safety and compliance, fitness centers not only protect
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

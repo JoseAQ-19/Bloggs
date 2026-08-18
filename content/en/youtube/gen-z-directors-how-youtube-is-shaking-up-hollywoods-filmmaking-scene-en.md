@@ -65,7 +65,7 @@ The revolution is here; Hollywood must adapt or risk being left behind in the wa
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

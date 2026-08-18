@@ -80,7 +80,7 @@ As we explore the future of digital education, it is crucial to recognize that t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

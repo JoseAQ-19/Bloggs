@@ -72,7 +72,7 @@ La inteligencia artificial generativa es una espada de doble filo que amenaza nu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -103,7 +103,7 @@ If YouTube doesn't listen, the platform risks losing its most vibrant creatorsâ€
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

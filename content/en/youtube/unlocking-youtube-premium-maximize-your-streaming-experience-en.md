@@ -87,7 +87,7 @@ Google's monetization gamble may pay off in the immediate term, but the streamin
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

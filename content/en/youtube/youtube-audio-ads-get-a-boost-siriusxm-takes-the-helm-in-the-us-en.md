@@ -86,7 +86,7 @@ This partnership has the potential to reshape the audio advertising landscape bu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

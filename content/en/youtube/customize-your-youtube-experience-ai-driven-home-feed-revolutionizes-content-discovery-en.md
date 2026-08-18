@@ -61,7 +61,7 @@ YouTube's AI-driven personalization, the engine behind its $33.5 billion ad reve
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

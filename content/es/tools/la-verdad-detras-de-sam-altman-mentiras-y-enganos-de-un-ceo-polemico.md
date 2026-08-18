@@ -80,7 +80,7 @@ La verdad siempre encuentra la manera de salir a la luz, y esta vez podría camb
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

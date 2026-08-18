@@ -87,7 +87,7 @@ Recomiendo que se prioricen programas de capacitación para voluntarios comunita
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

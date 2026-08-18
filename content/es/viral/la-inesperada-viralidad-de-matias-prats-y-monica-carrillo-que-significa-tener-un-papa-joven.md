@@ -83,7 +83,7 @@ La viralidad no es solo una tendencia; es el futuro de la televisi√≥n. El desaf√
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

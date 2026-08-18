@@ -50,7 +50,7 @@ YouTube's NFL pipeline is here to stay — but until the NCAA and NFL get out of
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

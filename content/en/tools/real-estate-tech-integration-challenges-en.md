@@ -93,7 +93,7 @@ Legacy systems pose a fundamental barrier to PropTech's technological evolution,
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

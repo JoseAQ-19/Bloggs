@@ -59,7 +59,7 @@ El burnout entre los creadores de contenido es un problema crítico que no se pu
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

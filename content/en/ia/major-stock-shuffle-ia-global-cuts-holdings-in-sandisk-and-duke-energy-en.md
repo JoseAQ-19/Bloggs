@@ -67,7 +67,7 @@ With both companies at a crossroads, now is the time for investors to reassess t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

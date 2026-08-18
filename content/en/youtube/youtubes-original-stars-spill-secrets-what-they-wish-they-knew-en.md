@@ -81,7 +81,7 @@ If we don't talk about burnout, we'll lose the voices that shape our digital lan
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -105,7 +105,7 @@ Las ganancias de capital generadas por la venta de participaciones en estos fond
 
 Para aquellos que desean invertir en el futuro, los fondos indexados al Nasdaq 100 representan una opción atractiva, considerando su rendimiento histórico. Sin embargo, se debe tener en cuenta la volatilidad y el riesgo asociado con el sector tecnológico. La diversificación es clave, y los inversores deberían considerar su perfil de riesgo antes de tomar cualquier decisión.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -122,7 +122,7 @@ Para aquellos que desean invertir en el futuro, los fondos indexados al Nasdaq 1
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

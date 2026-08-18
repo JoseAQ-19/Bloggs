@@ -74,7 +74,7 @@ Para entender mejor la evolución de agentes autónomos y arquitecturas MoE, se 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

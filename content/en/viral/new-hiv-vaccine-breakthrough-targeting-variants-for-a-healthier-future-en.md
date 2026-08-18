@@ -88,7 +88,7 @@ As we stand on the brink of a potential breakthrough, it is imperative that stak
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

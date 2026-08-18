@@ -76,7 +76,7 @@ La automatización industrial es una palanca de eficiencia ineludible, pero su i
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

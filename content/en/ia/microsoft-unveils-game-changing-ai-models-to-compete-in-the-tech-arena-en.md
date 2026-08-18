@@ -104,7 +104,7 @@ The bubble of inflated expectations will burst when the electricity bill comes d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

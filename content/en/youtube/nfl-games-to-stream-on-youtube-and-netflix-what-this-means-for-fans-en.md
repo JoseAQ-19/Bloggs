@@ -105,7 +105,7 @@ As streaming reshapes the NFL, the game might just be changing faster than the f
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

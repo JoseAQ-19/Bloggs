@@ -86,7 +86,7 @@ The reality is that defense innovation is as much about navigating bureaucracy, 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

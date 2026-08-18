@@ -78,7 +78,7 @@ La situación actual exige una respuesta colectiva y concertada. Desde las insti
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

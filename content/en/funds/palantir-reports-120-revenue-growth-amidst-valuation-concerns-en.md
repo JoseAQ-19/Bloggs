@@ -74,7 +74,7 @@ Investors should consider Palantir's revenue growth, cost structure, market comp
 ### How do analysts view Palantir's growth potential?
 Analysts have mixed opinions about Palantir's growth potential, with some praising its revenue growth and others cautioning against its high valuation.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -89,7 +89,7 @@ Analysts have mixed opinions about Palantir's growth potential, with some praisi
   "keywords": "Palantir, revenue growth, valuation, investment risks"
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

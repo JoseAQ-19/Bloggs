@@ -73,7 +73,7 @@ La trágica ironía es que MrBeast, quien construyó su éxito sobre la creativi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

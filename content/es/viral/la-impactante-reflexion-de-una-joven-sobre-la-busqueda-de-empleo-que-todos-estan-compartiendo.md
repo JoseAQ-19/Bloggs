@@ -87,7 +87,7 @@ La búsqueda de empleo no es solo un trabajo; es una estrategia que puede adapta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

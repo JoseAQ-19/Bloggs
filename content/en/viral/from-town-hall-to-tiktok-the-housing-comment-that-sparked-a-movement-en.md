@@ -79,7 +79,7 @@ The stakes are high. Failure to act now could result in an irreversible shift in
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

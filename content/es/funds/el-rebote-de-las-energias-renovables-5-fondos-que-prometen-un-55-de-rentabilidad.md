@@ -105,7 +105,7 @@ El **Fondo Solar Global** ha mostrado el mejor rendimiento histórico, pero la s
 
 Nuestra análisis muestra que la inversión en fondos de energías renovables es una oportunidad atractiva, siempre que se realice con un enfoque claro y fundamentado. La clave será mantener un horizonte de inversión a largo plazo y estar preparados para la volatilidad que caracteriza a este sector en crecimiento. Con la tendencia global hacia la sostenibilidad, estos fondos no solo ofrecen la posibilidad de altos rendimientos, sino que también contribuyen a un futuro más limpio y sostenible. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -121,7 +121,7 @@ Nuestra análisis muestra que la inversión en fondos de energías renovables es
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

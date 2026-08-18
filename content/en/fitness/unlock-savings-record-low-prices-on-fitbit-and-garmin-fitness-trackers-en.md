@@ -98,7 +98,7 @@ Fuente validada disponible: https://news.google.com/rss/articles/CBMizgFBVV95cUx
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

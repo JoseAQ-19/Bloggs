@@ -83,7 +83,7 @@ The recommendation is clear: users should actively seek diverse viewpoints and q
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -311,7 +311,7 @@ The future of live events hinges on our ability to combat piracy and protect cre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

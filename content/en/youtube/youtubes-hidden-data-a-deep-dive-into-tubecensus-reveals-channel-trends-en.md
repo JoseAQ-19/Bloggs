@@ -65,7 +65,7 @@ YouTube's creator ecosystem is at a tipping point—will you adapt or be left be
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

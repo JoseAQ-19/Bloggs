@@ -79,7 +79,7 @@ The surge of AI tools in indie animation is a hostile takeover of the creative p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

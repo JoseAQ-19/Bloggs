@@ -60,7 +60,7 @@ Mientras que la IA de propósito general muestra promesa en la transformación d
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

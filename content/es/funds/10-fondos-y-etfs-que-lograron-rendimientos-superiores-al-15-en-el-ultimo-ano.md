@@ -88,7 +88,7 @@ La gestión activa puede ayudar a identificar oportunidades de inversión y adap
 Creemos que la clave para el éxito en la inversión radica en la combinación de análisis riguroso, selección de activos de calidad y una estrategia de gestión de riesgos sólida. Identificar fondos y ETFs que han logrado rendimientos excepcionales es solo el comienzo de un viaje hacia la construcción de un portafolio robusto y rentable. La diversificación y la atención a los costos son estrategias que no deben subestimarse, ya que, en última instancia, pueden marcar la diferencia en el rendimiento a largo plazo.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -102,7 +102,7 @@ Creemos que la clave para el éxito en la inversión radica en la combinación d
 </script>
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

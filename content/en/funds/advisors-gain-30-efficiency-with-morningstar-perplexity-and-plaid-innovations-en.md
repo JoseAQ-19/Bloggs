@@ -107,7 +107,7 @@ It's never too late to adopt AI. The technology is evolving, and those who begin
 
 The advancements provided by Morningstar, Perplexity, and Plaid are reshaping the advisory landscape, enabling advisors to offer enhanced services while navigating the complexities of modern investment management. This evolution not only benefits advisors but also their clients, ensuring a more informed and efficient approach to wealth management. 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -124,7 +124,7 @@ The advancements provided by Morningstar, Perplexity, and Plaid are reshaping th
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

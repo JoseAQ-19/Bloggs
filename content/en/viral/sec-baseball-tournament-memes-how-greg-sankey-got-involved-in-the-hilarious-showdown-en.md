@@ -89,7 +89,7 @@ Greg Sankey's call for clarity in meme regulations reflects a crucial moment for
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

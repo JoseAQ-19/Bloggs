@@ -92,7 +92,7 @@ The challenges are daunting, but by instilling a culture of critical thinking an
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

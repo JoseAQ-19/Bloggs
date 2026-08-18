@@ -70,7 +70,7 @@ Until proven otherwise, every rumor surrounding GTA 6 should be treated with cau
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -55,7 +55,7 @@ The confluence of papal urgency, economic displacement, and regulatory crackdown
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

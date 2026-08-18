@@ -87,7 +87,7 @@ Embrace the change: your well-being journey cannot afford to be a one-dimensiona
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

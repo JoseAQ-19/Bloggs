@@ -91,7 +91,7 @@ El verdadero desafío de Turnkey no es la implementación tecnológica, sino la 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

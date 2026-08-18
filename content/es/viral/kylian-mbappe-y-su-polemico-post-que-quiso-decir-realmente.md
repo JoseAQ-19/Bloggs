@@ -77,7 +77,7 @@ Silenciar a los críticos en el campo es el único lenguaje que Florentino y el 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

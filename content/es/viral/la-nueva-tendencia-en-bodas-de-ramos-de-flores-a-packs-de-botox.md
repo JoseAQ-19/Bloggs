@@ -103,7 +103,7 @@ La moda de los packs de bótox para novias es un síntoma de una sociedad enferm
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

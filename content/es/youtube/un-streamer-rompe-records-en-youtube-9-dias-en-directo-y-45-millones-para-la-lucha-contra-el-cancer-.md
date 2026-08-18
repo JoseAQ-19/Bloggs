@@ -89,7 +89,7 @@ La recaudación de 45 millones de euros es una hazaña logística y emocional, p
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

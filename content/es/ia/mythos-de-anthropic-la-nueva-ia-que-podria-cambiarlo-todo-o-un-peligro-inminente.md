@@ -81,7 +81,7 @@ Claude 3 es una herramienta de ingeniería impresionante, pero no es el oráculo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

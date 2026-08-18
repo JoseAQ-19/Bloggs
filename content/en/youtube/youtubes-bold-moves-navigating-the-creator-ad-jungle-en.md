@@ -73,7 +73,7 @@ As the platform evolves, adaptability will be key for creators looking to mainta
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

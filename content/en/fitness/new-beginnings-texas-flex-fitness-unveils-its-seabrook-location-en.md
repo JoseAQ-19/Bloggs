@@ -84,7 +84,7 @@ The transition to 24/7 access is not merely a trend but a necessary adaptation t
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

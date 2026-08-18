@@ -96,7 +96,7 @@ In navigating the complex landscape of mutual funds, we believe that a multiface
 
 Investors should remain vigilant, continuously reviewing their portfolios and adapting strategies in response to evolving market conditions. By leveraging the key metrics analyzed above, investors can enhance their fund selection process, ultimately leading to more informed and strategic investment choices.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -113,7 +113,7 @@ Investors should remain vigilant, continuously reviewing their portfolios and ad
 }
 </script> 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -86,7 +86,7 @@ Android Auto's rapid adoption is being eclipsed by significant user concerns and
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

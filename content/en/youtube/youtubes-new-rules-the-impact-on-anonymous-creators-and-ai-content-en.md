@@ -89,7 +89,7 @@ Ultimately, the decision to prioritize transparency over anonymity is a complex 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -64,7 +64,7 @@ YouTube’s outage wasn’t an anomaly—it’s a warning sign. The creator econ
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

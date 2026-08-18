@@ -80,7 +80,7 @@ La historia del fútbol estadounidense es más que goles; es un viaje que vale l
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

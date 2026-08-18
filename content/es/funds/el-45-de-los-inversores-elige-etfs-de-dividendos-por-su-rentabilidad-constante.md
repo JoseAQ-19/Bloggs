@@ -83,7 +83,7 @@ Creemos que la inclinación hacia los ETFs de dividendos es un movimiento inteli
 
 La clave está en la selección adecuada de fondos y la evaluación constante del mercado. Los ETFs de dividendos no solo representan una opción para obtener ingresos, sino que también pueden ser un componente esencial de una cartera diversificada y resiliente.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -100,7 +100,7 @@ La clave está en la selección adecuada de fondos y la evaluación constante de
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

@@ -52,7 +52,7 @@ AI is a costly distraction in neurology, not a panacea.
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

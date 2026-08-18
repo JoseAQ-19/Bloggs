@@ -55,7 +55,7 @@ Nuestra lectura: la popularidad de las frutinovelas expone la fragilidad de una 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

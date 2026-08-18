@@ -84,7 +84,7 @@ Every story of struggle serves as a reminder of the resilience and strength of r
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

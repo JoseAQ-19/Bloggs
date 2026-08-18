@@ -79,7 +79,7 @@ As the nugget craze takes flight, it is time for the industry to rethink what’
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

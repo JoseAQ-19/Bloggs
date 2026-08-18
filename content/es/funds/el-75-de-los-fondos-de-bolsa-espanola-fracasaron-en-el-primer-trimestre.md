@@ -84,7 +84,7 @@ Dada la evidencia de que muchos fondos no superan a sus índices de referencia, 
 El panorama de los fondos de inversión en España presenta desafíos significativos, pero también oportunidades para aquellos dispuestos a investigar y diversificar adecuadamente. El futuro se presenta incierto, y con la creciente tendencia hacia la inversión pasiva, las decisiones de los inversores serán más cruciales que nunca.
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

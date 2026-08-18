@@ -99,7 +99,7 @@ Los impuestos pueden afectar la rentabilidad neta de los fondos indexados. Es im
 
 Al evaluar fondos indexados al S&P 500 en 2026, es evidente que el rendimiento y las comisiones juegan un papel crucial en la toma de decisiones. La tendencia hacia la inversión pasiva sigue en aumento, y aquellos que busquen maximizar sus rendimientos deben considerar estos factores cuidadosamente.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Top 6 fondos indexados al S&P 500 en 2026: Rentabilidad y comisiones comparadas",
@@ -111,7 +111,7 @@ Al evaluar fondos indexados al S&P 500 en 2026, es evidente que el rendimiento y
   "mainEntityOfPage": "True"
 }</script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [{

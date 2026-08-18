@@ -81,7 +81,7 @@ Chad Hurley's EyeTell is a classic example of a solution looking for a problem, 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

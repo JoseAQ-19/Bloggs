@@ -92,7 +92,7 @@ Wear your health data wisely; it’s not just about tracking steps, but also abo
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

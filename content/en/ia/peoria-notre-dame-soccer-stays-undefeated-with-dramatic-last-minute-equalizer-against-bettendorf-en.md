@@ -84,7 +84,7 @@ The myth of straightforward recruitment success is unraveling, replaced by a rea
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

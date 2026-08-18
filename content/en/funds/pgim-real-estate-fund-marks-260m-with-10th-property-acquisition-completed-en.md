@@ -77,7 +77,7 @@ Yes, potential risks include market downturns, rising interest rates, and geopol
 ### How does the PGIM Real Estate Fund manage risk?
 The fund employs a diversified investment strategy across various property types and geographies to mitigate risks associated with specific markets.
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed",
@@ -89,7 +89,7 @@ The fund employs a diversified investment strategy across various property types
 }
 </script>
 
-<script type="application/ld+json">{
+<script type="application/ld+json">{</script>
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [

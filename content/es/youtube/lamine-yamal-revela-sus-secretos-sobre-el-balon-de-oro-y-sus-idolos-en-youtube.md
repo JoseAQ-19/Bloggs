@@ -74,7 +74,7 @@ El futuro del deporte y su reconocimiento está intrínsecamente ligado a la pre
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

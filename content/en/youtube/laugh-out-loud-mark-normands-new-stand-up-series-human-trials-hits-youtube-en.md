@@ -88,7 +88,7 @@ In the world of comedy, laughter may be the best medicine, but it’s important 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -91,7 +91,7 @@ La reprogramación metabólica no es una opción blanda, es una intervención m�
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

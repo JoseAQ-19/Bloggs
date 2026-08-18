@@ -101,7 +101,7 @@ If gyms want to keep their members, they need to ditch the obstacles and embrace
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -78,7 +78,7 @@ Digital cardiac rehabilitation is a tool with the potential to democratize acces
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

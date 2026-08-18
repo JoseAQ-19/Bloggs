@@ -72,7 +72,7 @@ Es imperativo que la industria de la inteligencia artificial asuma la responsabi
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

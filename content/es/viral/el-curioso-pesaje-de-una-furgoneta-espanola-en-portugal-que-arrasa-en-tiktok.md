@@ -73,7 +73,7 @@ La industria automotriz debe aprender de los errores del pasado y adaptarse a un
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

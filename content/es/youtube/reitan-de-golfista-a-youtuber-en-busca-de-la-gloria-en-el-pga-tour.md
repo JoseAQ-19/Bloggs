@@ -79,7 +79,7 @@ La enseñanza online ha democratizado el acceso al conocimiento técnico del gol
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

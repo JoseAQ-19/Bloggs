@@ -4,10 +4,10 @@
   {{- with $.Resources.GetMatch . -}}
     {{- $featured = .RelPermalink -}}
   {{- else -}}
-    {{- if in $ref "://" -}}
+    {{- if or (hasPrefix $ref "http://") (hasPrefix $ref "https://") -}}
       {{- $featured = $ref -}}
     {{- else -}}
-      {{- $featured = strings.Trim $ref "/" | urls.AbsURL -}}
+      {{- $featured = printf "/%s" (strings.TrimPrefix "/" $ref) -}}
     {{- end -}}
   {{- end -}}
 {{- else -}}

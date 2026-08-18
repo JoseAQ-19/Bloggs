@@ -153,7 +153,7 @@ Specific recommendations include implementing trainer-to-participant ratios of 1
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

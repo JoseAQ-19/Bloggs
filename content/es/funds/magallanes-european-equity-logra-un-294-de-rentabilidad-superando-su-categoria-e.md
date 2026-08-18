@@ -80,7 +80,7 @@ Los expertos consideran que la gestión activa y la selección de empresas con c
 ### ¿Es recomendable invertir en este fondo en el actual contexto económico?
 La recomendación depende del perfil de riesgo del inversor y su disposición a monitorizar el entorno económico.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -95,7 +95,7 @@ La recomendación depende del perfil de riesgo del inversor y su disposición a 
 }
 </script>
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

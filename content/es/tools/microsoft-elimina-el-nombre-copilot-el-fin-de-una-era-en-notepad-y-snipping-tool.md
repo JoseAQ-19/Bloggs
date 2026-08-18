@@ -95,7 +95,7 @@ Microsoft ha sacrificado la integridad de sus herramientas más básicas en el a
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

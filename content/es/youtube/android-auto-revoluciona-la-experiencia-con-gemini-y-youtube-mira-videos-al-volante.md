@@ -49,7 +49,7 @@ Android Auto tiene el potencial de ser un salvavidas para los conductores, pero 
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

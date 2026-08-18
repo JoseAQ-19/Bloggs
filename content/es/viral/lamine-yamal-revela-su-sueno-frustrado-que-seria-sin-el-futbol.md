@@ -77,7 +77,7 @@ La pasión no debería ser una elección, sino una exploración. En lugar de obl
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",

@@ -88,7 +88,7 @@ Sí, diversificar es fundamental para mitigar riesgos potenciales. Se recomienda
 
 El ratio de gastos del Hamco Global Value Fund es competitivo, pero es importante comparar con otros fondos para evaluar el impacto en la rentabilidad neta.
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
@@ -102,7 +102,7 @@ El ratio de gastos del Hamco Global Value Fund es competitivo, pero es important
   "articleBody": "Con un 16,04% de rentabilidad a 5 años, el Hamco Global Value Fund R FI se posiciona como el líder indiscutible entre los fondos de inversión en España..."
 }
 </script>
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",

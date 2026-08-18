@@ -91,7 +91,7 @@ The nacho addition may have sparked a viral moment, but Jersey Mike’s long-ter
 
 
 
-<script type="application/ld+json">
+<script type="application/ld+json"></script>
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
