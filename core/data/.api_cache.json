@@ -600,5 +600,82 @@
     "cached_at": 1787068964.0035837,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "47c2bc6816549fbd4391587ad907de1b4a35f331cc234d17a1e0ece63b6178da": {
+    "data": [
+      {
+        "title": "CLE Webinar: AI Prompts and Agentic Tools",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Unitaid invests US$36 million to support evidence-based scale-up of innovative malaria prevention tools",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "IBC 2026: Mediaproxy Debuts AI Monitoring Tools and Browser-Based Multiviewer",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Browsing tools and Ad blockers: A guide to cleaner web experiences",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Opinion | Why tools to detect AI-generated text are doomed",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787071800.4883049,
+    "func": "fetch_google_news",
+    "args_summary": "('tools',)"
+  },
+  "92ad7a04052f3c14b23389817cda9215b8114296c6bad566e117afe5cafcbd04": {
+    "data": [
+      {
+        "title": "El showrunner de Linternas nos explica la arriesgada decisión que cambia por completo lo que podíamos esperar de la serie",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/lanterns/232643/el-showrunner-de-linternas-nos-explica-la-arriesgada-decision-que-cambia-por-completo-lo-que-podiamo"
+      },
+      {
+        "title": "La IA ya está aprendiendo a leer el Sol para mejorar la predicción del clima espacial | WIRED",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.wired.com/articulos/la-ia-ya-esta-aprendiendo-a-leer-el-sol-para-mejorar-la-prediccion-del-clima-espacial"
+      },
+      {
+        "title": "Por si te lo perdiste, aquí tienes todo lo que se mostró y anunció en el panel de Kingdom Hearts en D23",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/kingdom-hearts-iv/232631/por-si-te-lo-perdiste-aqui-tienes-todo-lo-que-se-mostro-y-anuncio-en-el-panel-de-kingdom-hearts-en-d"
+      },
+      {
+        "title": "La serie de Kingdom Hearts no podría haber empezado mejor: una importante revelación y un reto de Tetsuya Nomura para los fans",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/kingdom-hearts-tv-series/232634/la-serie-de-kingdom-hearts-no-podria-haber-empezado-mejor-una-importante-revelacion-y-un-reto-de-tet"
+      }
+    ],
+    "cached_at": 1787071800.8804507,
+    "func": "fetch_exa_news",
+    "args_summary": "('tools noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
