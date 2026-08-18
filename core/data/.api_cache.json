@@ -831,5 +831,82 @@
     "cached_at": 1787082825.096948,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "c7dcb72dc33baaa2e522c198717b4b418fcd1e9a91af28dfbac294c4b153973d": {
+    "data": [
+      {
+        "title": "Trump agencies to set crypto policy as bill stalls, limiting industry's gains",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Georgia man deported from Fiji to face $165m crypto Ponzi scheme charges",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "The Trump family's crypto empire is getting a bank. But not the kind you think",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "SEC’s Crypto Rules Confirm It Is Now the Crypto Promotion Commission",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787089426.1500971,
+    "func": "fetch_google_news",
+    "args_summary": "('crypto',)"
+  },
+  "db4cf0fe883cd8d987c633ca7c9adb75314597f893f367cbf745e8aa11ded4e3": {
+    "data": [
+      {
+        "title": "YouTube cambia su contador de vistas: ahora registrará cada reproducción al instante",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://latam.ign.com/youtube/114220/youtube-cambia-contador-vistas-reproduccion-instantanea-2026"
+      },
+      {
+        "title": "La serie de Kingdom Hearts no podría haber empezado mejor: una importante revelación y un reto de Tetsuya Nomura para los fans",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/kingdom-hearts-tv-series/232634/la-serie-de-kingdom-hearts-no-podria-haber-empezado-mejor-una-importante-revelacion-y-un-reto-de-tet"
+      },
+      {
+        "title": "El Batmóvil ya está en las calles para el regreso de Robert Pattinson como Batman",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/the-batman-2/232669/el-batmovil-ya-esta-en-las-calles-para-el-regreso-de-robert-pattinson-como-batman"
+      },
+      {
+        "title": "Brand New Day alcanza un hito que ninguna otra película de Spider-Man había conseguido",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/spider-man-brand-new-day/232637/brand-new-day-alcanza-un-hito-que-ninguna-otra-pelicula-de-spider-man-habia-conseguido"
+      }
+    ],
+    "cached_at": 1787089426.4638805,
+    "func": "fetch_exa_news",
+    "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
