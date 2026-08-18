@@ -8,6 +8,7 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{- $eager := .eager | default false -}}
 {{- $loading := .loading | default (cond $eager "eager" "lazy") -}}
 {{- $decoding := .decoding | default "async" -}}
+{{- $spec := .spec | default "600x webp q75" -}}
 {{- $sizes := .sizes | default "(max-width: 768px) 100vw, 600px" -}}
 
 {{/* Force aspect ratio to prevent CLS */}}
@@ -24,7 +25,7 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{/* Attempt 1: Page bundle resource match */}}
 {{- with $page.Params.featured_image -}}
 {{- with $page.Resources.GetMatch . -}}
-{{- $img600 := .Resize "600x webp q75" -}}
+{{- $img600 := .Resize $spec -}}
 <img src="{{ $img600.RelPermalink }}"
     width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
     alt="{{ $alt }}" class="{{ $class }}"
@@ -40,7 +41,7 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{- with $page.Params.featured_image -}}
 {{- $cleanPath := strings.TrimPrefix "/" . -}}
 {{- with resources.Get $cleanPath -}}
-{{- $img600 := .Resize "600x webp q75" -}}
+{{- $img600 := .Resize $spec -}}
 <img src="{{ $img600.RelPermalink }}"
     width="{{ $img600.Width }}" height="{{ $img600.Height }}" 
     alt="{{ $alt }}" class="{{ $class }}"
@@ -57,7 +58,7 @@ GetOptimizedImage — WPO Partial (Fenix V3)
 {{- if in $featured_image "http" -}}
 {{- with resources.GetRemote $featured_image -}}
 {{- if eq .ResourceType "image" -}}
-{{- $img600 := .Resize "600x webp q75" -}}
+{{- $img600 := .Resize $spec -}}
 <img src="{{ $img600.RelPermalink }}"
     width="{{ $img600.Width }}" height="{{ $img600.Height }}"
     alt="{{ $alt }}" class="{{ $class }}"

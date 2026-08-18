@@ -1,26 +1,32 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ $section := .Section | lower }}
 <article class="glass-card flex flex-column h-100 w-100" data-aos="fade-up" data-aos-duration="800">
   
-  {{/* 1. THUMBNAIL IMAGE (16:9 ASPECT RATIO) */}}
+  {{/* 1. THUMBNAIL IMAGE (16:9 ASPECT RATIO, LAZY LOADED, ZERO CLS) */}}
   {{ if $featured_image }}
-  <div class="card-header w-100 overflow-hidden" style="aspect-ratio: 16/9; max-height: 185px;">
+  <div class="card-header w-100 overflow-hidden relative" style="aspect-ratio: 16/9; max-height: 200px; background-color: #07090e;">
     <a href="{{ .RelPermalink }}" class="db h-100 grow">
-      {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "w-100 h-100 object-fit-cover card-header-img" "alt" .Title) }}
+      {{ partial "func/GetOptimizedImage.html" (dict "page" . "class" "w-100 h-100 object-fit-cover card-header-img" "alt" .Title "loading" "lazy" "decoding" "async") }}
     </a>
   </div>
   {{ end }}
 
   <div class="card-body flex flex-column flex-auto pa3 ph4-l pv3-l">
     
-    {{/* 2. CATEGORY CIRCLE BADGE (MATCHES SCREENSHOT 3) */}}
-    <div class="mv2 flex items-center">
-      <span class="category-circle-badge">
-        {{ if .Section }}{{ .Section | upper | truncate 2 "" }}{{ else if .Params.categories }}{{ (index .Params.categories 0) | upper | truncate 2 "" }}{{ else }}IA{{ end }}
+    {{/* 2. CATEGORY PILL BADGE & TIME */}}
+    <div class="mv2 flex items-center justify-between">
+      <span class="category-pill-badge category-pill--{{ $section }}">
+        {{ if .Section }}{{ .Section | upper }}{{ else if .Params.categories }}{{ (index .Params.categories 0) | upper }}{{ else }}IA{{ end }}
       </span>
+      {{ if not .Date.IsZero }}
+      <time class="f7 font-mono" style="color: #64748B;">
+        {{- .Date | time.Format "Jan 2, 2006" -}}
+      </time>
+      {{ end }}
     </div>
 
-    {{/* 3. CYAN TITLE LINK (MATCHES SCREENSHOT 3) */}}
-    <h3 class="f4 fw7 mv2 lh-title">
+    {{/* 3. EDITORIAL TITLE LINK */}}
+    <h3 class="f4 fw7 mv2 lh-title" style="letter-spacing: -0.02em;">
       <a href="{{ .RelPermalink }}" class="card-title-link">
         {{ .Title }}
       </a>
