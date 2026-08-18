@@ -1,8 +1,20 @@
 # PROGRESS — NovumWorld Autoblogger
+# ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (REPARACIÓN DE DEPENDENCIAS EN PIPELINES GITHUB ACTIONS COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (REDISEÑO EDITORIAL IMPECCABLE TASTE & CONECTOR HIGGSFIELD MCP COMPLETADO)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (LOOP ENGINEERING AUTÓNOMO EN ANTIGRAVITY & LIMPIEZA DE WORKFLOWS COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (REPARACIÓN CI/CD GITHUB ACTIONS & INTEGRACIÓN MULTI-SKILL SYSTEM COMPLETADA)
 # ÚLTIMA ACTUALIZACIÓN: 2026-08-18 (INTEGRACIÓN GRAPHIFY KNOWLEDGE GRAPH Y AGENT SKILL COMPLETADA)
+
+## 🛠️ REPARACIÓN DE DEPENDENCIAS EN PIPELINES GITHUB ACTIONS (2026-08-18) - ESTADO: ✅ COMPLETADO
+- [x] **Diagnóstico de Causa Raíz en CI/CD**:
+  - En la fase *Writer* de GitHub Actions (`main.py -> orchestrator -> novum_visual`), fallaba por `ModuleNotFoundError: No module named 'PIL'`.
+  - Análisis estático de AST detectó que faltaban `Pillow`, `matplotlib`, `PyYAML`, `yfinance`, `youtube-transcript-api` y `google-generativeai` en `requirements.txt`.
+- [x] **Actualización Integral de `requirements.txt`**:
+  - Añadidas todas las dependencias requeridas para la ejecución autónoma de los 14 workflows.
+- [x] **Suite de Integridad de Workflows (`tests/test_workflows_integrity.py`)**:
+  - Añadido test unitario `test_requirements_contains_critical_dependencies` que valida de forma continua la presencia de todas las librerías críticas (3/3 PASSED).
+- [x] **Limpieza de Scripts Auxiliares (`scripts/fix_bom.py`)**:
+  - Eliminado carácter BOM no imprimible para asegurar compilación limpia en Python 3.11/3.13.
 
 ## 🎨 REDISEÑO EDITORIAL IMPECCABLE TASTE & CONECTOR HIGGSFIELD MCP (2026-08-18) - ESTADO: ✅ COMPLETADO
 - [x] **Conector Higgsfield MCP (`.agent/mcp.json`)**:

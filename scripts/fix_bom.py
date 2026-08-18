@@ -1,4 +1,5 @@
-﻿import glob
+import glob
+
 for f in glob.glob('.github/workflows/*.yml'):
     with open(f, 'r', encoding='utf-8') as file:
         content = file.read()

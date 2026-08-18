@@ -1,4 +1,5 @@
 google-genai
+google-generativeai
 requests
 PyGithub
 python-frontmatter
@@ -13,3 +14,8 @@ exa_py
 google-auth
 pytest
 tenacity
+Pillow
+matplotlib
+PyYAML
+yfinance
+youtube-transcript-api

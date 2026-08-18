@@ -45,3 +45,15 @@ def test_workflows_yaml_validity_and_omniroute_background_config():
         assert "Setup Node.js" in content_str
         assert "omniroute --port 8000 &" in content_str
         assert "http://localhost:8000/v1/models" in content_str
+
+def test_requirements_contains_critical_dependencies():
+    req_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "requirements.txt"))
+    assert os.path.exists(req_path), "requirements.txt not found"
+    
+    with open(req_path, "r", encoding="utf-8") as f:
+        reqs = {line.strip().lower() for line in f if line.strip() and not line.startswith("#")}
+        
+    critical = ["pillow", "matplotlib", "pyyaml", "requests", "openai", "together", "google-genai", "pytest"]
+    for c in critical:
+        assert c in reqs, f"Critical dependency '{c}' missing from requirements.txt"
+
