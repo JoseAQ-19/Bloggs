@@ -1,16 +1,20 @@
 ---
-title: "La Transformación Urbana Que Nadie Esperaba: El Impactante Plan del Frente Litoral y Su Centro de IA"
-date: 2026-06-20T10:35:51
+title: 'La Transformación Urbana Que Nadie Esperaba: El Impactante Plan del Frente
+  Litoral y Su Centro de IA'
+date: 2026-06-20 10:35:51
 draft: false
-description: "Descubre cómo el plan del Frente Litoral y su innovador Centro de IA están revolucionando la urbanización y transformando la ciudad de manera sorprendente."
-featured_image: "/images/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia.jpg"
-slug: "transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia"
-canonical: "https://novumworld.com/es/ia/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "ceaa2f06-9ae1-e971-7822-5ebe034d3db6"
+description: Descubre cómo el plan del Frente Litoral y su innovador Centro de IA
+  están revolucionando la urbanización y transformando la ciudad de manera sorprendente.
+featured_image: /images/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia.jpg
+slug: transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia
+canonical: https://novumworld.com/es/ia/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: ceaa2f06-9ae1-e971-7822-5ebe034d3db6
 ---
 
 ![La Transformación Urbana Que Nadie Esperaba: El Impactante Plan del Frente Litoral y Su Centro de IA](/images/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia.jpg)
@@ -80,22 +84,7 @@ El desarrollo urbano no debe ser un espectáculo para inversores, sino un proces
 - [OpenAI Desangra España: 12 Fichajes Di](/es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros/)
 - [La Soberanía Algorítmica: El Futuro de la Gobernanza de IA en 8 Diputaciones Españolas](/es/ia/soberania-algoritmica-el-futuro-de-la-gobernanza-de-ia-en-las-diputaciones-espanolas/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Transformación Urbana Que Nadie Esperaba: El Impactante Plan del Frente Litoral y Su Centro de IA",
-  "description": "Descubre cómo el plan del Frente Litoral y su innovador Centro de IA están revolucionando la urbanización y transformando la ciudad de manera sorprendente.",
-  "image": "https://novumworld.com/images/transformacion-urbana-el-ambicioso-plan-especial-del-frente-litoral-y-el-primer-centro-publico-de-ia.jpg",
-  "datePublished": "2026-06-20T10:35:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +94,3 @@ El desarrollo urbano no debe ser un espectáculo para inversores, sino un proces
     }
   }
 }
-</script>

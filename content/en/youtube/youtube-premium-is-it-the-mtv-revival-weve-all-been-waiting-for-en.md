@@ -1,16 +1,19 @@
 ---
-title: "YouTube Premium Just Surged to 125 Million Subscribers and Nobody Noticed"
-date: 2026-04-18T19:15:50
+title: YouTube Premium Just Surged to 125 Million Subscribers and Nobody Noticed
+date: 2026-04-18 19:15:50
 draft: false
-description: "Discover how YouTube Premium reached 125 million subscribers with little fanfare and what it means for the future of streaming services."
-featured_image: "/images/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en.jpg"
-slug: "youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en"
-canonical: "https://novumworld.com/youtube/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "fba86614-044a-094e-7804-089b4366c495"
+description: Discover how YouTube Premium reached 125 million subscribers with little
+  fanfare and what it means for the future of streaming services.
+featured_image: /images/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en.jpg
+slug: youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en
+canonical: https://novumworld.com/youtube/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: fba86614-044a-094e-7804-089b4366c495
 ---
 
 ![YouTube Premium Just Surged to 125 Million Subscribers and Nobody Noticed](/images/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en.jpg)
@@ -73,28 +76,12 @@ YouTube’s rapid subscriber growth is overshadowed by creator burnout and poten
 - [par.nsf.gov](https://par.nsf.gov/biblio/10322913-youtube-dataset-user-level-usage-data-baseline-characteristics-key-insights)
 - [news.google.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBYRTgxd3Q5UW5XMHZqVWx0bmlsSkw1UE42dlNEOW1Kd1hEYTRxZHpVS2M2UVhBQ015V0x3V2pLcjY1dnJZWVhrX2N4ZjJfMzhmWFdESUhSRExNRGpVd1E0Q2xCaEl4cUMyd1NMbUd5RHo1Zk9wZEdaYVZVVXhONjg?oc=5)
 
-
 ## Related Articles
 - [Cord-Cutting 2.0: YouTube TV](/youtube/youtube-sports-subscription-live-streaming-en/)
 - [Good Good Golf''s Meltdown: 1.48 Mi](/youtube/youtube-golf-wars-business-fallout-en/)
 - [YouTube Just Gave You Power: Turn Off Shorts And Reclaim Your Feed](/youtube/youtube-finally-lets-you-turn-off-shortsheres-how-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Premium Just Surged to 125 Million Subscribers and Nobody Noticed",
-  "description": "Discover how YouTube Premium reached 125 million subscribers with little fanfare and what it means for the future of streaming services.",
-  "image": "https://novumworld.com/images/youtube-premium-is-it-the-mtv-revival-weve-all-been-waiting-for-en.jpg",
-  "datePublished": "2026-04-18T19:15:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +91,3 @@ YouTube’s rapid subscriber growth is overshadowed by creator burnout and poten
     }
   }
 }
-</script>

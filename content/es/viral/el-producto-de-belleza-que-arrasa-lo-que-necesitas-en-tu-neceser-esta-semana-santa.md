@@ -41,8 +41,6 @@ La industria cosmética ha encontrado su mina de oro en la inseguridad racial y 
 * Productos con hidroquinona han causado efectos secundarios graves, incluyendo erupciones y daños en la piel, según la FDA de EE.UU.
 * Es fundamental que los consumidores se informen sobre los riesgos de los productos de aclarado de piel para evitar daños a la salud.
 
-
-
 {{< adsterra_native >}}
 
 ## La alerta sobre los ingredientes prohibidos en los aclarantes de piel
@@ -112,6 +110,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Carriedo Desata la Ira Médica: ¿Peligran el 93% de Niños Vacunados?](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 - [Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/es/viral/masterchef-dubai-polemica-fiscal/)
 - [Hormuz Desata el Caos: IBEX 35 se Derrumba Tras Alcanzar el Petróleo $113](/es/viral/trump-cede-ormuz-ibex/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -1,16 +1,20 @@
 ---
-title: "Ageism Exposed: Beloved Fridley Instructor Retires, Leaving 1,000+ Seniors in Shock"
-date: 2026-05-29T06:51:19
+title: 'Ageism Exposed: Beloved Fridley Instructor Retires, Leaving 1,000+ Seniors
+  in Shock'
+date: 2026-05-29 06:51:19
 draft: false
-description: "Discover the shocking retirement of a beloved Fridley instructor as ageism is exposed, leaving over 1,000 seniors grappling with the loss and its impact."
-featured_image: "/images/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en.jpg"
-slug: "celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en"
-canonical: "https://novumworld.com/fitness/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "0a4ef54f-462c-3c43-5397-b288fc033ebd"
+description: Discover the shocking retirement of a beloved Fridley instructor as ageism
+  is exposed, leaving over 1,000 seniors grappling with the loss and its impact.
+featured_image: /images/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en.jpg
+slug: celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en
+canonical: https://novumworld.com/fitness/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 0a4ef54f-462c-3c43-5397-b288fc033ebd
 ---
 
 ![Ageism Exposed: Beloved Fridley Instructor Retires, Leaving 1,000+ Seniors in Shock](/images/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en.jpg)
@@ -67,22 +71,7 @@ The path forward requires action from all stakeholders. Fitness businesses need 
 - [The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/)
 - [The Hidden Truth About Garmin and Coros: VO2 Max Accuracy That Will Shock You](/fitness/the-ultimate-smartwatch-showdown-which-one-survived-my-30-mile-test-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ageism Exposed: Beloved Fridley Instructor Retires, Leaving 1,000+ Seniors in Shock",
-  "description": "Discover the shocking retirement of a beloved Fridley instructor as ageism is exposed, leaving over 1,000 seniors grappling with the loss and its impact.",
-  "image": "https://novumworld.com/images/celebrating-a-legacy-beloved-fridley-fitness-instructor-retires-at-70-en.jpg",
-  "datePublished": "2026-05-29T06:51:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +81,3 @@ The path forward requires action from all stakeholders. Fitness businesses need 
     }
   }
 }
-</script>

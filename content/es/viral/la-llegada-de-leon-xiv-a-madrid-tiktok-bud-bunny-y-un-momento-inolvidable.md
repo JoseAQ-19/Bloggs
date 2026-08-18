@@ -1,16 +1,19 @@
 ---
-title: "León XIV Arribó a Madrid: 5 Momentos Clave Que Nunca Olvidarás"
-date: 2026-06-06T22:13:21
+title: 'León XIV Arribó a Madrid: 5 Momentos Clave Que Nunca Olvidarás'
+date: 2026-06-06 22:13:21
 draft: false
-description: "Descubre los 5 momentos clave de la llegada de León XIV a Madrid. Un evento histórico que marcará un antes y un después en la ciudad. ¡No te lo pierdas!."
-featured_image: "/images/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable.jpg"
-slug: "la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable"
-canonical: "https://novumworld.com/es/viral/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e40f5f90-4186-c045-b228-518e543f0abd"
+description: Descubre los 5 momentos clave de la llegada de León XIV a Madrid. Un
+  evento histórico que marcará un antes y un después en la ciudad. ¡No te lo pierdas!.
+featured_image: /images/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable.jpg
+slug: la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable
+canonical: https://novumworld.com/es/viral/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e40f5f90-4186-c045-b228-518e543f0abd
 ---
 
 ![León XIV Arribó a Madrid: 5 Momentos Clave Que Nunca Olvidarás](/images/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable.jpg)
@@ -76,22 +79,7 @@ Se recomienda seguir de cerca cómo se desarrollan las relaciones entre la Igles
 - [Shakira gratis en cdmx: ¿10 muertos más com](/es/viral/shakira-concierto-gratis-cdmx-riesgos/)
 - [Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran](/es/viral/realities-espana-polemica/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "León XIV Arribó a Madrid: 5 Momentos Clave Que Nunca Olvidarás",
-  "description": "Descubre los 5 momentos clave de la llegada de León XIV a Madrid. Un evento histórico que marcará un antes y un después en la ciudad. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/la-llegada-de-leon-xiv-a-madrid-tiktok-bud-bunny-y-un-momento-inolvidable.jpg",
-  "datePublished": "2026-06-06T22:13:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ Se recomienda seguir de cerca cómo se desarrollan las relaciones entre la Igles
     }
   }
 }
-</script>

@@ -70,12 +70,10 @@ La estrategia financiera de Trump revela que, a pesar de su defensa pública de 
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUpmc096bllHcUstWFZXT0hnMnEzRTVvSFY4QURZcWwzcWpQV1dQWktHWC15SHNrSjBSOUZBYy1sUFZ2UmxwaHdEd2gybm90YWs2R19LdlFCRTB0Vzdua0UxSXJ5WjFGY0lydW0xcGtMU0ZXZzUtRFRid2FyTWptQmJmTU1mcEdVUEw2RkIzeXJIUFJ5dHlMUHIzRG51TWtWdVBoM1R2RHYwQ0xvRnR4cDRB?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -85,18 +83,7 @@ La estrategia financiera de Trump revela que, a pesar de su defensa pública de 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s $1.4 Billion Crypto Gains: The Shocking Truth Behind His Stock Investments",
-  "description": "Discover the surprising details of Trump's $1.4 billion crypto gains and the hidden truths behind his stock investments in this eye-opening article.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-13T18:13:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +93,3 @@ La estrategia financiera de Trump revela que, a pesar de su defensa pública de 
     }
   }
 }
-</script>

@@ -90,12 +90,10 @@ The call for immediate action cannot be ignored; a cohesive regulatory approach 
 - [news.google.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEVGQlEtdHoySnpZVE1XVWtzOFA4NEtKc2M2UmM3Z0JJUlpIalZfT3lXUUtOdDVFeG81Z0YtV1RudXlRcVJFU1pDVzBndzVnelI4WU5VZjdhMXRyWFFKYVdXSkRsQ3ZqdFpFOERPNUw3U0ItMWRsMV9iT0dERHpKYUdEYnFmNDV5UXJnTjZVa1BTUDZ6aXB3NXFBYUlJbEtySWhyWG1OZHg0NWg4QUtjVEpNNFRvMEhJYlNUZlZzdUfSAc4BQVVfeXFMTVFoM2hFaGR0SnVGSno5bTY4bVdST2NxYkxCd2cwQ3pTSHhVSjJKaVh0MUJQTDdDNmhBUEZJanVkYUxhMWliaWRnUjYwQVk2NWVzNWpYZ0tVaUdnRmdNSFIyS2txVVBDNmFLZWI0eXEzdEdjcG55czJnQmRicHdsVDZoeF9WczdrUm5PbV82YWFGdWo1elFXanhNZHJDalNBTUtIQWNhdVdtaGRWaFRKUlRWT2kyQndKejdweXJQQmxybmhoendveGlzQ0xMaUE?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms](/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/)
 - [W26 Crypto Just Launched: This Memecoin Is Set to Disrupt Football Forever](/crypto/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en/)
 - [Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming](/crypto/wall-streets-surprising-love-affair-with-crypto-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -105,18 +103,7 @@ The call for immediate action cannot be ignored; a cohesive regulatory approach 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Goldman Sachs CEO Demands Urgent Action on Crypto Legislation: Are We Too Late?",
-  "description": "Goldman Sachs CEO calls for immediate crypto legislation action. Explore the urgency and implications of potential delays in the evolving financial.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-23T18:46:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -126,4 +113,3 @@ The call for immediate action cannot be ignored; a cohesive regulatory approach 
     }
   }
 }
-</script>

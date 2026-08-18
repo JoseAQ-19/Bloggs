@@ -86,28 +86,12 @@ The real question remains: Will this new initiative truly make America fit again
 - [errors.edgesuite.net](https://errors.edgesuite.net/18.615ed617.1782802066.b3d95d7)
 - [news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTJqVkpKaUFLTzZaTHRNTGtMem1sX0EwUjlUQkViM19sazhTVWZHTEJTczVUMnRWd09vLUUxUm55X0NhbkNtN3BQRFU3aFdzVnZhUkprM19zUV9GTVpoQXBOcER4MzN1MDVoNEJGMktfRVJqLVRhaWR6R2Uxai1uazB0YlBKT01uNG8zVkd4cTNPaEIwLTg3VGVFWGJTc0pVbVVKYW9YaVd3b3pj?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 - [The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/)
 - [Unlock $100 Off Fitness Trackers: The Spring Sale That Could Save Your Health](/fitness/unlock-fitness-savings-dont-miss-100-off-top-trackers-in-the-amazon-spring-sale-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump's Shocking Move: Reviving The Presidential Fitness Test To Combat Obesity Crisis",
-  "description": "Discover Trump's bold initiative to reinstate the Presidential Fitness Test, aiming to tackle the obesity crisis and promote healthier lifestyles.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-06-30T06:42:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +101,3 @@ The real question remains: Will this new initiative truly make America fit again
     }
   }
 }
-</script>

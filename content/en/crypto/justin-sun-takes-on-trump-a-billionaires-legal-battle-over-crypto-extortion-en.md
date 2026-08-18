@@ -1,16 +1,19 @@
 ---
-title: "Justin Sun Accuses Trump's Crypto Firm Of Extortion In Shocking Legal Battle"
-date: 2026-04-22T16:38:56
+title: Justin Sun Accuses Trump's Crypto Firm Of Extortion In Shocking Legal Battle
+date: 2026-04-22 16:38:56
 draft: false
-description: "Justin Sun claims extortion against Trump's crypto firm in a shocking legal battle. Discover the details behind this high-stakes confrontation in our."
-featured_image: "/images/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en.jpg"
-slug: "justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en"
-canonical: "https://novumworld.com/crypto/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "06b8b3ba-dff6-8918-c881-73a6895d3a4c"
+description: Justin Sun claims extortion against Trump's crypto firm in a shocking
+  legal battle. Discover the details behind this high-stakes confrontation in our.
+featured_image: /images/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en.jpg
+slug: justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en
+canonical: https://novumworld.com/crypto/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 06b8b3ba-dff6-8918-c881-73a6895d3a4c
 ---
 
 ![Justin Sun Accuses Trump's Crypto Firm Of Extortion In Shocking Legal Battle](/images/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en.jpg)
@@ -81,12 +84,10 @@ This saga is a stark reminder that in crypto, the allure of political ties often
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXEycWRnM2YtTTF0c1RSVEE2aFY1UEtjZ1o0aVNSWTR4cEVCcUU0S25zWExNLW03MDZKYXpNdXpBblpsaDJmN1lBd0VUNHpybFpMNmUwS053cjNMV1ltdnI0eTRHUW81cmJEYURDR2FJckplQ2tYcU5ZM1UtTXhUQkFybEExTkRpRWtxZDBfOTFLM1BIN1EtSlgxZDdTYUpPVFNjMHlKVFNXNUVVYW1BTVdvYjQ?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
 - [Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood](/crypto/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en/)
 - [Ramaswamy''s $40 Million](/crypto/ramaswamys-ohio-gambit-crypto-heartland-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -96,18 +97,7 @@ This saga is a stark reminder that in crypto, the allure of political ties often
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Justin Sun Accuses Trump's Crypto Firm Of Extortion In Shocking Legal Battle",
-  "description": "Justin Sun claims extortion against Trump's crypto firm in a shocking legal battle. Discover the details behind this high-stakes confrontation in our.",
-  "image": "https://novumworld.com/images/justin-sun-takes-on-trump-a-billionaires-legal-battle-over-crypto-extortion-en.jpg",
-  "datePublished": "2026-04-22T16:38:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +107,3 @@ This saga is a stark reminder that in crypto, the allure of political ties often
     }
   }
 }
-</script>

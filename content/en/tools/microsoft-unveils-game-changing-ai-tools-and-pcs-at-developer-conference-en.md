@@ -1,16 +1,19 @@
 ---
-title: "Microsoft And NVIDIA Just Redefined PCs With 1 Petaflop AI Superchips"
-date: 2026-06-02T15:53:46
+title: Microsoft And NVIDIA Just Redefined PCs With 1 Petaflop AI Superchips
+date: 2026-06-02 15:53:46
 draft: false
-description: "Discover how Microsoft and NVIDIA's groundbreaking 1 petaflop AI superchips are transforming PCs, paving the way for unprecedented performance and."
-featured_image: "/images/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en.jpg"
-slug: "microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en"
-canonical: "https://novumworld.com/tools/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "992bc993-a469-ab77-2803-509f3cc39a0e"
+description: Discover how Microsoft and NVIDIA's groundbreaking 1 petaflop AI superchips
+  are transforming PCs, paving the way for unprecedented performance and.
+featured_image: /images/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en.jpg
+slug: microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en
+canonical: https://novumworld.com/tools/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 992bc993-a469-ab77-2803-509f3cc39a0e
 ---
 
 ![Microsoft And NVIDIA Just Redefined PCs With 1 Petaflop AI Superchips](/images/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en.jpg)
@@ -59,28 +62,12 @@ With AI superchips redefining the landscape, the question isn't if you’ll adap
 - [news.google.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPamlEYlhPZ0R3NWhRdEF1NTlSQkJNQm5BeGZqY2hTYWF2VS1FNDM5TUtGNTVCWE5SUWFUTGVNNDFMUi1oc2pDd0RvT0EzNHNqVjNMazVjbmxvN1RWejZzSXhtNURnSDhjbkdwWkJOTWRLNGs4UklqOXpPR3NDam5PRC16Yi1qMVY0dS1mbnRBOUs4YnU0Vnc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZHFKUzlhb0VJcy1XY3Fkdk8zZzZNVTRrb3lLMFlMd2hPRDlxcW1rWDlmX2cxUHl6cXN0dVNFS1hBN21Ob0lwV1BSMkd5RkhGSk9kRDBwUUduMjZvbmhtRjFFWEJ3X1d5b1lFcV9NV3FJbHl5U2dXcnU3UUx1SlN3MXYwZ0wwQkJMMm9kVUZwcF9HZXJuZEsxM3hIVFZjVWhNcFB3dVFURENwME5GZ2VLY2V2Q0huLTFjQ0N0STJn?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth Behind Ryobi's 31.3% Price Hike and Tool Deal Profitability](/tools/ryobi-days-technical-teardown-en/)
 - [94% Of Small Businesses Face Cyberattacks: The Shocking Reality Behind Your Tech Stack](/tools/small-business-tech-stack-2024-en/)
 - [Stanley Black & Decker Slashes 50,000 SKUs: De](/tools/stanley-black-decker-q4-performance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Microsoft And NVIDIA Just Redefined PCs With 1 Petaflop AI Superchips",
-  "description": "Discover how Microsoft and NVIDIA's groundbreaking 1 petaflop AI superchips are transforming PCs, paving the way for unprecedented performance and.",
-  "image": "https://novumworld.com/images/microsoft-unveils-game-changing-ai-tools-and-pcs-at-developer-conference-en.jpg",
-  "datePublished": "2026-06-02T15:53:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -90,4 +77,3 @@ With AI superchips redefining the landscape, the question isn't if you’ll adap
     }
   }
 }
-</script>

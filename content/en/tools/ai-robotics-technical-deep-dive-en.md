@@ -1,16 +1,20 @@
 ---
-title: "400 Million Jobs At Risk: The Dark Side of AI Robotics We Can't Ignore"
-date: 2026-05-12T15:33:35
+title: '400 Million Jobs At Risk: The Dark Side of AI Robotics We Can''t Ignore'
+date: 2026-05-12 15:33:35
 draft: false
-description: "Discover the unsettling truth behind AI robotics and its potential to jeopardize 400 million jobs worldwide. Explore the implications we can't afford to."
-featured_image: "/images/ai-robotics-technical-deep-dive-en.jpg"
-slug: "ai-robotics-technical-deep-dive-en"
-canonical: "https://novumworld.com/tools/ai-robotics-technical-deep-dive-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "bcde0ade-59d4-a857-5a3d-c77a5d1649f8"
+description: Discover the unsettling truth behind AI robotics and its potential to
+  jeopardize 400 million jobs worldwide. Explore the implications we can't afford
+  to.
+featured_image: /images/ai-robotics-technical-deep-dive-en.jpg
+slug: ai-robotics-technical-deep-dive-en
+canonical: https://novumworld.com/tools/ai-robotics-technical-deep-dive-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: bcde0ade-59d4-a857-5a3d-c77a5d1649f8
 ---
 
 ![400 Million Jobs At Risk: The Dark Side of AI Robotics We Can't Ignore](/images/ai-robotics-technical-deep-dive-en.jpg)
@@ -80,28 +84,12 @@ The proliferation of AI robotics poses a dual threat: reshaping industries while
 - [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0RSNUFyRGx4U1FQT1I5cy1icmdiTmxQVUk5a1RqUjduMjl4RFFSWjJnbTZTZUlBWUs0eE1ZLWJlZ3NfZzlQOE5MbVM2bTJ5RnlLd2JQeWlSQV9ob0pkaTExcXpEcVlobmc2eHpFWjhQMlJlZUJ4SHdMc3NnaXQ4ODVqOGVDb2lHRHE0bE5Lcm8wMGs5RS1Xek1FcXF5Q3VKX1dZajdsbw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWGFLZXdpMlZBYkFuYVM0Y0ttNlBwTFRyd1hsMGdISkVUTTc0QlU4QkZtQm9jZFdENjgtcHhkUVp4dzFDWXBRdy1ZenpKTnZmNEZUT1FLTEs2X2JHS0lMUEtud3Z2VEhiY0kwVkV3U0NvNWxVT0RQT21pU19ZbUh4QnRCOW9kaE1Gdm9rTFl4TlBhRDFjRDFsdXdXNVdMZUxnY21GdklTcktvQmxUMzFTQ1ZzZXFZdTVGNHlmZUZKZ01vVjBseTJJckc2X0xUWDNmUkhCUGFjMHVPSzdJcFVIRTBlelZkakFyU0g0Ug?oc=5)
 
-
 ## Related Articles
 - [The Unseen Revolution: 7 AI Tools Transforming Clinical Trials Forever](/tools/revolutionizing-clinical-trials-the-ai-and-data-science-tools-leading-the-charge-en/)
 - [AI-Driven Protein Design Tools Cut Costs by 40% and Ignite Controversy](/tools/revolutionizing-biology-ai-driven-protein-design-tools-now-accessible-to-all-en/)
 - [$125,000/Hour: Is Your Jobsite Bleedi](/tools/iot-digital-twins-power-tool-revolution-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "400 Million Jobs At Risk: The Dark Side of AI Robotics We Can't Ignore",
-  "description": "Discover the unsettling truth behind AI robotics and its potential to jeopardize 400 million jobs worldwide. Explore the implications we can't afford to.",
-  "image": "https://novumworld.com/images/ai-robotics-technical-deep-dive-en.jpg",
-  "datePublished": "2026-05-12T15:33:35",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ The proliferation of AI robotics poses a dual threat: reshaping industries while
     }
   }
 }
-</script>

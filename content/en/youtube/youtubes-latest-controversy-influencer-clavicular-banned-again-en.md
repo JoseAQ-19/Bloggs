@@ -1,16 +1,20 @@
 ---
-title: "YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are Outraged"
-date: 2026-04-24T20:45:29
+title: YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are
+  Outraged
+date: 2026-04-24 20:45:29
 draft: false
-description: "YouTube has banned influencer Clavicular once more for severe violations, igniting outrage among fans. Discover the details and reactions here."
-featured_image: "/images/youtubes-latest-controversy-influencer-clavicular-banned-again-en.jpg"
-slug: "youtubes-latest-controversy-influencer-clavicular-banned-again-en"
-canonical: "https://novumworld.com/youtube/youtubes-latest-controversy-influencer-clavicular-banned-again-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "df3358ed-e474-b18a-58cf-f96938167178"
+description: YouTube has banned influencer Clavicular once more for severe violations,
+  igniting outrage among fans. Discover the details and reactions here.
+featured_image: /images/youtubes-latest-controversy-influencer-clavicular-banned-again-en.jpg
+slug: youtubes-latest-controversy-influencer-clavicular-banned-again-en
+canonical: https://novumworld.com/youtube/youtubes-latest-controversy-influencer-clavicular-banned-again-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: df3358ed-e474-b18a-58cf-f96938167178
 ---
 
 ![YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are Outraged](/images/youtubes-latest-controversy-influencer-clavicular-banned-again-en.jpg)
@@ -93,28 +97,12 @@ YouTube’s ruthless efficiency in terminating Clavicular’s channels proves th
 - [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG9HeWdTb0prbWk0ZktHY2s5cXFKVnpYU21IN3Y5Ri1DU0JDMk8yMFhMaDhFUk5Ha2N0UGwzbnFyb1JVdHdCbjhodUtQcEExUW1kQU9wbEpwT2RsRy1LalMteVk3T1lCWDU0MldKcHdJLVU5cEJDVXBIcWlGWDNyVDNfRk96TWc3bEVxdVRwV2pTNDZ6UUhPMG5lQ2ZtVzFpaXVxYkxhT3RCVmNKNjhMQg?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxPQng0SFoxaXlMd2RxaFFMMHlOX3FKMVhuOFJzQ2RoekcwWUlUaWYtQ0xBWnF1Y0k2M3lUcHRwTHVKT016aHphclQ0aXBtNGpNakZucTdiQkZSTTEzYTg1RC1GTFB6VlZJNnVIQ1ZJOTQyRmQ2UFBqeE5CcUsxLWtRTXdSVW45RGt0ZlJPYm1SQU1tYUJEcF9waFR1c3lrd25BbDRwXzl3U3NaMnVIWEVPa1ZHemV1T3ZZNVAzcjktNUhxNjI5dEc5R2lHUQ?oc=5)
 
-
 ## Related Articles
 - [YouTube's New Channels Feature Is Distorting Reality And You Didn’t Even Notice](/youtube/youtubes-new-channels-feature-revolutionizes-your-recommendations-en/)
 - [YouTube TV's Bold Move: Watch Multiple Shows Simultaneously With Custom Multiview Layouts](/youtube/youtube-tvs-game-changer-watch-multiple-shows-at-once-with-custom-multiview-en/)
 - [YouTube Studio''s $36 Billion Proble](/youtube/youtube-studio-meltdown-creator-revenue-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are Outraged",
-  "description": "YouTube has banned influencer Clavicular once more for severe violations, igniting outrage among fans. Discover the details and reactions here.",
-  "image": "https://novumworld.com/images/youtubes-latest-controversy-influencer-clavicular-banned-again-en.jpg",
-  "datePublished": "2026-04-24T20:45:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +112,3 @@ YouTube’s ruthless efficiency in terminating Clavicular’s channels proves th
     }
   }
 }
-</script>

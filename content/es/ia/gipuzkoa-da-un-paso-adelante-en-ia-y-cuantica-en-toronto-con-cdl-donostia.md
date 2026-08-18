@@ -1,16 +1,19 @@
 ---
-title: "Gipuzkoa Da Un Paso Adelante: La IA Y Cuántica Revolucionan Startups En Toronto"
-date: 2026-05-29T10:51:59
+title: 'Gipuzkoa Da Un Paso Adelante: La IA Y Cuántica Revolucionan Startups En Toronto'
+date: 2026-05-29 10:51:59
 draft: false
-description: "Gipuzkoa impulsa la innovación con IA y cuántica, destacando el impacto en startups de Toronto. Descubre cómo estas tecnologías transforman el futuro."
-featured_image: "/images/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia.jpg"
-slug: "gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia"
-canonical: "https://novumworld.com/es/ia/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "cf409cb9-30c7-83f3-4733-caeff70c7e95"
+description: Gipuzkoa impulsa la innovación con IA y cuántica, destacando el impacto
+  en startups de Toronto. Descubre cómo estas tecnologías transforman el futuro.
+featured_image: /images/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia.jpg
+slug: gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia
+canonical: https://novumworld.com/es/ia/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: cf409cb9-30c7-83f3-4733-caeff70c7e95
 ---
 
 ![Gipuzkoa Da Un Paso Adelante: La IA Y Cuántica Revolucionan Startups En Toronto](/images/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia.jpg)
@@ -56,28 +59,12 @@ El **veredicto** es claro: la revolución cuántica en Euskadi no depende de pro
 - [news.google.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjRiYTlLc3o3NzZrQ3RmakJQZkpta05qRTliT3BoZG93QzI1MVdOOV82cTFmUUw3Z1k1WlNMYWFIeTVxcThRZW0teENVNEdnd3g2NFJ1NXJpdHc5QUJxSWVFUkY2aEU3V1FXQnVaY2s2M3lXZ21fQ09uQU9Hb1JqMWZhUHc1aEtzRkdOMGhrMG8wZ0JsRUVLNkRfcUw3OWVxM0RvWWItUDcyc0RwN25IcFBQUW5RNHZ5ZmFDSdIBwgFBVV95cUxPRTNMakNKZTdVbHRvWHM0WmVndUhmejRKM19VTFVhSVU3dkdVOEgzTFdDOVlMSENiSkIyYUZLdnh1QUVpMkNqNTB1WFZKdEt5SWNIaG92cHp4WVpINldISXNub21jckNnV1p5RmpPalh4VGJuUWZoQ09jM05JV182NG00aHNJaUc2c0ZLelFxYkNoMmdFb0Y5UW1LalMwSXdtTTZNN1c1SFA4MExDUkUtbGZRRzhaS1RjNjlHX19OOWJlUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnhWNjFnUU9iWEltSHh6N05Eb2RpeXNreEJxd3RldGtNZld1YV9qZUVaZjR0NDBtLXEyZXF6WW1WUXUtaW1uWEMwUWNqMV8yaW14bzBRUXBmZmVfZWFadmJzV1RiRWtQTGZlMEg0ZkVhSDdLdFZHVnByWWdVSmF6S1M2QjFqaWp4ZElZQTA0S2xlTjgtVU9IOXJqWWdsQllfOUhhQjhNcDI5RjUxRGFHTUlmRjItclN4RFVIa1JMa25Od1gxLXY3RUFWNjJueXo3VnhIUDdVWEvSAd4BQVVfeXFMTS1hQTltX1N1NWdTTmFGcXBiXzdhRDJUTG5GX3ljRjh0b1FuYkZWY3M2T0lnZDRPTWcwMW13QVUtQ2JxbEtndXpnd200amdDcnZuX3huT2lRT01CbjZBNFVTWm9MUTg1SjJEUjVOeEl1cW9xZjBqQkxId3BzRWhjd1pTZDNYYjVLcWZhbnM5eFhoSnIzTHBqdTdMWEFxMXV4VEdmT1JLTF9XT1NCOVA4VG50M1l5MUVFQU51bW9pTDluZWZGUngxT0M1WTlabWNrVF9tcTRtQ3dmTmFfb3h3?oc=5)
 
-
 ## Artículos relacionados
 - [OpenAI Admite el Fracaso de Sora: Gastaba 1,30$ Por Vid](/es/ia/openai-recula-sora-estrategia-ia/)
 - [Acciona el Pánico: La IA Amenaza 300 Millones de Euros Inver](/es/ia/saas-apocalipsis-2026-crisis-vc/)
 - [Tecno-Apocali](/es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Gipuzkoa Da Un Paso Adelante: La IA Y Cuántica Revolucionan Startups En Toronto",
-  "description": "Gipuzkoa impulsa la innovación con IA y cuántica, destacando el impacto en startups de Toronto. Descubre cómo estas tecnologías transforman el futuro.",
-  "image": "https://novumworld.com/images/gipuzkoa-da-un-paso-adelante-en-ia-y-cuantica-en-toronto-con-cdl-donostia.jpg",
-  "datePublished": "2026-05-29T10:51:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -87,4 +74,3 @@ El **veredicto** es claro: la revolución cuántica en Euskadi no depende de pro
     }
   }
 }
-</script>

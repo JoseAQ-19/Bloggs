@@ -1,16 +1,20 @@
 ---
-title: "El Rey De Bután Y Su Revolucionaria Imagen Como 'Toy Boy' Que Sorprende Al Mundo"
-date: 2026-04-13T21:59:56
+title: El Rey De Bután Y Su Revolucionaria Imagen Como 'Toy Boy' Que Sorprende Al
+  Mundo
+date: 2026-04-13 21:59:56
 draft: false
-description: "Descubre cómo el Rey de Bután desafía estereotipos con su imagen de 'toy boy', sorprendiendo al mundo y transformando la percepción de la realeza."
-featured_image: "/images/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema.jpg"
-slug: "el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema"
-canonical: "https://novumworld.com/es/viral/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "2e9ecd49-aa19-bd87-4324-49d8dd6910c1"
+description: Descubre cómo el Rey de Bután desafía estereotipos con su imagen de 'toy
+  boy', sorprendiendo al mundo y transformando la percepción de la realeza.
+featured_image: /images/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema.jpg
+slug: el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema
+canonical: https://novumworld.com/es/viral/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 2e9ecd49-aa19-bd87-4324-49d8dd6910c1
 ---
 
 ![El Rey De Bután Y Su Revolucionaria Imagen Como 'Toy Boy' Que Sorprende Al Mundo](/images/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema.jpg)
@@ -82,28 +86,12 @@ La atención que la pareja ha recibido a nivel internacional sugiere que su infl
 - [state.gov](https://www.state.gov/reports/2016-country-reports-on-human-rights-practices/bhutan)
 - [news.google.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXVpTjJBQnhIcE5wLV9oYllpQVFoY3FDaER6cC03Wm1aSW5OTHNybmlIUDNvZld2a2Z6U2xxQ3FEUU43aEZQTWk2RlREbFlxd0d3RU9yTmc3aGRGQVA5VmtPeDdVYTctRG5UV1huNmFvdFdmajE1bFBtaV9hcFRFa19PSXpXUlp1Y1V3MFpfLTdKRFE?oc=5)
 
-
 ## Artículos relacionados
 - [Sofía Contra Alcaraz: El Incómodo Encuentro](/es/viral/reina-sofia-alcaraz-polemica-miami/)
 - [¡Escándalo En La Liga! Fisioterapeutas Revelan El](/es/viral/ventosas-futbol-moda-placebo/)
 - [La Broma Con Plátanos Que Cuesta 4 Euros: El Grito De Auxilio De Los Agricultores Canarios](/es/viral/la-broma-con-platanos-que-desata-risas-y-polemica-4-euros-por-unos-pelados/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Rey De Bután Y Su Revolucionaria Imagen Como 'Toy Boy' Que Sorprende Al Mundo",
-  "description": "Descubre cómo el Rey de Bután desafía estereotipos con su imagen de 'toy boy', sorprendiendo al mundo y transformando la percepción de la realeza.",
-  "image": "https://novumworld.com/images/el-rey-de-butan-y-su-nueva-imagen-como-toy-boy-el-fenomeno-que-arrasa-junto-a-jetsun-pema.jpg",
-  "datePublished": "2026-04-13T21:59:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +101,3 @@ La atención que la pareja ha recibido a nivel internacional sugiere que su infl
     }
   }
 }
-</script>

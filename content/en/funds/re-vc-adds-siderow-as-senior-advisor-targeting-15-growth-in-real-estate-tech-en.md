@@ -25,8 +25,6 @@ type: funds
 RE VC Targets 15% Real Estate Tech Growth Amid Sector Volatility
 Specialized real estate technology funds significantly underperformed the broader market in 2023, with the average sector ETF delivering just 6.1% annualized over three years compared to the S&P 500's 24.2% return, according to Morningstar data. This backdrop frames RE VC's announcement of Stephen Siderow as Senior Advisor and Operating Partner, alongside its ambitious 15% growth target for real estate tech investments, a move that coincides with Morningstar's recent downgrade of $17.2bn in T. Rowe Price funds and review of $15.5bn, suggesting potential sector rotation opportunities. This ambitious target necessitates a deep dive into the fund's strategy, the evolving real estate tech landscape, and the potential headwinds it faces.
 
-
-
 {{< adsterra_native >}}
 
 ## Real Estate Tech Fund Performance: A Comparative Analysis
@@ -101,6 +99,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12%](/en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en/)
 - [Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 - [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -1,16 +1,19 @@
 ---
-title: "La IA Deja Huella: Más De 12,000 Empleos Perdidos En Solo Cuatro Meses"
-date: 2026-04-24T10:10:45
+title: 'La IA Deja Huella: Más De 12,000 Empleos Perdidos En Solo Cuatro Meses'
+date: 2026-04-24 10:10:45
 draft: false
-description: "Descubre cómo la inteligencia artificial ha impactado el mercado laboral, con más de 12,000 empleos perdidos en solo cuatro meses. Análisis y datos clave."
-featured_image: "/images/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias.jpg"
-slug: "la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias"
-canonical: "https://novumworld.com/es/ia/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "6ac1becc-755e-2cf5-2100-bfdd768735b4"
+description: Descubre cómo la inteligencia artificial ha impactado el mercado laboral,
+  con más de 12,000 empleos perdidos en solo cuatro meses. Análisis y datos clave.
+featured_image: /images/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias.jpg
+slug: la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias
+canonical: https://novumworld.com/es/ia/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 6ac1becc-755e-2cf5-2100-bfdd768735b4
 ---
 
 ![La IA Deja Huella: Más De 12,000 Empleos Perdidos En Solo Cuatro Meses](/images/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias.jpg)
@@ -81,28 +84,12 @@ La IA es real, es silicio y líneas de código, y está reconfigurando el empleo
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczBRdGI5VXJveXBmdU9NNjNQNWRzVGZSN3RZS3J2VGdzOTgtUlhYVzRmQkloTlNFSHdWeGVCOXRIMS1WSHVuWGtuMlQ1Z0tzekJRYmQyZU5mak9lcm1fWEQtY1luNXJaMEc1NEsxMW9TNjJvOEpnVk92S1J6RjlXLW9vSnR5NG1ueW84ZTY3V3hUUE10SGtCU2YzS3lTNGxiM1lGOUUyVS0?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXhnS3lEekx3MUhkYkdhbFZWdFhkS1ZBdng5MTRoamtzVm5oTDd2WEJNU0FEeUdvdEhRSUkxb1NTNHl2Q3FoRG1SdjBXeDBTN1h0eDVoTHRvMmFUV1RGbzhzS2pwTFBqY2hQak0zMnFhVTJBby1mdmsyRnlNeEdPWm1obHAycGsxTk1HbS1NRk9FYjk4LTlsOUg3bVZOYUQ1ZmRnLVlXNHg0OUNybDFMOWZOQTg0UnlIb3J0YWNzdnhsUVRjSV9J?oc=5)
 
-
 ## Artículos relacionados
 - [La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar](/es/ia/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar/)
 - [Trabajo y: La Dist](/es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver/)
 - [Acciona el Pánico: La IA Amenaza 300 Millones de Euros Inver](/es/ia/saas-apocalipsis-2026-crisis-vc/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Deja Huella: Más De 12,000 Empleos Perdidos En Solo Cuatro Meses",
-  "description": "Descubre cómo la inteligencia artificial ha impactado el mercado laboral, con más de 12,000 empleos perdidos en solo cuatro meses. Análisis y datos clave.",
-  "image": "https://novumworld.com/images/la-ia-deja-huella-eres-en-el-sector-tecnologico-espanol-y-sus-consecuencias.jpg",
-  "datePublished": "2026-04-24T10:10:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +99,3 @@ La IA es real, es silicio y líneas de código, y está reconfigurando el empleo
     }
   }
 }
-</script>

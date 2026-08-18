@@ -27,8 +27,6 @@ type: crypto
 * Harvard Management Company redujo significativamente sus tenencias en ETF de Bitcoin en un 21% durante el cuarto trimestre de 2025 mientras asignaba aproximadamente 86,8 millones de dólares a acciones de ETF de Ethereum.
 * Para los inversores españoles, el cumplimiento de MiCA se volverá obligatorio a partir del 1 de julio de 2026, requiriendo que las empresas cripto busquen autorización con anticipación.
 
-
-
 {{< adsterra_native >}}
 
 ## El Dilema Energético: Bitcoin Enfrenta la Crítica Mientras Ethereum Brilla con PoS
@@ -107,6 +105,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Web3: Un monumento a la ingenuidad y la codicia (Capítulo 34)](/es/crypto/web3-monumento-ingenuidad-codicia/)
 - [¡Make.com DOMINADO en 2 Horas! \U0001F92F Guía DEFINITIVA para Principiantes](/es/crypto/makecom-dominado-en-2-horas-guia-definitiva-para-principiantes-2026/)
 - [TRON: Justin Sun Controla el 60% y Tú Pagarás el Precio en 2028](/es/crypto/tron-trx-predicciones-precio-2026-2028/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

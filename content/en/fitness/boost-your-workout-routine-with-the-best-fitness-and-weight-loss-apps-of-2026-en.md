@@ -98,28 +98,12 @@ References:
 - [news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWZNY0VaTXdpdWgyZWFHLXpQbk9xeTItUDdYd1VnekRtRk10M000czYzbnRKSjM4T3JFZ3dER01xQ0lTQmNWMWlZdHFTLV9OWGE5b0hTYWJHcng1aXdXY0JZZV8zTFpUM3hxWC01VVJkRXBoVW03WE1qbHJCSXlidGZCUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMitwJBVV95cUxQcmxuem1FQ0dzdjZtMEZnUHFSdlcyS3drbmttU09GNWNvT0FDTGVoN0ZzVVhVdnYxRm9EMGFFRjI1S1JkWEgxcEdFbENlczJEY2cwMnE5ampaWElsYXl4ZGhGSUtTNkRTZkVNdVdlSVVUWjJLeFY0NEtTeXc5OFNmd2xETWxxQzhJTmoyMVdLZk9OelA5OGpvODFKNzBOQW9KM3h4alNqal9temZuQmtsdTJjSkV5RldsNXpoLWNjUi1XVGxQdXF0aHpHbVRaMmtIUmRIcjl4Y1h2dlZEbkhqMEh5X0EyRGdpZUZ0a01OUlFqYUwwZ09KelBULWwwY19fLVdMVDJRN094eVJYeFdqdERaZGNUS3FXSEFpMm8zUlBIWG5rRTlPUGgxa2d4blF5cmhjRjg0cw?oc=5)
 
-
 ## Related Articles
 - [Unbelievable: Google’s New Fitbit Air Delivers Week-Long Battery Life for Just $99.99](/fitness/unleash-your-potential-the-new-google-fitbit-air-launches-at-just-9999-en/)
 - [Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis](/fitness/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en/)
 - [Trump Revives Presidential Fitness Test: Experts Warn It Might Not Change Kids’ Activity Levels](/fitness/will-the-return-of-the-presidential-fitness-test-transform-kids-activity-levels-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Boost Your Workout Routine with the Best Fitness and Weight Loss Apps of 2026 Analysis",
-  "description": "Boost Your Workout Routine with the Best Fitness and Weight Loss Apps of 2026 Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-08-05T08:00:22",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -129,4 +113,3 @@ References:
     }
   }
 }
-</script>

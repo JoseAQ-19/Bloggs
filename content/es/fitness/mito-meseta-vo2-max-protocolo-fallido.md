@@ -27,8 +27,6 @@ Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nue
 
 Si crees que tu VO2 máx está escrito en piedra por tus genes, piénsalo de nuevo. Tu "límite genético" podría ser, simplemente, un protocolo de prueba pésimo.
 
-
-
 {{< adsterra_native >}}
 
 ## El Mito del Techo de Cristal Aeróbico
@@ -70,6 +68,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quieren](/es/fitness/friol-carballido-abdominales-acero/)
 - [Lectura Nocturna y el Anillo Oura: ¿Puedo Decirle a Oura Por Qué No Me Duermo?](/es/fitness/lectura-nocturna-anillo-oura-retraso-sueno/)
 - [DEKA FIT Valencia: La Verdad Oculta Sobre Lesiones y Sobrecarga en el Fitness](/es/fitness/deka-la-revolucion-del-fitness-hibrido-en-la-comunitat-valenciana/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

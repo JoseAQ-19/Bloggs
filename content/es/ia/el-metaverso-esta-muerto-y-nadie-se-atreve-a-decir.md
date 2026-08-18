@@ -20,8 +20,6 @@ type: ia
 ## Resumen Ejecutivo
 El concepto del metaverso, inicialmente presentado como la próxima gran revolución de Internet, ha enfrentado una serie de desilusiones que han puesto en tela de juicio su viabilidad tanto en el ámbito de consumo como en el industrial. A pesar de la inversión masiva por parte de empresas como Meta, los resultados han sido decepcionantes. La tecnología actual para la realidad virtual se muestra insuficiente, y la falta de contenido atractivo limita su adopción. Por otro lado, aunque el metaverso industrial presenta oportunidades, su impacto real es menor del esperado y suele ser una extensión de tecnologías existentes. La idea de que pasaremos la mayor parte de nuestro tiempo en mundos virtuales es una fantasía, y sería más beneficioso que la industria tecnológica redirigiera sus esfuerzos hacia problemas reales con tecnologías ya probadas.
 
-
-
 {{< adsterra_native >}}
 
 ## Cuerpo
@@ -73,6 +71,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Stoxx 600 sube un 1,5% tras la crisis en Asia, pero la volatilidad persiste.](/es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 - [Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina](/es/ia/ia-teleco-espana-crecimiento/)
 - [Adiós A La IA Neutra: Amparo Alonso Betanzos Exige Compensar Desigualdad.](/es/ia/ia-humanismo-diseno-tecnologico/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

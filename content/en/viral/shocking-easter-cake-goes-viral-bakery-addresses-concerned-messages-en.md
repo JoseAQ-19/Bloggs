@@ -1,16 +1,19 @@
 ---
-title: "Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter"
-date: 2026-04-05T22:13:18
+title: Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter
+date: 2026-04-05 22:13:18
 draft: false
-description: "A bakery's Easter cake ignites controversy as heavy metals are discovered in edible glitter. Discover the shocking details and health implications now."
-featured_image: "/images/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en.jpg"
-slug: "shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en"
-canonical: "https://novumworld.com/viral/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "f72036df-3d29-e6dc-35e0-3d8b4f6e708e"
+description: A bakery's Easter cake ignites controversy as heavy metals are discovered
+  in edible glitter. Discover the shocking details and health implications now.
+featured_image: /images/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en.jpg
+slug: shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en
+canonical: https://novumworld.com/viral/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: f72036df-3d29-e6dc-35e0-3d8b4f6e708e
 ---
 
 ![Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter](/images/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en.jpg)
@@ -71,28 +74,12 @@ As the food industry continues to evolve, consumers must advocate for stronger r
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPblhNVHBHUWhwUk1WTDJqNk1GWUpmQ1h2VURYbmk5SVVWTWJEQmpCRzVvSmFVNVhUbmNXS3pGMHBDNERFY1dJdGl5S1I3T005ZDAydGxGbU11Y2ZQOHphNS1ndzM1UTlVcndCTUVkQUVSLXRtYV9iWVFRaUdVb0duNWJrYXpRajJyeExPaUxuT00?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZlFza3V1aFdKVEQwd2JLVnRCeWFUbERfcmZlTTJKUlpjNmZ6aUZyVnRnZXRJSlNUU2pMamticGFBVEhmdlAzalRUaElEVk5Ea3oyWFREV3I5SlFOazBPZndJeENiS2FhamVIZmZna0EwcnkyZmh2ZHl3eXpHZw?oc=5)
 
-
 ## Related Articles
 - [77,000 Steam Accounts Hacked Monthly: Are YOU Next? Valve](/viral/steam-malware-threat-en/)
 - [Barbara Han''s 90% Accurate Pandemic Model: Why You Shoul](/viral/predicting-next-pandemic-en/)
 - [PopSockets'' $315 Million Mirage: Are Sales Figu](/viral/popsockets-market-saturation-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter",
-  "description": "A bakery's Easter cake ignites controversy as heavy metals are discovered in edible glitter. Discover the shocking details and health implications now.",
-  "image": "https://novumworld.com/images/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en.jpg",
-  "datePublished": "2026-04-05T22:13:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +89,3 @@ As the food industry continues to evolve, consumers must advocate for stronger r
     }
   }
 }
-</script>

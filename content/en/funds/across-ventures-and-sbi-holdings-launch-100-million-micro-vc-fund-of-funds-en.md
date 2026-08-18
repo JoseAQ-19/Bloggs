@@ -1,14 +1,17 @@
 ---
-title: "Across Ventures and SBI Holdings Launch $100 Million Micro VC Fund-of-Funds"
-date: 2026-04-14T07:35:04
+title: Across Ventures and SBI Holdings Launch $100 Million Micro VC Fund-of-Funds
+date: 2026-04-14 07:35:04
 draft: false
-description: "Discover how Across Ventures and SBI Holdings are shaking up the investment landscape with their new $100 million Micro VC Fund-of-Funds initiative."
-featured_image: "/images/across-ventures-and-sbi-holdings-launch-100-million-micro-vc-fund-of-funds-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e297ab91-29b5-fd4c-215c-6ba22eac48b0"
+description: Discover how Across Ventures and SBI Holdings are shaking up the investment
+  landscape with their new $100 million Micro VC Fund-of-Funds initiative.
+featured_image: /images/across-ventures-and-sbi-holdings-launch-100-million-micro-vc-fund-of-funds-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: e297ab91-29b5-fd4c-215c-6ba22eac48b0
 ---
 
 ![Across Ventures and SBI Holdings Launch $100 Million Micro VC Fund-of-Funds](/images/across-ventures-and-sbi-holdings-launch-100-million-micro-vc-fund-of-funds-en.jpg)
@@ -20,8 +23,6 @@ Across Ventures and SBI Holdings have launched a $100 million Micro VC fund-of-f
 * 20% — Proportion of venture capital investments that are classified as micro VC, indicating a growing segment of the market.
 
 Micro venture capital is gaining traction as investors seek opportunities beyond traditional funding sources. This approach allows funds to diversify their portfolios by making smaller investments in a larger number of startups. The collaboration between Across Ventures and SBI Holdings signals a robust confidence in the growth potential of early-stage companies, which have consistently outperformed larger counterparts in various sectors.
-
-
 
 {{< adsterra_native >}}
 
@@ -89,36 +90,11 @@ Investors can participate in micro VC through direct investment in funds or by i
 
 The average return for micro VC funds is around 15%, although this can vary widely based on fund performance and market conditions. 
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Across Ventures and SBI Holdings Launch $100 Million Micro VC Fund-of-Funds",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com"
-  }
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a micro VC fund?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Micro VC funds focus on making smaller investments (typically between $25,000 and $500,000) in early-stage startups, aiming to diversify investments across a larger number of companies."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How do micro VC funds differ from traditional VC funds?",
@@ -169,13 +145,10 @@ The average return for micro VC funds is around 15%, although this can vary wide
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [OAK](/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
 - [Orion Platform Integrates 7 VanEck Multi-Asset ETF Model Portfolios](/funds/orion-platform-integrates-7-vaneck-multi-asset-etf-model-portfolios-en/)
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -77,22 +77,7 @@ Start today by incorporating small, consistent changes into your routine, such a
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 - [Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese](/fitness/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Lenny Kravitz’s Abs Show 7 Secrets Of Unmatched Discipline That Shock Everyone",
-  "description": "Discover the 7 surprising secrets behind Lenny Kravitz's remarkable discipline and stunning abs that leave everyone in awe. Transform your own fitness.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-15T07:26:43",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +87,3 @@ Start today by incorporating small, consistent changes into your routine, such a
     }
   }
 }
-</script>

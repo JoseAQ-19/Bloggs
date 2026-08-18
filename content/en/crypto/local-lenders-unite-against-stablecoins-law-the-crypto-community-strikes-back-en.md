@@ -79,12 +79,10 @@ As the battle lines are drawn between traditional banking and the emerging crypt
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1pIZk00eVRlektmc3dIZ1IwcjZOQTZ0ZkhlemplQW9WQTRFZnFUU1MtQ245cnNUcEFFVWlISjMxSk1SYUJraFZMSkE4SndEakJiUXRpMUZ5SnpTMG12SnNtN2tIVnVRc1RJU3cwRmFXSUtxQnZWUFlkWEtzcWFqVDlZMjB4cE1lS0xwWk95N3VGMjRmMUFHYW8xSGY5T2xoNU9SLU5Zcjk?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Hidden Risks Behind The $2 Trillion Market Meltdown That Shocked Investors](/crypto/the-real-story-behind-the-market-meltdown-crypto-stocks-and-gold-in-freefall-en/)
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -94,18 +92,7 @@ As the battle lines are drawn between traditional banking and the emerging crypt
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "4,000 Local Lenders Unite Against 'Stablecoins' Law That Threatens $850 Billion in Loans",
-  "description": "Thousands of local lenders rally against a new law targeting stablecoins, warning it could jeopardize $850 billion in loans and impact borrowers.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-28T17:51:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +102,3 @@ As the battle lines are drawn between traditional banking and the emerging crypt
     }
   }
 }
-</script>

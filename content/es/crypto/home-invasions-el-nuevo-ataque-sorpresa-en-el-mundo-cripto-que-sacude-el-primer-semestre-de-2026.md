@@ -93,7 +93,6 @@ El sector debe avanzar hacia estándares técnicos robustos y marcos regulatorio
 - [Monero Podría Alcanzar $1,160 en 2028: El Impacto de las Ondas Elliott Revelado](/es/crypto/monero-xmr-como-se-comportara-su-precio-hasta-2028/)
 - [¿Gas Demasiado Caro en Metamask? Gu](/es/crypto/metamask-gas-fees-guia-completa/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -102,18 +101,7 @@ El sector debe avanzar hacia estándares técnicos robustos y marcos regulatorio
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Amenaza Silenciosa: 5 Estafas de Invasión en el Mundo Cripto que Nadie Vio Venir",
-  "description": "Descubre las 5 estafas de invasión en el mundo cripto que han sorprendido a todos. Protege tus inversiones y mantente informado sobre estas amenazas.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-23T17:26:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -123,4 +111,3 @@ El sector debe avanzar hacia estándares técnicos robustos y marcos regulatorio
     }
   }
 }
-</script>

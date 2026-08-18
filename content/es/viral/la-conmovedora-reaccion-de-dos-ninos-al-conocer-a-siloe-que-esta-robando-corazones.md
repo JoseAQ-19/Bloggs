@@ -1,16 +1,19 @@
 ---
-title: "La Impactante Reacción de Dos Niños al Conocer a Siloé Que Conmueve a Todos"
-date: 2026-05-26T22:18:11
+title: La Impactante Reacción de Dos Niños al Conocer a Siloé Que Conmueve a Todos
+date: 2026-05-26 22:18:11
 draft: false
-description: "Descubre la conmovedora reacción de dos niños al conocer a Siloé, un momento que tocará tu corazón y te hará reflexionar sobre la inocencia y la empatía."
-featured_image: "/images/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones.jpg"
-slug: "la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones"
-canonical: "https://novumworld.com/es/viral/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "acf2523a-cf25-dbc7-1cb5-66390e5f3481"
+description: Descubre la conmovedora reacción de dos niños al conocer a Siloé, un
+  momento que tocará tu corazón y te hará reflexionar sobre la inocencia y la empatía.
+featured_image: /images/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones.jpg
+slug: la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones
+canonical: https://novumworld.com/es/viral/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: acf2523a-cf25-dbc7-1cb5-66390e5f3481
 ---
 
 ![La Impactante Reacción de Dos Niños al Conocer a Siloé Que Conmueve a Todos](/images/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones.jpg)
@@ -75,22 +78,7 @@ En un mundo donde la validación digital puede ser efímera, la conexión autén
 - [Microexpresiones Del Terro](/es/viral/tetuan-microexpresiones-terror-maltrato-postpandemia/)
 - [¿Taxi Gratis Para Acusado De Violación? El E](/es/viral/limpiasgate-coche-patrulla-taxi-vip/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Reacción de Dos Niños al Conocer a Siloé Que Conmueve a Todos",
-  "description": "Descubre la conmovedora reacción de dos niños al conocer a Siloé, un momento que tocará tu corazón y te hará reflexionar sobre la inocencia y la empatía.",
-  "image": "https://novumworld.com/images/la-conmovedora-reaccion-de-dos-ninos-al-conocer-a-siloe-que-esta-robando-corazones.jpg",
-  "datePublished": "2026-05-26T22:18:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ En un mundo donde la validación digital puede ser efímera, la conexión autén
     }
   }
 }
-</script>

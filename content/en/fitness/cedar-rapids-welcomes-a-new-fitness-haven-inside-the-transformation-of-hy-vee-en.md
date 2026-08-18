@@ -1,16 +1,20 @@
 ---
-title: "Cedar Rapids Fitness Revolution: The Shocking Transformation of Hy-Vee's New Haven"
-date: 2026-06-03T07:05:15
+title: 'Cedar Rapids Fitness Revolution: The Shocking Transformation of Hy-Vee''s
+  New Haven'
+date: 2026-06-03 07:05:15
 draft: false
-description: "Discover how Hy-Vee's New Haven is leading a fitness revolution in Cedar Rapids, transforming wellness with innovative programs and community engagement."
-featured_image: "/images/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en.jpg"
-slug: "cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en"
-canonical: "https://novumworld.com/fitness/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "7e623d72-72f1-3b8f-6e7d-3aaec8c9af89"
+description: Discover how Hy-Vee's New Haven is leading a fitness revolution in Cedar
+  Rapids, transforming wellness with innovative programs and community engagement.
+featured_image: /images/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en.jpg
+slug: cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en
+canonical: https://novumworld.com/fitness/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 7e623d72-72f1-3b8f-6e7d-3aaec8c9af89
 ---
 
 ![Cedar Rapids Fitness Revolution: The Shocking Transformation of Hy-Vee's New Haven](/images/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en.jpg)
@@ -76,22 +80,7 @@ In the race for better health, Cedar Rapids must ensure the finish line isn't ju
 - [The Shocking Truth: Why Fitness Experts Say BMEA Pilates Ring Is Essential After 40](/fitness/unlock-your-potential-why-the-bmea-pilates-ring-is-a-game-changer-for-your-fitness-routine-en/)
 - [The Shocking Truth About Folding Treadmills: 61% of Remote Workers Are at Risk](/fitness/the-ultimate-guide-to-the-best-folding-treadmills-approved-by-runners-and-remote-workers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Cedar Rapids Fitness Revolution: The Shocking Transformation of Hy-Vee's New Haven",
-  "description": "Discover how Hy-Vee's New Haven is leading a fitness revolution in Cedar Rapids, transforming wellness with innovative programs and community engagement.",
-  "image": "https://novumworld.com/images/cedar-rapids-welcomes-a-new-fitness-haven-inside-the-transformation-of-hy-vee-en.jpg",
-  "datePublished": "2026-06-03T07:05:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +90,3 @@ In the race for better health, Cedar Rapids must ensure the finish line isn't ju
     }
   }
 }
-</script>

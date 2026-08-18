@@ -31,8 +31,6 @@ YouTube's video manipulation has swayed voting preferences by 51.5% to 65.6% amo
 * A study by Guillaume Chaslot found that YouTube was six times more likely to recommend pro-Trump videos during the 2016 election than pro-Clinton content.
 * The implications for users are profound; they may unknowingly be influenced by content algorithms that prioritize engagement over factual integrity.
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithm's Hidden Hand: YouTube's Influence on Voter Behavior
@@ -160,6 +158,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Good Good Golf''s Meltdown: 1.48 Million Subscribers Can''t Save This Trainwreck](/en/youtube/youtube-golf-wars-business-fallout-en/)
 - [Eddie Hearn SHOCKED: Is KSI''s Nice Guy Act Hiding A Financial Disaster?](/en/youtube/ksi-sidemen-fc-business-analysis-en/)
 - [320,000 YouTube Users Screamed: What Google Is Hiding About The Outage.](/en/youtube/youtube-outage-2026-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

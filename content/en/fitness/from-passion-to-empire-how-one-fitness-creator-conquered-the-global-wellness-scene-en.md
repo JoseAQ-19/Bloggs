@@ -84,22 +84,7 @@ El entrenamiento de alta intensidad es un enfoque de entrenamiento que puede ser
 - [Unlocking Longevity: 13% Lower Mortality Risk for Every 1-MET Improvement in VO2max](/fitness/unlocking-longevity-how-staying-fit-after-40-can-transform-your-life-en/)
 - [The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis",
-  "description": "From Passion to Empire: How One Fitness Creator Conquered the Global Wellness Scene Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-31T08:15:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +94,3 @@ El entrenamiento de alta intensidad es un enfoque de entrenamiento que puede ser
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "YouTube Just Made History: First-Ever MRC Accreditation for Shorts and Nobody Noticed"
-date: 2026-06-03T20:10:18
+title: 'YouTube Just Made History: First-Ever MRC Accreditation for Shorts and Nobody
+  Noticed'
+date: 2026-06-03 20:10:18
 draft: false
-description: "Discover how YouTube's first-ever MRC accreditation for Shorts marks a historic shift in content quality and standards that many missed."
-featured_image: "/images/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en.jpg"
-slug: "youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en"
-canonical: "https://novumworld.com/youtube/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "30e1d0d3-f355-c8c3-ef74-c79ead5864a6"
+description: Discover how YouTube's first-ever MRC accreditation for Shorts marks
+  a historic shift in content quality and standards that many missed.
+featured_image: /images/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en.jpg
+slug: youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en
+canonical: https://novumworld.com/youtube/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 30e1d0d3-f355-c8c3-ef74-c79ead5864a6
 ---
 
 ![YouTube Just Made History: First-Ever MRC Accreditation for Shorts and Nobody Noticed](/images/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en.jpg)
@@ -55,28 +59,12 @@ In the world of digital media, where content is constantly created and consumed 
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxQNlo2RklDeGRadGlybU44N2pLSTJuQXVvUF9QOE5kNzRQSzJOaWVmdUNuWjF2Qjc4V1lHd0ZqMjd1YVhoMTBCV1MtSFNUUWdDX2ZRNjU4cGZneVB5Mlk2a1lsMy1jaml6RGhaOVdlT2QxdmNLcEdsc3pjQkctTTVuWFBqS0ZZWmUxWjdYXzg5Ri1KRGJYSWU4el8ySVg5QQ?oc=5)
 
-
 ## Related Articles
 - [NFL's Antitrust Risks: Why 2026 Could Reshape Sports Broadcasting Forever](/youtube/youtubes-nfl-dilemma-why-netflix-and-broadcast-tv-could-shake-things-up-en/)
 - [YouTube's New PiP Feature Is Free for All, But Here's The Shocking Truth](/youtube/youtubes-picture-in-picture-free-for-all-but-heres-the-catch-en/)
 - [YouTube's AI Audiobooks Are Stealing Millions: How Digital Piracy Is Evolving](/youtube/youtubes-ai-generated-audiobooks-the-rise-of-digital-piracy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Just Made History: First-Ever MRC Accreditation for Shorts and Nobody Noticed",
-  "description": "Discover how YouTube's first-ever MRC accreditation for Shorts marks a historic shift in content quality and standards that many missed.",
-  "image": "https://novumworld.com/images/youtube-breaks-ground-with-first-ever-mrc-accreditation-for-short-form-videos-en.jpg",
-  "datePublished": "2026-06-03T20:10:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -86,4 +74,3 @@ In the world of digital media, where content is constantly created and consumed 
     }
   }
 }
-</script>

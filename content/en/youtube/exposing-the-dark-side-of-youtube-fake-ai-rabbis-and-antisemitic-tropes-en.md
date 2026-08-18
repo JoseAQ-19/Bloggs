@@ -1,16 +1,19 @@
 ---
-title: "63 AI Rabbis Are Disguising Antisemitism on YouTube and Nobody Is Paying Attention"
-date: 2026-05-24T20:45:30
+title: 63 AI Rabbis Are Disguising Antisemitism on YouTube and Nobody Is Paying Attention
+date: 2026-05-24 20:45:30
 draft: false
-description: "Discover how 63 AI rabbis are masking antisemitism on YouTube, raising concerns about online hate and the urgent need for awareness and action."
-featured_image: "/images/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en.jpg"
-slug: "exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en"
-canonical: "https://novumworld.com/youtube/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "770e8394-637b-04ee-c301-e9a5b4d0cef7"
+description: Discover how 63 AI rabbis are masking antisemitism on YouTube, raising
+  concerns about online hate and the urgent need for awareness and action.
+featured_image: /images/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en.jpg
+slug: exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en
+canonical: https://novumworld.com/youtube/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 770e8394-637b-04ee-c301-e9a5b4d0cef7
 ---
 
 ![63 AI Rabbis Are Disguising Antisemitism on YouTube and Nobody Is Paying Attention](/images/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en.jpg)
@@ -69,22 +72,7 @@ The rise of AI-generated antisemitic content on platforms like YouTube represent
 - [YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions](/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/)
 - [YouTube's Picture-in-Picture Feature Drains 60% Battery and Nobody Is Talking About It](/youtube/youtubes-picture-in-picture-feature-a-game-changer-with-a-frustrating-twist-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "63 AI Rabbis Are Disguising Antisemitism on YouTube and Nobody Is Paying Attention",
-  "description": "Discover how 63 AI rabbis are masking antisemitism on YouTube, raising concerns about online hate and the urgent need for awareness and action.",
-  "image": "https://novumworld.com/images/exposing-the-dark-side-of-youtube-fake-ai-rabbis-and-antisemitic-tropes-en.jpg",
-  "datePublished": "2026-05-24T20:45:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +82,3 @@ The rise of AI-generated antisemitic content on platforms like YouTube represent
     }
   }
 }
-</script>

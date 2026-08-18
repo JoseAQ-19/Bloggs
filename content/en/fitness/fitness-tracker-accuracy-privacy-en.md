@@ -26,8 +26,6 @@ The quantified self is a quantified lie, and the wearable industry is banking on
 * Lisa Cadmus-Bertram of UW-Madison notes that calorie burn estimates rely on guesswork and may not accurately reflect an individual's body composition, rendering the "calories burned" metric virtually useless for precision dieting.
 * Nabil Alshurafa points out that current activity-monitoring algorithms are built for people without obesity and that hip-worn trackers often misread energy burn in people with higher body weight, creating a systemic bias in digital health tracking.
 
-
-
 {{< adsterra_native >}}
 
 ## The False Promise of Precision: How Amazon's Halo Underestimates Your Efforts
@@ -57,6 +55,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Gym Apocalypse: $4.9 Million Data Breaches Are Decimating Fitness Centers](/en/fitness/gym-security-vulnerabilities-en/)
 - [The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%](/en/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en/)
 - [Wall Street Bets Big On Recovery: Home Gyms To Explode To $22.5 Billion By](/en/fitness/home-gyms-recovery-zones-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

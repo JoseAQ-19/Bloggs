@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Data Privacy Risks Behind DoorDash's AI Merchant Tools Will Outrage Restaurant Owners"
-date: 2026-05-13T15:29:42
+title: The Hidden Data Privacy Risks Behind DoorDash's AI Merchant Tools Will Outrage
+  Restaurant Owners
+date: 2026-05-13 15:29:42
 draft: false
-description: "Discover the shocking data privacy risks of DoorDash's AI tools that could alarm restaurant owners and impact their businesses. Learn more now!."
-featured_image: "/images/doordash-ai-merchant-tools-technical-teardown-en.jpg"
-slug: "doordash-ai-merchant-tools-technical-teardown-en"
-canonical: "https://novumworld.com/tools/doordash-ai-merchant-tools-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "7131b936-ccf5-a368-c4c2-7181cc7cd64a"
+description: Discover the shocking data privacy risks of DoorDash's AI tools that
+  could alarm restaurant owners and impact their businesses. Learn more now!.
+featured_image: /images/doordash-ai-merchant-tools-technical-teardown-en.jpg
+slug: doordash-ai-merchant-tools-technical-teardown-en
+canonical: https://novumworld.com/tools/doordash-ai-merchant-tools-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 7131b936-ccf5-a368-c4c2-7181cc7cd64a
 ---
 
 ![The Hidden Data Privacy Risks Behind DoorDash's AI Merchant Tools Will Outrage Restaurant Owners](/images/doordash-ai-merchant-tools-technical-teardown-en.jpg)
@@ -72,22 +76,7 @@ The technical architecture of DoorDash's AI Merchant Tools prioritizes data extr
 - [The Hidden Crisis: 1 In 200 Students Falsely Accuse](/tools/marquette-ai-guide-technical-analysis-en/)
 - [The Shocking Discovery in Joint Fluid That Could Change CKD Care Forever](/tools/revolutionizing-ckd-care-the-tools-we-need-for-change-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Data Privacy Risks Behind DoorDash's AI Merchant Tools Will Outrage Restaurant Owners",
-  "description": "Discover the shocking data privacy risks of DoorDash's AI tools that could alarm restaurant owners and impact their businesses. Learn more now!.",
-  "image": "https://novumworld.com/images/doordash-ai-merchant-tools-technical-teardown-en.jpg",
-  "datePublished": "2026-05-13T15:29:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +86,3 @@ The technical architecture of DoorDash's AI Merchant Tools prioritizes data extr
     }
   }
 }
-</script>

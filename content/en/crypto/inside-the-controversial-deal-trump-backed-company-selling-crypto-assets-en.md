@@ -75,12 +75,10 @@ La controversia ha generado un debate en torno a la necesidad de un escrutinio m
 - [news.google.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUNVTldrV2tqVXBVcUZfQmtPeXhUdkE3N3IzYTdwcXBCQXlaRVhiVmVzeVlFRllfU3hiSGlSSXJXbTF5YnZtaUVRX1IzR3dNekdKdGJGVHE3em9lWUFBa1dQd3NWR1VqMFNDOFBWd3dwN3VhekNQeTdXZ3h3a1JzQTdQNndsTWtJT182cGtkVVg1R1NDMmxPd0dSZnRFSWxzSW9FSlNFWE9UdzUxd1dZeE5nR1J4MmZDSTZVRw?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -90,18 +88,7 @@ La controversia ha generado un debate en torno a la necesidad de un escrutinio m
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Inside The $500 Million Controversy: Trump’s Crypto Firm and Emirati Royal Family Ties",
-  "description": "Explore the $500 million controversy surrounding Trump's crypto firm and its connections to the Emirati royal family. Uncover the details now!.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-08T19:06:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +98,3 @@ La controversia ha generado un debate en torno a la necesidad de un escrutinio m
     }
   }
 }
-</script>

@@ -63,28 +63,12 @@ Remember to start slowly and gradually increase the intensity and duration of yo
 - [news.google.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWRoeDhnSDhiRE5Ecll0REFCTUx0UkJzOUZ1M2VsbGNMdUhsZ3hyX0x5UVp2dHUycW9fNDZSb20ybU44TGJ3UV9kbTNINGwzNXp0WFpuX05lUG1ab0RiYWV5c2kzZU5Gakh0cG10YUl0b2VuUlpBNWdVdlF3Yy1hUnFzelBZbkNJMUFyLUUxbTJfc3RMTkhNQVJPZVRXRDA?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEFnX2dJSXhwNXh4dEIxNDg0TWZiT052M3VhUlp5cVk5a2RJbDUwYjBKZHhXR1VtNy1ScGRfRkhpZ2JQM1BOaGhzRlBmOVJfS1RNRW5lTjZ6T0JBM0lyOENzbXBnU2JaYzV6OVNtY3JxdGNqQ2xKc0tLanIzRVNVNnBXbVZiNDk1?oc=5)
 
-
 ## Related Articles
 - [Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina](/fitness/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 - [The Hidden Truth About Planet Fitness Operating Hours This 4th of July](/fitness/will-planet-fitness-be-open-on-the-4th-of-july-find-out-before-you-plan-your-workout-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Endurance Test: Conquer the Plank and Squat to Prove Your Fitness",
-  "description": "Uncover the secret to true fitness with our guide on mastering the plank and squat. Challenge your endurance and elevate your workout routine today!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-10T08:52:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +78,3 @@ Remember to start slowly and gradually increase the intensity and duration of yo
     }
   }
 }
-</script>

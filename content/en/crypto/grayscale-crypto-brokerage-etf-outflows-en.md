@@ -29,8 +29,6 @@ Grayscale's $17 billion asset exodus signals a structural collapse in market con
 * GBTC assets under management plummeted from $28.6 billion on January 11 to roughly $26 billion by March 1, 2024.
 * The fund’s 1.5% expense ratio drastically undercuts its competitiveness against rivals charging between 0.20% and 0.39%.
 
-
-
 {{< adsterra_native >}}
 
 ## Grayscale's $17 Billion Exodus: Can a New Brokerage Stop the Bleeding?
@@ -65,6 +63,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [$25.8 Trillion in Stablecoin Trading Volume: The Shocking Rise Nobody Expected](/en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield About to Vanish?](/en/crypto/wisconsin-crypto-staking-debate-en/)
 - [The Hidden Risks of Digital Credit in Crypto Treasuries That Nobody Talks About](/en/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -31,8 +31,6 @@ OpenAI acaba de cometer un acto de canibalismo financiero al admitir que su mode
 
 La narrativa de que la IA generativa va a destruir a Hollywood ha recibido un golpe de realidad basado en la termodinámica y la contabilidad. Lo que nos vendieron como el fin de la creatividad humana resultó ser un experimento de laboratorio demasiado caro para el mundo real. Mientras los ingenuos aplaudían las demostraciones de "world models" en Twitter, los ingenieros de OpenAI miraban horrorizados cómo los clusters de GPU H100 consumían energía a un ritmo que ninguna suscripción de 20 dólares al mes podría compensar. No es una crisis de demanda; es una crisis de física aplicada a los márgenes de beneficio.
 
-
-
 {{< adsterra_native >}}
 
 ## La Matemática del Desastre: Cuando 1,30$ Destruyen tu Margen
@@ -60,6 +58,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en](/es/ia/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos/)
 - [Ecnocracia: El Nuevo Feudalismo Digital](/es/ia/ecnocracia-el-nuevo-feudalismo-digital/)
 - [Celular Te Espía. Y le Pagas por Ello](/es/ia/celular-te-espia-y-le-pagas-por-ello/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

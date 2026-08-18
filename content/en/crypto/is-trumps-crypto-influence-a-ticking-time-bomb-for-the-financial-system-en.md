@@ -76,7 +76,6 @@ Trump's vision for a crypto-friendly future raises critical questions about the 
 - [The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation](/crypto/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -85,18 +84,7 @@ Trump's vision for a crypto-friendly future raises critical questions about the 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Dangers of Trump's Crypto Agenda: A Financial System at Risk",
-  "description": "Explore the potential risks of Trump's crypto agenda and its impact on the financial system. Uncover the hidden dangers that could affect your investments.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-18T17:00:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ Trump's vision for a crypto-friendly future raises critical questions about the 
     }
   }
 }
-</script>

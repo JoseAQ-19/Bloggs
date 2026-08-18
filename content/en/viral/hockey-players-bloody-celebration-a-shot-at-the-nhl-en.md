@@ -1,16 +1,20 @@
 ---
-title: "Jack Hughes Scores Golden Goal With Bloodied Smile: A Future NHL Superstar Emerges"
-date: 2026-06-14T00:01:53
+title: 'Jack Hughes Scores Golden Goal With Bloodied Smile: A Future NHL Superstar
+  Emerges'
+date: 2026-06-14 00:01:53
 draft: false
-description: "Witness Jack Hughes' incredible journey as he scores a golden goal, showcasing his grit and talent. A future NHL superstar is born!."
-featured_image: "/images/hockey-players-bloody-celebration-a-shot-at-the-nhl-en.jpg"
-slug: "hockey-players-bloody-celebration-a-shot-at-the-nhl-en"
-canonical: "https://novumworld.com/viral/hockey-players-bloody-celebration-a-shot-at-the-nhl-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "9d27fbd0-aabd-634e-030e-cf7e4cce0d55"
+description: Witness Jack Hughes' incredible journey as he scores a golden goal, showcasing
+  his grit and talent. A future NHL superstar is born!.
+featured_image: /images/hockey-players-bloody-celebration-a-shot-at-the-nhl-en.jpg
+slug: hockey-players-bloody-celebration-a-shot-at-the-nhl-en
+canonical: https://novumworld.com/viral/hockey-players-bloody-celebration-a-shot-at-the-nhl-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 9d27fbd0-aabd-634e-030e-cf7e4cce0d55
 ---
 
 ![Jack Hughes Scores Golden Goal With Bloodied Smile: A Future NHL Superstar Emerges](/images/hockey-players-bloody-celebration-a-shot-at-the-nhl-en.jpg)
@@ -59,28 +63,12 @@ Jack Hughes has proven himself as an emerging superstar in both the NHL and inte
 - [news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0pORDI1ZjNYQmZkaDFsaElHWHVmeHVyR2tNNWlxbUttaXIzLV9salAtSkQ1NTJ3bG5OMFNhSkJsOHBLMExVZDZyZ1haN2o5TUswbU03NnVCOXZnb2VQWktUZDJzOER0cW5MUGtLX2VLV05ieVNsZ2gtT3RFYjl2UWppTUwwMHlvOUdVSkpucw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOalBXRi1XM0otYzlPbjdpaVVwQ0lmNHJrSERtRmRHNHFvRGYyaTdFSVR6TGtIalRDa3I3YXZqZWxaY2hlWVhpeVA2cFZFU2FfX0t2c3F6OWtxRWMxdi03cmdRWGNxdWxpM1o4ejJXZ0ktYnBPMW5tUHU0c2RwSkxDaVhJNWZSbEtKcS1JUWxsQ3kyVG03NVg4aFpVcFUxTGhWdndVWmpQdjlGRWFydVNrWjJmN0pvMnVTdjhDZVVVVlVmb05CV1YtTDVTZDA1S0Q0bTRfWmNhTVFDcjJ0UWtLZ2JZZE1FT29temZtSUFHdw?oc=5)
 
-
 ## Related Articles
 - [The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged](/viral/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en/)
 - [The Dot Cake Craze Is Taking Over TikTok And You Won't Believe Why](/viral/the-dot-cake-craze-why-everyones-sprinkling-their-desserts-on-tiktok-en/)
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Jack Hughes Scores Golden Goal With Bloodied Smile: A Future NHL Superstar Emerges",
-  "description": "Witness Jack Hughes' incredible journey as he scores a golden goal, showcasing his grit and talent. A future NHL superstar is born!.",
-  "image": "https://novumworld.com/images/hockey-players-bloody-celebration-a-shot-at-the-nhl-en.jpg",
-  "datePublished": "2026-06-14T00:01:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -90,4 +78,3 @@ Jack Hughes has proven himself as an emerging superstar in both the NHL and inte
     }
   }
 }
-</script>

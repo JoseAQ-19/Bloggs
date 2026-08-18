@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%"
-date: 2026-04-16T06:09:13
+title: 'The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%'
+date: 2026-04-16 06:09:13
 draft: false
-description: "Discover how the partnership between Les Mills and HYROX revolutionizes gym retention, boosting member loyalty by an astonishing 75%. Read more!."
-featured_image: "/images/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en.jpg"
-slug: "unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en"
-canonical: "https://novumworld.com/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "542b96d1-b4f6-a98a-f96d-679b806da6ca"
+description: Discover how the partnership between Les Mills and HYROX revolutionizes
+  gym retention, boosting member loyalty by an astonishing 75%. Read more!.
+featured_image: /images/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en.jpg
+slug: unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en
+canonical: https://novumworld.com/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 542b96d1-b4f6-a98a-f96d-679b806da6ca
 ---
 
 ![The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/images/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en.jpg)
@@ -103,28 +106,12 @@ This protocol avoids the "random suffering" trap of many HYROX training plans by
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11994925/)
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12550923/)
 
-
 ## Related Articles
 - [75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE](/fitness/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 - [Off-Duty Bloodshed: Wh](/fitness/silicon-valley-off-duty-police-altercations-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%",
-  "description": "Discover how the partnership between Les Mills and HYROX revolutionizes gym retention, boosting member loyalty by an astonishing 75%. Read more!.",
-  "image": "https://novumworld.com/images/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en.jpg",
-  "datePublished": "2026-04-16T06:09:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -134,4 +121,3 @@ This protocol avoids the "random suffering" trap of many HYROX training plans by
     }
   }
 }
-</script>

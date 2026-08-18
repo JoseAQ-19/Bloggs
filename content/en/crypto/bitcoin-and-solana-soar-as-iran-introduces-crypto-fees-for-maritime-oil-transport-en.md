@@ -1,16 +1,19 @@
 ---
-title: "Iran Just Introduced Crypto Fees For Oil Transport And Bitcoin Soars"
-date: 2026-04-08T17:53:20
+title: Iran Just Introduced Crypto Fees For Oil Transport And Bitcoin Soars
+date: 2026-04-08 17:53:20
 draft: false
-description: "Discover how Iran's new crypto fees for oil transport are impacting the Bitcoin market, driving prices higher and reshaping the crypto landscape."
-featured_image: "/images/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en.jpg"
-slug: "bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en"
-canonical: "https://novumworld.com/crypto/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "6fe5bd4d-f29f-2cd7-263d-00c4ab4e0a3b"
+description: Discover how Iran's new crypto fees for oil transport are impacting the
+  Bitcoin market, driving prices higher and reshaping the crypto landscape.
+featured_image: /images/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en.jpg
+slug: bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en
+canonical: https://novumworld.com/crypto/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 6fe5bd4d-f29f-2cd7-263d-00c4ab4e0a3b
 ---
 
 ![Iran Just Introduced Crypto Fees For Oil Transport And Bitcoin Soars](/images/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en.jpg)
@@ -73,12 +76,10 @@ The convergence of the oil and cryptocurrency sectors is indicative of a broader
 - [ofac.treasury.gov](https://ofac.treasury.gov/media/934236/download?inline=)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [OKX''s $6 Trillion Secret: How The E](/crypto/okx-valuation-regulatory-litmus-test-en/)
 - [Iran's Bold Move: Oil Tankers Now Paying Crypto Tolls in Strait of Hormuz](/crypto/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en/)
 - [Missed the Bull Run? 3 Cry](/crypto/on-chain-analysis-undervalued-cryptocurrencies-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -88,18 +89,7 @@ The convergence of the oil and cryptocurrency sectors is indicative of a broader
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iran Just Introduced Crypto Fees For Oil Transport And Bitcoin Soars",
-  "description": "Discover how Iran's new crypto fees for oil transport are impacting the Bitcoin market, driving prices higher and reshaping the crypto landscape.",
-  "image": "https://novumworld.com/images/bitcoin-and-solana-soar-as-iran-introduces-crypto-fees-for-maritime-oil-transport-en.jpg",
-  "datePublished": "2026-04-08T17:53:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +99,3 @@ The convergence of the oil and cryptocurrency sectors is indicative of a broader
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "Chinese AI Models Are Infiltrating U.S. Code Security: Booz Allen's Alarming Warning"
-date: 2026-06-21T12:33:11
+title: 'Chinese AI Models Are Infiltrating U.S. Code Security: Booz Allen''s Alarming
+  Warning'
+date: 2026-06-21 12:33:11
 draft: false
-description: "Discover how Chinese AI models are threatening U.S. code security, as Booz Allen raises urgent alarms about potential vulnerabilities and risks."
-featured_image: "/images/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en.jpg"
-slug: "chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en"
-canonical: "https://novumworld.com/ia/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "c08103fe-5a07-5b52-2732-8f356cbb6267"
+description: Discover how Chinese AI models are threatening U.S. code security, as
+  Booz Allen raises urgent alarms about potential vulnerabilities and risks.
+featured_image: /images/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en.jpg
+slug: chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en
+canonical: https://novumworld.com/ia/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: c08103fe-5a07-5b52-2732-8f356cbb6267
 ---
 
 ![Chinese AI Models Are Infiltrating U.S. Code Security: Booz Allen's Alarming Warning](/images/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en.jpg)
@@ -66,28 +70,12 @@ En este sentido, el informe de Booz Allen Hamilton es un llamado a la acción pa
 - [news.google.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ1B5UzIxQm94ZG9LUmV2VjAyYnNtWkRsd3NtNG1qNnVaZkFxRjQwcjBqWDI3bnJqbWE0d1NWVjZJT2pObHo3LTZUUTNBTWU2Ym5kTjFPR05aZTdPR2tKS0NuS1Uwa0s4VkR4Q0ZodVU3UWZlN0E3UENkb1M5amFlUWlFR09rVkFsQXZTQWZjNWRvdDFHdGdHQ3A4YlMwVU11NkdUNFAtVlpLWksxSk42bGRNT205ZzJJcTRDZjIwTFhrNFl6SzJDT2oxNHFUMEY4c2pZSFFxVVBwRDNRc1ExT09jZGc2amZpMVHSAe8BQVVfeXFMUEF3YXF4bEUwcXlYT3BMTWphRVhSOGI2VHI2aEh2ZEdfMWowa2tUUHZvQkMwbzZUaWZWNmhWWW9zRG9sQVhWdDlJaDdSVFJjeHlBWm5POWlQOWZQWmxCbjJObWM2X0Q2U1g3Z2tqM0RKLUhMWEtVY3ZvOU9Fcl9WZUUycTN5azlfQngtWjh4VWRhekszdVNuQWw5ZGVPVkxpQlJ3QmFweDZ6UUVPWVpOWHd2OVI5aWk5NGoySDIxNnNWbklJeWZ1cVRQS3RFME4tLURvV19TMXVJTlZQaUgtbTBTeVJHelg2QWhOa1VybXM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1liNV9ISV9XYUtUcGMwRU5VbzZxWnY5bnBiMllUendvaFhzUDVwNC1vQjNJd1U2ZWRXaEhiZy1jc2t4YllUc2pTMlo4MlJvTVBRMXo5RHY1OXdaNGxhSDNvR0xHbTM0Mm50QzVlejdIUWtBYlBOMWRiUFhtdjl1MUxwanZ4Zm1ZUC1HUmpWbTRLQWUyb1JpS3ZnNnA2YVg5ZkZMM3Z5Z0U3eUpVVnBleGhHVUVCVkw1aGRjVWRSckhMSmhLYXZ1SkYzYw?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth Behind China's One Million Attack Drones Ordered by 2026](/ia/unpacking-chinas-ai-driven-drone-strategy-a-glimpse-into-future-warfare-en/)
 - [The Hidden Emotional Cost Of Mourning: Grief Therapy Market Set To Skyrocket](/ia/remembering-lives-a-look-at-recent-obituaries-you-might-have-missed-en/)
 - [The 2026 Midterm Primary Election Calendar: Critical Dates You Can't Afford to Miss](/ia/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Chinese AI Models Are Infiltrating U.S. Code Security: Booz Allen's Alarming Warning",
-  "description": "Discover how Chinese AI models are threatening U.S. code security, as Booz Allen raises urgent alarms about potential vulnerabilities and risks.",
-  "image": "https://novumworld.com/images/chinese-ai-models-pose-threats-to-us-code-security-a-warning-from-booz-allen-en.jpg",
-  "datePublished": "2026-06-21T12:33:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ En este sentido, el informe de Booz Allen Hamilton es un llamado a la acción pa
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire Genuine Connection"
-date: 2026-05-29T12:34:11
+title: 'University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire
+  Genuine Connection'
+date: 2026-05-29 12:34:11
 draft: false
-description: "University graduates express frustration as AI-generated commencement speeches lack the emotional depth and connection needed for true inspiration."
-featured_image: "/images/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en.jpg"
-slug: "university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en"
-canonical: "https://novumworld.com/ia/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "acd1c34a-ef38-9585-3ba2-fc834d4b69ff"
+description: University graduates express frustration as AI-generated commencement
+  speeches lack the emotional depth and connection needed for true inspiration.
+featured_image: /images/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en.jpg
+slug: university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en
+canonical: https://novumworld.com/ia/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: acd1c34a-ef38-9585-3ba2-fc834d4b69ff
 ---
 
 ![University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire Genuine Connection](/images/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en.jpg)
@@ -66,28 +70,12 @@ The AI commencement speech phenomenon ultimately exposes a dangerous fallacy: th
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM08wQUYtWkhwNGJZRzBpcGN0YVVRYUZnTTNMWTJiRFJqSEc4cENEbkZ3UVpzanduVTNpYmJ5dnBGQlhGdl9Ca3ZId2lOVzE2SGVaU0haQ0toOTBGSVI1aXVxSDRkU25GUGZVUFY3SFpQX2p5TDAzM1psaTM2SzlFdHVoWHJGWU0?oc=5)
 
-
 ## Related Articles
 - [Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct](/ia/mysterious-death-investigation-shakes-small-town-le-mars-ia-en/)
 - [The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/)
 - [The Parenthood Happiness Paradox: 36% Of Parents Are Not Happier Than Childless Adults](/ia/the-surprising-truth-does-parenthood-really-make-us-happier-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire Genuine Connection",
-  "description": "University graduates express frustration as AI-generated commencement speeches lack the emotional depth and connection needed for true inspiration.",
-  "image": "https://novumworld.com/images/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en.jpg",
-  "datePublished": "2026-05-29T12:34:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ The AI commencement speech phenomenon ultimately exposes a dangerous fallacy: th
     }
   }
 }
-</script>

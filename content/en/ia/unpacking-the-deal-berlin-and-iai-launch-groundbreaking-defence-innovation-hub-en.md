@@ -1,16 +1,19 @@
 ---
-title: "Berlin And IAI Just Launched A Defence Innovation Hub That Will Change Everything"
-date: 2026-06-13T12:03:49
+title: Berlin And IAI Just Launched A Defence Innovation Hub That Will Change Everything
+date: 2026-06-13 12:03:49
 draft: false
-description: "Discover how Berlin and IAI's new Defence Innovation Hub is set to revolutionize military technology and enhance global security in unprecedented ways."
-featured_image: "/images/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en.jpg"
-slug: "unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en"
-canonical: "https://novumworld.com/ia/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "82ad1981-ce34-b79d-1420-75bd9b14dfdd"
+description: Discover how Berlin and IAI's new Defence Innovation Hub is set to revolutionize
+  military technology and enhance global security in unprecedented ways.
+featured_image: /images/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en.jpg
+slug: unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en
+canonical: https://novumworld.com/ia/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 82ad1981-ce34-b79d-1420-75bd9b14dfdd
 ---
 
 ![Berlin And IAI Just Launched A Defence Innovation Hub That Will Change Everything](/images/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en.jpg)
@@ -82,22 +85,7 @@ The reality is that defense innovation is as much about navigating bureaucracy, 
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 - [Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks](/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Berlin And IAI Just Launched A Defence Innovation Hub That Will Change Everything",
-  "description": "Discover how Berlin and IAI's new Defence Innovation Hub is set to revolutionize military technology and enhance global security in unprecedented ways.",
-  "image": "https://novumworld.com/images/unpacking-the-deal-berlin-and-iai-launch-groundbreaking-defence-innovation-hub-en.jpg",
-  "datePublished": "2026-06-13T12:03:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +95,3 @@ The reality is that defense innovation is as much about navigating bureaucracy, 
     }
   }
 }
-</script>

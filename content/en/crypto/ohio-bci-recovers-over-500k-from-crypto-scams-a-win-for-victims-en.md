@@ -73,7 +73,6 @@ The fight against crypto scams is far from over, but Ohio's victory lights the w
 - [US Senate’s Crypto Bill Could Propel Bitcoin To $200,000 By 2025](/crypto/us-senates-crypto-bill-a-game-changer-for-digital-assets-en/)
 - [Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -82,18 +81,7 @@ The fight against crypto scams is far from over, but Ohio's victory lights the w
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ohio BCI Recovers $500K from Crypto Scams: A Major Win for Victims",
-  "description": "Ohio BCI secures $500K from crypto scams, marking a significant victory for victims. Discover how justice prevails in the fight against fraud.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-25T16:53:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ The fight against crypto scams is far from over, but Ohio's victory lights the w
     }
   }
 }
-</script>

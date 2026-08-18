@@ -1,16 +1,19 @@
 ---
-title: "XRP's 80% Volatility Spikes as Bitcoin Dips: What You Need to Know"
-date: 2026-05-11T17:06:44
+title: 'XRP''s 80% Volatility Spikes as Bitcoin Dips: What You Need to Know'
+date: 2026-05-11 17:06:44
 draft: false
-description: "Discover how XRP's volatility surged by 80% while Bitcoin dips. Stay informed on market trends and what this means for your investments."
-featured_image: "/images/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en.jpg"
-slug: "bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en"
-canonical: "https://novumworld.com/crypto/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "803bc6ce-9534-6ff7-9fa0-e5284f091858"
+description: Discover how XRP's volatility surged by 80% while Bitcoin dips. Stay
+  informed on market trends and what this means for your investments.
+featured_image: /images/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en.jpg
+slug: bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en
+canonical: https://novumworld.com/crypto/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 803bc6ce-9534-6ff7-9fa0-e5284f091858
 ---
 
 ![XRP's 80% Volatility Spikes as Bitcoin Dips: What You Need to Know](/images/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en.jpg)
@@ -86,12 +89,10 @@ XRP’s challenges underscore the harsh reality of crypto investing: regulatory 
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMirwJBVV95cUxPS2F6a3FEUkRoSWQ0VV9mblVEdEJ0OFRSSFo5NldDMThUbEo2ZmF6aUxIX1ZzbVJPVTFlU3AzTHJFWFRrbU4zamFBRHRvTFNRSllIR0ZIc3BNLXZPWm5rdGktR2JPWkxnMGtleFk0ZUtSTnZ1UzZEWVJad0RNMmkySWo4Z3g4M1FjYXBZWThYY281RGdjTF9xNk9kUDNhQWlKWG13SE9NRDhnby1Db0ItRXVKV0liZkJMdHBpckFvZFRiSXI1WHdqNV9PVHRxTjNmOEIzR3V2c3dFTFpoR0w3Y1hqaEdRemRoTWRES2tQUkg3eTJ2LWlSRXNTYVZkWUs0RDI0LXpaNlZVSGlBdTNFRGx5MmxFbjBtNnZWNm4xcHpUdk1sa0p1QVNOc1BGc2vSAbQCQVVfeXFMT0JaSVlxdDZvbUJfRnRJR3Nka3I4NTlXMVNGLTlaZ0tTTjlVdUppVmNGOHFXc2kxU2RUU0hlV1F5TDFwN2RySWtsejBjRkpyczV3N3ZZd1c4cTVNSUYyTkZOcm1GaFhRQUJDQnZnWm45OG5GMkJtMWtic2VhRm51X0p4c3oyazRDc2kwVmxqWGdkb2tOb09CYXZmejcySzZabXQ5Y285c2ZmeVhtcnB0RUd5NUVkU0RUNVVkSlB4YmxaV0NlQ3VOVS1ZTE1mdk90aFNIRWtob09Cb05GNHM3VkhBVTdfTG5Wa2o5Z2tNanFLTFRyTFNPQmV2ZUJUZWhiaENvbFY0UFJtYWxIaGFVMTR4NUpUQ1A1dUNma1RvQXphWDhEYllTYUVXYlQ3OUM4a2tzR3A?oc=5)
 
-
 ## Related Articles
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -101,18 +102,7 @@ XRP’s challenges underscore the harsh reality of crypto investing: regulatory 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "XRP's 80% Volatility Spikes as Bitcoin Dips: What You Need to Know",
-  "description": "Discover how XRP's volatility surged by 80% while Bitcoin dips. Stay informed on market trends and what this means for your investments.",
-  "image": "https://novumworld.com/images/bitcoin-dips-but-xrp-and-solana-surge-amidst-controversial-crypto-bill-en.jpg",
-  "datePublished": "2026-05-11T17:06:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +112,3 @@ XRP’s challenges underscore the harsh reality of crypto investing: regulatory 
     }
   }
 }
-</script>

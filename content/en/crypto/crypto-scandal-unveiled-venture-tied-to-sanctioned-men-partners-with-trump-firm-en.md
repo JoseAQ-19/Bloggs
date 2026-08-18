@@ -1,16 +1,19 @@
 ---
-title: "Crypto Scandal Exposed: Trump-Linked Venture Partners With Sanctioned Criminals"
-date: 2026-04-29T18:00:10
+title: 'Crypto Scandal Exposed: Trump-Linked Venture Partners With Sanctioned Criminals'
+date: 2026-04-29 18:00:10
 draft: false
-description: "Uncover the shocking connections in the crypto world as we reveal how a Trump-linked venture partners with sanctioned criminals in this explosive exposé."
-featured_image: "/images/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en.jpg"
-slug: "crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en"
-canonical: "https://novumworld.com/crypto/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "33b2ee4f-01da-d0fd-ff31-c66e242daf60"
+description: Uncover the shocking connections in the crypto world as we reveal how
+  a Trump-linked venture partners with sanctioned criminals in this explosive exposé.
+featured_image: /images/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en.jpg
+slug: crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en
+canonical: https://novumworld.com/crypto/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 33b2ee4f-01da-d0fd-ff31-c66e242daf60
 ---
 
 ![Crypto Scandal Exposed: Trump-Linked Venture Partners With Sanctioned Criminals](/images/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en.jpg)
@@ -77,12 +80,10 @@ As the world watches, the implications of the WLFI-AB partnership may serve as a
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWhDdDRqLUppcXlFdDVfRVE4aG1mRzBoVW9QbllLX3czU0JiZTlLOERaV3lYSGtWNTM1TkVaY3RHSVJzTWNNMWl3OGs3TnJ6bVpBSl9mQzQxdGtVM1h4V1RRMDY0Y0Z6UWNyQkFCcGhGLXA5dF90VFphRjExYXBxVE4xMEp5bWNKZ1NEMDdpM1QzUlV6SXc0UjkwOVozQWQ1V205T2hJQ2l4NDZ2UTRiR19JLVdVaGc?oc=5)
 
-
 ## Related Articles
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood](/crypto/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -92,18 +93,7 @@ As the world watches, the implications of the WLFI-AB partnership may serve as a
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto Scandal Exposed: Trump-Linked Venture Partners With Sanctioned Criminals",
-  "description": "Uncover the shocking connections in the crypto world as we reveal how a Trump-linked venture partners with sanctioned criminals in this explosive exposé.",
-  "image": "https://novumworld.com/images/crypto-scandal-unveiled-venture-tied-to-sanctioned-men-partners-with-trump-firm-en.jpg",
-  "datePublished": "2026-04-29T18:00:10",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +103,3 @@ As the world watches, the implications of the WLFI-AB partnership may serve as a
     }
   }
 }
-</script>

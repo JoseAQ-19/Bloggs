@@ -1,16 +1,20 @@
 ---
-title: "How One Vietnamese Restaurant Owner Turned Free Meals Into 10 New Homes For Families"
-date: 2026-06-04T22:38:07
+title: How One Vietnamese Restaurant Owner Turned Free Meals Into 10 New Homes For
+  Families
+date: 2026-06-04 22:38:07
 draft: false
-description: "Discover how a Vietnamese restaurant owner transformed free meals into homes for families, showcasing the power of community and compassion in action."
-featured_image: "/images/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en.jpg"
-slug: "from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en"
-canonical: "https://novumworld.com/viral/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "95560a60-3c3c-187f-9274-08066ec016d6"
+description: Discover how a Vietnamese restaurant owner transformed free meals into
+  homes for families, showcasing the power of community and compassion in action.
+featured_image: /images/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en.jpg
+slug: from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en
+canonical: https://novumworld.com/viral/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 95560a60-3c3c-187f-9274-08066ec016d6
 ---
 
 ![How One Vietnamese Restaurant Owner Turned Free Meals Into 10 New Homes For Families](/images/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en.jpg)
@@ -82,22 +86,7 @@ In an era where social issues often seem insurmountable, Minh’s story serves a
 - [The Shocking Truth: 6 Symptoms That Set Long COVID Apart From Other Illnesses](/viral/why-only-6-symptoms-separate-long-covid-from-other-post-viral-conditions-en/)
 - [The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged](/viral/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How One Vietnamese Restaurant Owner Turned Free Meals Into 10 New Homes For Families",
-  "description": "Discover how a Vietnamese restaurant owner transformed free meals into homes for families, showcasing the power of community and compassion in action.",
-  "image": "https://novumworld.com/images/from-free-meals-to-new-homes-the-heartwarming-tale-of-a-vietnamese-restaurant-owner-en.jpg",
-  "datePublished": "2026-06-04T22:38:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +96,3 @@ In an era where social issues often seem insurmountable, Minh’s story serves a
     }
   }
 }
-</script>

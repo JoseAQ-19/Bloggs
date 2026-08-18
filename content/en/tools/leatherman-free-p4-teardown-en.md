@@ -25,8 +25,6 @@ Leatherman's marketing machine aggressively pushes the Free P4 as the apex of mu
 * Jediah Porter from Outdoor Gear Lab explicitly advises against the P4 due to its magnet debris collection and lack of a bit driver.
 * The Leatherman Wave+ remains the superior choice at $100, outperforming the $140 P4 in durability and utility during rigorous farm testing.
 
-
-
 {{< adsterra_native >}}
 
 ## The Durability Dilemma: Structural Failures in the Free Architecture
@@ -74,27 +72,11 @@ Professionals and enthusiasts alike should view the Free P4 with skepticism. The
 - [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20110011445/downloads/20110011445.pdf)
 - [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir81-2233.pdf)
 
-
 ## Related Articles
 - [Forget Swiss Army: 5 Keychain Tools That Will Anni](/tools/keychain-tools-review-en/)
 - [$40,000 Per Claim: The Hidden Cost Of Your Cra](/tools/diamondback-tool-belt-ergonomics-review-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth About Leatherman Free P4's Durability That Experts Won't Tell You",
-  "description": "Discover the surprising durability of the Leatherman Free P4. Uncover expert insights and learn why this multi-tool stands out in tough conditions.",
-  "image": "https://novumworld.com/images/leatherman-free-p4-teardown-en.jpg",
-  "datePublished": "2026-04-04T14:44:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +86,3 @@ Professionals and enthusiasts alike should view the Free P4 with skepticism. The
     }
   }
 }
-</script>

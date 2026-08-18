@@ -1,16 +1,19 @@
 ---
-title: "700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds"
-date: 2026-05-10T22:24:29
+title: '700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds'
+date: 2026-05-10 22:24:29
 draft: false
-description: "A shocking health crisis unfolds as 700 virus-stricken passengers disembark in the UK. Discover the latest updates and implications for public health."
-featured_image: "/images/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en.jpg"
-slug: "uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en"
-canonical: "https://novumworld.com/viral/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "1947de95-7f27-fc7e-a5e8-f44b2163cec8"
+description: A shocking health crisis unfolds as 700 virus-stricken passengers disembark
+  in the UK. Discover the latest updates and implications for public health.
+featured_image: /images/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en.jpg
+slug: uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en
+canonical: https://novumworld.com/viral/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 1947de95-7f27-fc7e-a5e8-f44b2163cec8
 ---
 
 ![700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds](/images/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en.jpg)
@@ -99,22 +102,7 @@ The cruise industry must prioritize passenger and crew safety to regain trust an
 - [The Shocking Truth: 6 Symptoms That Set Long COVID Apart From Other Illnesses](/viral/why-only-6-symptoms-separate-long-covid-from-other-post-viral-conditions-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds",
-  "description": "A shocking health crisis unfolds as 700 virus-stricken passengers disembark in the UK. Discover the latest updates and implications for public health.",
-  "image": "https://novumworld.com/images/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en.jpg",
-  "datePublished": "2026-05-10T22:24:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +112,3 @@ The cruise industry must prioritize passenger and crew safety to regain trust an
     }
   }
 }
-</script>

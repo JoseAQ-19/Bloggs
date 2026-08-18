@@ -76,22 +76,7 @@ The future of fitness is here, and it’s powered by AI—don’t get left behin
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "VEYR Just Secured £1 Million: The AI Fitness App That Will Change Everything",
-  "description": "VEYR has raised £1 million to revolutionize fitness with its innovative AI app. Discover how this technology is set to transform your workout experience.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-27T08:49:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +86,3 @@ The future of fitness is here, and it’s powered by AI—don’t get left behin
     }
   }
 }
-</script>

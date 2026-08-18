@@ -1,16 +1,19 @@
 ---
-title: "Iron Lung: La Película Que Generó Más de 50 Millones y Nadie Lo Vio Venir"
-date: 2026-05-31T19:10:45
+title: 'Iron Lung: La Película Que Generó Más de 50 Millones y Nadie Lo Vio Venir'
+date: 2026-05-31 19:10:45
 draft: false
-description: "Descubre cómo 'Iron Lung' sorprendió a todos al generar más de 50 millones. Una película que nadie esperaba y que está cambiando el panorama del cine."
-featured_image: "/images/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube.jpg"
-slug: "iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube"
-canonical: "https://novumworld.com/es/youtube/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "dbbecf20-ff15-f9b9-5884-4998fcea5d12"
+description: Descubre cómo 'Iron Lung' sorprendió a todos al generar más de 50 millones.
+  Una película que nadie esperaba y que está cambiando el panorama del cine.
+featured_image: /images/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube.jpg
+slug: iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube
+canonical: https://novumworld.com/es/youtube/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: dbbecf20-ff15-f9b9-5884-4998fcea5d12
 ---
 
 ![Iron Lung: La Película Que Generó Más de 50 Millones y Nadie Lo Vio Venir](/images/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube.jpg)
@@ -53,28 +56,12 @@ La verdencia de "Iron Lung" no está en su recaudación, sino en su sinceridad b
 ## Metodología y Fuentes
 - [news.google.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmxjUXc1Nk1aOVJUSDluSExlcVhTMVFmX2RGVUM1OTltSUpjLUlxeWN0dFdXMVUyaWJPWm1wLWlYeFJCOEQ5aU1qeEJueU96RmRuMzdSSk1jWnJ3YkRtUmJ2VnFYSWo0dWVtQ01ITjhQc0Z3Zm8xOXE4d0NrMFVKTUY2WG1KQTFSdkk0Zzc3Z1I3b2ZnOVVvc183WWJSLS1i?oc=5)
 
-
 ## Artículos relacionados
 - [La Verdad Oculta: YouTube Reduce Ingresos De Creadores Mientras Elimina Anuncios Durante Directos](/es/youtube/youtube-sorprende-al-eliminar-anuncios-en-picos-de-interaccion-en-directo/)
 - [YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube](/es/youtube/youtube-la-revolucion-de-la-television-en-el-mundo-hispano/)
 - [Google AI Pro No Puede Salvar A YouTube Premium Lite Del Fracaso Total](/es/youtube/youtube-premium-lite-el-inesperado-regalo-que-llega-con-google-ai-pro/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iron Lung: La Película Que Generó Más de 50 Millones y Nadie Lo Vio Venir",
-  "description": "Descubre cómo 'Iron Lung' sorprendió a todos al generar más de 50 millones. Una película que nadie esperaba y que está cambiando el panorama del cine.",
-  "image": "https://novumworld.com/images/iron-lung-la-pelicula-de-markiplier-que-esta-rompiendo-esquemas-en-youtube.jpg",
-  "datePublished": "2026-05-31T19:10:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +71,3 @@ La verdencia de "Iron Lung" no está en su recaudación, sino en su sinceridad b
     }
   }
 }
-</script>

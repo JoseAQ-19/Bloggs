@@ -1,16 +1,19 @@
 ---
-title: "Bitcoin's Shocking Plunge: 77.80% Drop Leaves Traders Reeling in Fear"
-date: 2026-06-05T18:08:05
+title: 'Bitcoin''s Shocking Plunge: 77.80% Drop Leaves Traders Reeling in Fear'
+date: 2026-06-05 18:08:05
 draft: false
-description: "Bitcoin's dramatic 77.80% drop has sent shockwaves through the trading community. Discover how this plunge impacts investors and the future of."
-featured_image: "/images/bitcoins-sudden-plunge-whats-behind-the-drop-en.jpg"
-slug: "bitcoins-sudden-plunge-whats-behind-the-drop-en"
-canonical: "https://novumworld.com/crypto/bitcoins-sudden-plunge-whats-behind-the-drop-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "52a5e225-7b14-d42a-c8c3-47e4c98abe11"
+description: Bitcoin's dramatic 77.80% drop has sent shockwaves through the trading
+  community. Discover how this plunge impacts investors and the future of.
+featured_image: /images/bitcoins-sudden-plunge-whats-behind-the-drop-en.jpg
+slug: bitcoins-sudden-plunge-whats-behind-the-drop-en
+canonical: https://novumworld.com/crypto/bitcoins-sudden-plunge-whats-behind-the-drop-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 52a5e225-7b14-d42a-c8c3-47e4c98abe11
 ---
 
 ![Bitcoin's Shocking Plunge: 77.80% Drop Leaves Traders Reeling in Fear](/images/bitcoins-sudden-plunge-whats-behind-the-drop-en.jpg)
@@ -83,12 +86,10 @@ High risk remains the defining characteristic of cryptocurrency markets, particu
 - [news.google.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWNILU9RSDE1dVlkTU4zZ1ZXdHppT3NOeGlSWWpXLUw5LTU5THpXa0tCSkxxUnlCaEEtaDc4dmk2Y1gzdlJwQmFuVXVIWE1rNjJ6bDRoQjNKZzJCS3dfbkQ2Qkp0bFNyMEJsZlo5YmhfRlQ5amtUaW9YWnRpYkF0SzZHZFExeVZSVXNGVmxsVEF5cnNHdTJjWmV3ZmJTa3J1SnRXeGh3VkF5bjhERXU0eHRaY0M4TEw2bnc?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves](/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/)
 - [The Senate’s Clarity Act Threatens $322 Billion Stablecoin Market and Nobody Is Talking](/crypto/the-future-of-crypto-key-insights-from-the-us-senates-landmark-bill-en/)
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -98,18 +99,7 @@ High risk remains the defining characteristic of cryptocurrency markets, particu
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin's Shocking Plunge: 77.80% Drop Leaves Traders Reeling in Fear",
-  "description": "Bitcoin's dramatic 77.80% drop has sent shockwaves through the trading community. Discover how this plunge impacts investors and the future of.",
-  "image": "https://novumworld.com/images/bitcoins-sudden-plunge-whats-behind-the-drop-en.jpg",
-  "datePublished": "2026-06-05T18:08:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +109,3 @@ High risk remains the defining characteristic of cryptocurrency markets, particu
     }
   }
 }
-</script>

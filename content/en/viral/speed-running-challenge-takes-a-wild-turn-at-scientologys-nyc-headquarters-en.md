@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind Scientology's OT Levels Speed Run Controversy"
-date: 2026-05-03T22:21:46
+title: The Shocking Truth Behind Scientology's OT Levels Speed Run Controversy
+date: 2026-05-03 22:21:46
 draft: false
-description: "Explore the unexpected revelations of Scientology's OT Levels speed run controversy, uncovering hidden motives and the impact on its followers."
-featured_image: "/images/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en.jpg"
-slug: "speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en"
-canonical: "https://novumworld.com/viral/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "c0c93a5b-1e5f-1ef4-7186-a5173a3070a4"
+description: Explore the unexpected revelations of Scientology's OT Levels speed run
+  controversy, uncovering hidden motives and the impact on its followers.
+featured_image: /images/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en.jpg
+slug: speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en
+canonical: https://novumworld.com/viral/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: c0c93a5b-1e5f-1ef4-7186-a5173a3070a4
 ---
 
 ![The Shocking Truth Behind Scientology's OT Levels Speed Run Controversy](/images/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en.jpg)
@@ -83,22 +86,7 @@ The Church of Scientology built a fortress to keep the world out, only to realiz
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [Spurs Blunder: 60% Of Latino Fans On Faceboo](/viral/spurs-tiktok-diversity-backfire-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Scientology's OT Levels Speed Run Controversy",
-  "description": "Explore the unexpected revelations of Scientology's OT Levels speed run controversy, uncovering hidden motives and the impact on its followers.",
-  "image": "https://novumworld.com/images/speed-running-challenge-takes-a-wild-turn-at-scientologys-nyc-headquarters-en.jpg",
-  "datePublished": "2026-05-03T22:21:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ The Church of Scientology built a fortress to keep the world out, only to realiz
     }
   }
 }
-</script>

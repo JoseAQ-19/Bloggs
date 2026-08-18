@@ -30,8 +30,6 @@ La tecnología no erradica la subjetividad, simplemente la digitaliza y la ralen
 * Iturralde González, experto arbitral de AS y Cadena SER, calificó la temporada actual como "el peor año en mucho tiempo" para la implementación del VAR en España, evidenciando el fracaso operativo del sistema.
 * Pep Guardiol posee un récord positivo de 14 victorias, 6 empates y 8 derrotas contra el Real Madrid en 28 partidos, según datos de diciembre de 2025, pero su narrativa pública se centra obsesivamente en la injusticia percibida.
 
-
-
 {{< adsterra_native >}}
 
 ## La falacia tecnológica del VAR: Cuando la alta definición no es verdad
@@ -67,6 +65,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [¿Taxi Gratis Para Acusado De Violación? El Escándalo LimpiasGate Estalla](/es/viral/limpiasgate-coche-patrulla-taxi-vip/)
 - [Kings League En Caída Libre: ¿El Circo de Piqué Pierde 400.000 Espectadores?](/es/viral/kings-league-crisis-audiencia-gerard-romero/)
 - [60% De Los Aclarantes De Piel Contienen Ingredientes Prohibidos: Lo Que No](/es/viral/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

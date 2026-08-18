@@ -1,16 +1,20 @@
 ---
-title: "Nonprofits Are Now Superheroes: Iowa Supreme Court Ruling Changes Everything for the Poor"
-date: 2026-06-12T12:30:26
+title: 'Nonprofits Are Now Superheroes: Iowa Supreme Court Ruling Changes Everything
+  for the Poor'
+date: 2026-06-12 12:30:26
 draft: false
-description: "Discover how the Iowa Supreme Court's landmark ruling empowers nonprofits to uplift the poor, transforming them into superheroes of social justice and."
-featured_image: "/images/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en.jpg"
-slug: "iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en"
-canonical: "https://novumworld.com/ia/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "f3f3b729-b08b-6851-a498-64b3189801da"
+description: Discover how the Iowa Supreme Court's landmark ruling empowers nonprofits
+  to uplift the poor, transforming them into superheroes of social justice and.
+featured_image: /images/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en.jpg
+slug: iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en
+canonical: https://novumworld.com/ia/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: f3f3b729-b08b-6851-a498-64b3189801da
 ---
 
 ![Nonprofits Are Now Superheroes: Iowa Supreme Court Ruling Changes Everything for the Poor](/images/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en.jpg)
@@ -78,22 +82,7 @@ With clear-eyed leadership and resource mobilization, Iowa’s nonprofits could 
 - [The Untold Story of Bruce Crandall: Hero of The Ia Drang Rescue Missions](/ia/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en/)
 - [Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community](/ia/two-injured-in-monona-countys-shocking-wrong-way-crash-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Nonprofits Are Now Superheroes: Iowa Supreme Court Ruling Changes Everything for the Poor",
-  "description": "Discover how the Iowa Supreme Court's landmark ruling empowers nonprofits to uplift the poor, transforming them into superheroes of social justice and.",
-  "image": "https://novumworld.com/images/iowa-supreme-court-ruling-empowers-nonprofits-to-aid-low-income-residents-en.jpg",
-  "datePublished": "2026-06-12T12:30:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +92,3 @@ With clear-eyed leadership and resource mobilization, Iowa’s nonprofits could 
     }
   }
 }
-</script>

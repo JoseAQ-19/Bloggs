@@ -30,8 +30,6 @@ type: youtube
 
 Conan O'Brien ha arrancado la polémica con su monólogo ácido en los Oscar 2026, bromeando sobre el cambio a YouTube y generando reacciones encontradas. "¿Oscar en YouTube? ¡Esto es como llevar una gala de los Ritz a un McDonald's!", dijo textualmente durante su apertura, refiriéndose al acuerdo de la Academia con la plataforma. La audiencia, en un 82% digital según datos de medición, no solo buscaba premios sino también el espectáculo del humorista. Los números del 2025, con 19.7 millones de espectadores pico, reflejan un leve repunte tras años de sangría, pero están muy lejos del esplendor pasado. La transición a YouTube, anunciada para 2029, es una apuesta desesperada por relevancia que muchos ven como el principio del fin de la tradición.
 
-
-
 {{< adsterra_native >}}
 
 ## El Fracaso de la Tradición: La Caída Audiencial Inevitable
@@ -68,6 +66,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles](/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/)
 - [YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No](/es/youtube/youtube-android-auto-trucos-riesgos-alternativas/)
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

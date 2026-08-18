@@ -31,8 +31,6 @@ type: funds
 
 This equity-income fund not only delivers consistent returns but also serves as a hedge against market volatility, making it a compelling option for risk-averse investors. 
 
-
-
 {{< adsterra_native >}}
 
 ## Performance Analysis: Steady Returns Amid Market Turbulence 
@@ -90,6 +88,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Vanguard Fee Cuts Save Investors $250 Million in 2026: A Morningstar Analysis](/en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12%](/en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en/)
 - [Morningstar Outperforms KnockoutStocks by 5% in 2026's Key Sectors.](/en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

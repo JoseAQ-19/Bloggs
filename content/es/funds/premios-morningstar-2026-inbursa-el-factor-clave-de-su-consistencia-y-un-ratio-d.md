@@ -32,8 +32,6 @@ type: funds
 
 En el mercado financiero mexicano, Inbursa destaca por la consistencia y rentabilidad de sus operaciones. Su fondo de inversión BTG ALFA sobresale particularmente, demostrando un Ratio de Sharpe de 1.5 y un TER del 1.2% en el último año, situándose en el quinto puesto de los fondos más rentables del país, según Morningstar. Este artículo analiza las claves de su éxito, desde su estrategia de inversión hasta su gestión de riesgos, ofreciendo una visión completa para inversores interesados.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis de rendimiento
@@ -102,6 +100,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
 - [Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por](/es/funds/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran/)
 - [Premios Morningstar 2026: Magallanes Value Investors logra su tercer galardón](/es/funds/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

@@ -74,7 +74,6 @@ To navigate this complex landscape, it is crucial for investors to diversify the
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/crypto/trump-iran-crypto-network-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -83,18 +82,7 @@ To navigate this complex landscape, it is crucial for investors to diversify the
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s Crypto Windfall: 5 Shocking Ways It Disrupted Digital Currency Markets",
-  "description": "Discover how Trump's crypto windfall transformed digital currency markets with five shocking impacts that reshaped the landscape of cryptocurrency trading.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-03T18:44:22",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +92,3 @@ To navigate this complex landscape, it is crucial for investors to diversify the
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "La Desesperación de MrBeast: El Rey de YouTube Pierde 166 Millones de Visitas"
-date: 2026-04-05T12:15:25
+title: 'La Desesperación de MrBeast: El Rey de YouTube Pierde 166 Millones de Visitas'
+date: 2026-04-05 12:15:25
 draft: false
-description: "Descubre cómo MrBeast, el rey de YouTube, enfrenta la desesperación tras perder 166 millones de visitas. Un análisis impactante de su trayectoria."
-featured_image: "/images/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del.jpg"
-slug: "la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del"
-canonical: "https://novumworld.com/es/youtube/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "83b4cd36-beab-9dc2-ece5-6c1fc0b54e78"
+description: Descubre cómo MrBeast, el rey de YouTube, enfrenta la desesperación tras
+  perder 166 millones de visitas. Un análisis impactante de su trayectoria.
+featured_image: /images/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del.jpg
+slug: la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del
+canonical: https://novumworld.com/es/youtube/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 83b4cd36-beab-9dc2-ece5-6c1fc0b54e78
 ---
 
 ![La Desesperación de MrBeast: El Rey de YouTube Pierde 166 Millones de Visitas](/images/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del.jpg)
@@ -63,28 +66,12 @@ La trágica ironía es que MrBeast, quien construyó su éxito sobre la creativi
 - [svg.com](https://www.svg.com/1644886/mrbeast-viewership-rapidly-dropping-amid-scandals/)
 - [statista.com](https://www.statista.com/statistics/1346129/mrbeast-video-view-numbers)
 
-
 ## Artículos relacionados
 - [¿Baby Shark A Bolsa: ¿Pagarias 400 Millone](/es/youtube/baby-shark-bolsa-valoracion-pinkfong/)
 - [El Truco Sucio del Profe: Aprueba Solo a Los](/es/youtube/profesor-youtube-chantaje-digital/)
 - [¿Comida Rápida? La Crítica DEVASTADORA Al Estilo M](/es/youtube/mrbeast-formula-viral-youtube/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Desesperación de MrBeast: El Rey de YouTube Pierde 166 Millones de Visitas",
-  "description": "Descubre cómo MrBeast, el rey de YouTube, enfrenta la desesperación tras perder 166 millones de visitas. Un análisis impactante de su trayectoria.",
-  "image": "https://novumworld.com/images/la-ultima-baza-de-mrbeast-por-que-ha-tenido-que-recurrir-a-tus-streamers-favoritos-tras-la-caida-del.jpg",
-  "datePublished": "2026-04-05T12:15:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +81,3 @@ La trágica ironía es que MrBeast, quien construyó su éxito sobre la creativi
     }
   }
 }
-</script>

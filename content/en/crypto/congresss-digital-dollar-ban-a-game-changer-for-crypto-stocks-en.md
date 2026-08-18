@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Consequences Of Congress's Digital Dollar Ban On Crypto Investments"
-date: 2026-06-22T18:48:16
+title: The Hidden Consequences Of Congress's Digital Dollar Ban On Crypto Investments
+date: 2026-06-22 18:48:16
 draft: false
-description: "Explore how Congress's digital dollar ban could reshape the crypto landscape, impacting investments and innovation in the evolving financial ecosystem."
-featured_image: "/images/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en.jpg"
-slug: "congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en"
-canonical: "https://novumworld.com/crypto/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "444624f5-1b7b-705d-dbe5-fd8a626947c6"
+description: Explore how Congress's digital dollar ban could reshape the crypto landscape,
+  impacting investments and innovation in the evolving financial ecosystem.
+featured_image: /images/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en.jpg
+slug: congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en
+canonical: https://novumworld.com/crypto/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 444624f5-1b7b-705d-dbe5-fd8a626947c6
 ---
 
 ![The Hidden Consequences Of Congress's Digital Dollar Ban On Crypto Investments](/images/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en.jpg)
@@ -59,7 +62,6 @@ Investors should take heed of the shifting regulatory environment and consider d
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -68,18 +70,7 @@ Investors should take heed of the shifting regulatory environment and consider d
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Consequences Of Congress's Digital Dollar Ban On Crypto Investments",
-  "description": "Explore how Congress's digital dollar ban could reshape the crypto landscape, impacting investments and innovation in the evolving financial ecosystem.",
-  "image": "https://novumworld.com/images/congresss-digital-dollar-ban-a-game-changer-for-crypto-stocks-en.jpg",
-  "datePublished": "2026-06-22T18:48:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +80,3 @@ Investors should take heed of the shifting regulatory environment and consider d
     }
   }
 }
-</script>

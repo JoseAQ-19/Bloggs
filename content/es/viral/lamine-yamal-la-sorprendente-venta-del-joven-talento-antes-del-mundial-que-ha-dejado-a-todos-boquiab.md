@@ -1,16 +1,19 @@
 ---
-title: "Lamine Yamal Vende Su Talento por 30 Millones y Deja a Todos Boquiabiertos"
-date: 2026-06-08T22:18:23
+title: Lamine Yamal Vende Su Talento por 30 Millones y Deja a Todos Boquiabiertos
+date: 2026-06-08 22:18:23
 draft: false
-description: "Lamine Yamal sorprende al mundo del fútbol al ser vendido por 30 millones. Descubre los detalles de esta impactante transacción y su futuro brillante."
-featured_image: "/images/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab.jpg"
-slug: "lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab"
-canonical: "https://novumworld.com/es/viral/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "98dabdaf-09b1-da75-3ffe-65fcd9ca237d"
+description: Lamine Yamal sorprende al mundo del fútbol al ser vendido por 30 millones.
+  Descubre los detalles de esta impactante transacción y su futuro brillante.
+featured_image: /images/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab.jpg
+slug: lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab
+canonical: https://novumworld.com/es/viral/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 98dabdaf-09b1-da75-3ffe-65fcd9ca237d
 ---
 
 ![Lamine Yamal Vende Su Talento por 30 Millones y Deja a Todos Boquiabiertos](/images/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab.jpg)
@@ -71,22 +74,7 @@ Se recomienda a los clubes ser cautelosos y considerar el desarrollo a largo pla
 - [Terianos: La Revolución Silenciosa Que Está Reconfi](/es/viral/terianos-cuba-polemica-redes/)
 - [Ser Una Serpiente Y Estar Feliz: La Bomba Theria](/es/viral/therians-identidad-online-legal/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Lamine Yamal Vende Su Talento por 30 Millones y Deja a Todos Boquiabiertos",
-  "description": "Lamine Yamal sorprende al mundo del fútbol al ser vendido por 30 millones. Descubre los detalles de esta impactante transacción y su futuro brillante.",
-  "image": "https://novumworld.com/images/lamine-yamal-la-sorprendente-venta-del-joven-talento-antes-del-mundial-que-ha-dejado-a-todos-boquiab.jpg",
-  "datePublished": "2026-06-08T22:18:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +84,3 @@ Se recomienda a los clubes ser cautelosos y considerar el desarrollo a largo pla
     }
   }
 }
-</script>

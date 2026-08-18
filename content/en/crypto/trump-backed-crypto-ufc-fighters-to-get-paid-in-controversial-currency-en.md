@@ -1,16 +1,19 @@
 ---
-title: "UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event"
-date: 2026-06-14T16:45:30
+title: UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event
+date: 2026-06-14 16:45:30
 draft: false
-description: "UFC fighters will receive bonuses in a Trump-backed cryptocurrency during a special event at the White House, merging sports and digital finance in a."
-featured_image: "/images/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en.jpg"
-slug: "trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en"
-canonical: "https://novumworld.com/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "4f492b2c-674f-2232-32c3-0396f7a0d938"
+description: UFC fighters will receive bonuses in a Trump-backed cryptocurrency during
+  a special event at the White House, merging sports and digital finance in a.
+featured_image: /images/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en.jpg
+slug: trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en
+canonical: https://novumworld.com/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 4f492b2c-674f-2232-32c3-0396f7a0d938
 ---
 
 ![UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/images/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en.jpg)
@@ -71,12 +74,10 @@ In the world of combat sports, the stakes have never been higher, but so have th
 - [news.google.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXlhNnBuSF81UUNqR3QxTVhqRzlxLU1rcTA5OXAtdlp6dWJ1cnl0M1dhMTRZUGplSTk1S0tVaWVfQ1ZSTWtiRlFDdUJDaDNVaWp0c2NESVpDMlNDNGxoZl9iVjRXeUhiNEVNdkhBeUFPRGduV05XNklRNm5pYTNHaU5n?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
 - [The Dark Side of Crypto: $19 Million Stolen by a Teen With Deepfake Skills](/crypto/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en/)
 - [The Hidden Risks of D](/crypto/the-rise-of-digital-credit-a-new-leverage-tool-for-crypto-treasuries-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -86,18 +87,7 @@ In the world of combat sports, the stakes have never been higher, but so have th
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event",
-  "description": "UFC fighters will receive bonuses in a Trump-backed cryptocurrency during a special event at the White House, merging sports and digital finance in a.",
-  "image": "https://novumworld.com/images/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en.jpg",
-  "datePublished": "2026-06-14T16:45:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +97,3 @@ In the world of combat sports, the stakes have never been higher, but so have th
     }
   }
 }
-</script>

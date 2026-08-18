@@ -29,8 +29,6 @@ Indonesia's plan to ban YouTube for children under 16 exposes the platform's unt
 * 46% of Indonesian households report their children have been exposed to inappropriate content on YouTube.
 * Tech professionals and investors should be aware of escalating regulatory risk, as Indonesia prepares to ban social media for children under 16, starting March 28.
 
-
-
 {{< adsterra_native >}}
 
 ## YouTube's "Sedation" Problem: The Frank Cottrell-Boyce Warning
@@ -95,6 +93,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [YouTube''s Algorithm Dominates 70% of Viewing: Why Netflix Should Be Worried](/en/youtube/netflixs-ted-sarandos-calls-out-youtube-not-just-cat-videos-but-a-real-competitor-en/)
 - [The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021](/en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en/)
 - [The Hidden Challenges Behind Leon Thomas’ Delta Collaboration With YouTube](/en/youtube/rb-star-leon-thomas-teams-up-with-delta-and-youtube-premium-for-exciting-new-project-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

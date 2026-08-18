@@ -1,16 +1,20 @@
 ---
-title: "Super Mario Galaxy: La Película Ya Disponible en YouTube y La Controversia de la Calidad"
-date: 2026-05-20T19:25:33
+title: 'Super Mario Galaxy: La Película Ya Disponible en YouTube y La Controversia
+  de la Calidad'
+date: 2026-05-20 19:25:33
 draft: false
-description: "Descubre la película 'Super Mario Galaxy' en YouTube y conoce toda la controversia sobre su calidad. ¡No te pierdas este análisis completo!."
-featured_image: "/images/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora.jpg"
-slug: "super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora"
-canonical: "https://novumworld.com/es/youtube/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "183455ab-d294-fdbe-ad7e-41632d363af3"
+description: Descubre la película 'Super Mario Galaxy' en YouTube y conoce toda la
+  controversia sobre su calidad. ¡No te pierdas este análisis completo!.
+featured_image: /images/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora.jpg
+slug: super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora
+canonical: https://novumworld.com/es/youtube/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 183455ab-d294-fdbe-ad7e-41632d363af3
 ---
 
 ![Super Mario Galaxy: La Película Ya Disponible en YouTube y La Controversia de la Calidad](/images/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora.jpg)
@@ -47,28 +51,12 @@ La industria cinematográfica está jugando con fuego, priorizando ganancias sob
 - [news.google.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3N3Y1J5aHM1QWE1N0FCNVNSZjVoZDVmbWx1MUE1QXZfSGVRM2Vkb1JWWDA5Uy1La1N4eHNWWHhYWVEtZXFNYVlQUWNucGp2ZUdtWElQNXFhaTR2THE1S29vMDVNbDlDTXg1WE8tLUpqRTBUU1NBOHVYdDVTcjdXS19QQW4xMGJRMTB2Z1RXeDkyMTQyTklvQTI4TVB5engtRVRsbkh0MDNpdlk3UDdQb0k1X19KUWZObjctbm4tUUxUaEJPLTd30gHHAUFVX3lxTE1nc3djUnloczVBYTU3QUI1U1JmNWhkNWZtbHUxQTVBdl9IZVEzZWRvUlZYMDlTLUtrU3h4c1ZYeFhZUS1lcU1hWVBRY25wanZlR21YSVA1cWFpNHZMcTVLb28wNU1sOUNNeDVYTy0tSmpFMFRTU0E4dVh0NVNyN1dLX1BBbjEwYlExMHZnVFd4OTIxNDJOSW9BMjhNUHl6eC1FVGxuSHQwM2l2WTdQN1BvSTVfX0pRZk5uNy1ubi1RTFRoQk8tN3c?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5iYnFPTHlJMzBaSnhldS1EcTZ0Ty1kUHhObDlaZmhQa1hYWk5NNlBjYXY1MWRGaW1EQndZLV9RZzNlQ1lBNTg1NTZobndra1pJYmhsNVVKSEJHTUdfWUR2RXV4bGFuVS1hYlBEQmFmZXJMd0dpNnI2SA?oc=5)
 
-
 ## Artículos relacionados
 - [La Verdad Oculta: YouTube Reduce Ingresos De Creadores Mientras Elimina Anuncios Durante Directos](/es/youtube/youtube-sorprende-al-eliminar-anuncios-en-picos-de-interaccion-en-directo/)
 - [YouTube Lanza Anuncios Ineludibles de 90 Segundos y Genera Revuelo Entre Creadores](/es/youtube/youtube-lanza-anuncios-de-90-segundos-que-no-puedes-saltar-un-cambio-drastico-en-la-experiencia/)
 - [YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube](/es/youtube/youtube-la-revolucion-de-la-television-en-el-mundo-hispano/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Super Mario Galaxy: La Película Ya Disponible en YouTube y La Controversia de la Calidad",
-  "description": "Descubre la película 'Super Mario Galaxy' en YouTube y conoce toda la controversia sobre su calidad. ¡No te pierdas este análisis completo!.",
-  "image": "https://novumworld.com/images/super-mario-galaxy-la-pelicula-ya-disponible-en-youtube-alquila-o-compra-ahora.jpg",
-  "datePublished": "2026-05-20T19:25:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -78,4 +66,3 @@ La industria cinematográfica está jugando con fuego, priorizando ganancias sob
     }
   }
 }
-</script>

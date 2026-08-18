@@ -30,8 +30,6 @@ type: funds
 * **22.15% average 3-year return** for the Thailand Small-Cap Equity category, with the top performer, UOB Asset Management (Thailand)'s UOB Small Cap Equity Fund, yielding 34.19% **Source: Morningstar**
 * **1.23% average expense ratio** for the Thailand Equity category, with the lowest-cost fund, SCB Asset Management's SCB Thai Equity Fund, having an expense ratio of 0.92% **Source: Morningstar**
 
-
-
 {{< adsterra_native >}}
 
 ## Morningstar Thailand Awards 2026: A Testament to Investment Excellence
@@ -69,18 +67,7 @@ A: Investors should exercise caution and carefully evaluate their investment opt
 
 The Morningstar Thailand Awards 2026 are a testament to the growing investment excellence in Thailand. While there are risks and challenges in the market, investors can minimize potential losses by exercising caution and carefully evaluating their investment options. We recommend that investors consider the top-performing funds in various categories and stay informed about market developments to make informed investment decisions.
 
-### Schema Markup
-
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners Highlighted",
-"description": "The Morningstar Thailand Awards 2026 recognize the best of the best in Thailand's investment landscape.",
-"datePublished": "2026-03-23",
-"author": {
-"@type": "Person",
-"name": "Your Name"
-},
+,
 "publisher": {
 "@type": "Organization",
 "name": "NovumWorld",
@@ -90,9 +77,6 @@ The Morningstar Thailand Awards 2026 are a testament to the growing investment e
 }
 },
 "mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://novumworld.com/morningstar-thailand-awards-2026/"
-}
 }
 
 #
@@ -104,6 +88,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Selects 5 Asia Funds Poised for 2026 Growth](/en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en/)
 - [5 Handpicked Asia Funds by Morningstar Projected to Outperform by 15% in 2026](/en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en/)
 - [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

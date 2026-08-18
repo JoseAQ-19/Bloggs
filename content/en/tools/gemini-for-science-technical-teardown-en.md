@@ -1,16 +1,20 @@
 ---
-title: "146,900 Fake Citations: How Gemini's Hallucinations Are Undermining Scientific Integrity"
-date: 2026-05-22T15:36:59
+title: '146,900 Fake Citations: How Gemini''s Hallucinations Are Undermining Scientific
+  Integrity'
+date: 2026-05-22 15:36:59
 draft: false
-description: "Discover how Gemini's 146,900 fake citations are eroding scientific integrity and the implications for research credibility in this revealing article."
-featured_image: "/images/gemini-for-science-technical-teardown-en.jpg"
-slug: "gemini-for-science-technical-teardown-en"
-canonical: "https://novumworld.com/tools/gemini-for-science-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "e5a4907a-7fc3-7c0d-7b68-c926753183e3"
+description: Discover how Gemini's 146,900 fake citations are eroding scientific integrity
+  and the implications for research credibility in this revealing article.
+featured_image: /images/gemini-for-science-technical-teardown-en.jpg
+slug: gemini-for-science-technical-teardown-en
+canonical: https://novumworld.com/tools/gemini-for-science-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: e5a4907a-7fc3-7c0d-7b68-c926753183e3
 ---
 
 ![146,900 Fake Citations: How Gemini's Hallucinations Are Undermining Scientific Integrity](/images/gemini-for-science-technical-teardown-en.jpg)
@@ -47,28 +51,12 @@ AI hallucinations represent an existential threat to scientific integrity, with 
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ19kQV90Nkt5dGc3WTFUanl3VURUZDZHVmwwakRIdUxBVWdvS1BCUDYxeHhEb2RNejVWV0ZlN0VzX0s0X3FmUWpjLTVuZnB0TlR6QlhNRWh4MWJKdkZVeFhHTmoyeUZzSDByVk9IU0I0eE9ickl5WXhZc2w5NXlaOG96bWJkSkpUZk15NWRyMjEteG1Ka2NLVjV1MGtYQXB5dWd1aXdVRUNwaFFHMXpMeEo1UlFueDMySnBKTGhR?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE90RDlqaHBRcXN6RzlkVklFWTdia19INWNaRUdIV2wwLU9sTDFtbEJYMU1UQmN5djdEajBzSFYtU3VycU1tWll5N2NqeFhaaXUtbDIzSzJmU25ZTktpQmpRWEliY2VoekxLT1ZWYQ?oc=5)
 
-
 ## Related Articles
 - [Texas Cotton Farming Just Became 30% More Accurate Thanks to AI Innovations](/tools/transforming-texas-how-digital-tools-are-revolutionizing-cotton-farming-en/)
 - [61.8% of Rural Counties Lack Mental Health Professionals: The Telehealth Solution Everyone Ignores](/tools/telehealth-mental-health-rural-technical-teardown-en/)
 - [South Carolina''s S.28](/tools/south-carolina-child-protection-ai-law-enforcement-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "146,900 Fake Citations: How Gemini's Hallucinations Are Undermining Scientific Integrity",
-  "description": "Discover how Gemini's 146,900 fake citations are eroding scientific integrity and the implications for research credibility in this revealing article.",
-  "image": "https://novumworld.com/images/gemini-for-science-technical-teardown-en.jpg",
-  "datePublished": "2026-05-22T15:36:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -78,4 +66,3 @@ AI hallucinations represent an existential threat to scientific integrity, with 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct"
-date: 2026-05-16T11:46:37
+title: 'Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct'
+date: 2026-05-16 11:46:37
 draft: false
-description: "Uncover the shocking details of a mysterious death in Le Mars as civilian complaints reveal troubling police misconduct in this gripping investigation."
-featured_image: "/images/mysterious-death-investigation-shakes-small-town-le-mars-ia-en.jpg"
-slug: "mysterious-death-investigation-shakes-small-town-le-mars-ia-en"
-canonical: "https://novumworld.com/ia/mysterious-death-investigation-shakes-small-town-le-mars-ia-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "3410ec1e-1ab9-82f4-a011-26bd2c8e4d0f"
+description: Uncover the shocking details of a mysterious death in Le Mars as civilian
+  complaints reveal troubling police misconduct in this gripping investigation.
+featured_image: /images/mysterious-death-investigation-shakes-small-town-le-mars-ia-en.jpg
+slug: mysterious-death-investigation-shakes-small-town-le-mars-ia-en
+canonical: https://novumworld.com/ia/mysterious-death-investigation-shakes-small-town-le-mars-ia-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 3410ec1e-1ab9-82f4-a011-26bd2c8e4d0f
 ---
 
 ![Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct](/images/mysterious-death-investigation-shakes-small-town-le-mars-ia-en.jpg)
@@ -87,22 +90,7 @@ Justice without accountability is a myth. The Le Mars police department must rec
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 - [The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct",
-  "description": "Uncover the shocking details of a mysterious death in Le Mars as civilian complaints reveal troubling police misconduct in this gripping investigation.",
-  "image": "https://novumworld.com/images/mysterious-death-investigation-shakes-small-town-le-mars-ia-en.jpg",
-  "datePublished": "2026-05-16T11:46:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +100,3 @@ Justice without accountability is a myth. The Le Mars police department must rec
     }
   }
 }
-</script>

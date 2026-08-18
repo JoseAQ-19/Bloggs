@@ -32,8 +32,6 @@ El 93% de las consultas laborales resueltas por inteligencia artificial no es un
 * El 75% de los CEOs españoles planean destinar entre el 10% y el 20% de sus presupuestos a IA, ignorando que el Art. 22 del RGPD prohíbe las decisiones puramente automatizadas que afecten a derechos fundamentales.
 * La AEPD impuso una multa de 365.000 euros en 2024 por uso indebido de biometría, una señal de que la "ventana de desregulación" de la AI Act se está cerrando antes de tiempo.
 
-
-
 {{< adsterra_native >}}
 
 ## La Ilusión de Eficiencia: El 93% que Oculta el Riesgo
@@ -73,6 +71,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros/)
 - [¿Sueñan los Androides con Ovejas Eléctricas... y Tú con un Futuro de Mierda?](/es/ia/suenan-los-androides-con-ovejas-electricas-y-tu-co/)
 - [Tecno-Apocalipsis! Así la IA Revivió la Bomba Atómica](/es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -29,8 +29,6 @@ Richard Pulley, a 78-year-old DoorDash driver, has unexpectedly become a symbol 
 * Approximately 27% of gig workers aged 55+ rely on gig work as their primary income source, highlighting a significant demographic in the gig economy (source: Research Data).
 * The public's reaction to Pulley's story may catalyze regulatory changes that could impact gig platforms like DoorDash, affecting how they classify their contractors and manage compensation.
 
-
-
 {{< adsterra_native >}}
 
 ## The $500K GoFundMe Campaign That Exposed Gig Economy Injustice
@@ -88,6 +86,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Epstein Flight Logs: How 1,000 Passengers Fueled QAnon''s Wildest Dreams](/en/viral/epstein-list-algorithmic-conspiracy-en/)
 - [Barbara Han''s 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/en/viral/predicting-next-pandemic-en/)
 - [William Hanson Says Use A Fork For Cereal: The Breakfast Uproar Is Here](/en/viral/cereal-etiquette-wars-2024-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

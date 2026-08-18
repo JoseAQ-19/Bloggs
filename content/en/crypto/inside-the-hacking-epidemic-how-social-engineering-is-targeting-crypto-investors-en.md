@@ -1,16 +1,19 @@
 ---
-title: "$9.9 Billion Lost: The Shocking Truth About Crypto Scams Targeting Investors"
-date: 2026-04-26T17:54:21
+title: '$9.9 Billion Lost: The Shocking Truth About Crypto Scams Targeting Investors'
+date: 2026-04-26 17:54:21
 draft: false
-description: "Discover the startling reality behind $9.9 billion lost to crypto scams. Learn how these schemes target investors and protect your assets effectively."
-featured_image: "/images/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en.jpg"
-slug: "inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en"
-canonical: "https://novumworld.com/crypto/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "adafd313-5bf4-693a-3cae-2be967973086"
+description: Discover the startling reality behind $9.9 billion lost to crypto scams.
+  Learn how these schemes target investors and protect your assets effectively.
+featured_image: /images/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en.jpg
+slug: inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en
+canonical: https://novumworld.com/crypto/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: adafd313-5bf4-693a-3cae-2be967973086
 ---
 
 ![$9.9 Billion Lost: The Shocking Truth About Crypto Scams Targeting Investors](/images/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en.jpg)
@@ -61,12 +64,10 @@ The lack of chargebacks in crypto transactions exacerbates this problem. Unlike 
 - [news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmpVbVVnNjhqTmxPbWFXNU1wczVsaFZGb2wyOTRYLUVxQjJpVnVJandDWVVNWUZKM0RSUGo4cmNQa2FJdEI2VHVaVkd6ZDVzV21BOW1UaUxScHNPZEpYLUk3Njl0LXUyVnI3NHNPc05zSDVYX1NXd2VTdFZPUC1DclRzUzFxZnpl?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVDNKVWpWdUthbkJXTUpKVFlHMzZ4VjFpTTVUc0p4b285aGNJRTlXNUJ3Tlo2aEFmYkYxREw1Q3ZycXpBdUNCLTFMR2pJSi1oZGllYU9oTjV1cVZORk1nZFQ3b0VSTERRcEkwa24wTlpTS2QzcjdKWEVEUDAteWdkbklaQW5LRU1Rc0RKeE5xaHlfOWZwMUtoSkp5R3VNUQ?oc=5)
 
-
 ## Related Articles
 - [Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood](/crypto/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en/)
 - [Tether''s $135 Billion Treasury Binge: Are You Ig](/crypto/stablecoin-treasury-risk-2024-en/)
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -76,18 +77,7 @@ The lack of chargebacks in crypto transactions exacerbates this problem. Unlike 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$9.9 Billion Lost: The Shocking Truth About Crypto Scams Targeting Investors",
-  "description": "Discover the startling reality behind $9.9 billion lost to crypto scams. Learn how these schemes target investors and protect your assets effectively.",
-  "image": "https://novumworld.com/images/inside-the-hacking-epidemic-how-social-engineering-is-targeting-crypto-investors-en.jpg",
-  "datePublished": "2026-04-26T17:54:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +87,3 @@ The lack of chargebacks in crypto transactions exacerbates this problem. Unlike 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "66% of Arizona Wildfires Are Human-Caused: The Shocking Truth Behind the Fires"
-date: 2026-05-11T15:40:44
+title: '66% of Arizona Wildfires Are Human-Caused: The Shocking Truth Behind the Fires'
+date: 2026-05-11 15:40:44
 draft: false
-description: "Discover the alarming truth about Arizona wildfires: 66% are human-caused. Learn how our actions impact nature and what we can do to prevent them."
-featured_image: "/images/arizona-wildfire-prevention-technical-teardown-en.jpg"
-slug: "arizona-wildfire-prevention-technical-teardown-en"
-canonical: "https://novumworld.com/tools/arizona-wildfire-prevention-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "ae9273e3-4b4a-1e4c-a7f1-d0cb81147bca"
+description: 'Discover the alarming truth about Arizona wildfires: 66% are human-caused.
+  Learn how our actions impact nature and what we can do to prevent them.'
+featured_image: /images/arizona-wildfire-prevention-technical-teardown-en.jpg
+slug: arizona-wildfire-prevention-technical-teardown-en
+canonical: https://novumworld.com/tools/arizona-wildfire-prevention-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: ae9273e3-4b4a-1e4c-a7f1-d0cb81147bca
 ---
 
 ![66% of Arizona Wildfires Are Human-Caused: The Shocking Truth Behind the Fires](/images/arizona-wildfire-prevention-technical-teardown-en.jpg)
@@ -78,22 +81,7 @@ Arizona's wildfire crisis is a solvable engineering problem, but the current pol
 - [The Shocking Discovery in Joint Fluid That Could Change CKD Care Forever](/tools/revolutionizing-ckd-care-the-tools-we-need-for-change-en/)
 - [Stanley Black & Decker Slashes 50,000 SKUs: De](/tools/stanley-black-decker-q4-performance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "66% of Arizona Wildfires Are Human-Caused: The Shocking Truth Behind the Fires",
-  "description": "Discover the alarming truth about Arizona wildfires: 66% are human-caused. Learn how our actions impact nature and what we can do to prevent them.",
-  "image": "https://novumworld.com/images/arizona-wildfire-prevention-technical-teardown-en.jpg",
-  "datePublished": "2026-05-11T15:40:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ Arizona's wildfire crisis is a solvable engineering problem, but the current pol
     }
   }
 }
-</script>

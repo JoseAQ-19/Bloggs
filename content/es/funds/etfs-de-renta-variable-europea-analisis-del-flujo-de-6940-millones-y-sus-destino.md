@@ -30,8 +30,6 @@ type: funds
 * 15,6%: El rendimiento promedio anual de estos ETFs en los últimos 3 años, según Morningstar.
 * 0,45%: El promedio de comisiones de gestión de los ETFs de renta variable europea, según Morningstar.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis de los ETFs de renta variable europea
@@ -71,6 +69,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 - [Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.](/es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos/)
 - [Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?](/es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

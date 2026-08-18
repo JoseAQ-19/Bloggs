@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth About Gentrification: 3 Ways Northwest Fitness Project Will Impact West Seattle"
-date: 2026-05-04T06:29:56
+title: 'The Shocking Truth About Gentrification: 3 Ways Northwest Fitness Project
+  Will Impact West Seattle'
+date: 2026-05-04 06:29:56
 draft: false
-description: "Discover how the Northwest Fitness Project will reshape West Seattle amid gentrification. Explore its unexpected effects on the community and local."
-featured_image: "/images/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en.jpg"
-slug: "get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en"
-canonical: "https://novumworld.com/fitness/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "2117101f-af0c-a000-b6c2-d669acd80979"
+description: Discover how the Northwest Fitness Project will reshape West Seattle
+  amid gentrification. Explore its unexpected effects on the community and local.
+featured_image: /images/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en.jpg
+slug: get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en
+canonical: https://novumworld.com/fitness/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 2117101f-af0c-a000-b6c2-d669acd80979
 ---
 
 ![The Shocking Truth About Gentrification: 3 Ways Northwest Fitness Project Will Impact West Seattle](/images/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en.jpg)
@@ -77,28 +81,12 @@ Since high-end gyms are pricing out residents, here is a protocol for effective 
 - [news.google.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUdjV0FITjg2MkE0TU1rcXBFaWFKUHBWbXUtVThHd21obHlmMi1DWlI2aDlPekJaR0htOEJFVVlWd19jOWpOTnZpeV8zLUNRUHBReGlYTXNyMlNwN1VCQjhNeU5fUUtwNW5GTUNUSHZmYkZKZTBqYWtYVTRVLUJub0VfZUU?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUjdwYWFvQUFqWlJyc2UtY2FVMTgtZ3o2VjlMTktjMndTZUZhVEk0TnI1NzNuaEYyUlkxY2FSWGM0dnhqLWNiY2hUdGtIbERvTm9NRDhVOS0wal9WQ05fSUllaUctQ3VtQ2c1S0dkY2lCMEw1dk9j?oc=5)
 
-
 ## Related Articles
 - [Spring Savings: 5 Unmissable Fitness Tracker Deals That Could Save You Hundreds](/fitness/score-big-savings-top-fitness-tracker-deals-you-cant-miss-this-spring-en/)
 - [The Shocking Truth About Folding Treadmills: 61% of Remote Workers Are at Risk](/fitness/the-ultimate-guide-to-the-best-folding-treadmills-approved-by-runners-and-remote-workers-en/)
 - [Unlock $100 Off Fitness Trackers: The Spring Sale That Could Save Your Health](/fitness/unlock-fitness-savings-dont-miss-100-off-top-trackers-in-the-amazon-spring-sale-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth About Gentrification: 3 Ways Northwest Fitness Project Will Impact West Seattle",
-  "description": "Discover how the Northwest Fitness Project will reshape West Seattle amid gentrification. Explore its unexpected effects on the community and local.",
-  "image": "https://novumworld.com/images/get-ready-west-seattle-the-northwest-fitness-project-is-opening-soon-en.jpg",
-  "datePublished": "2026-05-04T06:29:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ Since high-end gyms are pricing out residents, here is a protocol for effective 
     }
   }
 }
-</script>

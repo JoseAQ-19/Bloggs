@@ -1,16 +1,19 @@
 ---
-title: "70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge"
-date: 2026-04-13T06:10:47
+title: '70% Of Young Athletes Quit Sports: Manchester City''s Hidden Fitness Challenge'
+date: 2026-04-13 06:10:47
 draft: false
-description: "Discover why 70% of young athletes quit sports and how Manchester City's innovative fitness challenge aims to reverse this trend and inspire resilience."
-featured_image: "/images/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en.jpg"
-slug: "young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en"
-canonical: "https://novumworld.com/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "9e0fb857-6511-2bdd-f53b-92c8f782727e"
+description: Discover why 70% of young athletes quit sports and how Manchester City's
+  innovative fitness challenge aims to reverse this trend and inspire resilience.
+featured_image: /images/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en.jpg
+slug: young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en
+canonical: https://novumworld.com/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 9e0fb857-6511-2bdd-f53b-92c8f782727e
 ---
 
 ![70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/images/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en.jpg)
@@ -81,28 +84,12 @@ The data is unequivocal: continuing down the path of early specialization and hi
 - [summitorthopedics.com](https://www.summitorthopedics.com/2016/02/29/risk-factors-hamstring-injury/)
 - [f1000research.com](https://f1000research.com/articles/13-1468/v1)
 
-
 ## Related Articles
 - [Planet Fitness Exposed: The Bear C](/fitness/planet-fitness-growth-strategy-en/)
 - [The Shocking Truth A](/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en/)
 - [Oura Ring vs. Reality: Can It Tell t](/fitness/oura-ring-sleep-latency-reading-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge",
-  "description": "Discover why 70% of young athletes quit sports and how Manchester City's innovative fitness challenge aims to reverse this trend and inspire resilience.",
-  "image": "https://novumworld.com/images/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en.jpg",
-  "datePublished": "2026-04-13T06:10:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +99,3 @@ The data is unequivocal: continuing down the path of early specialization and hi
     }
   }
 }
-</script>

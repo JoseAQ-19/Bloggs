@@ -1,16 +1,20 @@
 ---
-title: "North Carolina Man’s 15 Carolina Hurricanes Tattoos Are Taking Over Social Media"
-date: 2026-06-08T22:33:07
+title: North Carolina Man’s 15 Carolina Hurricanes Tattoos Are Taking Over Social
+  Media
+date: 2026-06-08 22:33:07
 draft: false
-description: "Discover how a North Carolina man's 15 Carolina Hurricanes tattoos are captivating social media, showcasing his passion for the team and artistry."
-featured_image: "/images/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en.jpg"
-slug: "from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en"
-canonical: "https://novumworld.com/viral/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "85c8330c-294c-0291-209a-25df20b3c2c9"
+description: Discover how a North Carolina man's 15 Carolina Hurricanes tattoos are
+  captivating social media, showcasing his passion for the team and artistry.
+featured_image: /images/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en.jpg
+slug: from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en
+canonical: https://novumworld.com/viral/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 85c8330c-294c-0291-209a-25df20b3c2c9
 ---
 
 ![North Carolina Man’s 15 Carolina Hurricanes Tattoos Are Taking Over Social Media](/images/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en.jpg)
@@ -69,22 +73,7 @@ However, fans should consider their motivations and the long-term implications o
 - [X''s SRE Neglect: Why Dmytro Sirant Says Musk](/viral/x-creator-monetization-failure-en/)
 - [The Shocking Truth About Disney's Most Overrated Dessert: Hours of Waiting for a Cookie](/viral/the-dessert-at-disney-world-everyone-is-talking-about-is-it-worth-the-hype-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "North Carolina Man’s 15 Carolina Hurricanes Tattoos Are Taking Over Social Media",
-  "description": "Discover how a North Carolina man's 15 Carolina Hurricanes tattoos are captivating social media, showcasing his passion for the team and artistry.",
-  "image": "https://novumworld.com/images/from-ice-to-ink-the-north-carolina-man-whose-carolina-hurricanes-tattoos-are-taking-over-the-interne-en.jpg",
-  "datePublished": "2026-06-08T22:33:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +83,3 @@ However, fans should consider their motivations and the long-term implications o
     }
   }
 }
-</script>

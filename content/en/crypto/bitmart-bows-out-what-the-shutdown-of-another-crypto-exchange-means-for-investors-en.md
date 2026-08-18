@@ -82,7 +82,6 @@ The reality is stark: the promises of security and safety made by centralized ex
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [The Shocking Truth About 100x Leverage: US Traders Risk It All on Perpetual Futures](/crypto/why-us-day-traders-are-risking-it-all-on-cryptos-most-dangerous-product-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -91,18 +90,7 @@ The reality is stark: the promises of security and safety made by centralized ex
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "BitMart Bows Out: How This 1 Exchange Collapse Will Impact Thousands of Investors",
-  "description": "Discover the fallout from BitMart's collapse and how it affects thousands of investors. Uncover the implications and lessons from this major exchange.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-26T17:13:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +100,3 @@ The reality is stark: the promises of security and safety made by centralized ex
     }
   }
 }
-</script>

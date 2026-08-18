@@ -85,7 +85,6 @@ The legislative landscape is shifting, but it must evolve in a manner that recog
 - [The Hidden Truth Behind Senate Chaos: Crypto Regulation Is on the Brink](/crypto/turbulent-senate-talks-is-crypto-regulation-on-the-brink-of-failure-en/)
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -94,18 +93,7 @@ The legislative landscape is shifting, but it must evolve in a manner that recog
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking Senate Proposal: Ban on Federal Officials Analyzing Digital Assets Gains Momentum",
-  "description": "Discover the implications of a bold Senate proposal aiming to restrict federal officials from analyzing digital assets, stirring debate across the.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-22T18:41:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +103,3 @@ The legislative landscape is shifting, but it must evolve in a manner that recog
     }
   }
 }
-</script>

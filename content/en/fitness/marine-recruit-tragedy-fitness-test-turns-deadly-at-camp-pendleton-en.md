@@ -64,22 +64,7 @@ Referencias:
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis",
-  "description": "Marine Recruit Tragedy: Fitness Test Turns Deadly at Camp Pendleton Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-08-07T06:37:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +74,3 @@ Referencias:
     }
   }
 }
-</script>

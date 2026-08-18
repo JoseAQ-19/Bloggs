@@ -80,7 +80,6 @@ La historia de las criptomonedas está lejos de terminar; cada revelación puede
 - [Los 700 Millones de Euros Lavados: El Impacto del Malware TrapDoor en Criptomonedas](/es/crypto/malware-trapdoor-un-nuevo-enemigo-en-el-ecosistema-de-las-herramientas-cripto/)
 - [Zilliqa Aumentará Su Valor Un 300% Hasta 2025 Y Nadie Lo Cree](/es/crypto/zilliqa-el-proximo-gran-jugador-en-criptomonedas-predicciones-de-precios-para-2022-2025/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -89,18 +88,7 @@ La historia de las criptomonedas está lejos de terminar; cada revelación puede
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitmine Revela $11.5B en Criptomonedas y Efectivo: El Fin Del Mercado Tal Como Lo Conocemos",
-  "description": "Bitmine revela $11.5B en criptomonedas y efectivo, marcando un cambio radical en el mercado. Descubre qué significa esto para el futuro financiero.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-20T17:49:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ La historia de las criptomonedas está lejos de terminar; cada revelación puede
     }
   }
 }
-</script>

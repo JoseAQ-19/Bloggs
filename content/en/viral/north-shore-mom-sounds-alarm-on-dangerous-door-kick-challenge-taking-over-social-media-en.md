@@ -1,16 +1,20 @@
 ---
-title: "North Shore Mom Exposes Shocking Dangers of 'Door Kick Challenge' Taking Over Teens"
-date: 2026-04-27T23:47:38
+title: North Shore Mom Exposes Shocking Dangers of 'Door Kick Challenge' Taking Over
+  Teens
+date: 2026-04-27 23:47:38
 draft: false
-description: "Discover the alarming risks of the 'Door Kick Challenge' as North Shore Mom reveals how this trend is endangering teens and sparking urgent conversations."
-featured_image: "/images/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en.jpg"
-slug: "north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en"
-canonical: "https://novumworld.com/viral/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "22259374-b69c-9609-521a-3f68a3a18414"
+description: Discover the alarming risks of the 'Door Kick Challenge' as North Shore
+  Mom reveals how this trend is endangering teens and sparking urgent conversations.
+featured_image: /images/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en.jpg
+slug: north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en
+canonical: https://novumworld.com/viral/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 22259374-b69c-9609-521a-3f68a3a18414
 ---
 
 ![North Shore Mom Exposes Shocking Dangers of 'Door Kick Challenge' Taking Over Teens](/images/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en.jpg)
@@ -75,22 +79,7 @@ It is time to turn the tide on trends that could turn into tragedies. The respon
 - [The Shocking Truth: 6 Symptoms That Set Long COVID Apart From Other Illnesses](/viral/why-only-6-symptoms-separate-long-covid-from-other-post-viral-conditions-en/)
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "North Shore Mom Exposes Shocking Dangers of 'Door Kick Challenge' Taking Over Teens",
-  "description": "Discover the alarming risks of the 'Door Kick Challenge' as North Shore Mom reveals how this trend is endangering teens and sparking urgent conversations.",
-  "image": "https://novumworld.com/images/north-shore-mom-sounds-alarm-on-dangerous-door-kick-challenge-taking-over-social-media-en.jpg",
-  "datePublished": "2026-04-27T23:47:38",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +89,3 @@ It is time to turn the tide on trends that could turn into tragedies. The respon
     }
   }
 }
-</script>

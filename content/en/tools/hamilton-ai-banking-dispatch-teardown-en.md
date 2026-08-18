@@ -1,16 +1,19 @@
 ---
-title: "AI-Driven Fraud Detection Slashes Credit Card Losses by 64% in Just Six Months"
-date: 2026-05-14T15:19:30
+title: AI-Driven Fraud Detection Slashes Credit Card Losses by 64% in Just Six Months
+date: 2026-05-14 15:19:30
 draft: false
-description: "Discover how AI-driven fraud detection reduced credit card losses by 64% in six months, transforming financial security and boosting consumer confidence."
-featured_image: "/images/hamilton-ai-banking-dispatch-teardown-en.jpg"
-slug: "hamilton-ai-banking-dispatch-teardown-en"
-canonical: "https://novumworld.com/tools/hamilton-ai-banking-dispatch-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "85f782b5-195b-8f14-f251-1ac3fe8c928e"
+description: Discover how AI-driven fraud detection reduced credit card losses by
+  64% in six months, transforming financial security and boosting consumer confidence.
+featured_image: /images/hamilton-ai-banking-dispatch-teardown-en.jpg
+slug: hamilton-ai-banking-dispatch-teardown-en
+canonical: https://novumworld.com/tools/hamilton-ai-banking-dispatch-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 85f782b5-195b-8f14-f251-1ac3fe8c928e
 ---
 
 ![AI-Driven Fraud Detection Slashes Credit Card Losses by 64% in Just Six Months](/images/hamilton-ai-banking-dispatch-teardown-en.jpg)
@@ -47,22 +50,7 @@ The financial industry's obsession with AI fraud detection is a high-stakes gamb
 - [Legacy Systems Are Killing PropTech: 78% of Executives Admit Technology Adoption Is Failing](/tools/real-estate-tech-integration-challenges-en/)
 - [The Shocking Discovery in Joint Fluid That Could Change CKD Care Forever](/tools/revolutionizing-ckd-care-the-tools-we-need-for-change-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI-Driven Fraud Detection Slashes Credit Card Losses by 64% in Just Six Months",
-  "description": "Discover how AI-driven fraud detection reduced credit card losses by 64% in six months, transforming financial security and boosting consumer confidence.",
-  "image": "https://novumworld.com/images/hamilton-ai-banking-dispatch-teardown-en.jpg",
-  "datePublished": "2026-05-14T15:19:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -72,4 +60,3 @@ The financial industry's obsession with AI fraud detection is a high-stakes gamb
     }
   }
 }
-</script>

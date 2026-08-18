@@ -29,8 +29,6 @@ Without question, the fitness industry, slated to reach $278 billion by 2026, ha
 * A lawsuit was filed against Brittany Dawn Davis by the Texas Attorney General for allegedly scamming thousands of customers with undelivered personalized fitness plans.
 * Critically evaluate fitness advice, especially from influencers; verify credentials, and prioritize evidence-based approaches to avoid scams and potential harm.
 
-
-
 {{< adsterra_native >}}
 
 ## Brittany Dawn's Empty Promises: How Fitness Influencers Profit From Your Pain
@@ -77,6 +75,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [76-Year-Old Fitness Dynamo Crushes Daily Muscle-Ups While Defying Aging Science](/en/fitness/meet-the-76-year-old-fitness-dynamo-crushing-muscle-ups-daily-en/)
 - [Leucine''s Lie: The Supplement Industry Is Killing Your Arteries, New Study](/en/fitness/leucine-atherosclerosis-risk-en/)
 - [AI Fitness Mirrors Spark 170% Injury Spike: Are They Worth The Risk?](/en/fitness/ai-fitness-form-correction-effectiveness-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

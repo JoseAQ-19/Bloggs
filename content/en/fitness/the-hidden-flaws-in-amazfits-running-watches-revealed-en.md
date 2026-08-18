@@ -80,22 +80,7 @@ Potential buyers should prioritize established brands with proven track records 
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Flaws in Amazfit's Running Watches Exposed in 5 Key Areas",
-  "description": "Discover the surprising flaws in Amazfit's running watches as we analyze 5 key areas where they fall short. Get the insights you need before buying!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-24T07:43:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +90,3 @@ Potential buyers should prioritize established brands with proven track records 
     }
   }
 }
-</script>

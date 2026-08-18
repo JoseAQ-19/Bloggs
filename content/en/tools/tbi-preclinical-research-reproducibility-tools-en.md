@@ -1,16 +1,20 @@
 ---
-title: "22% Of TBI Clinical Trials Discontinued: The Shocking Truth Behind Failed Treatments"
-date: 2026-05-08T15:06:09
+title: '22% Of TBI Clinical Trials Discontinued: The Shocking Truth Behind Failed
+  Treatments'
+date: 2026-05-08 15:06:09
 draft: false
-description: "Discover the startling statistics on TBI clinical trials, revealing why 22% fail and the implications for treatment options in this eye-opening article."
-featured_image: "/images/tbi-preclinical-research-reproducibility-tools-en.jpg"
-slug: "tbi-preclinical-research-reproducibility-tools-en"
-canonical: "https://novumworld.com/tools/tbi-preclinical-research-reproducibility-tools-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "31b1a9c3-6932-925d-0dc0-04a4e9efce48"
+description: Discover the startling statistics on TBI clinical trials, revealing why
+  22% fail and the implications for treatment options in this eye-opening article.
+featured_image: /images/tbi-preclinical-research-reproducibility-tools-en.jpg
+slug: tbi-preclinical-research-reproducibility-tools-en
+canonical: https://novumworld.com/tools/tbi-preclinical-research-reproducibility-tools-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 31b1a9c3-6932-925d-0dc0-04a4e9efce48
 ---
 
 ![22% Of TBI Clinical Trials Discontinued: The Shocking Truth Behind Failed Treatments](/images/tbi-preclinical-research-reproducibility-tools-en.jpg)
@@ -64,22 +68,7 @@ Stakeholders should prioritize investments in open science initiatives and bioma
 - [Make.com Masterc](/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition/)
 - [Stanley Black & Decker Slashes 50,000 SKUs: De](/tools/stanley-black-decker-q4-performance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "22% Of TBI Clinical Trials Discontinued: The Shocking Truth Behind Failed Treatments",
-  "description": "Discover the startling statistics on TBI clinical trials, revealing why 22% fail and the implications for treatment options in this eye-opening article.",
-  "image": "https://novumworld.com/images/tbi-preclinical-research-reproducibility-tools-en.jpg",
-  "datePublished": "2026-05-08T15:06:09",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +78,3 @@ Stakeholders should prioritize investments in open science initiatives and bioma
     }
   }
 }
-</script>

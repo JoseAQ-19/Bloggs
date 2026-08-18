@@ -71,12 +71,10 @@ Investors should approach the market with caution and consider diversifying thei
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1dvNUdfVUZ5Y1VETEtQaDYzRWdaOGotTE5uVDY2TUlXTXdmMnZVVEpyNkhLMEdjNDJsNVBWRUY0bWE3ZURSREpKR1B3QmJtV1lBOGJaWTZOVmFfWjNsdFZIU2NKNW4ycWJzQjVkUjRqUFZZUDNTOE56cUJSSVBhc2JUU013c0NSeFJIcnNBRC1sNWFKNll5bFB5RXpVcXJ4Q25fc1ZBeVNDSzVhVm91UmJR?oc=5)
 
-
 ## Related Articles
 - [Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [233 Million Reasons Why You Should Invest in Bitcoin Without Holding It Directly](/crypto/unlocking-crypto-exposure-invest-without-holding-coins-directly-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -86,18 +84,7 @@ Investors should approach the market with caution and consider diversifying thei
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trillions Vanished Overnight: The Crypto Market's Shocking $2 Trillion Collapse",
-  "description": "Explore the shocking $2 trillion collapse of the crypto market, revealing the factors behind the sudden loss and its impact on investors worldwide.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-25T18:14:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +94,3 @@ Investors should approach the market with caution and consider diversifying thei
     }
   }
 }
-</script>

@@ -31,8 +31,6 @@ type: funds
 
 The Morningstar Awards Thailand 2026 serve as a critical benchmark for evaluating excellence within the dynamic Thai fund management industry. This comprehensive analysis delves into the performance, strategic underpinnings, and risk profiles of the top three fund performers recognized in this prestigious annual assessment. The year 2025 witnessed a significant surge in investor capital directed towards the Thai fund market, evidenced by a robust **$1.3 billion in net inflows**. This substantial capital influx underscores a growing domestic and international appetite for exposure to Thailand's economic trajectory, driven by factors such as anticipated GDP growth, recovering tourism sectors, and government infrastructure initiatives. Identifying funds that not only capitalize on these macro trends but also demonstrate superior risk-adjusted returns is paramount for investors seeking optimized portfolio construction. This report meticulously examines the Kasikorn Thai Equity Fund, Krungsri Equity Fund, and SCB Equity Fund, elucidating the methodologies behind their success and providing an analytical framework for prospective investors.
 
-
-
 {{< adsterra_native >}}
 
 ## Thailand's Investment Landscape: A Macroeconomic Overview (2025-2026)
@@ -132,6 +130,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns](/en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en/)
 - [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
 - [OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth.](/en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

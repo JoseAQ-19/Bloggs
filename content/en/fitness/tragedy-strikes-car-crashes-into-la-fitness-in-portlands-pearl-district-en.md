@@ -84,22 +84,7 @@ A concrete recommendation for fitness centers is to conduct a comprehensive safe
 - [7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless](/fitness/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en/)
 - [Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina](/fitness/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "5 Victims: Car Crashes Through LA Fitness In Portland’s Pearl District",
-  "description": "A car crashed into LA Fitness in Portland's Pearl District, injuring five. Explore the details of this shocking incident and witness accounts.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-22T07:45:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +94,3 @@ A concrete recommendation for fitness centers is to conduct a comprehensive safe
     }
   }
 }
-</script>

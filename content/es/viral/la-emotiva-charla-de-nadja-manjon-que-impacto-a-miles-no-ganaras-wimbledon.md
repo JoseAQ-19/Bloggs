@@ -1,16 +1,20 @@
 ---
-title: "La Impactante Charla De Nadja Manjón: 7 Verdades Que Cambian La Perspectiva De La Derrota"
-date: 2026-05-05T22:07:39
+title: 'La Impactante Charla De Nadja Manjón: 7 Verdades Que Cambian La Perspectiva
+  De La Derrota'
+date: 2026-05-05 22:07:39
 draft: false
-description: "Descubre las 7 verdades reveladoras de Nadja Manjón que transforman nuestra visión sobre la derrota y nos inspiran a levantarnos con más fuerza."
-featured_image: "/images/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon.jpg"
-slug: "la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon"
-canonical: "https://novumworld.com/es/viral/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "93682dce-1248-5011-197e-5a75a8ee5caf"
+description: Descubre las 7 verdades reveladoras de Nadja Manjón que transforman nuestra
+  visión sobre la derrota y nos inspiran a levantarnos con más fuerza.
+featured_image: /images/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon.jpg
+slug: la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon
+canonical: https://novumworld.com/es/viral/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 93682dce-1248-5011-197e-5a75a8ee5caf
 ---
 
 ![La Impactante Charla De Nadja Manjón: 7 Verdades Que Cambian La Perspectiva De La Derrota](/images/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon.jpg)
@@ -78,22 +82,7 @@ En última instancia, el deporte debe ser un espacio donde se valore el crecimie
 - [Carriedo Desata la Ira Médica: ¿Pel](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 - [La Peligrosa Verdad: 40% Más Estafas Online en España Que Nunca Antes](/es/viral/la-peligrosa-verdad-detras-de-los-trucos-virales-cuidado-con-lo-que-intentas/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Charla De Nadja Manjón: 7 Verdades Que Cambian La Perspectiva De La Derrota",
-  "description": "Descubre las 7 verdades reveladoras de Nadja Manjón que transforman nuestra visión sobre la derrota y nos inspiran a levantarnos con más fuerza.",
-  "image": "https://novumworld.com/images/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon.jpg",
-  "datePublished": "2026-05-05T22:07:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +92,3 @@ En última instancia, el deporte debe ser un espacio donde se valore el crecimie
     }
   }
 }
-</script>

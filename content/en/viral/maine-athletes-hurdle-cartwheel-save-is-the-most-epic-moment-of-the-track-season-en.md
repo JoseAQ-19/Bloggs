@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth About 31% Ankle Injuries From Hurdles: Maine Athlete Defies Odds"
-date: 2026-05-14T23:44:20
+title: 'The Shocking Truth About 31% Ankle Injuries From Hurdles: Maine Athlete Defies
+  Odds'
+date: 2026-05-14 23:44:20
 draft: false
-description: "Discover how a Maine athlete overcame staggering 31% ankle injury rates in hurdles, revealing the surprising truths behind resilience and recovery."
-featured_image: "/images/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en.jpg"
-slug: "maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en"
-canonical: "https://novumworld.com/viral/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "6eb687c4-76e6-996c-dc5f-667337b87098"
+description: Discover how a Maine athlete overcame staggering 31% ankle injury rates
+  in hurdles, revealing the surprising truths behind resilience and recovery.
+featured_image: /images/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en.jpg
+slug: maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en
+canonical: https://novumworld.com/viral/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 6eb687c4-76e6-996c-dc5f-667337b87098
 ---
 
 ![The Shocking Truth About 31% Ankle Injuries From Hurdles: Maine Athlete Defies Odds](/images/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en.jpg)
@@ -74,28 +78,12 @@ The future of track and field hinges on prioritizing athlete safety over perform
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSFJxdHlqd3ZHZGtxLURTbGZ2UEZqMW5NSG04dTdaWWxXc2FtcjQzQ2FkeFp3N0ZINk94bDBWa3BrWVpUNVhOR0J6VFRUODJyYVhKLUdXcjQzNWRFU25raXVKY3J3UTBGMEVERE9sYjQ0QU03a2xIdmhNeG1HUmVMdVdHR1M2dVFuSHNqSllnc3cyZ3VoUkZoTVhFV0dKbXVtNVBzbW1NQnQ?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth Behind Waco's Viral Bird Attack Videos Exposed](/viral/wacos-bird-attack-the-wild-videos-taking-the-internet-by-storm-en/)
 - [The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/)
 - [50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth About 31% Ankle Injuries From Hurdles: Maine Athlete Defies Odds",
-  "description": "Discover how a Maine athlete overcame staggering 31% ankle injury rates in hurdles, revealing the surprising truths behind resilience and recovery.",
-  "image": "https://novumworld.com/images/maine-athletes-hurdle-cartwheel-save-is-the-most-epic-moment-of-the-track-season-en.jpg",
-  "datePublished": "2026-05-14T23:44:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +93,3 @@ The future of track and field hinges on prioritizing athlete safety over perform
     }
   }
 }
-</script>

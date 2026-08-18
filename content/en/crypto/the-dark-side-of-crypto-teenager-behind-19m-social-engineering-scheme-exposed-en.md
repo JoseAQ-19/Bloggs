@@ -1,16 +1,19 @@
 ---
-title: "The Dark Side of Crypto: $19 Million Stolen by a Teen With Deepfake Skills"
-date: 2026-05-16T17:46:19
+title: 'The Dark Side of Crypto: $19 Million Stolen by a Teen With Deepfake Skills'
+date: 2026-05-16 17:46:19
 draft: false
-description: "Discover how a tech-savvy teen used deepfake skills to steal $19 million in crypto, revealing the hidden dangers of digital currencies and fraud."
-featured_image: "/images/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en.jpg"
-slug: "the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en"
-canonical: "https://novumworld.com/crypto/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "97624418-2c04-d29c-c992-d76a16d0159d"
+description: Discover how a tech-savvy teen used deepfake skills to steal $19 million
+  in crypto, revealing the hidden dangers of digital currencies and fraud.
+featured_image: /images/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en.jpg
+slug: the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en
+canonical: https://novumworld.com/crypto/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 97624418-2c04-d29c-c992-d76a16d0159d
 ---
 
 ![The Dark Side of Crypto: $19 Million Stolen by a Teen With Deepfake Skills](/images/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en.jpg)
@@ -79,12 +82,10 @@ The gravity of the situation is clear: the intersection of AI technology and soc
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1RYaWJoYWRfZGZGVEtBNDN3RjdrQXdibl8xN2l5RGNZVmtvXzcyZ21qamlRdXJOV29VcmpZdUp4cnB1MS00anQxRjB6NjhUaS01LWIyU0VHaWw4RTVjQUcyaE1HNVVKeVJCeHNERHlrYS1zeEsxY3A5MWJUb1EtUWV3X1VERHlsWUJlMExqZjhEc1Y0SWpkS3hFSXJzZi1fOWRSdjVGSzBHN1FXY3A1alpZYXl6cnFV?oc=5)
 
-
 ## Related Articles
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
 - [How The Clarity Act Is Paving The Way For Coinbase's $1 Trillion Stablecoin Market](/crypto/stablecoin-breakthrough-how-the-clarity-act-is-shaping-coinbases-future-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -94,18 +95,7 @@ The gravity of the situation is clear: the intersection of AI technology and soc
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Dark Side of Crypto: $19 Million Stolen by a Teen With Deepfake Skills",
-  "description": "Discover how a tech-savvy teen used deepfake skills to steal $19 million in crypto, revealing the hidden dangers of digital currencies and fraud.",
-  "image": "https://novumworld.com/images/the-dark-side-of-crypto-teenager-behind-19m-social-engineering-scheme-exposed-en.jpg",
-  "datePublished": "2026-05-16T17:46:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +105,3 @@ The gravity of the situation is clear: the intersection of AI technology and soc
     }
   }
 }
-</script>

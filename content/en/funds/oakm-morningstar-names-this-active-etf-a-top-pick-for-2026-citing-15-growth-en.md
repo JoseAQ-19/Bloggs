@@ -85,8 +85,6 @@ The duration sensitivity of OAKM's infrastructure holdings represents a particul
 
 The distressed debt market, while potentially lucrative during rising rate environments, also faces significant challenges. Higher interest rates increase default probabilities across the corporate spectrum, particularly for companies with high leverage ratios. The default rate for speculative-grade bonds has historically risen in tandem with interest rates, with a lag of approximately 12-18 months. This suggests that the full impact of the current rate environment on credit quality may not yet be fully reflected in market prices.
 
-
-
 {{< adsterra_native >}}
 
 ## OAKM ETF: and Assessment
@@ -124,6 +122,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Vanguard Fee Cuts Save Investors $250 Million in 2026: A Morningstar Analysis](/en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [Mutual Fund Fees Stick Near Historic Lows: A 2025 Analysis](/en/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en/)
 - [Morningstar Thailand Awards 2026: Identifying Top Funds in a Challenging Market](/en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -1,16 +1,20 @@
 ---
-title: "Anthropic Detiene Su IA Más Avanzada y Desata Alarmas en Seguridad Nacional de EE.UU."
-date: 2026-06-13T10:33:07
+title: Anthropic Detiene Su IA Más Avanzada y Desata Alarmas en Seguridad Nacional
+  de EE.UU.
+date: 2026-06-13 10:33:07
 draft: false
-description: "Anthropic detiene su IA más avanzada, generando preocupaciones sobre la seguridad nacional de EE.UU. Descubre las implicaciones y reacciones en este."
-featured_image: "/images/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu.jpg"
-slug: "anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu"
-canonical: "https://novumworld.com/es/ia/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "a7c817a7-f9e9-9db8-5ebd-c21dbaa605b0"
+description: Anthropic detiene su IA más avanzada, generando preocupaciones sobre
+  la seguridad nacional de EE.UU. Descubre las implicaciones y reacciones en este.
+featured_image: /images/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu.jpg
+slug: anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu
+canonical: https://novumworld.com/es/ia/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: a7c817a7-f9e9-9db8-5ebd-c21dbaa605b0
 ---
 
 ![Anthropic Detiene Su IA Más Avanzada y Desata Alarmas en Seguridad Nacional de EE.UU.](/images/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu.jpg)
@@ -74,22 +78,7 @@ La industria de la IA está en un punto crítico. La capacidad de EE.UU. para li
 - [La IA Revela 80% de Sitios Arqueológicos Inexplorados: Un Futuro Fascinante](/es/ia/puede-la-ia-recrear-la-protohistoria-un-reto-fascinante/)
 - [La IA Marxista Que Nadie Esperaba: 5 Riesgos Ocultos Que Amenazan Nuestra Sociedad](/es/ia/pueden-los-agentes-de-ia-volverse-marxistas-ante-el-maltrato/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Anthropic Detiene Su IA Más Avanzada y Desata Alarmas en Seguridad Nacional de EE.UU.",
-  "description": "Anthropic detiene su IA más avanzada, generando preocupaciones sobre la seguridad nacional de EE.UU. Descubre las implicaciones y reacciones en este.",
-  "image": "https://novumworld.com/images/anthropic-detiene-el-acceso-a-su-ia-mas-avanzada-un-nuevo-capitulo-en-la-seguridad-nacional-de-eeuu.jpg",
-  "datePublished": "2026-06-13T10:33:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +88,3 @@ La industria de la IA está en un punto crítico. La capacidad de EE.UU. para li
     }
   }
 }
-</script>

@@ -29,8 +29,6 @@ Kleiner Perkins just committed $3.5 billion to AI startups based on hallucinatio
 * Claude 4.6 Sonnet exhibits a ~3% hallucination rate, while GPT-5.2 shows 8-12%, and Gemini 2.5 Pro shows 10-15%, with some open-source models hitting hallucination rates of 15-30% or higher.
 * AI-native SaaS companies face brutal churn, showing gross revenue retention at just 40% and net revenue retention at 48%, significantly worse than the B2B SaaS median.
 
-
-
 {{< adsterra_native >}}
 
 ## The $3.5B Illusion: How Hallucinations Could Burst the AI Bubble
@@ -90,6 +88,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Geopolitics 2026: The Year We Stopped Pretending](/en/ia/geopolitica-2026-el-ano-en-que-dejamos-de-fingir/)
 - [Iowa Churches Unite: 83 Congregations Break Away Over LGBTQ Rights And Cultural](/en/ia/iowan-churches-rally-a-bold-stand-against-controversial-issues-en/)
 - [Claude''s $1.5B Copyright Nightmare: Can Anthropic REALLY Deliver Enterprise](/en/ia/anthropic-claude-enterprise-ai-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

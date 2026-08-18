@@ -1,16 +1,20 @@
 ---
-title: "YouTube Audio Ads Soar: SiriusXM Captures 255 Million Monthly Listeners in U.S."
-date: 2026-04-23T19:33:17
+title: 'YouTube Audio Ads Soar: SiriusXM Captures 255 Million Monthly Listeners in
+  U.S.'
+date: 2026-04-23 19:33:17
 draft: false
-description: "Discover how SiriusXM's YouTube audio ads drive engagement, reaching 255 million monthly listeners in the U.S. Explore the impact on digital marketing."
-featured_image: "/images/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en.jpg"
-slug: "youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en"
-canonical: "https://novumworld.com/youtube/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "bdb418ac-66c6-90ab-3bef-d244ee3ba6b9"
+description: Discover how SiriusXM's YouTube audio ads drive engagement, reaching
+  255 million monthly listeners in the U.S. Explore the impact on digital marketing.
+featured_image: /images/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en.jpg
+slug: youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en
+canonical: https://novumworld.com/youtube/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: bdb418ac-66c6-90ab-3bef-d244ee3ba6b9
 ---
 
 ![YouTube Audio Ads Soar: SiriusXM Captures 255 Million Monthly Listeners in U.S.](/images/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en.jpg)
@@ -82,22 +86,7 @@ This partnership has the potential to reshape the audio advertising landscape bu
 - [YouTube's NFL Game Streaming Just Hit 17.3 Million Viewers and Nobody Noticed](/youtube/youtube-eyes-nfl-package-a-game-changer-for-streaming-sports-en/)
 - [Cord-Cutting 2.0: YouTube TV](/youtube/youtube-sports-subscription-live-streaming-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Audio Ads Soar: SiriusXM Captures 255 Million Monthly Listeners in U.S.",
-  "description": "Discover how SiriusXM's YouTube audio ads drive engagement, reaching 255 million monthly listeners in the U.S. Explore the impact on digital marketing.",
-  "image": "https://novumworld.com/images/youtube-audio-ads-get-a-boost-siriusxm-takes-the-helm-in-the-us-en.jpg",
-  "datePublished": "2026-04-23T19:33:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +96,3 @@ This partnership has the potential to reshape the audio advertising landscape bu
     }
   }
 }
-</script>

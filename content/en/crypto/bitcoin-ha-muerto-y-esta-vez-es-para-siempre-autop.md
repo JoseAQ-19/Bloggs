@@ -17,8 +17,6 @@ title: 'Bitcoin’s Structural Resilience vs. Macroeconomic Attrition: An On-Cha
 - **Regulatory Pivot:** The legislative focus has shifted from outright bans to structural assimilation, with the CLARITY Act and proposed Bitcoin Strategic Reserve bills redefining the asset's role in the US geopolitical strategy.
 - **Technical Sustainability:** The post-halving mining landscape shows extreme consolidation, with hash rate dominance concentrating in publicly traded US firms (MARA, RIOT), raising questions about the network’s censorship resistance.
 
-
-
 {{< adsterra_native >}}
 
 ## The Macroeconomic Backdrop: Liquidity as the Primary Catalyst
@@ -88,6 +86,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [$512 Million Gone: The DeFi Hack No One Is Talking About.](/en/crypto/digital-assets-2025-turning-point-en/)
 - [98 Billion Dollars: The Shocking Decline of DeFi TVL and Its Consequences](/en/crypto/cryptos-devotees-fight-for-respect-in-a-skeptical-world-en/)
 - [$33 Billion Mess: Did Kraken''s Fed Access Just Expose Crypto''s Dirty Secret?](/en/crypto/kraken-fed-access-crypto-implications-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

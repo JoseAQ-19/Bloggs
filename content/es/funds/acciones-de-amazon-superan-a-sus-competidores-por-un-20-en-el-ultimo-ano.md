@@ -1,14 +1,17 @@
 ---
-title: "Acciones de Amazon superan a sus competidores por un 20% en el último año"
-date: 2026-04-25T07:05:08
+title: Acciones de Amazon superan a sus competidores por un 20% en el último año
+date: 2026-04-25 07:05:08
 draft: false
-description: "Descubre cómo las acciones de Amazon han superado a sus competidores en un 20% en el último año y qué implica esto para los inversores."
-featured_image: "/images/acciones-de-amazon-superan-a-sus-competidores-por-un-20-en-el-ultimo-ano.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "5c384e6e-9c83-dff9-38e0-b0c97b4b0d32"
+description: Descubre cómo las acciones de Amazon han superado a sus competidores
+  en un 20% en el último año y qué implica esto para los inversores.
+featured_image: /images/acciones-de-amazon-superan-a-sus-competidores-por-un-20-en-el-ultimo-ano.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 5c384e6e-9c83-dff9-38e0-b0c97b4b0d32
 ---
 
 ![Acciones de Amazon superan a sus competidores por un 20% en el último año](/images/acciones-de-amazon-superan-a-sus-competidores-por-un-20-en-el-ultimo-ano.jpg)
@@ -20,8 +23,6 @@ Las acciones de Amazon han superado a sus competidores en un 20% en el último a
 * [Aumento del 15% en la base de usuarios de Amazon Prime en un año — fuente CNMV]
 
 Amazon ha demostrado ser un líder en el comercio electrónico y los servicios en la nube, impulsando su crecimiento a pesar de los desafíos macroeconómicos. El informe financiero más reciente indica que la compañía ha generado ingresos de 134,4 mil millones de dólares en el tercer trimestre de 2023, lo que representa un aumento significativo en comparación con el año anterior. Este crecimiento se ha visto respaldado por la expansión de sus servicios de suscripción y la adopción continua de Amazon Web Services (AWS).
-
-
 
 {{< adsterra_native >}}
 
@@ -71,6 +72,4 @@ La combinación de un crecimiento sólido, una gestión efectiva y una clara est
 - [Space](/es/funds/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo/)
 - [Guerra](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

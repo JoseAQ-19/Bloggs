@@ -30,8 +30,6 @@ Un 30% de Access Capital Partners ha sido adquirido por Bankinter y Plenium Part
 
 El acuerdo, que se integra en un contexto de consolidación en la industria de fondos, permite a Bankinter y Plenium Partners ampliar su influencia en el sector de capital privado. La adquisición se considera un paso importante para mejorar la oferta de productos y podría impactar positivamente en la rentabilidad futura de ambas entidades.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis Comparativo de Fondos
@@ -67,6 +65,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por](/es/funds/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran/)
 - [Fondos premiados Morningstar 2026: Los que superan el 15% de rendimiento](/es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento/)
 - [Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.](/es/funds/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

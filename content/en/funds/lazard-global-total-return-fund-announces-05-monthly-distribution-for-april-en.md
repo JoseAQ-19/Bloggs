@@ -1,14 +1,17 @@
 ---
-title: "Lazard Global Total Return Fund Announces 0.5% Monthly Distribution for April"
-date: 2026-05-23T09:02:04
+title: Lazard Global Total Return Fund Announces 0.5% Monthly Distribution for April
+date: 2026-05-23 09:02:04
 draft: false
-description: "Discover the latest on Lazard Global Total Return Fund's 0.5% monthly distribution for April, and learn how it impacts your investment strategy."
-featured_image: "/images/lazard-global-total-return-fund-announces-05-monthly-distribution-for-april-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "2af3f722-e12b-d728-53f0-3710e38cdbda"
+description: Discover the latest on Lazard Global Total Return Fund's 0.5% monthly
+  distribution for April, and learn how it impacts your investment strategy.
+featured_image: /images/lazard-global-total-return-fund-announces-05-monthly-distribution-for-april-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 2af3f722-e12b-d728-53f0-3710e38cdbda
 ---
 
 ![Lazard Global Total Return Fund Announces 0.5% Monthly Distribution for April](/images/lazard-global-total-return-fund-announces-05-monthly-distribution-for-april-en.jpg)
@@ -20,8 +23,6 @@ The Lazard Global Total Return Fund has announced a monthly distribution of 0.5%
 * 3-Year annualized return of 7.5% — **SEC**
 
 The fund's performance indicates a stable income stream, which can be particularly appealing in a volatile market environment. Investors seeking consistent cash flow will find Lazard's approach noteworthy, especially as it competes with other funds in a similar category. With its diverse portfolio, the Lazard Global Total Return Fund aims to provide exposure to a mix of equity and fixed income securities, balancing growth potential with income generation.
-
-
 
 {{< adsterra_native >}}
 
@@ -66,30 +67,10 @@ Yes, potential risks include market volatility and exposure to geopolitical tens
 ### How does this fund compare to other income-generating investments?
 The fund offers stable distributions but may be less cost-effective than some passive options, which could be a consideration for cost-sensitive investors. 
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Lazard Global Total Return Fund Announces 0.5% Monthly Distribution for April",
-  "datePublished": "2023-04-01",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQTEd3bnZFdGdjeWdBVDl3S1czWkl0NklzZzRuaEVsN0Fsd056VVBQR0RSZTQzLS1va3RoRUZkNld1alpWUm1INHZGM1pVSDV6RHBrWFRJTGJ5c3VHM1VpZzMyWGNKQ1pBcHNJajdrTVdXMzVYVHJObmwwaVY3aEdXcEJicEtOYU1HZE1sUmdpd3N1MVVVS3lBbDVsYTNIYVl6c196Y0NMbFNIQnJLYkNtblJ3V2N2SDVqdTRfWEs3SllJeEJrV3BJWF80UzJCUUZ2cXpneV9fWE83U2tueWdCUHFERzdCQ2xRS3c1QUpfVGpJY1lJbXphOTJwNy1ZQl9nSDBTbkRTYmUwWGs4OTRCU3NkRm9CVlBhWXVXeVA2VFE5dTFlZFBrOA?oc=5",
   "articleBody": "The Lazard Global Total Return Fund has announced a monthly distribution of 0.5% for April, representing a consistent approach to delivering income to its investors.",
   "mainEntity": {
-    "@type": "FAQPage",
-    "name": "Real User FAQs",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is the current distribution rate of Lazard Global Total Return Fund?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The current distribution rate is 0.5% for the month of April."
-        }
-      },
       {
         "@type": "Question",
         "name": "How has the fund performed over the last five years?",
@@ -125,13 +106,10 @@ The fund offers stable distributions but may be less cost-effective than some pa
     ]
   }
 }
-</script>
 
 ## Related Articles
 - [Vanguard's International High Dividend Yield ETF Cuts Expense Ratio by 60%](/funds/vanguards-international-high-dividend-yield-etf-cuts-expense-ratio-by-60-en/)
 - [S&P 500](/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en/)
 - [Vanguard Slash](/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

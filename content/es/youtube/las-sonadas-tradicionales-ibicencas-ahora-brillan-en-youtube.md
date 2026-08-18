@@ -1,16 +1,19 @@
 ---
-title: "Las Sonadas Ibicencas Arrasan en YouTube: 5 Datos Que No Te Esperabas"
-date: 2026-06-23T19:22:02
+title: 'Las Sonadas Ibicencas Arrasan en YouTube: 5 Datos Que No Te Esperabas'
+date: 2026-06-23 19:22:02
 draft: false
-description: "Descubre cómo las sonadas ibicencas han conquistado YouTube y sorpréndete con 5 datos fascinantes que no conocías sobre su éxito viral."
-featured_image: "/images/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube.jpg"
-slug: "las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube"
-canonical: "https://novumworld.com/es/youtube/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "014c3576-bf21-5505-0a59-a60fb43c7729"
+description: Descubre cómo las sonadas ibicencas han conquistado YouTube y sorpréndete
+  con 5 datos fascinantes que no conocías sobre su éxito viral.
+featured_image: /images/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube.jpg
+slug: las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube
+canonical: https://novumworld.com/es/youtube/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 014c3576-bf21-5505-0a59-a60fb43c7729
 ---
 
 ![Las Sonadas Ibicencas Arrasan en YouTube: 5 Datos Que No Te Esperabas](/images/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube.jpg)
@@ -78,22 +81,7 @@ Ibiza no puede permitirse que su marca se convierta en una burbuja de contenido 
 - [YouTube Supera a Netflix En Tiempo De Visualización: ¡Una Revolución Que Nadie Esperaba!](/es/youtube/youtube-supera-a-netflix-en-tiempo-de-visualizacion-la-revolucion-del-streaming-ha-comenzado/)
 - [YouTube, Se Acabó: Obligan a](/es/youtube/youtube-anuncios-30-segundos-enfado-usuarios/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Las Sonadas Ibicencas Arrasan en YouTube: 5 Datos Que No Te Esperabas",
-  "description": "Descubre cómo las sonadas ibicencas han conquistado YouTube y sorpréndete con 5 datos fascinantes que no conocías sobre su éxito viral.",
-  "image": "https://novumworld.com/images/las-sonadas-tradicionales-ibicencas-ahora-brillan-en-youtube.jpg",
-  "datePublished": "2026-06-23T19:22:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ Ibiza no puede permitirse que su marca se convierta en una burbuja de contenido 
     }
   }
 }
-</script>

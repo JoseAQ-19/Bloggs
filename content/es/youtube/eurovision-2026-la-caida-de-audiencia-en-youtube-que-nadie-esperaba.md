@@ -1,16 +1,19 @@
 ---
-title: "Eurovisión 2026: La Impactante Caída de 165,191 Espectadores Que Nadie Previó"
-date: 2026-05-17T19:16:02
+title: 'Eurovisión 2026: La Impactante Caída de 165,191 Espectadores Que Nadie Previó'
+date: 2026-05-17 19:16:02
 draft: false
-description: "Descubre cómo Eurovisión 2026 sorprendió con una caída de 165,191 espectadores. Un análisis de lo inesperado en el mundo de la música y el entretenimiento."
-featured_image: "/images/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba.jpg"
-slug: "eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba"
-canonical: "https://novumworld.com/es/youtube/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "97f0c2ef-1bc7-dfee-aa31-d53e5d3c6a1b"
+description: Descubre cómo Eurovisión 2026 sorprendió con una caída de 165,191 espectadores.
+  Un análisis de lo inesperado en el mundo de la música y el entretenimiento.
+featured_image: /images/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba.jpg
+slug: eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba
+canonical: https://novumworld.com/es/youtube/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 97f0c2ef-1bc7-dfee-aa31-d53e5d3c6a1b
 ---
 
 ![Eurovisión 2026: La Impactante Caída de 165,191 Espectadores Que Nadie Previó](/images/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba.jpg)
@@ -47,22 +50,7 @@ La caída de 165,191 espectadores de Eurovisión 2026 en YouTube es el síntoma 
 - [YouTube Revoluciona Su Búsqueda Con IA: 5 Cambios Que No Puedes Ignorar](/es/youtube/youtube-revoluciona-su-busqueda-con-inteligencia-artificial-todo-lo-que-necesitas-saber/)
 - [YouTube Apaga Notificaciones a Millones y Los Creadores Están Desesperados por la Pérdida](/es/youtube/youtube-apaga-las-notificaciones-de-canales-inactivos-te-perderas-contenido-interesante/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Eurovisión 2026: La Impactante Caída de 165,191 Espectadores Que Nadie Previó",
-  "description": "Descubre cómo Eurovisión 2026 sorprendió con una caída de 165,191 espectadores. Un análisis de lo inesperado en el mundo de la música y el entretenimiento.",
-  "image": "https://novumworld.com/images/eurovision-2026-la-caida-de-audiencia-en-youtube-que-nadie-esperaba.jpg",
-  "datePublished": "2026-05-17T19:16:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -72,4 +60,3 @@ La caída de 165,191 espectadores de Eurovisión 2026 en YouTube es el síntoma 
     }
   }
 }
-</script>

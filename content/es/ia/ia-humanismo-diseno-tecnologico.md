@@ -29,8 +29,6 @@ La IA neutra es un mito peligroso que perpetúa la injusticia social.
 * Solo el 24% de las startups tecnológicas españolas aprueban una auditoría "Ethics IA", lo que pone de manifiesto importantes lagunas en la implementación ética de la IA.
 * Las posibles multas de hasta 35 millones de euros o el 7% de la facturación global que contempla la Ley de IA de la UE por incumplimiento obligan a las empresas españolas a priorizar el desarrollo de una IA ética y conforme a la normativa.
 
-
-
 {{< adsterra_native >}}
 
 ## ¿Igualdad o Equidad Algorítmica? Amparo Alonso Betanzos Desafía la Neutralidad de la IA
@@ -80,6 +78,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Aiper Scuba S1: La Revolución De La Limpieza De Piscinas Que Nadie Esperaba](/es/ia/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera/)
 - [Geopolítica 2026: El Año en que la Realidad Superó a la Distopía](/es/ia/geopolitica-2026-el-ano-en-que-la-realidad-supero/)
 - [NOVUMWORLD: La Farsa del Periodismo de Élite (Y Por Qué Deberías Ignorarlo)](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -29,8 +29,6 @@ La industria del fitness ha vendido la mentira más peligrosa para la población
 * Después de los 60 años, el cuerpo puede perder masa muscular a una velocidad del **1% al 2% por año** si no se aplica un estímulo de fuerza adecuado, un proceso acelerado que destruye la calidad de vida antes de que el paciente se dé cuenta.
 * El **38.9% de los participantes** en un estudio sobre envejecimiento en Cataluña eran físicamente inactivos, un dato que correlaciona directamente con el aumento drástico del riesgo de dependencia y mortalidad prematura.
 
-
-
 {{< adsterra_native >}}
 
 ## La Paradoja de la Longevidad: Caminar No Basta, Advierte Marcos Vázquez
@@ -60,6 +58,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucionar](/es/fitness/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional/)
 - [60% de Retención: La Gran Falta de Gimnasios Para Atraer a Mujeres](/es/fitness/gimnasios-fallando-mujeres/)
 - [La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo](/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

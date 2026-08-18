@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves"
-date: 2026-05-28T17:36:16
+title: The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves
+date: 2026-05-28 17:36:16
 draft: false
-description: "Uncover the surprising links between Trump donors and cryptocurrency ventures, alongside the SEC's recent actions that could reshape the financial."
-featured_image: "/images/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en.jpg"
-slug: "us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en"
-canonical: "https://novumworld.com/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "91a30ec9-6a25-a70b-d4bf-e60d8188b685"
+description: Uncover the surprising links between Trump donors and cryptocurrency
+  ventures, alongside the SEC's recent actions that could reshape the financial.
+featured_image: /images/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en.jpg
+slug: us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en
+canonical: https://novumworld.com/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 91a30ec9-6a25-a70b-d4bf-e60d8188b685
 ---
 
 ![The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves](/images/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en.jpg)
@@ -57,12 +60,10 @@ The intertwining of crypto donations and regulatory enforcement represents a sys
 - [binance.com](https://www.binance.com/en/square/post/4721899288233)
 - [intellectia.ai](https://www.intellectia.ai/decentralized-finance-in-2026-balancing-growth-and-risks/)
 
-
 ## Related Articles
 - [51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms](/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -72,18 +73,7 @@ The intertwining of crypto donations and regulatory enforcement represents a sys
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves",
-  "description": "Uncover the surprising links between Trump donors and cryptocurrency ventures, alongside the SEC's recent actions that could reshape the financial.",
-  "image": "https://novumworld.com/images/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en.jpg",
-  "datePublished": "2026-05-28T17:36:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +83,3 @@ The intertwining of crypto donations and regulatory enforcement represents a sys
     }
   }
 }
-</script>

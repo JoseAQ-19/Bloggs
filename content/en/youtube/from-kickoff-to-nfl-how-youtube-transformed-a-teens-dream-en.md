@@ -1,16 +1,20 @@
 ---
-title: "YouTube Transformed A Teen's NFL Dream Into Reality: The Shocking Stats You Need To Know"
-date: 2026-05-15T20:45:06
+title: 'YouTube Transformed A Teen''s NFL Dream Into Reality: The Shocking Stats You
+  Need To Know'
+date: 2026-05-15 20:45:06
 draft: false
-description: "Discover how YouTube helped a teen achieve his NFL dream. Explore the shocking stats that reveal the power of social media in sports careers."
-featured_image: "/images/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en.jpg"
-slug: "from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en"
-canonical: "https://novumworld.com/youtube/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "a5cc3dd1-1237-6908-1ee2-75cba421c79f"
+description: Discover how YouTube helped a teen achieve his NFL dream. Explore the
+  shocking stats that reveal the power of social media in sports careers.
+featured_image: /images/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en.jpg
+slug: from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en
+canonical: https://novumworld.com/youtube/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: a5cc3dd1-1237-6908-1ee2-75cba421c79f
 ---
 
 ![YouTube Transformed A Teen's NFL Dream Into Reality: The Shocking Stats You Need To Know](/images/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en.jpg)
@@ -46,22 +50,7 @@ YouTube's NFL pipeline is here to stay — but until the NCAA and NFL get out of
 - [YouTube Surpasses Netflix: 31.9 Million Canadians Now Prefer This Streaming Giant](/youtube/youtube-takes-the-lead-outshining-streaming-giants-in-canada-en/)
 - [90% Of YouTube Creators Suffer From Burnout And Nobody Is Talking About It](/youtube/youtubes-original-stars-spill-secrets-what-they-wish-they-knew-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Transformed A Teen's NFL Dream Into Reality: The Shocking Stats You Need To Know",
-  "description": "Discover how YouTube helped a teen achieve his NFL dream. Explore the shocking stats that reveal the power of social media in sports careers.",
-  "image": "https://novumworld.com/images/from-kickoff-to-nfl-how-youtube-transformed-a-teens-dream-en.jpg",
-  "datePublished": "2026-05-15T20:45:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -71,4 +60,3 @@ YouTube's NFL pipeline is here to stay — but until the NCAA and NFL get out of
     }
   }
 }
-</script>

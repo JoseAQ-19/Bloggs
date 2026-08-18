@@ -78,7 +78,6 @@ Readers are urged to educate themselves on the implications of crypto investment
 - [Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies](/crypto/unmasking-corruption-how-congress-fuels-trumps-crypto-controversies-en/)
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -87,18 +86,7 @@ Readers are urged to educate themselves on the implications of crypto investment
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "John Oliver Exposes Five Shocking Crypto Deals Tied to Trump’s Hidden Financial Empire",
-  "description": "Discover John Oliver's deep dive into five alarming crypto deals linked to Trump's concealed financial empire, revealing shocking truths and hidden.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-27T18:54:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ Readers are urged to educate themselves on the implications of crypto investment
     }
   }
 }
-</script>

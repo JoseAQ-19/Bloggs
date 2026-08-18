@@ -24,8 +24,6 @@ type: ia
 
 La incorporación de la inteligencia artificial (IA) en los sistemas militares plantea riesgos significativos para la humanidad porque **automatiza decisiones críticas, reduciendo el control humano y aumentando el potencial de errores catastróficos, especialmente en el armamento nuclear**. Este riesgo se amplifica por la opacidad de los algoritmos y la dificultad para atribuir responsabilidades en caso de fallos.
 
-
-
 {{< adsterra_native >}}
 
 ## Simulacro de decisiones: IA y la escalada bélica
@@ -99,6 +97,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [La UE Prohíbe los ''Deepfakes'' Sexuales: 3 Millones de Imágenes Generadas](/es/ia/la-ue-prohibe-los-deepfakes-sexuales-con-ia-que-opinan-los-expertos/)
 - [El Metaverso ha Muerto. Larga Vida al Caos Digital](/es/ia/el-metaverso-ha-muerto-larga-vida-al-caos-digital/)
 - [La IA No Viene a Salvarnos: Viene a Explotarnos](/es/ia/la-ia-no-viene-a-salvarnos-viene-a-explotarnos/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

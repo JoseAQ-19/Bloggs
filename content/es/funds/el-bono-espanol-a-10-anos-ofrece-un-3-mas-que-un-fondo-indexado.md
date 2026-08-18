@@ -1,14 +1,17 @@
 ---
-title: "El bono español a 10 años ofrece un 3% más que un fondo indexado"
-date: 2026-05-23T07:23:00
+title: El bono español a 10 años ofrece un 3% más que un fondo indexado
+date: 2026-05-23 07:23:00
 draft: false
-description: "Descubre cómo el bono español a 10 años supera en un 3% a los fondos indexados y qué implicaciones tiene para tus inversiones financieras."
-featured_image: "/images/el-bono-espanol-a-10-anos-ofrece-un-3-mas-que-un-fondo-indexado.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "6b5fc508-0b47-7c3c-0349-749337299bdb"
+description: Descubre cómo el bono español a 10 años supera en un 3% a los fondos
+  indexados y qué implicaciones tiene para tus inversiones financieras.
+featured_image: /images/el-bono-espanol-a-10-anos-ofrece-un-3-mas-que-un-fondo-indexado.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 6b5fc508-0b47-7c3c-0349-749337299bdb
 ---
 
 ![El bono español a 10 años ofrece un 3% más que un fondo indexado](/images/el-bono-espanol-a-10-anos-ofrece-un-3-mas-que-un-fondo-indexado.jpg)
@@ -20,8 +23,6 @@ El bono español a 10 años ha alcanzado un rendimiento superior del 3% en compa
 * [Inflación en España: 3.7% anual — **INE**]
 
 La reciente tendencia en los mercados muestra un claro aumento en la rentabilidad de la deuda pública frente a la gestión pasiva de fondos. Este fenómeno, impulsado por la política monetaria del Banco Central Europeo, ha llevado a un aumento del interés por los bonos españoles, que ofrecen no solo seguridad sino también una rentabilidad atractiva en comparación con los fondos indexados.
-
-
 
 {{< adsterra_native >}}
 
@@ -71,32 +72,9 @@ La inflación puede erosionar el rendimiento real de los bonos. Si la inflación
 
 En un entorno de incertidumbre, los bonos suelen ser preferibles debido a su menor volatilidad y riesgo de crédito. Sin embargo, la diversificación sigue siendo clave en cualquier estrategia de inversión.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El bono español a 10 años ofrece un 3% más que un fondo indexado",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  }
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Es seguro invertir en bonos españoles a 10 años?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La inversión en bonos españoles a 10 años es generalmente considerada segura, ya que están respaldados por el gobierno."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Cuáles son las comisiones de los fondos indexados?",
@@ -131,13 +109,10 @@ En un entorno de incertidumbre, los bonos suelen ser preferibles debido a su men
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Fondos premiad](/es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento/)
 - [iShares C](/es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44/)
 - [Inverti](/es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

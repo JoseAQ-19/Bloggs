@@ -91,22 +91,7 @@ In the world of fitness, the only limits are the ones we set for ourselves. As t
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless",
-  "description": "Discover the most unforgettable moments from the Brigade Fitness Competition that will inspire and amaze you. Don’t miss these jaw-dropping highlights!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-06-09T06:45:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +101,3 @@ In the world of fitness, the only limits are the ones we set for ourselves. As t
     }
   }
 }
-</script>

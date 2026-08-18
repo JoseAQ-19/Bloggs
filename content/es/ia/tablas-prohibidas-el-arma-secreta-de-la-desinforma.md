@@ -24,8 +24,6 @@ type: ia
 
 La visualización de datos, ese supuesto bastión de la objetividad, se ha convertido en el arma predilecta de propagandistas y manipuladores. Olvídense de la idea romántica de que los gráficos iluminan la verdad; en realidad, la oscurecen con mayor eficacia que cualquier cortina de humo. La pregunta ya no es *cómo* pueden engañar los gráficos, sino *por qué* seguimos creyendo en ellos.
 
-
-
 {{< adsterra_native >}}
 
 ## La Tiranía de las Tablas Prohibidas
@@ -67,6 +65,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [El Metaverso ha Muerto: Bienvenidos al Infierno Digital](/es/ia/el-metaverso-ha-muerto-bienvenidos-al-infierno-dig/)
 - [Celular Te Espía. Y le Pagas por Ello](/es/ia/celular-te-espia-y-le-pagas-por-ello/)
 - [Ecnocínicos: Cómo las Corporaciones Nos Venden Humo Futurista](/es/ia/ecnocinicos-como-las-corporaciones-nos-venden-humo/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

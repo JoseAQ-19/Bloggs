@@ -1,14 +1,17 @@
 ---
-title: "La inflación en la eurozona alcanza el 5% y el BCE prevé subida de tipos"
-date: 2026-06-04T08:06:50
+title: La inflación en la eurozona alcanza el 5% y el BCE prevé subida de tipos
+date: 2026-06-04 08:06:50
 draft: false
-description: "La inflación en la eurozona se eleva al 5%. Descubre cómo el BCE planea aumentar los tipos de interés y qué significa para tu inversión."
-featured_image: "/images/la-inflacion-en-la-eurozona-alcanza-el-5-y-el-bce-preve-subida-de-tipos.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "1cd17221-5816-d910-e139-6eba6ae14c1a"
+description: La inflación en la eurozona se eleva al 5%. Descubre cómo el BCE planea
+  aumentar los tipos de interés y qué significa para tu inversión.
+featured_image: /images/la-inflacion-en-la-eurozona-alcanza-el-5-y-el-bce-preve-subida-de-tipos.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 1cd17221-5816-d910-e139-6eba6ae14c1a
 ---
 
 ![La inflación en la eurozona alcanza el 5% y el BCE prevé subida de tipos](/images/la-inflacion-en-la-eurozona-alcanza-el-5-y-el-bce-preve-subida-de-tipos.jpg)
@@ -20,8 +23,6 @@ La inflación en la eurozona ha alcanzado un sorprendente 5%, lo que representa 
 * [Aumento de 0,75% en tipos en septiembre 2023 — Fuente: **BCE**] 
 
 La reciente escalada de precios ha generado preocupación entre los inversores y analistas económicos. Desde la introducción del euro, el BCE ha luchado para mantener la inflación en niveles controlables, y el actual entorno económico ha puesto a prueba su capacidad. La inflación ha superado el objetivo del 2% establecido por el BCE, lo que los ha llevado a adoptar medidas más agresivas.
-
-
 
 {{< adsterra_native >}}
 
@@ -100,6 +101,4 @@ La proactividad y el análisis continuo de las tendencias económicas serán cla
 - [Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e/)
 - [Vanguard España: 5 datos sorprendentes sobre sus nuevos fondos en 2023](/es/funds/vanguard-espana-5-datos-sorprendentes-sobre-sus-nuevos-fondos-en-2023/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

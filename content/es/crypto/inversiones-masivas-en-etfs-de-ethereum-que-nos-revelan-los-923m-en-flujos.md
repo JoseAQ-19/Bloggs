@@ -80,7 +80,6 @@ La evolución del mercado cripto está en marcha y no podemos permitirnos quedar
 - [¿Gas Demasiado Caro en Metamask? Gu](/es/crypto/metamask-gas-fees-guia-completa/)
 - [5 Razones Por Las Que El CLARITY Act Cambiará Todo Para Coinbase Y Los Criptoinversores](/es/crypto/por-que-el-voto-en-el-senado-sobre-el-clarity-act-podria-cambiar-el-juego-para-coinbase-y-los-cripto/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -89,18 +88,7 @@ La evolución del mercado cripto está en marcha y no podemos permitirnos quedar
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$9.23M En Flujos de ETFs de Ethereum: La Inversión Que Nadie Vio Venir",
-  "description": "Descubre cómo $9.23M en flujos de ETFs de Ethereum están cambiando el panorama de las inversiones. Una oportunidad que no querrás perderte.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-29T17:07:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ La evolución del mercado cripto está en marcha y no podemos permitirnos quedar
     }
   }
 }
-</script>

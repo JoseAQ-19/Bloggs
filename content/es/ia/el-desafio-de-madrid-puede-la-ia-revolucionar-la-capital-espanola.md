@@ -26,8 +26,6 @@ type: ia
 - A pesar de contar con un 10.2% de profesionales en IA, España presenta una tasa de vacantes del 5.5% en puestos relacionados con la inteligencia artificial (RRHH Digital).
 - La falta de talento en IA podría limitar el desarrollo de soluciones innovadoras como los gemelos digitales urbanos, afectando la transformación digital de Madrid.
 
-
-
 {{< adsterra_native >}}
 
 ## La Brecha de Talento que Amenaza la Promesa de la IA
@@ -81,6 +79,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [NOVUMWORLD: La Farsa del Periodismo de Élite (Y Por Qué Deberías Ignorarlo)](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
 - [ChatGPT Destronó a Wikipedia: Ahora la IA Decide Tu Voto.](/es/ia/ia-electoral-arma-secreta/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

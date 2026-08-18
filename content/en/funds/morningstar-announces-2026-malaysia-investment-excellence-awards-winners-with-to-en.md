@@ -1,14 +1,18 @@
 ---
-title: "Morningstar Announces 2026 Malaysia Investment Excellence Awards Winners with Top Funds"
-date: 2026-04-11T08:38:54
+title: Morningstar Announces 2026 Malaysia Investment Excellence Awards Winners with
+  Top Funds
+date: 2026-04-11 08:38:54
 draft: false
-description: "Discover the winners of the 2026 Malaysia Investment Excellence Awards by Morningstar. Explore top-performing mutual funds that lead the market today!."
-featured_image: "/images/morningstar-announces-2026-malaysia-investment-excellence-awards-winners-with-to-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "217515d2-4223-da72-5b5c-d640ee105978"
+description: Discover the winners of the 2026 Malaysia Investment Excellence Awards
+  by Morningstar. Explore top-performing mutual funds that lead the market today!.
+featured_image: /images/morningstar-announces-2026-malaysia-investment-excellence-awards-winners-with-to-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 217515d2-4223-da72-5b5c-d640ee105978
 ---
 
 ![Morningstar Announces 2026 Malaysia Investment Excellence Awards Winners with Top Funds](/images/morningstar-announces-2026-malaysia-investment-excellence-awards-winners-with-to-en.jpg)
@@ -20,8 +24,6 @@ The Malaysian mutual fund landscape witnessed a remarkable 15% increase in total
 * [Average expense ratio for top funds is 1.2% — CNMV]
 
 This surge comes as no surprise, given the comprehensive analysis conducted by Morningstar, which recently announced the winners of the 2026 Malaysia Investment Excellence Awards. With a focus on performance, risk, and investor returns, these awards highlight funds that have not only excelled but also demonstrated resilience in challenging market conditions.
-
-
 
 {{< adsterra_native >}}
 
@@ -87,32 +89,11 @@ Yes, most award-winning funds are available through various brokerage platforms.
 
 The Malaysian mutual fund industry continues to evolve, presenting both opportunities and challenges for investors. The trends reflected in the 2026 Morningstar Investment Excellence Awards underscore the importance of performance, cost-efficiency, and strategic asset allocation in achieving long-term investment success. 
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Announces 2026 Malaysia Investment Excellence Awards Winners with Top Funds",
-  "datePublished": "2026-03-15",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
+,
   "articleBody": "The Malaysian mutual fund landscape witnessed a remarkable 15% increase in total assets under management in 2026, reflecting a growing appetite for investment products among local investors. ... [continue with the entire article content]"
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-      "@type": "Question",
-      "name": "What are the criteria for winning the Morningstar Investment Excellence Awards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The awards are based on rigorous quantitative and qualitative analyses, focusing on performance, risk-adjusted returns, and overall investor experience."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How can I find the top-performing funds?",
@@ -147,13 +128,10 @@ The Malaysian mutual fund industry continues to evolve, presenting both opportun
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [OAK](/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
 - [Morn](/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 - [VOO Surges 281% in](/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

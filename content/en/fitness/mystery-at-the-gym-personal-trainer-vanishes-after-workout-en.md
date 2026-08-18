@@ -1,16 +1,19 @@
 ---
-title: "The Bizarre Disappearance of Elena Katherine Moore: Gym Mystery Deepens"
-date: 2026-06-16T07:17:38
+title: 'The Bizarre Disappearance of Elena Katherine Moore: Gym Mystery Deepens'
+date: 2026-06-16 07:17:38
 draft: false
-description: "Uncover the chilling details of Elena Katherine Moore's mysterious disappearance. Dive into the gym mystery that has captured public intrigue and."
-featured_image: "/images/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en.jpg"
-slug: "mystery-at-the-gym-personal-trainer-vanishes-after-workout-en"
-canonical: "https://novumworld.com/fitness/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "a09a7703-b408-f690-9198-2d46dbba9702"
+description: Uncover the chilling details of Elena Katherine Moore's mysterious disappearance.
+  Dive into the gym mystery that has captured public intrigue and.
+featured_image: /images/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en.jpg
+slug: mystery-at-the-gym-personal-trainer-vanishes-after-workout-en
+canonical: https://novumworld.com/fitness/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: a09a7703-b408-f690-9198-2d46dbba9702
 ---
 
 ![The Bizarre Disappearance of Elena Katherine Moore: Gym Mystery Deepens](/images/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en.jpg)
@@ -175,28 +178,12 @@ To further emphasize the importance of safety in fitness environments, it is ess
 - [whatismybrowser.com](https://www.whatismybrowser.com/detect/is-javascript-enabled)
 - [news.google.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFN2VHJRS014RVVTcWl5NzFfQmpIeWVJTHY4VHp5YlJ2SS1nY2R4a014RFU1TldIVGNISEFVRzB3a0xyalVBdEtqMWNOdTVCUGtReWdYWUQ2MDk4bUg1QTNWclpLSWJDajlxYVVFZnA2dUFUYV9TTkk5TjRpT0hBeFN0cUpCZw?oc=5)
 
-
 ## Related Articles
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 - [The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/)
 - [The Shocking Age When Your Strength Begins to Slip: What Science Reveals](/fitness/the-age-when-your-strength-starts-to-slip-what-you-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Bizarre Disappearance of Elena Katherine Moore: Gym Mystery Deepens",
-  "description": "Uncover the chilling details of Elena Katherine Moore's mysterious disappearance. Dive into the gym mystery that has captured public intrigue and.",
-  "image": "https://novumworld.com/images/mystery-at-the-gym-personal-trainer-vanishes-after-workout-en.jpg",
-  "datePublished": "2026-06-16T07:17:38",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -206,4 +193,3 @@ To further emphasize the importance of safety in fitness environments, it is ess
     }
   }
 }
-</script>

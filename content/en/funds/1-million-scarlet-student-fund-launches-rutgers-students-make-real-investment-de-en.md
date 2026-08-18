@@ -1,14 +1,18 @@
 ---
-title: "$1 Million Scarlet Student Fund Launches: Rutgers Students Make Real Investment Decisions"
-date: 2026-04-28T09:16:08
+title: '$1 Million Scarlet Student Fund Launches: Rutgers Students Make Real Investment
+  Decisions'
+date: 2026-04-28 09:16:08
 draft: false
-description: "Discover how Rutgers students take charge with the $1 Million Scarlet Student Fund, making real investment decisions and shaping their financial futures."
-featured_image: "/images/1-million-scarlet-student-fund-launches-rutgers-students-make-real-investment-de-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "2cff115e-b070-02b5-ca0b-365f45106eee"
+description: Discover how Rutgers students take charge with the $1 Million Scarlet
+  Student Fund, making real investment decisions and shaping their financial futures.
+featured_image: /images/1-million-scarlet-student-fund-launches-rutgers-students-make-real-investment-de-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 2cff115e-b070-02b5-ca0b-365f45106eee
 ---
 
 ![$1 Million Scarlet Student Fund Launches: Rutgers Students Make Real Investment Decisions](/images/1-million-scarlet-student-fund-launches-rutgers-students-make-real-investment-de-en.jpg)
@@ -20,8 +24,6 @@ The recent launch of the $1 million Scarlet Student Fund at Rutgers University m
 * Student participants are expected to gain insights into real-world investment strategies, impacting over 500 students annually — **SEC**
 
 This student-led initiative allows Rutgers Business School students to engage directly in investment management, fostering both practical skills and theoretical knowledge. The fund, operated under the guidance of faculty advisors, aims to enhance academic learning with real capital, thereby bridging the gap between classroom theory and market realities. 
-
-
 
 {{< adsterra_native >}}
 
@@ -76,35 +78,11 @@ Students can apply to participate in the fund through Rutgers Business School’
 
 We believe the Scarlet Student Fund represents a significant educational opportunity, merging academic theory with practical financial management. By engaging students in real investment decisions, Rutgers is setting a precedent for experiential learning in finance. The success of this initiative will likely serve as a benchmark for other educational institutions pursuing similar programs. 
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$1 Million Scarlet Student Fund Launches: Rutgers Students Make Real Investment Decisions",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.rutgers.edu/scarlet-student-fund"
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the goal of the Scarlet Student Fund?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fund aims to provide students with practical investment experience while generating returns for the university."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How are investment decisions made?",
@@ -145,6 +123,4 @@ We believe the Scarlet Student Fund represents a significant educational opportu
 - [Morningstar’s Deeper Snowflake Integration Boosts Data-Driven Investment Strategy by 25%](/funds/morningstars-deeper-snowflake-integration-boosts-data-driven-investment-strategy-en/)
 - [XAEL-AI Enters U.S. Market After 150% Growth in China](/funds/xael-ai-enters-us-market-after-150-growth-in-china-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

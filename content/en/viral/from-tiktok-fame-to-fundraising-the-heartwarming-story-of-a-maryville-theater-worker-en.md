@@ -1,16 +1,20 @@
 ---
-title: "How One Maryville Theater Worker Turned Viral Fame into $10,000 for Community Support"
-date: 2026-06-05T23:47:40
+title: How One Maryville Theater Worker Turned Viral Fame into $10,000 for Community
+  Support
+date: 2026-06-05 23:47:40
 draft: false
-description: "Discover how a Maryville theater worker leveraged viral fame to raise $10,000, transforming community support and inspiring others to give back."
-featured_image: "/images/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en.jpg"
-slug: "from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en"
-canonical: "https://novumworld.com/viral/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "008fdfa4-f87e-45da-b2d8-93bf1912d772"
+description: Discover how a Maryville theater worker leveraged viral fame to raise
+  $10,000, transforming community support and inspiring others to give back.
+featured_image: /images/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en.jpg
+slug: from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en
+canonical: https://novumworld.com/viral/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 008fdfa4-f87e-45da-b2d8-93bf1912d772
 ---
 
 ![How One Maryville Theater Worker Turned Viral Fame into $10,000 for Community Support](/images/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en.jpg)
@@ -80,22 +84,7 @@ When one person dances, an entire community can join in and make a difference. T
 - [The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/)
 - [Jersey Mike's Nachos Just Revolutionized Our Order Game Forever](/viral/we-tried-jersey-mikes-nachos-and-revolutionized-our-order-game-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How One Maryville Theater Worker Turned Viral Fame into $10,000 for Community Support",
-  "description": "Discover how a Maryville theater worker leveraged viral fame to raise $10,000, transforming community support and inspiring others to give back.",
-  "image": "https://novumworld.com/images/from-tiktok-fame-to-fundraising-the-heartwarming-story-of-a-maryville-theater-worker-en.jpg",
-  "datePublished": "2026-06-05T23:47:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +94,3 @@ When one person dances, an entire community can join in and make a difference. T
     }
   }
 }
-</script>

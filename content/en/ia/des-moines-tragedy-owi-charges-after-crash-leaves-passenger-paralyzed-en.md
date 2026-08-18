@@ -1,16 +1,19 @@
 ---
-title: "Dram Shop Laws Exposed: How Bars Are Getting Away With Over-Serving and Injuries"
-date: 2026-05-22T12:16:13
+title: 'Dram Shop Laws Exposed: How Bars Are Getting Away With Over-Serving and Injuries'
+date: 2026-05-22 12:16:13
 draft: false
-description: "Discover the truth behind Dram Shop Laws and how bars evade responsibility for over-serving patrons, leading to injuries and legal loopholes."
-featured_image: "/images/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en.jpg"
-slug: "des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en"
-canonical: "https://novumworld.com/ia/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "e9c49ce5-34bd-9514-5602-6ec1f696b96d"
+description: Discover the truth behind Dram Shop Laws and how bars evade responsibility
+  for over-serving patrons, leading to injuries and legal loopholes.
+featured_image: /images/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en.jpg
+slug: des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en
+canonical: https://novumworld.com/ia/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: e9c49ce5-34bd-9514-5602-6ec1f696b96d
 ---
 
 ![Dram Shop Laws Exposed: How Bars Are Getting Away With Over-Serving and Injuries](/images/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en.jpg)
@@ -80,22 +83,7 @@ The road ahead is fraught with challenges, but by addressing these issues head-o
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 - [82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming Truth](/ia/project-glasswing-revolutionizing-software-security-for-the-ai-age-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Dram Shop Laws Exposed: How Bars Are Getting Away With Over-Serving and Injuries",
-  "description": "Discover the truth behind Dram Shop Laws and how bars evade responsibility for over-serving patrons, leading to injuries and legal loopholes.",
-  "image": "https://novumworld.com/images/des-moines-tragedy-owi-charges-after-crash-leaves-passenger-paralyzed-en.jpg",
-  "datePublished": "2026-05-22T12:16:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +93,3 @@ The road ahead is fraught with challenges, but by addressing these issues head-o
     }
   }
 }
-</script>

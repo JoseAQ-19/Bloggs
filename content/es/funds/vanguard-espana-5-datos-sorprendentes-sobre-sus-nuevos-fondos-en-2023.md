@@ -1,14 +1,17 @@
 ---
-title: "Vanguard España: 5 datos sorprendentes sobre sus nuevos fondos en 2023"
-date: 2026-06-01T08:39:50
+title: 'Vanguard España: 5 datos sorprendentes sobre sus nuevos fondos en 2023'
+date: 2026-06-01 08:39:50
 draft: false
-description: "Descubre 5 datos sorprendentes sobre los nuevos fondos de Vanguard España en 2023 y cómo pueden transformar tu estrategia de inversión."
-featured_image: "/images/vanguard-espana-5-datos-sorprendentes-sobre-sus-nuevos-fondos-en-2023.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "753d3129-ff65-747a-7b86-658a0ac212ef"
+description: Descubre 5 datos sorprendentes sobre los nuevos fondos de Vanguard España
+  en 2023 y cómo pueden transformar tu estrategia de inversión.
+featured_image: /images/vanguard-espana-5-datos-sorprendentes-sobre-sus-nuevos-fondos-en-2023.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 753d3129-ff65-747a-7b86-658a0ac212ef
 ---
 
 ![Vanguard España: 5 datos sorprendentes sobre sus nuevos fondos en 2023](/images/vanguard-espana-5-datos-sorprendentes-sobre-sus-nuevos-fondos-en-2023.jpg)
@@ -20,8 +23,6 @@ La gestión de fondos de inversión está siendo revolucionada por Vanguard, que
 * [Incremento del 15% en fondos de renta fija en 2023 — **CNMV**]
 
 Este fenómeno no es casualidad, sino el resultado de una estrategia enfocada en la eficiencia de costos y la diversificación. Vanguard ha lanzado nuevos fondos en 2023 que buscan adaptar sus ofertas a un entorno financiero en constante cambio. Estos fondos no solo se caracterizan por su baja relación de gastos, sino que también están diseñados para capturar una amplia gama de oportunidades de inversión, desde acciones hasta renta fija, todo mientras se minimizan las comisiones.
-
-
 
 {{< adsterra_native >}}
 
@@ -72,33 +73,11 @@ Es importante considerar la dependencia de la gestión pasiva y el impacto de la
 
 Nuestra análisis indica que los nuevos fondos de Vanguard son una opción sólida para los inversores que buscan minimizar costos y maximizar la diversificación. Sin embargo, es esencial realizar un análisis de riesgo adecuado y considerar el contexto de mercado en el que se invierte. La oferta de Vanguard, aunque competitiva, no es la única opción en el mercado, y los inversores deben evaluar su situación financiera y objetivos antes de tomar decisiones. La inversión informada es la clave para el éxito financiero a largo plazo. 
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Vanguard España: 5 datos sorprendentes sobre sus nuevos fondos en 2023",
-  "datePublished": "2023-10-03",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntityOfPage": "https://example.com/vanguard-fondos-2023"
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cuáles son las tarifas de los nuevos fondos de Vanguard?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La mayoría de los nuevos fondos de Vanguard tienen tarifas de gestión que rondan el 0.1%, lo que es significativamente más bajo que la media de la industria."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Son los fondos de Vanguard adecuados para inversores a largo plazo?",
@@ -133,13 +112,10 @@ Nuestra análisis indica que los nuevos fondos de Vanguard son una opción sóli
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Premio](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
 - [Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e/)
 - [Las Letras del Tesoro a 12 meses alcanzan un 2,64%, un nuevo récord para Europa](/es/funds/las-letras-del-tesoro-a-12-meses-alcanzan-un-264-un-nuevo-record-para-europa/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

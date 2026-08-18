@@ -78,28 +78,12 @@ Read more on the topic at **HuffPost Entertainment**.
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3h5S1diY1lsREdCS2NoZDROVUQwMmxzdDVTajhWRUloM2hXeHpqanFsMFBSejRfNHN1Y3BfZ1hic3lNb0wxaHJkZ2N6M3lnNGVHSHhvREtHM3I5Y0V5OG9zVXJkVFF0Y1ViXzh0ZDNZamxZVDFPcm9vb2M5ZzF5RHhoTGRZdlpnUnNWcGRidk4wTVR0d0FHYUV1c9IBoAFBVV95cUxNSTA5MHZ3R1ZpZ2RUbTdtdmlnY2VIWWtYQmdmMnhpd2dyaGFsZEVYX2xTamR1ZHFPNml1bWF0UkZUZjVaaDRqRlpEMGJxelBvdWFKN24weGhuUnN6VjlJSWEzNW9valh0Wl9rRDNWYXd4UUpSWnlTUWYtRTJqVkptcGhvX0hDN3R0TzVfcWZORW9VaXNFNUlXZi1aeVo3QUFa?oc=5)
 
-
 ## Related Articles
 - [Trump Revives Presidential Fitness Test: Experts Warn It Might Not Change Kids’ Activity Levels](/fitness/will-the-return-of-the-presidential-fitness-test-transform-kids-activity-levels-en/)
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [The Shocking Truth: Why Fitness Experts Say BMEA Pilates Ring Is Essential After 40](/fitness/unlock-your-potential-why-the-bmea-pilates-ring-is-a-game-changer-for-your-fitness-routine-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fitness Influencer's Outrageous Remarks Ignite Backlash Against Navajo Culture and Heritage",
-  "description": "Fitness influencer's controversial comments spark a heated backlash, raising important discussions about respect for Navajo culture and heritage.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-08T07:44:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +93,3 @@ Read more on the topic at **HuffPost Entertainment**.
     }
   }
 }
-</script>

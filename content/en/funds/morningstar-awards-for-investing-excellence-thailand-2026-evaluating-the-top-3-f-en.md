@@ -28,8 +28,6 @@ In the rapidly expanding landscape of mutual funds in Thailand, **71%** of inves
 
 This article delves into the performance metrics, investment strategies, and risks associated with these top-performing funds, providing a comprehensive overview for potential investors.
 
-
-
 {{< adsterra_native >}}
 
 ## Fund Performance Analysis
@@ -92,6 +90,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
 - [Morningstar''s 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en/)
 - [Vanguard VYMI''s 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

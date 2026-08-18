@@ -1,14 +1,17 @@
 ---
-title: "Lazard Global Total Return Fund Declares 0.05% Monthly Distribution for April"
-date: 2026-05-24T09:08:36
+title: Lazard Global Total Return Fund Declares 0.05% Monthly Distribution for April
+date: 2026-05-24 09:08:36
 draft: false
-description: "Discover the latest on Lazard Global Total Return Fund's April 0.05% monthly distribution. Learn how this impacts your investment strategy today!."
-featured_image: "/images/lazard-global-total-return-fund-declares-005-monthly-distribution-for-april-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e60111c3-83b3-1209-9df9-05dc6003a7fd"
+description: Discover the latest on Lazard Global Total Return Fund's April 0.05%
+  monthly distribution. Learn how this impacts your investment strategy today!.
+featured_image: /images/lazard-global-total-return-fund-declares-005-monthly-distribution-for-april-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: e60111c3-83b3-1209-9df9-05dc6003a7fd
 ---
 
 ![Lazard Global Total Return Fund Declares 0.05% Monthly Distribution for April](/images/lazard-global-total-return-fund-declares-005-monthly-distribution-for-april-en.jpg)
@@ -20,8 +23,6 @@ The Lazard Global Total Return Fund has declared a monthly distribution of 0.05%
 * [3.5% annualized return over the last 12 months — source: Morningstar]
 
 This modest distribution aligns with the fund's strategy of providing investors with regular income through a diversified portfolio that includes global equities and fixed-income securities. The fund's management team has strategically positioned itself to capitalize on market dislocations and yield opportunities, which have become increasingly relevant in the current inflationary environment.
-
-
 
 {{< adsterra_native >}}
 
@@ -94,68 +95,17 @@ It outperforms many of its peers in terms of returns and exhibits lower volatili
 ### Are there any risks associated with investing in the Lazard Global Total Return Fund?
 Yes, potential risks include exposure to global economic fluctuations and the impact of inflation on fixed-income securities. 
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Lazard Global Total Return Fund Declares 0.05% Monthly Distribution for April",
-  "datePublished": "2023-10-01",
-  "image": [],
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
   "publisher": {
     "@type": "Organization",
     "name": "Financial News"
   }
-}</script>
+}
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "What is the current distribution rate of the Lazard Global Total Return Fund?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The fund has declared a distribution rate of 0.05% for April."
-    }
-  },{
-    "@type": "Question",
-    "name": "How has the Lazard Global Total Return Fund performed over the past year?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The fund has generated a total return of 3.5% over the past year."
-    }
-  },{
-    "@type": "Question",
-    "name": "What is the expense ratio of the Lazard Global Total Return Fund?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The total expense ratio (TER) is currently 1.05%."
-    }
-  },{
-    "@type": "Question",
-    "name": "How does the Lazard Global Total Return Fund compare to its peers?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "It outperforms many of its peers in terms of returns and exhibits lower volatility."
-    }
-  },{
-    "@type": "Question",
-    "name": "Are there any risks associated with investing in the Lazard Global Total Return Fund?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, potential risks include exposure to global economic fluctuations and the impact of inflation on fixed-income securities."
-    }
-  }]
-}</script>
+}
 
 ## Related Articles
 - [Tencent Reports In Line Results as AI Investments Yield 15% Returns](/funds/tencent-reports-in-line-results-as-ai-investments-yield-15-returns-en/)
 - [T. Rowe](/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en/)
 - [Sustainable Flexible Packaging to Propel Box Pouch Market to USD 812.6 Million by 2036](/funds/sustainable-flexible-packaging-to-propel-box-pouch-market-to-usd-8126-million-by-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

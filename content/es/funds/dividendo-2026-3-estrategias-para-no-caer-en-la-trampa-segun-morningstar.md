@@ -27,8 +27,6 @@ Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar
 
 A pesar de la reciente euforia del mercado, el riesgo de caer en la "trampa del dividendo" en 2026 es real, especialmente para aquellos inversores que buscan ingresos pasivos sin analizar a fondo la sostenibilidad de esos dividendos. Según Morningstar, muchas empresas aparentemente atractivas podrían enfrentarse a recortes de dividendos si sus beneficios no acompañan el ritmo de los pagos, dejando a los inversores con pérdidas significativas.
 
-
-
 {{< adsterra_native >}}
 
 ## Estrategias para Evitar la Trampa del Dividendo
@@ -96,6 +94,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [SpaceX podría alcanzar un valor de 100 mil millones de dólares en su salida](/es/funds/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo/)
 - [Bestinver Bolsa FI lidera el mercado español con un 49,05% de rentabilidad](/es/funds/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026/)
 - [Fondos activos baten al índice: 63% logra rendimientos superiores en un año](/es/funds/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

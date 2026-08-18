@@ -1,16 +1,19 @@
 ---
-title: "Crypto Chaos: Jury Duty Scam Drained Thousands Using Untraceable ATMs"
-date: 2026-06-18T17:15:26
+title: 'Crypto Chaos: Jury Duty Scam Drained Thousands Using Untraceable ATMs'
+date: 2026-06-18 17:15:26
 draft: false
-description: "Discover how a jury duty scam exploited untraceable ATMs, draining thousands from victims. Uncover the chaos behind this cryptocurrency con."
-featured_image: "/images/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en.jpg"
-slug: "crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en"
-canonical: "https://novumworld.com/crypto/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "79053573-7c3c-f002-18d7-8fa3e7d65101"
+description: Discover how a jury duty scam exploited untraceable ATMs, draining thousands
+  from victims. Uncover the chaos behind this cryptocurrency con.
+featured_image: /images/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en.jpg
+slug: crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en
+canonical: https://novumworld.com/crypto/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 79053573-7c3c-f002-18d7-8fa3e7d65101
 ---
 
 ![Crypto Chaos: Jury Duty Scam Drained Thousands Using Untraceable ATMs](/images/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en.jpg)
@@ -80,7 +83,6 @@ Victims should educate themselves about legitimate processes and consider report
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -89,18 +91,7 @@ Victims should educate themselves about legitimate processes and consider report
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto Chaos: Jury Duty Scam Drained Thousands Using Untraceable ATMs",
-  "description": "Discover how a jury duty scam exploited untraceable ATMs, draining thousands from victims. Uncover the chaos behind this cryptocurrency con.",
-  "image": "https://novumworld.com/images/crypto-chaos-how-a-jury-duty-scam-used-atms-to-drain-thousands-en.jpg",
-  "datePublished": "2026-06-18T17:15:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +101,3 @@ Victims should educate themselves about legitimate processes and consider report
     }
   }
 }
-</script>

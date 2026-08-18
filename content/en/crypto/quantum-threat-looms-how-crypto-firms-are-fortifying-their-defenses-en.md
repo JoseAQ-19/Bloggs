@@ -74,7 +74,6 @@ The journey toward a quantum-resistant future is fraught with challenges, but it
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -83,18 +82,7 @@ The journey toward a quantum-resistant future is fraught with challenges, but it
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Quantum Threat Just Revealed: Five Shocking Ways Crypto Firms Are Fortifying Defenses",
-  "description": "Discover five surprising strategies crypto firms are employing to combat quantum threats and secure digital assets in an evolving technological landscape.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-08T17:48:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +92,3 @@ The journey toward a quantum-resistant future is fraught with challenges, but it
     }
   }
 }
-</script>

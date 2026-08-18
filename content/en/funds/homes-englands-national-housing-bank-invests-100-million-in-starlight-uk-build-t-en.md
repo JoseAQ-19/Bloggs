@@ -1,14 +1,18 @@
 ---
-title: "Homes England's National Housing Bank Invests £100 Million in Starlight UK Build-to-Rent Fund II"
-date: 2026-05-13T09:21:22
+title: Homes England's National Housing Bank Invests £100 Million in Starlight UK
+  Build-to-Rent Fund II
+date: 2026-05-13 09:21:22
 draft: false
-description: "Discover how Homes England's £100 million investment in Starlight UK's Build-to-Rent Fund II is reshaping the housing landscape and boosting rental."
-featured_image: "/images/homes-englands-national-housing-bank-invests-100-million-in-starlight-uk-build-t-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "11581bb2-acfb-2411-c3dd-eaac3db790ca"
+description: Discover how Homes England's £100 million investment in Starlight UK's
+  Build-to-Rent Fund II is reshaping the housing landscape and boosting rental.
+featured_image: /images/homes-englands-national-housing-bank-invests-100-million-in-starlight-uk-build-t-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 11581bb2-acfb-2411-c3dd-eaac3db790ca
 ---
 
 ![Homes England's National Housing Bank Invests £100 Million in Starlight UK Build-to-Rent Fund II](/images/homes-englands-national-housing-bank-invests-100-million-in-starlight-uk-build-t-en.jpg)
@@ -22,8 +26,6 @@ translationKey: "11581bb2-acfb-2411-c3dd-eaac3db790ca"
 This cornerstone investment comes at a time when the UK is grappling with a severe housing shortage and rising rental prices. The strategy behind the Starlight UK Build-to-Rent Fund II aims to deliver sustainable rental housing solutions while achieving attractive risk-adjusted returns for investors. The fund is designed to capitalize on the increasing demand for rental properties, especially in urban areas, where affordability continues to be a pressing issue.
 
 The structure of the fund is particularly noteworthy. It is focused on acquiring and developing residential properties that are purpose-built for the rental market, thereby ensuring a steady cash flow and capital appreciation potential. This model is gaining traction as more investors recognize the stability and resilience of the residential rental sector, especially in the wake of economic uncertainties.
-
-
 
 {{< adsterra_native >}}
 
@@ -74,32 +76,9 @@ Yes, the fund is designed to provide regular rental income distributions to inve
 
 The Starlight UK Build-to-Rent Fund II represents a robust investment opportunity in a challenging housing market. As we navigate economic uncertainties, the fund's focus on sustainable rental solutions aligns well with both investor interests and societal needs. 
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Homes England's National Housing Bank Invests £100 Million in Starlight UK Build-to-Rent Fund II",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  }
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the expected return on investment for the Starlight UK Build-to-Rent Fund II?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fund targets an average annual return of around 8%, with a blend of rental income and capital appreciation."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How does the fund compare to other property investment options?",
@@ -134,13 +113,10 @@ The Starlight UK Build-to-Rent Fund II represents a robust investment opportunit
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 - [VOO Surges 281% in](/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en/)
 - [Sustainable Flexible Packaging to Propel Box Pouch Market to USD 812.6 Million by 2036](/funds/sustainable-flexible-packaging-to-propel-box-pouch-market-to-usd-8126-million-by-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

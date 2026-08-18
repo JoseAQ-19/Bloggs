@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: 1,000 Families Face Housing Crisis in Shelby County, IA"
-date: 2026-06-19T12:42:27
+title: 'The Shocking Truth: 1,000 Families Face Housing Crisis in Shelby County, IA'
+date: 2026-06-19 12:42:27
 draft: false
-description: "Discover the alarming reality in Shelby County, IA, where 1,000 families confront a severe housing crisis. Explore the challenges and potential solutions."
-featured_image: "/images/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en.jpg"
-slug: "inside-the-numbers-subsidized-housing-in-shelby-county-ia-en"
-canonical: "https://novumworld.com/ia/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "c37a7a86-6480-e984-6c2a-7012c7deea40"
+description: Discover the alarming reality in Shelby County, IA, where 1,000 families
+  confront a severe housing crisis. Explore the challenges and potential solutions.
+featured_image: /images/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en.jpg
+slug: inside-the-numbers-subsidized-housing-in-shelby-county-ia-en
+canonical: https://novumworld.com/ia/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: c37a7a86-6480-e984-6c2a-7012c7deea40
 ---
 
 ![The Shocking Truth: 1,000 Families Face Housing Crisis in Shelby County, IA](/images/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en.jpg)
@@ -80,22 +83,7 @@ The time for action is now. The choices made by local leaders in the coming mont
 - [The 2026 Midterm Primary Election Calendar: Critical Dates You Can't Afford to Miss](/ia/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en/)
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: 1,000 Families Face Housing Crisis in Shelby County, IA",
-  "description": "Discover the alarming reality in Shelby County, IA, where 1,000 families confront a severe housing crisis. Explore the challenges and potential solutions.",
-  "image": "https://novumworld.com/images/inside-the-numbers-subsidized-housing-in-shelby-county-ia-en.jpg",
-  "datePublished": "2026-06-19T12:42:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +93,3 @@ The time for action is now. The choices made by local leaders in the coming mont
     }
   }
 }
-</script>

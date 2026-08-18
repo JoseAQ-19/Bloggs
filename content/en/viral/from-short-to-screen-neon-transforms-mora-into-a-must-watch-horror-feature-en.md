@@ -1,16 +1,19 @@
 ---
-title: "Neon’s 'Mora' Transformation: A Horror Feature That Will Haunt You Forever"
-date: 2026-04-21T22:23:27
+title: 'Neon’s ''Mora'' Transformation: A Horror Feature That Will Haunt You Forever'
+date: 2026-04-21 22:23:27
 draft: false
-description: "Dive into the chilling world of Neon’s 'Mora', a horror feature that promises to leave an indelible mark on your psyche. Discover the terror within!."
-featured_image: "/images/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en.jpg"
-slug: "from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en"
-canonical: "https://novumworld.com/viral/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "c2bd6058-0184-e603-cbbd-0e7b1b115d96"
+description: Dive into the chilling world of Neon’s 'Mora', a horror feature that
+  promises to leave an indelible mark on your psyche. Discover the terror within!.
+featured_image: /images/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en.jpg
+slug: from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en
+canonical: https://novumworld.com/viral/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: c2bd6058-0184-e603-cbbd-0e7b1b115d96
 ---
 
 ![Neon’s 'Mora' Transformation: A Horror Feature That Will Haunt You Forever](/images/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en.jpg)
@@ -77,28 +80,12 @@ Get ready to be haunted by *Mora*—it's not just a film, it's a transformation.
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNblYtNk41Mm1HcElsU1hKRFFxdW1PNnp3OG9aQjgzNDhVNXRYOGU5amVaSmNmZ0xGSlEteENyekJScUpPTU9LRDEyTHZ1YnFEdkVodFE0bElwLU1RQXJUSHhBZU40YzhuV3V6LURyYmFrOVBUUnMwd25YTFozUXVnQl9xaS1EU21mdVlpTUVFNzg4LTh1OWZoLWpEZkRLcmlyaUVoSVRBQk81b1Zw0gGyAUFVX3lxTE9BSnphRFpIV1o5TVNMQ0RFejVqbWxOaWcyMjJwV0VnNk5YWE1mSVFFTlJBZXllaGdoa0JaeU51V1VMazJrbnZ3YlFfVHVEQkdDLTBoelJ6akRfYmM2NXUxSTJNcnJyTS1peGlSY3hmdENfSjNYNWs5Znd0OGpmdjNBRmR4ODlQaU5WNk5DcE9zZVdIZ2RsNUFyLTJadk1QYk8zR3VRY0x2VVRoU1VIaWtWLWc?oc=5)
 
-
 ## Related Articles
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/)
 - [The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed](/viral/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Neon’s 'Mora' Transformation: A Horror Feature That Will Haunt You Forever",
-  "description": "Dive into the chilling world of Neon’s 'Mora', a horror feature that promises to leave an indelible mark on your psyche. Discover the terror within!.",
-  "image": "https://novumworld.com/images/from-short-to-screen-neon-transforms-mora-into-a-must-watch-horror-feature-en.jpg",
-  "datePublished": "2026-04-21T22:23:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +95,3 @@ Get ready to be haunted by *Mora*—it's not just a film, it's a transformation.
     }
   }
 }
-</script>

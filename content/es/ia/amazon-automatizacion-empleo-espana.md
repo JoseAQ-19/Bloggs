@@ -25,8 +25,6 @@ type: ia
 - **Reacción de Expertos**: Daron Acemoglu, economista del MIT, advierte sobre la posible pérdida neta de empleos debido a la automatización.
 - **Iniciativas de Recalificación**: La UE y el gobierno español están considerando medidas para mitigar el impacto de la automatización en los trabajadores.
 
-
-
 {{< adsterra_native >}}
 
 ## Amazon Contra los Trabajadores: La Automatización de 160.000 Empleos y el Dilema de Tye Brady
@@ -88,6 +86,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [¿En Sí Misma o En el Abismo? La Trampa Filosófica que Nos Ciega](/es/ia/en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu/)
 - [Adiós A La IA Neutra: Amparo Alonso Betanzos Exige Compensar Desigualdad.](/es/ia/ia-humanismo-diseno-tecnologico/)
 - [¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver](/es/ia/metaverso-zombie-vr-cripto-apocalipsis/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

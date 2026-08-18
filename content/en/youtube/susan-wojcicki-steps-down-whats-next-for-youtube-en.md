@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Impact of Susan Wojcicki's Departure on YouTube's $60 Billion Revenue Machine"
-date: 2026-05-01T20:44:44
+title: The Hidden Impact of Susan Wojcicki's Departure on YouTube's $60 Billion Revenue
+  Machine
+date: 2026-05-01 20:44:44
 draft: false
-description: "Discover how Susan Wojcicki's exit could reshape YouTube's $60 billion revenue model, influencing creators, advertisers, and the platform's future."
-featured_image: "/images/susan-wojcicki-steps-down-whats-next-for-youtube-en.jpg"
-slug: "susan-wojcicki-steps-down-whats-next-for-youtube-en"
-canonical: "https://novumworld.com/youtube/susan-wojcicki-steps-down-whats-next-for-youtube-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "1191361a-3746-758e-48ca-6aa5aefadb00"
+description: Discover how Susan Wojcicki's exit could reshape YouTube's $60 billion
+  revenue model, influencing creators, advertisers, and the platform's future.
+featured_image: /images/susan-wojcicki-steps-down-whats-next-for-youtube-en.jpg
+slug: susan-wojcicki-steps-down-whats-next-for-youtube-en
+canonical: https://novumworld.com/youtube/susan-wojcicki-steps-down-whats-next-for-youtube-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 1191361a-3746-758e-48ca-6aa5aefadb00
 ---
 
 ![The Hidden Impact of Susan Wojcicki's Departure on YouTube's $60 Billion Revenue Machine](/images/susan-wojcicki-steps-down-whats-next-for-youtube-en.jpg)
@@ -95,28 +99,12 @@ YouTube must navigate the complexities of its leadership transition while addres
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmY5OGhTLVB4dkVCMlN6MEVVSEhOMmRJSjlVY3g4c2RSdjBid3ppWGIwT0Jzcm95ZUNMMWlEa0FyZTFfTUhvOFdydE8tbEU0LXpvdlVTUW5ucUJkN0o4U2ZUZW92NjIzMnVzdWJLU2l1TUJtVWFmRTdCbjRKbTJ5eHVEbG9oWnBZYWlNMXNmZWs?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1FOWV9KTWhrVUpZc0RmRFFzNk00OUlWMFFvMlFjRHJaTDNxV3I5NUJKanlYbnM2MmctUGowMjNDQWhzTDNYbk92bEFFWXFhMUhrTnBXdnlLRjFsOTBnQURxRnB3RkpLRTBjYVROM1VxeGJ6UV9MZEZya3N3dUNsbURKdklsNG1RX25NUWxtZWJSb0IzSDBiZm1qZk54QzRq?oc=5)
 
-
 ## Related Articles
 - [YouTube TV In 2026: Comcast''s Worst Nightmare Or](/youtube/youtube-tv-2026-worth-it-en/)
 - [Nathanson''s Prediction: YouTube TV Will](/youtube/youtube-tv-subscriber-retention-en/)
 - [From $100 To $6: YouTube''s Ad Reve](/youtube/youtube-vs-disney-new-media-king-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Impact of Susan Wojcicki's Departure on YouTube's $60 Billion Revenue Machine",
-  "description": "Discover how Susan Wojcicki's exit could reshape YouTube's $60 billion revenue model, influencing creators, advertisers, and the platform's future.",
-  "image": "https://novumworld.com/images/susan-wojcicki-steps-down-whats-next-for-youtube-en.jpg",
-  "datePublished": "2026-05-01T20:44:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -126,4 +114,3 @@ YouTube must navigate the complexities of its leadership transition while addres
     }
   }
 }
-</script>

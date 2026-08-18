@@ -1,16 +1,19 @@
 ---
-title: "La IA Sanitaria En Europa: 5 Retos Que Amenazan Su Futuro Inmediato"
-date: 2026-06-18T11:05:30
+title: 'La IA Sanitaria En Europa: 5 Retos Que Amenazan Su Futuro Inmediato'
+date: 2026-06-18 11:05:30
 draft: false
-description: "Descubre los cinco principales retos que enfrenta la IA sanitaria en Europa y cómo pueden afectar su desarrollo y efectividad en el futuro inmediato."
-featured_image: "/images/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan.jpg"
-slug: "la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan"
-canonical: "https://novumworld.com/es/ia/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "ce544b18-3a59-a3c6-8b3a-c0e563e121ed"
+description: Descubre los cinco principales retos que enfrenta la IA sanitaria en
+  Europa y cómo pueden afectar su desarrollo y efectividad en el futuro inmediato.
+featured_image: /images/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan.jpg
+slug: la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan
+canonical: https://novumworld.com/es/ia/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: ce544b18-3a59-a3c6-8b3a-c0e563e121ed
 ---
 
 ![La IA Sanitaria En Europa: 5 Retos Que Amenazan Su Futuro Inmediato](/images/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan.jpg)
@@ -69,22 +72,7 @@ La regulación debe ser clara y específica, creando un marco que proteja a los 
 - [La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar](/es/ia/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar/)
 - [La Soberanía Algorítmica: El Futuro de la Gobernanza de IA en 8 Diputaciones Españolas](/es/ia/soberania-algoritmica-el-futuro-de-la-gobernanza-de-ia-en-las-diputaciones-espanolas/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Sanitaria En Europa: 5 Retos Que Amenazan Su Futuro Inmediato",
-  "description": "Descubre los cinco principales retos que enfrenta la IA sanitaria en Europa y cómo pueden afectar su desarrollo y efectividad en el futuro inmediato.",
-  "image": "https://novumworld.com/images/la-ia-sanitaria-en-europa-retos-que-frenan-o-oportunidades-que-impulsan.jpg",
-  "datePublished": "2026-06-18T11:05:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +82,3 @@ La regulación debe ser clara y específica, creando un marco que proteja a los 
     }
   }
 }
-</script>

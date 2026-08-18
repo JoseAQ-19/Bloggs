@@ -30,8 +30,6 @@ type: fitness
 
 The longevity bubble has created a frantic gold rush for anti-aging solutions, yet one inconvenient truth persists: muscle is the most reliable biomarker of vitality. At 76, Andrew R. Jagim, Ph.D., Director of Sports Medicine Research at Mayo Clinic, isn't just defying ageist fitness dogma—he's dismantling it through daily muscle-ups, proving that hypertrophy isn't reserved for the young. The science behind this rebellion is brutal in its simplicity: muscle mass determines longevity, yet fitness infrastructure systematically ignores the demographic poised to benefit most.
 
-
-
 {{< adsterra_native >}}
 
 ## The Ageism Dilemma in Fitness: Why Resistance Training Matters 
@@ -83,6 +81,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Dr. JES Warns: Your Gym Waiver Won''t Save You From Gross Negligence After](/en/fitness/fitness-center-homicide-security-liability-en/)
 - [Wearable Fitness Data To Explode To $703 Billion: But There''s A Catch](/en/fitness/data-integration-wearable-fitness-en/)
 - [Forget $1M NIL: Azzi Fudd''s Planet Fitness Deal Reveals New Athlete Strategy](/en/fitness/azzi-fudd-planet-fitness-athlete-recovery-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

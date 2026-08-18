@@ -1,14 +1,17 @@
 ---
-title: "Fondos indexados superan el 5% frente al bono español a 10 años en rendimiento"
-date: 2026-05-06T07:36:30
+title: Fondos indexados superan el 5% frente al bono español a 10 años en rendimiento
+date: 2026-05-06 07:36:30
 draft: false
-description: "Descubre cómo los fondos indexados superan el 5% de rentabilidad frente al bono español a 10 años y qué significa para tus inversiones."
-featured_image: "/images/fondos-indexados-superan-el-5-frente-al-bono-espanol-a-10-anos-en-rendimiento.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "199aac59-6048-8d92-f883-5800bb7c9927"
+description: Descubre cómo los fondos indexados superan el 5% de rentabilidad frente
+  al bono español a 10 años y qué significa para tus inversiones.
+featured_image: /images/fondos-indexados-superan-el-5-frente-al-bono-espanol-a-10-anos-en-rendimiento.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 199aac59-6048-8d92-f883-5800bb7c9927
 ---
 
 ![Fondos indexados superan el 5% frente al bono español a 10 años en rendimiento](/images/fondos-indexados-superan-el-5-frente-al-bono-espanol-a-10-anos-en-rendimiento.jpg)
@@ -20,8 +23,6 @@ El rendimiento de los fondos indexados ha superado el 5% en varios casos, mientr
 * [Inversión en fondos indexados en crecimiento del 15% anual — CNMV]
 
 La diferencia en el rendimiento entre estos dos instrumentos de inversión plantea una cuestión clave para los inversores: ¿vale la pena optar por un bono a largo plazo cuando los fondos indexados están ofreciendo rendimientos más atractivos? En este análisis, se explorarán las implicaciones de estas cifras, comparando tanto el rendimiento como la volatilidad y los costos asociados a cada opción.
-
-
 
 {{< adsterra_native >}}
 
@@ -88,6 +89,4 @@ La diversificación sigue siendo clave. La combinación de fondos indexados y bo
 - [Top 5 dividendos del Ibex 35 en octubre 2023 con más del 5% de rendimiento](/es/funds/top-5-dividendos-del-ibex-35-en-octubre-2023-con-mas-del-5-de-rendimiento/)
 - [Fondos indexados al S&P 500 muestran un rendimiento del 12% en 2025](/es/funds/fondos-indexados-al-sp-500-muestran-un-rendimiento-del-12-en-2025/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

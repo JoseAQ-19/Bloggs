@@ -1,16 +1,20 @@
 ---
-title: "La Caída De Bitcoin, Ethereum Y XRP Deja Al Descubierto Un Colapso Mayor En Camino"
-date: 2026-06-19T16:37:50
+title: La Caída De Bitcoin, Ethereum Y XRP Deja Al Descubierto Un Colapso Mayor En
+  Camino
+date: 2026-06-19 16:37:50
 draft: false
-description: "La caída de Bitcoin, Ethereum y XRP revela un colapso mayor en el horizonte. Descubre las razones detrás de esta crisis y su impacto en el mercado."
-featured_image: "/images/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo.jpg"
-slug: "por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo"
-canonical: "https://novumworld.com/es/crypto/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "59d5d85e-729c-0a06-dfc7-1a841a74a898"
+description: La caída de Bitcoin, Ethereum y XRP revela un colapso mayor en el horizonte.
+  Descubre las razones detrás de esta crisis y su impacto en el mercado.
+featured_image: /images/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo.jpg
+slug: por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo
+canonical: https://novumworld.com/es/crypto/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 59d5d85e-729c-0a06-dfc7-1a841a74a898
 ---
 
 ![La Caída De Bitcoin, Ethereum Y XRP Deja Al Descubierto Un Colapso Mayor En Camino](/images/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo.jpg)
@@ -66,12 +70,10 @@ La interconexión entre los mercados de materias primas y criptomonedas ha expue
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUtUaWdudkpYd1ljblJGSU1ubl9fM0sxZUlfLTJHM05ZUGNmblo1OGwxenBZbEFFcGdadi1KdWNqVE4zZUVqWHozV2szQUhCdXRQazBGdy1KN2Z3dklmWDNhd3BMcmZRSGdUTVpOTzFiX2R5UlBHR2x2ZGc2UVNnS19vUGYzQUp5UWRpSkFTS0ZqczBTQm51blc5VlJZRDV6TW90QQ?oc=5)
 
-
 ## Artículos relacionados
 - [El Sentimiento de Bitcoin Alcanzó un Récord en 2026: Implicaciones para el Mercado](/es/crypto/sentimiento-de-bitcoin-alcanza-su-punto-mas-positivo-de-2026-que-significa-para-el-mercado/)
 - [La Verdad Oculta: Cómo Las Criptomonedas Están Manipulando al Senado Sin Que Nadie Lo Sepa](/es/crypto/las-grandes-empresas-criptograficas-presionan-al-senado-cambiara-la-regulacion-del-mercado/)
 - [Monero Podría Alcanzar $1,160 en 2028: El Impacto de las Ondas Elliott Revelado](/es/crypto/monero-xmr-como-se-comportara-su-precio-hasta-2028/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -81,18 +83,7 @@ La interconexión entre los mercados de materias primas y criptomonedas ha expue
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Caída De Bitcoin, Ethereum Y XRP Deja Al Descubierto Un Colapso Mayor En Camino",
-  "description": "La caída de Bitcoin, Ethereum y XRP revela un colapso mayor en el horizonte. Descubre las razones detrás de esta crisis y su impacto en el mercado.",
-  "image": "https://novumworld.com/images/por-que-la-caida-de-bitcoin-ethereum-y-xrp-podria-ser-solo-el-comienzo.jpg",
-  "datePublished": "2026-06-19T16:37:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +93,3 @@ La interconexión entre los mercados de materias primas y criptomonedas ha expue
     }
   }
 }
-</script>

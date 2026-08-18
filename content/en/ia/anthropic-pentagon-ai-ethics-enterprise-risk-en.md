@@ -29,8 +29,6 @@ Anthropic's shiny "AI safety" halo is starting to slip, revealing a much less co
 * Investors believe companies should increase AI deployment (73%), yet only 18% of GenAI use cases implemented in 2024 yielded measurable ROI, signaling a disconnect.
 * More than 400 major firms have cited AI as a reputational risk in SEC filings in 2025, a 46% jump from 2024, demanding increased due diligence and ethical AI governance.
 
-
-
 {{< adsterra_native >}}
 
 ## Amodei's Dilemma: The Pentagon's Push for Unfettered AI Access
@@ -87,6 +85,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Claude''s $1B Code Hype: Advanced Devs Should Fear This Truth](/en/ia/anthropic-claude-code-2026-reality-check-en/)
 - [Perplexity''s $200 Computer AI: 80% Of Companies To Use AI, But At What Cost?](/en/ia/perplexity-ai-computer-overkill-future-en/)
 - [The Future Is Dystopian And It Is Already Here](/en/ia/el-futuro-es-distopico-y-ya-esta-aqui/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

@@ -29,8 +29,6 @@ The management of Romelu Lukaku’s return to play represents a cynical gamble o
 * The Premier League recorded **915 injuries** during the 2023-2024 season, proving that the current high-load schedule is a systemic failure rather than an anomaly.
 * Lukaku's delayed return from an August 2025 thigh injury highlights a recurring disconnect between UEFA medical guidelines and the actual "player first" rhetoric of federations.
 
-
-
 {{< adsterra_native >}}
 
 ## "Red Devils" in the Red: The $100M Asset Liability
@@ -72,6 +70,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Metformin''s Dirty Secret: Diarrhea, Disappointment, and Dubious Benefits.](/en/fitness/metformin-longevity-hack-or-hype-en/)
 - [Planet Fitness Kicks Out Muscle, Opens Doors To Maui: Genius Or PR Stunt?](/en/fitness/planet-fitness-maui-offer-charity-marketing-en/)
 - [Orangetheory''s $1 Billion Gamble: Will MLS Partnership Lead To Data Breach?](/en/fitness/orangetheory-mls-data-privacy-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

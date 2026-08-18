@@ -1,16 +1,20 @@
 ---
-title: "Iarpa's Trojans Unleashed: 80% Of Investors Demand Proof Before AI Security Investments"
-date: 2026-05-05T11:51:01
+title: 'Iarpa''s Trojans Unleashed: 80% Of Investors Demand Proof Before AI Security
+  Investments'
+date: 2026-05-05 11:51:01
 draft: false
-description: "Explore how 80% of investors are now demanding proof before committing to AI security investments, as Iarpa's Trojans reshape the industry landscape."
-featured_image: "/images/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en.jpg"
-slug: "ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en"
-canonical: "https://novumworld.com/ia/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "8fe559c6-0aff-ddfa-b18e-c1d0bb7ae009"
+description: Explore how 80% of investors are now demanding proof before committing
+  to AI security investments, as Iarpa's Trojans reshape the industry landscape.
+featured_image: /images/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en.jpg
+slug: ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en
+canonical: https://novumworld.com/ia/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 8fe559c6-0aff-ddfa-b18e-c1d0bb7ae009
 ---
 
 ![Iarpa's Trojans Unleashed: 80% Of Investors Demand Proof Before AI Security Investments](/images/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en.jpg)
@@ -66,22 +70,7 @@ In the face of increasing scrutiny and growing vulnerabilities, organizations ha
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 - [Metaverse: T](/ia/metaverse-pyramid-scheme-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iarpa's Trojans Unleashed: 80% Of Investors Demand Proof Before AI Security Investments",
-  "description": "Explore how 80% of investors are now demanding proof before committing to AI security investments, as Iarpa's Trojans reshape the industry landscape.",
-  "image": "https://novumworld.com/images/ai-powered-insights-unpacking-iarpas-latest-trojans-in-artificial-intelligence-en.jpg",
-  "datePublished": "2026-05-05T11:51:01",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +80,3 @@ In the face of increasing scrutiny and growing vulnerabilities, organizations ha
     }
   }
 }
-</script>

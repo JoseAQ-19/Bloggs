@@ -1,16 +1,20 @@
 ---
-title: "How CZ Turned His $155 Billion Empire Into a Crypto Powerhouse While Behind Bars"
-date: 2026-04-24T16:34:34
+title: How CZ Turned His $155 Billion Empire Into a Crypto Powerhouse While Behind
+  Bars
+date: 2026-04-24 16:34:34
 draft: false
-description: "Discover how CZ transformed his $155 billion empire into a crypto powerhouse, navigating challenges and opportunities even while incarcerated."
-featured_image: "/images/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en.jpg"
-slug: "inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en"
-canonical: "https://novumworld.com/crypto/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b5200ad9-d74c-c374-7994-955b7ea1c239"
+description: Discover how CZ transformed his $155 billion empire into a crypto powerhouse,
+  navigating challenges and opportunities even while incarcerated.
+featured_image: /images/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en.jpg
+slug: inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en
+canonical: https://novumworld.com/crypto/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: b5200ad9-d74c-c374-7994-955b7ea1c239
 ---
 
 ![How CZ Turned His $155 Billion Empire Into a Crypto Powerhouse While Behind Bars](/images/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en.jpg)
@@ -75,12 +79,10 @@ In summary, while CZ has successfully navigated significant challenges, the futu
 - [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEFEc2pHNkRfMGctVGdmdExTN3BDYVU3aVhRR2FYRC1DQWd5a1drR1g0UW1KSTBLb1FKWl9lZjlHY1VpQ1MybTV6ZnpqS25xUTg5MkJmUzgwWFhDTE1ka3UyMk82U2xQM0ZFZmt6NEFJWlYtU3ZhV0o5MmdycFJWeU14LWwwWFBhblB5TTZ5aUtDa3E4SzZ3Zg?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -90,18 +92,7 @@ In summary, while CZ has successfully navigated significant challenges, the futu
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How CZ Turned His $155 Billion Empire Into a Crypto Powerhouse While Behind Bars",
-  "description": "Discover how CZ transformed his $155 billion empire into a crypto powerhouse, navigating challenges and opportunities even while incarcerated.",
-  "image": "https://novumworld.com/images/inside-the-mind-of-crypto-billionaire-cz-from-inmate-to-industry-titan-en.jpg",
-  "datePublished": "2026-04-24T16:34:34",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +102,3 @@ In summary, while CZ has successfully navigated significant challenges, the futu
     }
   }
 }
-</script>

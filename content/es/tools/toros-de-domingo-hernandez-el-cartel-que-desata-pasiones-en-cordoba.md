@@ -1,16 +1,19 @@
 ---
-title: "Domingo Hernández: El Cartel Que Desata Pasiones Y Controversias En Córdoba"
-date: 2026-05-24T13:24:05
+title: 'Domingo Hernández: El Cartel Que Desata Pasiones Y Controversias En Córdoba'
+date: 2026-05-24 13:24:05
 draft: false
-description: "Descubre la historia de Domingo Hernández, el cartel que genera pasiones y polémicas en Córdoba. Un análisis profundo de su impacto cultural y social."
-featured_image: "/images/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba.jpg"
-slug: "toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba"
-canonical: "https://novumworld.com/es/tools/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "115c8f3b-33b2-cb2a-805d-38a25d94e587"
+description: Descubre la historia de Domingo Hernández, el cartel que genera pasiones
+  y polémicas en Córdoba. Un análisis profundo de su impacto cultural y social.
+featured_image: /images/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba.jpg
+slug: toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba
+canonical: https://novumworld.com/es/tools/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 115c8f3b-33b2-cb2a-805d-38a25d94e587
 ---
 
 ![Domingo Hernández: El Cartel Que Desata Pasiones Y Controversias En Córdoba](/images/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba.jpg)
@@ -63,22 +66,7 @@ La tauromaquia, aunque rica en tradición, debe evolucionar para responder a las
 - [Lidl Rompe Esquemas: Heladera Eléctrica de 57 Euros Que Deja a la Competencia Temblando](/es/tools/transforma-tu-verano-la-heladera-electrica-de-lidl-que-no-te-puedes-perder-por-menos-de-57-euros/)
 - [82% de Los Restaurantes Españoles Apostarán por IA en 2026 y Esto Cambiará Todo](/es/tools/puede-la-ia-revolucionar-la-eficiencia-en-los-restaurantes-de-darden/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Domingo Hernández: El Cartel Que Desata Pasiones Y Controversias En Córdoba",
-  "description": "Descubre la historia de Domingo Hernández, el cartel que genera pasiones y polémicas en Córdoba. Un análisis profundo de su impacto cultural y social.",
-  "image": "https://novumworld.com/images/toros-de-domingo-hernandez-el-cartel-que-desata-pasiones-en-cordoba.jpg",
-  "datePublished": "2026-05-24T13:24:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +76,3 @@ La tauromaquia, aunque rica en tradición, debe evolucionar para responder a las
     }
   }
 }
-</script>

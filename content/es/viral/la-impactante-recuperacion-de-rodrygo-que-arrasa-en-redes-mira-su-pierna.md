@@ -1,16 +1,19 @@
 ---
-title: "Rodrygo Supera una Lesión Grave: Su Impactante Progreso Que Arrasa en Redes"
-date: 2026-04-22T21:55:06
+title: 'Rodrygo Supera una Lesión Grave: Su Impactante Progreso Que Arrasa en Redes'
+date: 2026-04-22 21:55:06
 draft: false
-description: "Descubre el asombroso progreso de Rodrygo tras una grave lesión. Su historia inspira y arrasa en redes sociales. ¡No te lo pierdas!."
-featured_image: "/images/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna.jpg"
-slug: "la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna"
-canonical: "https://novumworld.com/es/viral/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "ef3880c6-9bc1-b15e-206c-92e0d1a55cc7"
+description: Descubre el asombroso progreso de Rodrygo tras una grave lesión. Su historia
+  inspira y arrasa en redes sociales. ¡No te lo pierdas!.
+featured_image: /images/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna.jpg
+slug: la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna
+canonical: https://novumworld.com/es/viral/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: ef3880c6-9bc1-b15e-206c-92e0d1a55cc7
 ---
 
 ![Rodrygo Supera una Lesión Grave: Su Impactante Progreso Que Arrasa en Redes](/images/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna.jpg)
@@ -99,22 +102,7 @@ El éxito de esta operación no se medirá en likes ni en videos motivacionales,
 - [La Reacción](/es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad/)
 - [Terianos: La Revolución Silenciosa Que Está Reconfi](/es/viral/terianos-cuba-polemica-redes/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Rodrygo Supera una Lesión Grave: Su Impactante Progreso Que Arrasa en Redes",
-  "description": "Descubre el asombroso progreso de Rodrygo tras una grave lesión. Su historia inspira y arrasa en redes sociales. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna.jpg",
-  "datePublished": "2026-04-22T21:55:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +112,3 @@ El éxito de esta operación no se medirá en likes ni en videos motivacionales,
     }
   }
 }
-</script>

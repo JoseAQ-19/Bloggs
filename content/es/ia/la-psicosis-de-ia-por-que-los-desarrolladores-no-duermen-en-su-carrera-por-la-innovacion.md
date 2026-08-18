@@ -1,16 +1,19 @@
 ---
-title: "El 87% de los Trabajadores en España Sufren Burnout Silencioso por la IA"
-date: 2026-04-12T09:53:58
+title: El 87% de los Trabajadores en España Sufren Burnout Silencioso por la IA
+date: 2026-04-12 09:53:58
 draft: false
-description: "Descubre cómo el 87% de los trabajadores en España enfrenta el burnout silencioso provocado por la inteligencia artificial y sus implicaciones laborales."
-featured_image: "/images/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion.jpg"
-slug: "la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion"
-canonical: "https://novumworld.com/es/ia/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "9ef853b1-e654-fc5c-1b78-101ff2037041"
+description: Descubre cómo el 87% de los trabajadores en España enfrenta el burnout
+  silencioso provocado por la inteligencia artificial y sus implicaciones laborales.
+featured_image: /images/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion.jpg
+slug: la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion
+canonical: https://novumworld.com/es/ia/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 9ef853b1-e654-fc5c-1b78-101ff2037041
 ---
 
 ![El 87% de los Trabajadores en España Sufren Burnout Silencioso por la IA](/images/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion.jpg)
@@ -93,28 +96,12 @@ La inteligencia artificial no es una herramienta de liberación, sino un mecanis
 - [par.nsf.gov](https://par.nsf.gov/servlets/purl/10529405)
 - [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41563755/)
 
-
 ## Artículos relacionados
 - [Stox](/es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 - [NOVUMWORLD:](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [Suscripciones Fant](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El 87% de los Trabajadores en España Sufren Burnout Silencioso por la IA",
-  "description": "Descubre cómo el 87% de los trabajadores en España enfrenta el burnout silencioso provocado por la inteligencia artificial y sus implicaciones laborales.",
-  "image": "https://novumworld.com/images/la-psicosis-de-ia-por-que-los-desarrolladores-no-duermen-en-su-carrera-por-la-innovacion.jpg",
-  "datePublished": "2026-04-12T09:53:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +111,3 @@ La inteligencia artificial no es una herramienta de liberación, sino un mecanis
     }
   }
 }
-</script>

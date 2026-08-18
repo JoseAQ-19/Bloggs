@@ -79,22 +79,7 @@ For those still navigating their fitness journeys, it is crucial to seek environ
 - [Shocking Turn of Events: Authorities Identify Body Linked to Missing Woman’s Gym Visit](/fitness/tragic-discovery-body-found-in-search-for-missing-woman-after-gym-visit-en/)
 - [92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Equinox Just Turned Fitness Into A Shocking $4K Luxury Lifestyle Choice",
-  "description": "Discover how Equinox transformed fitness into a luxury experience with its $4K offerings, redefining wellness and lifestyle for the elite.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-01T06:53:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +89,3 @@ For those still navigating their fitness journeys, it is crucial to seek environ
     }
   }
 }
-</script>

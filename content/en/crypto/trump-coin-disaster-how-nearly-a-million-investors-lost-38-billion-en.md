@@ -70,12 +70,10 @@ The collapse of the $TRUMP memecoin highlights the high stakes and risks of inve
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTVWVjRRUm12UzRzRHBLM1BLLVFNZzZ6UDY3Mk45Q09zWHpUMlVCRF8tRERFaVdHNWtkZWpEQTdHNXh4WFBCWGxOSGRPRTh1X1liRUhOV2F2bGdVR3J5WmpnQldRM2stb21TQURRb2VENHlEWXpQN2NvbVpBQVNZeU1TX2xFSnB0dTdteVJtck8?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/)
 - [51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms](/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -85,18 +83,7 @@ The collapse of the $TRUMP memecoin highlights the high stakes and risks of inve
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump Coin Catastrophe: Nearly 1 Million Investors Lose $3.8 Billion Overnight",
-  "description": "Discover how nearly 1 million investors lost $3.8 billion overnight in the Trump Coin debacle. Uncover the shocking details of this financial disaster.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-06T18:19:08",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +93,3 @@ The collapse of the $TRUMP memecoin highlights the high stakes and risks of inve
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "Más De 200 Expertos Exigen A YouTube Frenar La Basura Generada Por IA Que Hipnotiza A Niños"
-date: 2026-05-16T19:13:39
+title: Más De 200 Expertos Exigen A YouTube Frenar La Basura Generada Por IA Que Hipnotiza
+  A Niños
+date: 2026-05-16 19:13:39
 draft: false
-description: "Más de 200 expertos piden a YouTube que detenga la 'basura generada por IA' que hipnotiza a los niños. Descubre sus preocupaciones y soluciones."
-featured_image: "/images/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos.jpg"
-slug: "mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos"
-canonical: "https://novumworld.com/es/youtube/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "3100411a-882a-e476-e1d8-6754d3c616d2"
+description: Más de 200 expertos piden a YouTube que detenga la 'basura generada por
+  IA' que hipnotiza a los niños. Descubre sus preocupaciones y soluciones.
+featured_image: /images/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos.jpg
+slug: mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos
+canonical: https://novumworld.com/es/youtube/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 3100411a-882a-e476-e1d8-6754d3c616d2
 ---
 
 ![Más De 200 Expertos Exigen A YouTube Frenar La Basura Generada Por IA Que Hipnotiza A Niños](/images/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos.jpg)
@@ -76,22 +80,7 @@ La seguridad de nuestros niños no es negociable; es hora de actuar. La regulaci
 - [YouTube Se Llev](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 - [YouTube Revelado: ¿Por Qué Los Tí](/es/youtube/youtube-clickbait-titulos-enganosos/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Más De 200 Expertos Exigen A YouTube Frenar La Basura Generada Por IA Que Hipnotiza A Niños",
-  "description": "Más de 200 expertos piden a YouTube que detenga la 'basura generada por IA' que hipnotiza a los niños. Descubre sus preocupaciones y soluciones.",
-  "image": "https://novumworld.com/images/mas-de-200-expertos-exigen-a-youtube-frenar-la-basura-generada-por-ia-dirigida-a-los-ninos.jpg",
-  "datePublished": "2026-05-16T19:13:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +90,3 @@ La seguridad de nuestros niños no es negociable; es hora de actuar. La regulaci
     }
   }
 }
-</script>

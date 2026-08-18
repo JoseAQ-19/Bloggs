@@ -30,8 +30,6 @@ type: fitness
  
 * La búsqueda de rehabilitación adecuada y especializada es crucial para prevenir lesiones en los bailarines, lo que podría tener implicaciones importantes para la salud de Dion y su carrera.
 
-
-
 {{< adsterra_native >}}
 
 ## La peligrosa danza de Céline Dion: entre el arte y la salud
@@ -73,6 +71,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Planet Fitness Declara la Guerra: 15 Gimnasios Asaltarán España en 2026](/es/fitness/planet-fitness-golds-gym-espana-2026/)
 - [La FETRI Revela el Hyatlón: La Revolución Que Transformará Tu Entrenamiento](/es/fitness/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness/)
 - [Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/es/fitness/entrenamiento-fuerza-2026-verdad-oculta/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

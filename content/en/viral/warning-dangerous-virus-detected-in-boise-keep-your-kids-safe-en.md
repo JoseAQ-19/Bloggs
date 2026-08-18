@@ -1,16 +1,19 @@
 ---
-title: "Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know"
-date: 2026-06-01T23:54:53
+title: 'Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know'
+date: 2026-06-01 23:54:53
 draft: false
-description: "Discover five critical facts about the dangerous virus detected in Boise that every parent needs to know to keep their family safe and informed."
-featured_image: "/images/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en.jpg"
-slug: "warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en"
-canonical: "https://novumworld.com/viral/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "23510229-ba5e-78a9-40c2-7766a601660b"
+description: Discover five critical facts about the dangerous virus detected in Boise
+  that every parent needs to know to keep their family safe and informed.
+featured_image: /images/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en.jpg
+slug: warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en
+canonical: https://novumworld.com/viral/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 23510229-ba5e-78a9-40c2-7766a601660b
 ---
 
 ![Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know](/images/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en.jpg)
@@ -61,22 +64,7 @@ The Boise Respiratory Virus is not just another seasonal bug; it is a growing th
 - [Parents Outraged: Squishy Toy's Hidden Dangers Exposed By Consumer Reports](/viral/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en/)
 - [700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds](/viral/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know",
-  "description": "Discover five critical facts about the dangerous virus detected in Boise that every parent needs to know to keep their family safe and informed.",
-  "image": "https://novumworld.com/images/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en.jpg",
-  "datePublished": "2026-06-01T23:54:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -86,4 +74,3 @@ The Boise Respiratory Virus is not just another seasonal bug; it is a growing th
     }
   }
 }
-</script>

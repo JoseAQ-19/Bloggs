@@ -25,8 +25,6 @@ Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a 
 
 Morningstar's designation of OAKMX as its Top Active ETF for 2026 underscores a seismic shift in the active management landscape, as this concentrated technology fund delivered a staggering 15.3% outperformance over the S&P 500 Technology Select Sector SPDR (XLK) in the trailing 12 months, according to [Morningstar](https://www.morningstar.com/) data. This performance comes amidst heightened geopolitical risk and persistent inflationary pressures, challenging traditional passive investing narratives. The fund's success hinges on a highly selective approach within the volatile artificial intelligence and semiconductors sub-sectors, raising critical questions about sustainability and risk concentration.
 
-
-
 {{< adsterra_native >}}
 
 ### Comparative Performance & Metrics (As of Q4 2025)
@@ -86,6 +84,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en/)
 - [Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en/)
 - [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

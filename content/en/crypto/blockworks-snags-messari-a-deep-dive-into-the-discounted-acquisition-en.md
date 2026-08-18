@@ -1,16 +1,19 @@
 ---
-title: "Blockworks Snags Messari for Pennies: The Shocking Details Behind This Acquisition"
-date: 2026-06-12T17:11:02
+title: 'Blockworks Snags Messari for Pennies: The Shocking Details Behind This Acquisition'
+date: 2026-06-12 17:11:02
 draft: false
-description: "Discover the surprising details behind Blockworks' acquisition of Messari for a fraction of its value. Uncover the implications for the crypto landscape!."
-featured_image: "/images/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en.jpg"
-slug: "blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en"
-canonical: "https://novumworld.com/crypto/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "e58e62f8-0ea9-e88c-d699-f7bfb0de7dcd"
+description: Discover the surprising details behind Blockworks' acquisition of Messari
+  for a fraction of its value. Uncover the implications for the crypto landscape!.
+featured_image: /images/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en.jpg
+slug: blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en
+canonical: https://novumworld.com/crypto/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: e58e62f8-0ea9-e88c-d699-f7bfb0de7dcd
 ---
 
 ![Blockworks Snags Messari for Pennies: The Shocking Details Behind This Acquisition](/images/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en.jpg)
@@ -82,7 +85,6 @@ In the volatile world of crypto, even pennies can buy you a seat at the table—
 - [The Hidden Risks Behind The $2 Trillion Market Meltdown That Shocked Investors](/crypto/the-real-story-behind-the-market-meltdown-crypto-stocks-and-gold-in-freefall-en/)
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -91,18 +93,7 @@ In the volatile world of crypto, even pennies can buy you a seat at the table—
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Blockworks Snags Messari for Pennies: The Shocking Details Behind This Acquisition",
-  "description": "Discover the surprising details behind Blockworks' acquisition of Messari for a fraction of its value. Uncover the implications for the crypto landscape!.",
-  "image": "https://novumworld.com/images/blockworks-snags-messari-a-deep-dive-into-the-discounted-acquisition-en.jpg",
-  "datePublished": "2026-06-12T17:11:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +103,3 @@ In the volatile world of crypto, even pennies can buy you a seat at the table—
     }
   }
 }
-</script>

@@ -31,8 +31,6 @@ In Thailand's mutual fund landscape, PIMCO and Vanguard are at the forefront, sh
 
 The competition between PIMCO and Vanguard is fierce, particularly in the Thai market, where both funds have positioned themselves as leaders in the fixed-income and equity sectors, respectively. PIMCO’s focus on active management, particularly in bond markets, has resulted in a 3-year Sharpe ratio of 0.85, indicating a strong risk-adjusted return. Conversely, Vanguard’s index-based strategy has provided a low-cost, passive investment option, leading to a lower standard deviation of returns at 12.5%, compared to PIMCO’s 15.2%.
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Analysis of Funds
@@ -95,6 +93,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Awards 2026: Thailand''s Top 5 Mutual Funds Revealed](/en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en/)
 - [Hartford''s $850 Million Fund Downgrade: Morningstar Points to Subadvising](/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en/)
 - [BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

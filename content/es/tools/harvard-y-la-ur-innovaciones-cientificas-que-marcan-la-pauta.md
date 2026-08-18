@@ -1,16 +1,20 @@
 ---
-title: "Harvard Y La UR Colaboran: 228 Millones de Euros Invertidos En Nanomedicina Sin Control"
-date: 2026-05-16T13:09:16
+title: 'Harvard Y La UR Colaboran: 228 Millones de Euros Invertidos En Nanomedicina
+  Sin Control'
+date: 2026-05-16 13:09:16
 draft: false
-description: "Harvard y la UR invierten 228 millones de euros en nanomedicina, pero ¿realmente hay control en esta colaboración? Descubre todos los detalles aquí."
-featured_image: "/images/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta.jpg"
-slug: "harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta"
-canonical: "https://novumworld.com/es/tools/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "dabf3f64-e362-59ad-44a4-16a79457b49e"
+description: Harvard y la UR invierten 228 millones de euros en nanomedicina, pero
+  ¿realmente hay control en esta colaboración? Descubre todos los detalles aquí.
+featured_image: /images/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta.jpg
+slug: harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta
+canonical: https://novumworld.com/es/tools/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: dabf3f64-e362-59ad-44a4-16a79457b49e
 ---
 
 ![Harvard Y La UR Colaboran: 228 Millones de Euros Invertidos En Nanomedicina Sin Control](/images/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta.jpg)
@@ -71,22 +75,7 @@ La necesidad de un diálogo abierto y transparente sobre los riesgos y beneficio
 - [Microsoft Elimina Copilot y Los Usuarios Se Preguntan Si Es El Fin del Notepad](/es/tools/microsoft-elimina-el-nombre-copilot-el-fin-de-una-era-en-notepad-y-snipping-tool/)
 - [XPPen Revoluciona La Creación De Cómics En Romics: 5 Claves Que Nadie Esperaba](/es/tools/xppen-conecta-a-los-creativos-italianos-en-romics-el-futuro-de-las-herramientas-digitales-en-la-crea/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Harvard Y La UR Colaboran: 228 Millones de Euros Invertidos En Nanomedicina Sin Control",
-  "description": "Harvard y la UR invierten 228 millones de euros en nanomedicina, pero ¿realmente hay control en esta colaboración? Descubre todos los detalles aquí.",
-  "image": "https://novumworld.com/images/harvard-y-la-ur-innovaciones-cientificas-que-marcan-la-pauta.jpg",
-  "datePublished": "2026-05-16T13:09:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +85,3 @@ La necesidad de un diálogo abierto y transparente sobre los riesgos y beneficio
     }
   }
 }
-</script>

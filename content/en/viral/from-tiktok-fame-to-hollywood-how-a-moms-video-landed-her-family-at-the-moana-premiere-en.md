@@ -1,16 +1,19 @@
 ---
-title: "How One Mom's TikTok Video Catapulted Her Family to Hollywood Stardom"
-date: 2026-06-15T22:49:54
+title: How One Mom's TikTok Video Catapulted Her Family to Hollywood Stardom
+date: 2026-06-15 22:49:54
 draft: false
-description: "Discover how a single TikTok video transformed one mom's family into Hollywood stars, sparking a journey filled with fame, adventure, and unexpected."
-featured_image: "/images/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en.jpg"
-slug: "from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en"
-canonical: "https://novumworld.com/viral/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "0583e592-a3ca-05a0-2dd8-7b363f816212"
+description: Discover how a single TikTok video transformed one mom's family into
+  Hollywood stars, sparking a journey filled with fame, adventure, and unexpected.
+featured_image: /images/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en.jpg
+slug: from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en
+canonical: https://novumworld.com/viral/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 0583e592-a3ca-05a0-2dd8-7b363f816212
 ---
 
 ![How One Mom's TikTok Video Catapulted Her Family to Hollywood Stardom](/images/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en.jpg)
@@ -86,22 +89,7 @@ In the end, the Johnsons remind us that the allure of fame is often accompanied 
 - [Trump''s Cuba Coup: How 1.6 Million Worke](/viral/trump-cuba-privatization-paradox-en/)
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How One Mom's TikTok Video Catapulted Her Family to Hollywood Stardom",
-  "description": "Discover how a single TikTok video transformed one mom's family into Hollywood stars, sparking a journey filled with fame, adventure, and unexpected.",
-  "image": "https://novumworld.com/images/from-tiktok-fame-to-hollywood-how-a-moms-video-landed-her-family-at-the-moana-premiere-en.jpg",
-  "datePublished": "2026-06-15T22:49:54",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ In the end, the Johnsons remind us that the allure of fame is often accompanied 
     }
   }
 }
-</script>

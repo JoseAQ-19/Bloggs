@@ -1,16 +1,19 @@
 ---
-title: "YouTube's Algorithm Just Recommended 40% More Extreme Content and Nobody Noticed"
-date: 2026-05-18T19:41:03
+title: YouTube's Algorithm Just Recommended 40% More Extreme Content and Nobody Noticed
+date: 2026-05-18 19:41:03
 draft: false
-description: "Discover how YouTube's algorithm is increasingly promoting extreme content, influencing viewer habits and sparking concerns that many are unaware of."
-featured_image: "/images/you-wont-believe-what-went-viral-on-youtube-this-week-en.jpg"
-slug: "you-wont-believe-what-went-viral-on-youtube-this-week-en"
-canonical: "https://novumworld.com/youtube/you-wont-believe-what-went-viral-on-youtube-this-week-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "487e0628-5030-9d01-eea7-0ea712a09448"
+description: Discover how YouTube's algorithm is increasingly promoting extreme content,
+  influencing viewer habits and sparking concerns that many are unaware of.
+featured_image: /images/you-wont-believe-what-went-viral-on-youtube-this-week-en.jpg
+slug: you-wont-believe-what-went-viral-on-youtube-this-week-en
+canonical: https://novumworld.com/youtube/you-wont-believe-what-went-viral-on-youtube-this-week-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 487e0628-5030-9d01-eea7-0ea712a09448
 ---
 
 ![YouTube's Algorithm Just Recommended 40% More Extreme Content and Nobody Noticed](/images/you-wont-believe-what-went-viral-on-youtube-this-week-en.jpg)
@@ -93,28 +96,12 @@ The creator economy deserves better—platforms that genuinely prioritize user s
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE53UmU0YWpDVWFZb0pYd3p0dm5vZkZZYnpHdHRlaUR2aDJFdzZfN1NkSTdOYkdSQURvRTdoR1R3UlNlemwtRFRYb0Vpei1XTTBhY19UNFBaNUg4T2ZUcW12N2RwZU53b09OMXBzTkZEWVQ3cmw0el8zV2Nmd0pMUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTVaRms2SkY1bEIzNHl4UXJLUUhfYkVOWm1VNk4wenFuT1VfWF8yS2F0YmdnZE1ULTl5QVBvWWpxeWtzc0NiZWlBdGxoZXFZZW15ME5pNlk4WEtMaXRnVHVHSHByQVV0cTBwSC1yV053c2FOQ0VvSmtpTGg1UmNaMS1oUF9ueXVXNURJbWliUXV0TEQ4MmZhTmhwUQ?oc=5)
 
-
 ## Related Articles
 - [YouTube's Picture-in-Picture Feature Drains 60% Battery and Nobody Is Talking About It](/youtube/youtubes-picture-in-picture-feature-a-game-changer-with-a-frustrating-twist-en/)
 - [YouTube Just Surged to $9.88 Billion in Ad Revenue and Creators Are Struggling](/youtube/youtubes-ad-revenue-soars-what-988-billion-means-for-creators-en/)
 - [YouTube's Classroom Revolution: 7 Shocking Ways Video Learning Is Transforming Education Forever](/youtube/youtubes-classroom-revolution-how-video-learning-is-redefining-education-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's Algorithm Just Recommended 40% More Extreme Content and Nobody Noticed",
-  "description": "Discover how YouTube's algorithm is increasingly promoting extreme content, influencing viewer habits and sparking concerns that many are unaware of.",
-  "image": "https://novumworld.com/images/you-wont-believe-what-went-viral-on-youtube-this-week-en.jpg",
-  "datePublished": "2026-05-18T19:41:03",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +111,3 @@ The creator economy deserves better—platforms that genuinely prioritize user s
     }
   }
 }
-</script>

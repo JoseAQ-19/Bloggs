@@ -72,8 +72,6 @@ El fondo refugio analizado, TLT, aunque ofrece rentabilidad positiva, muestra un
 
 El análisis contrariano revela riesgos significativos en esta estrategia. Primero, una resolución rápida del conflicto con Irán podría provocar un "sell the news" que colapse las primas de riesgo en sectores defensivos. Segundo, la reactivación económica en China podría beneficiar más a cíclicos que a defensivos, como ocurrió en 2023 cuando el consumo básico subió solo un 4% frente al 18% de industriales. Tercero, los fondos de defensa como ITA presentan una volatilidad del 18.4%, solo 5 puntos por debajo del S&P 500, lo que los hace poco ideales para perfiles conservadores.
 
-
-
 {{< adsterra_native >}}
 
 ## El Veredicto de la Máquina
@@ -88,6 +86,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Fondos activos baten al índice: 63% logra rendimientos superiores en un año](/es/funds/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati/)
 - [ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus](/es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino/)
 - [Premios Morningstar 2026: Inbursa, el factor clave de su consistencia y un](/es/funds/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

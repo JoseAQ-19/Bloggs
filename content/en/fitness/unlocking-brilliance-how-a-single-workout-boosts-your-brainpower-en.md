@@ -1,16 +1,20 @@
 ---
-title: "Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before"
-date: 2026-05-07T06:28:22
+title: 'Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never
+  Before'
+date: 2026-05-07 06:28:22
 draft: false
-description: "Discover how just 150 minutes of exercise can significantly boost BDNF levels and enhance your brainpower. Unlock your potential today!."
-featured_image: "/images/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en.jpg"
-slug: "unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en"
-canonical: "https://novumworld.com/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "57502787-0800-e9a2-1f09-ede9f423f3ff"
+description: Discover how just 150 minutes of exercise can significantly boost BDNF
+  levels and enhance your brainpower. Unlock your potential today!.
+featured_image: /images/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en.jpg
+slug: unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en
+canonical: https://novumworld.com/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 57502787-0800-e9a2-1f09-ede9f423f3ff
 ---
 
 ![Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before](/images/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en.jpg)
@@ -74,28 +78,12 @@ In the battle for brainpower, sweat is the only nootropic that actually works.
 ## Methodology and Sources
 - [elevatebiohacking.com](https://elevatebiohacking.com/community/)
 
-
 ## Related Articles
 - [Bodybuilding Shocker: St](/fitness/stephanie-buttermore-death-investigation-en/)
 - [Fitbit Lawsuits Exposed: Smart Cloth](/fitness/smart-clothing-movement-tracking-en/)
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before",
-  "description": "Discover how just 150 minutes of exercise can significantly boost BDNF levels and enhance your brainpower. Unlock your potential today!.",
-  "image": "https://novumworld.com/images/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en.jpg",
-  "datePublished": "2026-05-07T06:28:22",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +93,3 @@ In the battle for brainpower, sweat is the only nootropic that actually works.
     }
   }
 }
-</script>

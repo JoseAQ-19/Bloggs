@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Costs Of Detroit's Social Walk Club: Gentrification Threatens Black Neighborhoods"
-date: 2026-05-23T06:24:57
+title: 'The Hidden Costs Of Detroit''s Social Walk Club: Gentrification Threatens
+  Black Neighborhoods'
+date: 2026-05-23 06:24:57
 draft: false
-description: "Uncover the hidden costs of Detroit's Social Walk Club as gentrification jeopardizes Black neighborhoods. Explore the impacts and community resilience."
-featured_image: "/images/detroits-social-walk-club-where-community-and-fitness-unite-en.jpg"
-slug: "detroits-social-walk-club-where-community-and-fitness-unite-en"
-canonical: "https://novumworld.com/fitness/detroits-social-walk-club-where-community-and-fitness-unite-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "ae406488-d062-8bb7-be83-6bd1ec85a073"
+description: Uncover the hidden costs of Detroit's Social Walk Club as gentrification
+  jeopardizes Black neighborhoods. Explore the impacts and community resilience.
+featured_image: /images/detroits-social-walk-club-where-community-and-fitness-unite-en.jpg
+slug: detroits-social-walk-club-where-community-and-fitness-unite-en
+canonical: https://novumworld.com/fitness/detroits-social-walk-club-where-community-and-fitness-unite-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: ae406488-d062-8bb7-be83-6bd1ec85a073
 ---
 
 ![The Hidden Costs Of Detroit's Social Walk Club: Gentrification Threatens Black Neighborhoods](/images/detroits-social-walk-club-where-community-and-fitness-unite-en.jpg)
@@ -114,28 +118,12 @@ Gentrification threatens the very fabric of Black neighborhoods in Detroit, and 
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxONVZWM1NBa1AxNzk0ZGtIamlFeWpKdXVwbmF0Q1Z3Mnc4dG9UU1oxc0hWcVNhNkxQb0U1UTdNMTNhUjI2aERrLVJubThkZWU4TzNlekl0NWtkLUdaTm5UaTA2aW03U2xhVUk1clRHVjZ5NmlRVGFzaV9OcF9tM0dwVzM1bUlnWHRzSWxyTEkxV3J1aUVqUDhlMjJjaC11eDZGMlh2aGxn?oc=5)
 
-
 ## Related Articles
 - [The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/)
 - [Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially](/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/)
 - [94% Adherence: The Shocking Truth About Digital Cardiac Rehabilitation's Success](/fitness/unlocking-heart-health-the-power-of-combined-training-for-heart-failure-patients-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Costs Of Detroit's Social Walk Club: Gentrification Threatens Black Neighborhoods",
-  "description": "Uncover the hidden costs of Detroit's Social Walk Club as gentrification jeopardizes Black neighborhoods. Explore the impacts and community resilience.",
-  "image": "https://novumworld.com/images/detroits-social-walk-club-where-community-and-fitness-unite-en.jpg",
-  "datePublished": "2026-05-23T06:24:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -145,4 +133,3 @@ Gentrification threatens the very fabric of Black neighborhoods in Detroit, and 
     }
   }
 }
-</script>

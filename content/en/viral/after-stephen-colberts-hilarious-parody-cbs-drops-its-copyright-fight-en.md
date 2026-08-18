@@ -1,16 +1,19 @@
 ---
-title: "CBS Just Backed Down After Colbert's Hilarious Parody Shakes Copyright Foundations"
-date: 2026-05-25T22:36:56
+title: CBS Just Backed Down After Colbert's Hilarious Parody Shakes Copyright Foundations
+date: 2026-05-25 22:36:56
 draft: false
-description: "Discover how Stephen Colbert's hilarious parody forced CBS to reconsider its copyright stance, shaking the foundations of comedy and creativity."
-featured_image: "/images/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en.jpg"
-slug: "after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en"
-canonical: "https://novumworld.com/viral/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "447e6360-df4e-5a6e-42d7-22f5c327221e"
+description: Discover how Stephen Colbert's hilarious parody forced CBS to reconsider
+  its copyright stance, shaking the foundations of comedy and creativity.
+featured_image: /images/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en.jpg
+slug: after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en
+canonical: https://novumworld.com/viral/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 447e6360-df4e-5a6e-42d7-22f5c327221e
 ---
 
 ![CBS Just Backed Down After Colbert's Hilarious Parody Shakes Copyright Foundations](/images/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en.jpg)
@@ -146,22 +149,7 @@ In the world of creativity, laughter should reign supreme, not litigation.
 - [The Alarming Rise of Mouth Taping: 5 Shocking Reasons Why It’s Dangerous](/viral/the-alarming-rise-of-mouth-taping-why-the-ala-is-sounding-the-alarm-en/)
 - [The Shocking Truth Behind Waco's Viral Bird Attack Videos Exposed](/viral/wacos-bird-attack-the-wild-videos-taking-the-internet-by-storm-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "CBS Just Backed Down After Colbert's Hilarious Parody Shakes Copyright Foundations",
-  "description": "Discover how Stephen Colbert's hilarious parody forced CBS to reconsider its copyright stance, shaking the foundations of comedy and creativity.",
-  "image": "https://novumworld.com/images/after-stephen-colberts-hilarious-parody-cbs-drops-its-copyright-fight-en.jpg",
-  "datePublished": "2026-05-25T22:36:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -171,4 +159,3 @@ In the world of creativity, laughter should reign supreme, not litigation.
     }
   }
 }
-</script>

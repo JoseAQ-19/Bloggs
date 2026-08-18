@@ -1,16 +1,20 @@
 ---
-title: "Un 'Streamer' Rompe Récords: 9 Días En Directo Recaudando 45 Millones Para Luchar Contra El Cáncer Infantil"
-date: 2026-05-08T19:41:03
+title: 'Un ''Streamer'' Rompe Récords: 9 Días En Directo Recaudando 45 Millones Para
+  Luchar Contra El Cáncer Infantil'
+date: 2026-05-08 19:41:03
 draft: false
-description: "Un 'streamer' sorprende al mundo con 9 días en directo, recaudando 45 millones para combatir el cáncer infantil. ¡Descubre su increíble historia!."
-featured_image: "/images/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-.jpg"
-slug: "un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-"
-canonical: "https://novumworld.com/es/youtube/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "be92470b-2171-2e41-a587-a2855b61adcf"
+description: Un 'streamer' sorprende al mundo con 9 días en directo, recaudando 45
+  millones para combatir el cáncer infantil. ¡Descubre su increíble historia!.
+featured_image: /images/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-.jpg
+slug: un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-
+canonical: https://novumworld.com/es/youtube/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: be92470b-2171-2e41-a587-a2855b61adcf
 ---
 
 ![Un 'Streamer' Rompe Récords: 9 Días En Directo Recaudando 45 Millones Para Luchar Contra El Cáncer Infantil](/images/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-.jpg)
@@ -85,22 +89,7 @@ La recaudación de 45 millones de euros es una hazaña logística y emocional, p
 - [La Verdad Oculta: YouTube Reduce Ingresos De Creadores Mientras Elimina Anuncios Durante Directos](/es/youtube/youtube-sorprende-al-eliminar-anuncios-en-picos-de-interaccion-en-directo/)
 - [YouTube: El Imperio Prohibido Don](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Un 'Streamer' Rompe Récords: 9 Días En Directo Recaudando 45 Millones Para Luchar Contra El Cáncer Infantil",
-  "description": "Un 'streamer' sorprende al mundo con 9 días en directo, recaudando 45 millones para combatir el cáncer infantil. ¡Descubre su increíble historia!.",
-  "image": "https://novumworld.com/images/un-streamer-rompe-records-en-youtube-9-dias-en-directo-y-45-millones-para-la-lucha-contra-el-cancer-.jpg",
-  "datePublished": "2026-05-08T19:41:03",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +99,3 @@ La recaudación de 45 millones de euros es una hazaña logística y emocional, p
     }
   }
 }
-</script>

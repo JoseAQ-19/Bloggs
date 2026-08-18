@@ -79,7 +79,6 @@ Ultimately, users must recognize that their digital safety is contingent upon th
 - [US Senate’s Crypto Bill Could Propel Bitcoin To $200,000 By 2025](/crypto/us-senates-crypto-bill-a-game-changer-for-digital-assets-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -88,18 +87,7 @@ Ultimately, users must recognize that their digital safety is contingent upon th
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Silent Swap Exposed: 5 Fake Google Extensions Stealing Your Money Without You Knowing",
-  "description": "Discover the truth behind 5 deceptive Google extensions that are secretly draining your wallet. Stay informed and protect your finances today!.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-30T16:51:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +97,3 @@ Ultimately, users must recognize that their digital safety is contingent upon th
     }
   }
 }
-</script>

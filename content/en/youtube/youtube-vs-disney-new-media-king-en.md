@@ -30,8 +30,6 @@ YouTube’s promise of fame and fortune through ad revenue is increasingly a mir
 * A **Tubefilter** study indicates 89% of creators lack access to specialized mental health resources despite high rates of burnout and mental health issues.
 * Creators need to diversify revenue streams and prioritize mental health, as reliance on YouTube ad revenue becomes increasingly unstable.
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithm's Grip: Why YouTube’s Golden Goose Is Laying Fewer Eggs
@@ -107,6 +105,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [YouTube''s $28.8 Billion Ad Problem: Are Non-Skippable Ads Killing The Golden](/en/youtube/youtube-ad-fatigue-creator-exodus-en/)
 - [Jeopardy! Host''s YouTube Nightmare: $36 Billion Ad Revenue Masks a Free Speech](/en/youtube/youtube-hate-speech-policy-jeopardy-podcast-en/)
 - [Rosanna Pansino''s Mold Discovery: The Lunchly Scandal MrBeast Doesn''t Want](/en/youtube/logan-paul-mrbeast-mold-scandal-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

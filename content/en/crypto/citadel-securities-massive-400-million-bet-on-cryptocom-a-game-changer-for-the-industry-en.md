@@ -82,7 +82,6 @@ As the cryptocurrency ecosystem continues to mature, the stakes for all particip
 - [US-Iran's Crypto Battle: Five Key Strategies Behind Their Sanctions Warfare](/crypto/us-irans-crypto-showdown-a-high-stakes-game-of-sanctions-and-strategy-en/)
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -91,18 +90,7 @@ As the cryptocurrency ecosystem continues to mature, the stakes for all particip
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Citadel Securities Just Placed a Shocking $400 Million Bet on Crypto.com",
-  "description": "Discover how Citadel Securities' surprising $400 million investment in Crypto.com could reshape the future of cryptocurrency and trading dynamics.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-30T18:55:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +100,3 @@ As the cryptocurrency ecosystem continues to mature, the stakes for all particip
     }
   }
 }
-</script>

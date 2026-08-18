@@ -25,8 +25,6 @@ Dolph Lundgren tiene 68 años y tu VO2 max no. Los estudios muestran que el 80% 
 
 Dolph Lundgren tiene 68 años y tu VO2 max no. Los estudios muestran que el 80% de las personas mayores de 40 años tienen un VO2 max insuficiente, mientras que Lundgren desafía la biología con un programa que combina entrenamiento de fuerza diario y ayuno intermitente. * [Un análisis de 15,000 atletas amateurs revela que solo el 3% mantiene un VO2 max superior a 50 ml/kg/min después de los 60 años, según investigación de la Universidad de Copenhague](https://pubmed.ncbi.nlm.nih.gov/39849670/). * [La sarcopenia afecta al 50% de los mayores de 80 años, pero estudios de campeones de remo mayores de 70 años demuestran que la fuerza puede preservarse con entrenamiento específico n=4,000, según el *Journal of Gerontology*](https://pubmed.ncbi.nlm.nih.gov/40969985/). * [Dolph Lundgren confiere solo 1.5 horas diarias a su rutina, incluyendo pesas, cardio y cryoterapia, generando controversias en comunidades científicas de longevidad].
 
-
-
 {{< adsterra_native >}}
 
 ## El Dilema de la Edad: Dolph Lundgren y la Sarcopenia que Todos Ignoran
@@ -50,6 +48,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Mayores Al Borde: 4.018 Muertes Por Caídas Revelan La Urgencia Del Entrenamiento](/es/fitness/entrenamiento-funcional-seniors-2026/)
 - [Costaleros al Límite: El Secreto Para Evitar Lesiones de Espalda Estas Fiestas](/es/fitness/semana-santa-entrenamiento-sin-remordimientos/)
 - [Silver Fitness: El Ayuntamiento Promueve Actividades que Reducen Caídas en](/es/fitness/silver-fitness-el-guateque-del-ayuntamiento-y-el-gimnasio-wup-para-mayores-de-60-anos/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

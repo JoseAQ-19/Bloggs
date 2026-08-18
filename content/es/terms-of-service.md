@@ -23,8 +23,6 @@ weight: 90
 
 El progreso tecnológico a mediados de la década de 2020 se define no por sus características de software, sino por la realidad física del silicio. A medida que navegamos por el despliegue de la arquitectura Blackwell (B200) de NVIDIA y el escalado de los clústeres Llama-3 a 405B de parámetros y más allá, los marcos legales que rigen las plataformas digitales deben evolucionar obligatoriamente. NovumWorld representa un punto de unión en esta transición. Un acuerdo de Términos de Servicio (TOS) ya no es un trámite legal periférico; es el prompt de sistema fundamental para la interacción usuario-plataforma. En un ecosistema donde una única pasada de inferencia puede costar varios céntimos en energía y tiempo de cómputo, el contrato social entre el creador y el consumidor está siendo reescrito por la economía unitaria de la GPU.
 
-
-
 {{< adsterra_native >}}
 
 ## 1. Los Fundamentos de Silicio de los Acuerdos Digitales

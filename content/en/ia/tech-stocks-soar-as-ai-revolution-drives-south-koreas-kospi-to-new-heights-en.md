@@ -1,16 +1,19 @@
 ---
-title: "Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks"
-date: 2026-05-12T12:12:52
+title: Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks
+date: 2026-05-12 12:12:52
 draft: false
-description: "Nvidia's massive $45.8 billion obligation ignites a surge in KOSPI stocks, leading to an impressive 200% earnings growth. Discover the impact now!."
-featured_image: "/images/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en.jpg"
-slug: "tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en"
-canonical: "https://novumworld.com/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "b8c6ddc7-3ab8-3458-353f-a99b58b875ec"
+description: Nvidia's massive $45.8 billion obligation ignites a surge in KOSPI stocks,
+  leading to an impressive 200% earnings growth. Discover the impact now!.
+featured_image: /images/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en.jpg
+slug: tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en
+canonical: https://novumworld.com/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: b8c6ddc7-3ab8-3458-353f-a99b58b875ec
 ---
 
 ![Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks](/images/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en.jpg)
@@ -85,28 +88,12 @@ The KOSPI is a leveraged bet on the physics of memory packaging, and physics is 
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3ZYbGVKc3RTYVppaWs5bGVaemVQLW5QamJlX0Y2VU5tZTBmNzU5aGpKME5HZmFEcHJrZG5hZGtGWDdLYTI0cWdIZ0VTa1cxTmNKRnNxNGxsNjhzMVhvNmc2Q2gyWEhPUVBDTEdIUEFlWVlhcFpHM1E5TDh5VmhBNXUtd0RnM3ViQlkwXzRRZkRScm9qeXVZZTd1U3hSd3dKcnA0UXd1a25iUGlwOHc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjdpb0dKaHhBZ1Qwbk02S00weWJiYU56U3g5TWlMbDVoNThZVFhSYmthLVRiTXBfTWxUbjV3dVI5UFJmZ0xoR2VMMmlJVndOR29sLWJYNnlncXROcHJUeWdOZnhHMXkwbWdjYTJNOVowbUgzM0tnYnJYYmJGSm9lWGZUbTg5eGxtYXNadl9R?oc=5)
 
-
 ## Related Articles
 - [Perplexity''s $200 Computer AI: 80% Of Companies](/ia/perplexity-ai-computer-overkill-future-en/)
 - [The Parenthood Happiness Paradox: 36% Of Parents Are Not Happier Than Childless Adults](/ia/the-surprising-truth-does-parenthood-really-make-us-happier-en/)
 - [Digital Elites: Saviors or Soci](/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks",
-  "description": "Nvidia's massive $45.8 billion obligation ignites a surge in KOSPI stocks, leading to an impressive 200% earnings growth. Discover the impact now!.",
-  "image": "https://novumworld.com/images/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en.jpg",
-  "datePublished": "2026-05-12T12:12:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +103,3 @@ The KOSPI is a leveraged bet on the physics of memory packaging, and physics is 
     }
   }
 }
-</script>

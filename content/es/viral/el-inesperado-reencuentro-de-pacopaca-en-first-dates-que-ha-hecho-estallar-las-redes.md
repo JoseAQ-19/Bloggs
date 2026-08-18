@@ -1,16 +1,20 @@
 ---
-title: "838,000 Visitas: El Reencuentro de Paco/Paca en First Dates Que Estalló las Redes"
-date: 2026-05-20T22:16:47
+title: '838,000 Visitas: El Reencuentro de Paco/Paca en First Dates Que Estalló las
+  Redes'
+date: 2026-05-20 22:16:47
 draft: false
-description: "Descubre cómo el emotivo reencuentro de Paco y Paca en First Dates conquistó a 838,000 espectadores y revolucionó las redes sociales. ¡No te lo pierdas!."
-featured_image: "/images/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes.jpg"
-slug: "el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes"
-canonical: "https://novumworld.com/es/viral/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "24ad6bbf-a0c7-f865-7ae3-01985bfc1211"
+description: Descubre cómo el emotivo reencuentro de Paco y Paca en First Dates conquistó
+  a 838,000 espectadores y revolucionó las redes sociales. ¡No te lo pierdas!.
+featured_image: /images/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes.jpg
+slug: el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes
+canonical: https://novumworld.com/es/viral/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 24ad6bbf-a0c7-f865-7ae3-01985bfc1211
 ---
 
 ![838,000 Visitas: El Reencuentro de Paco/Paca en First Dates Que Estalló las Redes](/images/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes.jpg)
@@ -48,28 +52,12 @@ España está a punto de aprobar una ley que limitará la manipulación emociona
 - [deia.eus](https://www.deia.eus/actualidad/sociedad/2025/10/26/adios-miedo-reclamo-publicitario-freno-5439648.html)
 - [repositorio.comillas.edu](https://repositorio.comillas.edu/rest/bitstreams/235998/retrieve)
 
-
 ## Artículos relacionados
 - [Odio 24/7: Violeta Mangriñán y La Salud Mental](/es/viral/violeta-mangrinan-hate-online-fama/)
 - [La Peligrosa Verdad: 40% Más Estafas Online en España Que Nunca Antes](/es/viral/la-peligrosa-verdad-detras-de-los-trucos-virales-cuidado-con-lo-que-intentas/)
 - [Carriedo Desata la Ira Médica: ¿Pel](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "838,000 Visitas: El Reencuentro de Paco/Paca en First Dates Que Estalló las Redes",
-  "description": "Descubre cómo el emotivo reencuentro de Paco y Paca en First Dates conquistó a 838,000 espectadores y revolucionó las redes sociales. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/el-inesperado-reencuentro-de-pacopaca-en-first-dates-que-ha-hecho-estallar-las-redes.jpg",
-  "datePublished": "2026-05-20T22:16:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -79,4 +67,3 @@ España está a punto de aprobar una ley que limitará la manipulación emociona
     }
   }
 }
-</script>

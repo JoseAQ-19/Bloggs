@@ -1,16 +1,19 @@
 ---
-title: "Inside OpenAI's $4.8 Billion Race Against Anthropic's Talent Poaching Tactics"
-date: 2026-04-15T11:44:59
+title: Inside OpenAI's $4.8 Billion Race Against Anthropic's Talent Poaching Tactics
+date: 2026-04-15 11:44:59
 draft: false
-description: "Discover how OpenAI navigates the fierce competition against Anthropic's talent poaching in a $4.8 billion race for AI innovation and expertise."
-featured_image: "/images/inside-openais-battle-plan-against-competitors-like-anthropic-en.jpg"
-slug: "inside-openais-battle-plan-against-competitors-like-anthropic-en"
-canonical: "https://novumworld.com/ia/inside-openais-battle-plan-against-competitors-like-anthropic-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "011b36dc-39cd-4152-4124-2e9773e3a6cc"
+description: Discover how OpenAI navigates the fierce competition against Anthropic's
+  talent poaching in a $4.8 billion race for AI innovation and expertise.
+featured_image: /images/inside-openais-battle-plan-against-competitors-like-anthropic-en.jpg
+slug: inside-openais-battle-plan-against-competitors-like-anthropic-en
+canonical: https://novumworld.com/ia/inside-openais-battle-plan-against-competitors-like-anthropic-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 011b36dc-39cd-4152-4124-2e9773e3a6cc
 ---
 
 ![Inside OpenAI's $4.8 Billion Race Against Anthropic's Talent Poaching Tactics](/images/inside-openais-battle-plan-against-competitors-like-anthropic-en.jpg)
@@ -61,28 +64,12 @@ The reality is clear: the hype surrounding AI must be tempered with a grounded u
 - [news.google.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RHRGxBNUFhaVVIeGdOWFN2bzhELUFENlh0ZU56NGRURUtzZjRFalRqbjhfd2h1d3dnQk1JLVJ0cU51eXgwTXUxNU9oZkZrRXZTX3N6V293NWd4MUl0VVlNQUpHbXc0aDQzLXJaZjRxSzZZQlpnZGljeG14VmVzTkZtdTFUWjNhamo5aE9IZk1SZmVmQUpHY0w2ZnB1UTJQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbnRfa0sxMEZLaUhyRTdUVWpBa0NyUHUwR1E5dFJncjZQNnZOMG1wYkVqdEdnc01NNEZWWUdObEdEeUR5eHJ0RnM0NlFycUZLdTB2Q01fdmlPOU9WSHd0SG5YMkE2dXViWFFsbGxUVkJBWk5ZcFk1OXQ5Y2k0Zw?oc=5)
 
-
 ## Related Articles
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [39](/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Inside OpenAI's $4.8 Billion Race Against Anthropic's Talent Poaching Tactics",
-  "description": "Discover how OpenAI navigates the fierce competition against Anthropic's talent poaching in a $4.8 billion race for AI innovation and expertise.",
-  "image": "https://novumworld.com/images/inside-openais-battle-plan-against-competitors-like-anthropic-en.jpg",
-  "datePublished": "2026-04-15T11:44:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +79,3 @@ The reality is clear: the hype surrounding AI must be tempered with a grounded u
     }
   }
 }
-</script>

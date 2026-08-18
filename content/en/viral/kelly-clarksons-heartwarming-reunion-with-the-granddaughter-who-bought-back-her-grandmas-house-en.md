@@ -1,16 +1,20 @@
 ---
-title: "Kelly Clarkson's Granddaughter Bought Back Her Grandma's House: The Shocking Truth Revealed"
-date: 2026-05-23T22:27:54
+title: 'Kelly Clarkson''s Granddaughter Bought Back Her Grandma''s House: The Shocking
+  Truth Revealed'
+date: 2026-05-23 22:27:54
 draft: false
-description: "Discover the surprising story of Kelly Clarkson's granddaughter purchasing her grandmother's house, unveiling secrets and heartfelt connections in the."
-featured_image: "/images/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en.jpg"
-slug: "kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en"
-canonical: "https://novumworld.com/viral/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "60503026-3c3f-946d-afac-77511834bb14"
+description: Discover the surprising story of Kelly Clarkson's granddaughter purchasing
+  her grandmother's house, unveiling secrets and heartfelt connections in the.
+featured_image: /images/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en.jpg
+slug: kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en
+canonical: https://novumworld.com/viral/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 60503026-3c3f-946d-afac-77511834bb14
 ---
 
 ![Kelly Clarkson's Granddaughter Bought Back Her Grandma's House: The Shocking Truth Revealed](/images/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en.jpg)
@@ -77,22 +81,7 @@ The purchase of Kelly Clarkson's house by her granddaughter underscores the fund
 - [The Shocking Truth: 6 Symptoms That Set Long COVID Apart From Other Illnesses](/viral/why-only-6-symptoms-separate-long-covid-from-other-post-viral-conditions-en/)
 - [The Shocking Truth Behind Waco's Viral Bird Attack Videos Exposed](/viral/wacos-bird-attack-the-wild-videos-taking-the-internet-by-storm-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Kelly Clarkson's Granddaughter Bought Back Her Grandma's House: The Shocking Truth Revealed",
-  "description": "Discover the surprising story of Kelly Clarkson's granddaughter purchasing her grandmother's house, unveiling secrets and heartfelt connections in the.",
-  "image": "https://novumworld.com/images/kelly-clarksons-heartwarming-reunion-with-the-granddaughter-who-bought-back-her-grandmas-house-en.jpg",
-  "datePublished": "2026-05-23T22:27:54",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +91,3 @@ The purchase of Kelly Clarkson's house by her granddaughter underscores the fund
     }
   }
 }
-</script>

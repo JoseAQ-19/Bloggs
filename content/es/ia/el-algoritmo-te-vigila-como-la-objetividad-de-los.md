@@ -25,8 +25,6 @@ type: ia
 
 La objetividad algorítmica es la gran estafa de nuestra era. La promesa de decisiones justas e imparciales basadas en "datos fríos" es una burda cortina de humo que oculta sistemas de control sofisticados y una escalada sin precedentes en la vigilancia masiva. No estamos ante una herramienta inocente, sino ante un arma de opresión con el potencial de rediseñar la sociedad a imagen y semejanza de sus creadores.
 
-
-
 {{< adsterra_native >}}
 
 ## La Falsa Neutralidad: Un Caballo de Troya Tecnológico
@@ -66,6 +64,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Inteligencia Artificial: La Estafa del Siglo XXI](/es/ia/inteligencia-artificial-la-estafa-del-siglo-xxi/)
 - [NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina](/es/ia/ia-teleco-espana-crecimiento/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

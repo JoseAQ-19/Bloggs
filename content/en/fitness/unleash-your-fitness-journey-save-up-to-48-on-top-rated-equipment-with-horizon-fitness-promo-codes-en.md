@@ -74,22 +74,7 @@ Este protocolo de entrenamiento es diseñado para promover el progreso a largo p
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis",
-  "description": "Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-08-01T07:40:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +84,3 @@ Este protocolo de entrenamiento es diseñado para promover el progreso a largo p
     }
   }
 }
-</script>

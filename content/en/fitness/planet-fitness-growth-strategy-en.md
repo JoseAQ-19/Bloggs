@@ -29,8 +29,6 @@ The "Judgement Free Zone" might actually be a "Debt Free Zone" for corporate hea
 * On February 24, 2026, Planet Fitness stock dropped by 8.97% to close at $82.61 after announcing a projected revenue increase of only 9%, missing consensus estimates and triggering investigations by **Pomerantz LLP**.
 * Planet Fitness carries $1.7 billion in net debt with a 3.3x leverage ratio, posing a severe risks to financial stability as the company attempts to expand to 5,000 locations.
 
-
-
 {{< adsterra_native >}}
 
 ## The $1.7 Billion Question: Can Planet Fitness Manage Its Debt?
@@ -66,6 +64,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Gym Apocalypse: $4.9 Million Data Breaches Are Decimating Fitness Centers](/en/fitness/gym-security-vulnerabilities-en/)
 - [Bodybuilding Shocker: Steroids & Diet - The Dark Side Claims Stephanie Buttermore](/en/fitness/stephanie-buttermore-death-investigation-en/)
 - [Apple Fitness+ Fails 54% Of Moms: The Pelvic Floor Crisis NOBODY Talks About](/en/fitness/apple-fitness-plus-postpartum-recovery-workouts-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

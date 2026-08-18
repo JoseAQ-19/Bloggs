@@ -40,8 +40,6 @@ Justice in Harris County has become a transactional commodity where wealth deter
 * Seana Willing, Executive Director of the State Commission on Judicial Conduct, highlighted that a judge interjecting herself into the appeal of an inmate she previously prosecuted raises fundamental questions about impartiality and bias.
 * The Texas Center for Justice and Equity paused the release of judicial scorecards in the summer of 2023, effectively blocking public access to data regarding racial disparities in detention rates and bond amounts.
 
-
-
 {{< adsterra_native >}}
 
 ## The Overreach in Harris County’s Judiciary: A Threat to Justice
@@ -97,6 +95,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More Expensive Than You Think](/en/viral/temu-steak-controversy-en/)
 - [The Disturbing Truth About Chesney: Wisconsin''s Runaway Kangaroo Risks Agricultural](/en/viral/the-hunt-for-chesney-how-a-runaway-kangaroo-captivated-wisconsin-en/)
 - [59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody''s Talking](/en/viral/invisible-pandemic-respiratory-threat-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

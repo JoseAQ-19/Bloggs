@@ -29,8 +29,6 @@ China's semiconductor imports surged to $49.2 billion in 2024, up 17% year-over-
 * China's SMIC struggles with yield rates of only 30% compared to TSMC's 90%.
 * China's exploitation of the second-hand equipment loophole enables it to produce chips that approach cutting-edge capabilities, delaying the impact of US sanctions.
 
-
-
 {{< adsterra_native >}}
 
 ## The $49.2 Billion End-Around: How China Skirts US Chip Sanctions
@@ -73,6 +71,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [South Carolina''s S.28 and S.29: Leading The Nation Against AI Child Abuse.](/en/tools/south-carolina-child-protection-ai-law-enforcement-en/)
 - [Google AI Studio''s Dark Secret: 62% Of Its Code Has Hidden Flaws](/en/tools/google-ai-studio-technical-review-en/)
 - [75% Of Employees Will Use Shadow IT By 2027: The PETs Privacy Crisis Unfolds](/en/tools/privacy-enhancing-tech-shadow-it-risks-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

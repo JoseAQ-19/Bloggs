@@ -1,14 +1,18 @@
 ---
-title: "$1 Million Scarlet Student Fund Launches: Rutgers Business School Students Take Real Investment Decisions"
-date: 2026-04-28T07:50:54
+title: '$1 Million Scarlet Student Fund Launches: Rutgers Business School Students
+  Take Real Investment Decisions'
+date: 2026-04-28 07:50:54
 draft: false
-description: "Discover how Rutgers Business School students manage the new $1 Million Scarlet Student Fund, making real investment decisions for their future."
-featured_image: "/images/1-million-scarlet-student-fund-launches-rutgers-business-school-students-take-re-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "ca7d5d2f-23e6-92ce-9ea9-530ff9a2ce0f"
+description: Discover how Rutgers Business School students manage the new $1 Million
+  Scarlet Student Fund, making real investment decisions for their future.
+featured_image: /images/1-million-scarlet-student-fund-launches-rutgers-business-school-students-take-re-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: ca7d5d2f-23e6-92ce-9ea9-530ff9a2ce0f
 ---
 
 ![$1 Million Scarlet Student Fund Launches: Rutgers Business School Students Take Real Investment Decisions](/images/1-million-scarlet-student-fund-launches-rutgers-business-school-students-take-re-en.jpg)
@@ -20,8 +24,6 @@ Rutgers Business School students are set to manage a real investment portfolio v
 * [Focus on hands-on financial education — source: Google News]
 
 The Scarlet Student Fund, initiated in 2023, aims to provide students with practical experience in investment management, aligning academic theories with real-world financial practices. This initiative represents a growing trend in academia where students are not merely passive learners but active participants in financial markets.
-
-
 
 {{< adsterra_native >}}
 
@@ -76,35 +78,11 @@ Updates on the fund's performance will likely be provided through Rutgers Busine
 
 Engaging students in real investment scenarios not only enhances their educational experience but also prepares them for the complexities of the financial world. As the Scarlet Student Fund embarks on its investment journey, it will serve as a valuable case study for future finance professionals. 
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$1 Million Scarlet Student Fund Launches: Rutgers Business School Students Take Real Investment Decisions",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/scarlet-student-fund"
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the Scarlet Student Fund?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The Scarlet Student Fund is a $1 million investment fund managed by Rutgers Business School students, designed to provide hands-on experience in investment management."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How will the fund's performance be evaluated?",
@@ -145,6 +123,4 @@ Engaging students in real investment scenarios not only enhances their education
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 - [XAEL-AI Enters U.S. Market After 150% Growth in China](/funds/xael-ai-enters-us-market-after-150-growth-in-china-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

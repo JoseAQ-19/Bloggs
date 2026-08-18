@@ -1,16 +1,19 @@
 ---
-title: "The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged"
-date: 2026-06-01T22:46:56
+title: 'The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged'
+date: 2026-06-01 22:46:56
 draft: false
-description: "Discover why the Door-Kick Challenge has sparked outrage in Fargo-Moorhead. Explore 5 compelling reasons behind the community's strong reactions."
-featured_image: "/images/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en.jpg"
-slug: "the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en"
-canonical: "https://novumworld.com/viral/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "4261c9cb-94fb-d515-e467-3d67807906ae"
+description: Discover why the Door-Kick Challenge has sparked outrage in Fargo-Moorhead.
+  Explore 5 compelling reasons behind the community's strong reactions.
+featured_image: /images/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en.jpg
+slug: the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en
+canonical: https://novumworld.com/viral/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 4261c9cb-94fb-d515-e467-3d67807906ae
 ---
 
 ![The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged](/images/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en.jpg)
@@ -86,22 +89,7 @@ The time has come to kick the trend before it kicks back harder, leaving lasting
 - [The Alarming Rise of Mouth Taping: 5 Shocking Reasons Why It’s Dangerous](/viral/the-alarming-rise-of-mouth-taping-why-the-ala-is-sounding-the-alarm-en/)
 - [The Dark Side Of Dot Cakes: TikTok's Algorithm Manipulation Exposed](/viral/the-sweet-sensation-why-dot-cakes-are-taking-tiktok-by-storm-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged",
-  "description": "Discover why the Door-Kick Challenge has sparked outrage in Fargo-Moorhead. Explore 5 compelling reasons behind the community's strong reactions.",
-  "image": "https://novumworld.com/images/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en.jpg",
-  "datePublished": "2026-06-01T22:46:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ The time has come to kick the trend before it kicks back harder, leaving lasting
     }
   }
 }
-</script>

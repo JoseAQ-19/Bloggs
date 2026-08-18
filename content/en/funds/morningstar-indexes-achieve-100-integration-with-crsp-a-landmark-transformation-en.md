@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Indexes Achieve 100% Integration with CRSP: A Landmark Transformation"
-date: 2026-05-03T07:40:19
+title: 'Morningstar Indexes Achieve 100% Integration with CRSP: A Landmark Transformation'
+date: 2026-05-03 07:40:19
 draft: false
-description: "Discover how the full integration of Morningstar Indexes with CRSP marks a transformative shift in investment strategy and data accessibility for."
-featured_image: "/images/morningstar-indexes-achieve-100-integration-with-crsp-a-landmark-transformation-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "c3f52398-edbc-fcbf-9256-e57bde8e9ca1"
+description: Discover how the full integration of Morningstar Indexes with CRSP marks
+  a transformative shift in investment strategy and data accessibility for.
+featured_image: /images/morningstar-indexes-achieve-100-integration-with-crsp-a-landmark-transformation-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: c3f52398-edbc-fcbf-9256-e57bde8e9ca1
 ---
 
 ![Morningstar Indexes Achieve 100% Integration with CRSP: A Landmark Transformation](/images/morningstar-indexes-achieve-100-integration-with-crsp-a-landmark-transformation-en.jpg)
@@ -20,8 +23,6 @@ Morningstar has successfully achieved a remarkable 100% integration with the Cen
 * [The average expense ratio for Morningstar indexes is now 0.08%, down from 0.12% in 2020 — **CNMV**]
 
 This integration not only offers investors a more reliable benchmark for performance evaluation but also aligns Morningstar's index methodologies with the rigorous standards set by CRSP. The collaboration aims to leverage CRSP's extensive database of historical security prices and performance metrics, which is critical for both institutional and retail investors seeking to refine their strategies.
-
-
 
 {{< adsterra_native >}}
 
@@ -72,36 +73,11 @@ The decision should be based on personal investment goals, risk tolerance, and p
 
 We believe that the integration of CRSP into Morningstar's index framework represents a significant evolution in the indexing space. This development not only enhances the analytical rigor of Morningstar’s offerings but also aligns with the increasing demand for high-quality investment products. As the market continues to evolve, we advocate for investors to reassess their strategies in light of these advancements, ensuring that they remain aligned with both their financial goals and market realities.
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Indexes Achieve 100% Integration with CRSP: A Landmark Transformation",
-  "image": "",
-  "datePublished": "",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": ""
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How will the CRSP integration affect my investment strategy?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Investors can expect improved data quality and potentially better performance benchmarks, allowing for more informed decision-making."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "What are the risks associated with relying on a single data source like CRSP?",
@@ -142,6 +118,4 @@ We believe that the integration of CRSP into Morningstar's index framework repre
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

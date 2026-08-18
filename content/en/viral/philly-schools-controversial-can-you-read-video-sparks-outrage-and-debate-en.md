@@ -1,16 +1,20 @@
 ---
-title: "60% Of Fourth-Graders In Philadelphia Can't Read: The Shocking Truth Behind The Literacy Crisis"
-date: 2026-05-03T23:40:29
+title: '60% Of Fourth-Graders In Philadelphia Can''t Read: The Shocking Truth Behind
+  The Literacy Crisis'
+date: 2026-05-03 23:40:29
 draft: false
-description: "Discover the alarming statistics revealing that 60% of fourth-graders in Philadelphia struggle with reading. Uncover the causes and potential solutions."
-featured_image: "/images/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en.jpg"
-slug: "philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en"
-canonical: "https://novumworld.com/viral/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "37c1800a-cbfe-de4b-5d8f-c4dea402a968"
+description: Discover the alarming statistics revealing that 60% of fourth-graders
+  in Philadelphia struggle with reading. Uncover the causes and potential solutions.
+featured_image: /images/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en.jpg
+slug: philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en
+canonical: https://novumworld.com/viral/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 37c1800a-cbfe-de4b-5d8f-c4dea402a968
 ---
 
 ![60% Of Fourth-Graders In Philadelphia Can't Read: The Shocking Truth Behind The Literacy Crisis](/images/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en.jpg)
@@ -71,28 +75,12 @@ If we fail to act now, we risk losing an entire generation to educational inadeq
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOHU0Vnl2SnU4RDVLMHV2VFpZU0h5UEdQWVZqbWJDeFFtWS11YzhwbFlFQWVKVGp6RUd0R09CX1h5YjkyMnFZTl9RanF1SkxraTk5MzhXZWh5N00wQnc4QkJIeFZ4LWtjcFZXZWFmWDFnQmUtNDVoQlNyZFNKWWpYaG9uSC1fNFg3YUlta3Rpc1doaTkzRkZXVzE1cEpVMjJZdFY1d2ZvQlZubHp2SFE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNN052cHQ5SmdiWTQ2cElKRmpHdGJSbzA0dWI3djg3V2hrU1ZYM3p5TWhqVzNKT1N6MTA3d2ZxOGFpQVo0cDFtU1F3R2oxN0Q0NV9HMGF4cUNaZnlSSGFwajZCTW83WU1WLVRGd2xFQTRJblRFV1ppdE5fQzNiT1V6RXM2T1F0WWN3SzRfSnBpelY3bFV0UjRhY0M0d0dVWUNFR3lSVDlTV0lldFpHNmNQd0NfQ1NCdFpxVVBMc0hxOWNseWo5UWtNUkU0SE8zYlF5OWF3Z0ZfWHRUUUFEbnhkeU9zZHVDNTF1amEwa19TWlpHNUtzRUlaYTRhVmtaQUt4ZnZjbWxxMFN5OVnSAZACQVVfeXFMUGduREIyR3VlaUpEVU1Da002VVhoOXlZcHJxTVVBNTQzaXlhLTRLNTJyUWZRY29KTnZlNXNXYllrMkRWT0NRNWxqaXVOVjliQy1UR1RKNmFUY0QwQmtNUnJOZF84b01YY29wOHdwSFhOdW8yRXA1WFE2WjdlODJEa3RoellhblB2WjdjRVdES0ZMdkpDMEc1Njl2VlRYVjM5N1FUb0d6YlVsTjZkWWVmMV9wUUF0Nm5RZHAyVHZIbXVPdEZLb1NNNFJ0ak54a21RcThFaWZraVg0VW1xWW5xQlNPVGpWbDFCZVozT3BwendlS3NWUUlZcThuVVZ0dGZEY1pPOFBiOXcwMUtpNzJBaTk?oc=5)
 
-
 ## Related Articles
 - [50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "60% Of Fourth-Graders In Philadelphia Can't Read: The Shocking Truth Behind The Literacy Crisis",
-  "description": "Discover the alarming statistics revealing that 60% of fourth-graders in Philadelphia struggle with reading. Uncover the causes and potential solutions.",
-  "image": "https://novumworld.com/images/philly-schools-controversial-can-you-read-video-sparks-outrage-and-debate-en.jpg",
-  "datePublished": "2026-05-03T23:40:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ If we fail to act now, we risk losing an entire generation to educational inadeq
     }
   }
 }
-</script>

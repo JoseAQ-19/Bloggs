@@ -33,8 +33,6 @@ The Fidelity Select Gold Portfolio (FSAGX) has demonstrated significant performa
 *   **Risks Identified:** Operational risks inherent to mining, geopolitical instability in mining regions, sensitivity to market sentiment shifts, potential impact of rising interest rates, and competition from inflation-protected securities (TIPS) pose significant headwinds.
 *   **Investment Nuance:** FSAGX is an investment in mining equities, not physical gold. This introduces company-specific operational and management risks, along with potential leverage to gold price movements.
 
-
-
 {{< adsterra_native >}}
 
 ## Introduction: The Resurgence of Gold and the Fidelity Select Gold Portfolio
@@ -135,6 +133,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Thailand Awards 2026: Top 5 Funds Outperforming with Over 12%](/en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en/)
 - [Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard for Top Honors](/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en/)
 - [Vanguard Slashes Fees on 53 Funds: Is Your Portfolio Getting a Break?](/en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

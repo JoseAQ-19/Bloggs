@@ -1,16 +1,19 @@
 ---
-title: "The Shocking $75 Billion Bitcoin Surge Linked To A US-Iran Peace Deal"
-date: 2026-05-25T18:00:51
+title: The Shocking $75 Billion Bitcoin Surge Linked To A US-Iran Peace Deal
+date: 2026-05-25 18:00:51
 draft: false
-description: "Discover how a surprising US-Iran peace deal fueled a stunning $75 billion surge in Bitcoin, reshaping the crypto landscape and investor sentiment."
-featured_image: "/images/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en.jpg"
-slug: "bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en"
-canonical: "https://novumworld.com/crypto/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "2cd47e6e-1ec2-d78c-1f43-d8f1307d4e2f"
+description: Discover how a surprising US-Iran peace deal fueled a stunning $75 billion
+  surge in Bitcoin, reshaping the crypto landscape and investor sentiment.
+featured_image: /images/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en.jpg
+slug: bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en
+canonical: https://novumworld.com/crypto/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 2cd47e6e-1ec2-d78c-1f43-d8f1307d4e2f
 ---
 
 ![The Shocking $75 Billion Bitcoin Surge Linked To A US-Iran Peace Deal](/images/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en.jpg)
@@ -69,12 +72,10 @@ Ultimately, as the cryptocurrency market continues to evolve, the interplay betw
 - [news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcjkwLXhLamY1OFdhYU11eVZRdUFEMjZCbDRmcmFERFFwYjRvQmFBdmxrU1RSQ2ZsMG1KX3lGZzJubV9NdDJOQ19YYlF5UlhST3pCdllmMlRUd3RBVmpYT0drd3VTWFlWS0JFU0lmZHYydE1SUXlCcXM0Zw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnl0QWJfTU94eWNnUTFVNXo3bjNiWTVoOWE5Vll6czhzVURORDhXcVVqTHlKQXlQMUh3aTk1RlVXMmozdEVtX1gyZVJ3OUk2WE1NdG95TGQ1YVM1eGR2SEc1VWVIWEM3QTBjaEZRaWRtS0JLbUpXUWJ1X1ZFckNqcVNMbngxWmpLeHdnY2tBVG40YU1QOVFSVFFsUDNDLUI1U2YwWklfcFJPZWFtLXZFRDNZM3g4SnprUW9OblkwSE05dDJoMUZRdg?oc=5)
 
-
 ## Related Articles
 - [The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/crypto/trump-iran-crypto-network-en/)
 - [Senate's Historic Crypto Bill Gains Bipartisan Support—What It Means for DeFi Regulation](/crypto/senate-takes-a-historic-step-crypto-bill-gains-traction-with-bipartisan-support-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -84,18 +85,7 @@ Ultimately, as the cryptocurrency market continues to evolve, the interplay betw
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking $75 Billion Bitcoin Surge Linked To A US-Iran Peace Deal",
-  "description": "Discover how a surprising US-Iran peace deal fueled a stunning $75 billion surge in Bitcoin, reshaping the crypto landscape and investor sentiment.",
-  "image": "https://novumworld.com/images/bitcoin-and-beyond-the-impact-of-a-us-iran-peace-deal-on-crypto-prices-en.jpg",
-  "datePublished": "2026-05-25T18:00:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +95,3 @@ Ultimately, as the cryptocurrency market continues to evolve, the interplay betw
     }
   }
 }
-</script>

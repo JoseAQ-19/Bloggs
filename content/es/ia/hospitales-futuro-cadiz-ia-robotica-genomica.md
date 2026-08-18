@@ -28,8 +28,6 @@ La implementación de la Inteligencia Artificial (IA) en el Sistema Nacional de 
 *   **Brecha de Competencias del Personal Sanitario:** Existe una deficiencia crítica en la formación del personal médico sobre las capacidades, limitaciones y riesgos (como las "alucinaciones" de los LLMs) de los sistemas de IA, lo que puede llevar a una dependencia acrítica y a decisiones clínicas subóptimas.
 *   **Falta de Soberanía de Datos:** La dependencia de modelos entrenados con datos ajenos a la demografía local de Cádiz y la exportación de historiales clínicos a proveedores externos, compromete la soberanía digital de los datos de salud de los ciudadanos.
 
-
-
 {{< adsterra_native >}}
 
 ### El Despliegue de IA en el SNS: Una Cifra Que Exige Escutrinio Riguroso
@@ -93,6 +91,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [Silicon Valley: La Burbuja de Humo que Engañó al Mundo](/es/ia/silicon-valley-la-burbuja-de-humo-que-engano-al-mu/)
 - [Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups](/es/ia/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

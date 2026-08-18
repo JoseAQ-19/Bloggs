@@ -1,16 +1,19 @@
 ---
-title: "Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk"
-date: 2026-04-19T16:19:17
+title: 'Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk'
+date: 2026-04-19 16:19:17
 draft: false
-description: "Discover the shocking story of a Plymouth man's $37,000 loss in cryptocurrency, highlighting the unexpected risks of digital investments and market."
-featured_image: "/images/plymouth-man-crypto-scam-en.jpg"
-slug: "plymouth-man-crypto-scam-en"
-canonical: "https://novumworld.com/crypto/plymouth-man-crypto-scam-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "fa3967f6-dfd7-8eca-ffda-3136f32711b9"
+description: Discover the shocking story of a Plymouth man's $37,000 loss in cryptocurrency,
+  highlighting the unexpected risks of digital investments and market.
+featured_image: /images/plymouth-man-crypto-scam-en.jpg
+slug: plymouth-man-crypto-scam-en
+canonical: https://novumworld.com/crypto/plymouth-man-crypto-scam-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: fa3967f6-dfd7-8eca-ffda-3136f32711b9
 ---
 
 ![Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk](/images/plymouth-man-crypto-scam-en.jpg)
@@ -86,7 +89,6 @@ The current state of the market, coupled with the psychological pitfalls of inve
 - [Missed the Bull Run? 3 Cry](/crypto/on-chain-analysis-undervalued-cryptocurrencies-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -95,18 +97,7 @@ The current state of the market, coupled with the psychological pitfalls of inve
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk",
-  "description": "Discover the shocking story of a Plymouth man's $37,000 loss in cryptocurrency, highlighting the unexpected risks of digital investments and market.",
-  "image": "https://novumworld.com/images/plymouth-man-crypto-scam-en.jpg",
-  "datePublished": "2026-04-19T16:19:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +107,3 @@ The current state of the market, coupled with the psychological pitfalls of inve
     }
   }
 }
-</script>

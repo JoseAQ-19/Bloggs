@@ -61,7 +61,6 @@ El mercado se profesionaliza rápidamente bajo la mirada de los reguladores glob
 - [TRON (TRX) Estalla: Las Predicciones Que Harán Temblar a Inversores Hasta 2028](/es/crypto/puede-tron-trx-alcanzar-nuevas-alturas-predicciones-para-2026-2028/)
 - [Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman](/es/crypto/robinhood-reporta-su-mejor-trimestre-pero-las-ganancias-de-cripto-caen-un-38-que-significa-esto-para/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -70,18 +69,7 @@ El mercado se profesionaliza rápidamente bajo la mirada de los reguladores glob
     <h4>✍️ Sobre el Analista</h4><p><strong>Dr. Marc Valls (Analista On-Chain & DeFi)</strong> es un especialista en el área dedicado a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos técnicos y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA",
-  "description": "Análisis de Inversión en Criptoactivos 2026: Estrategias de Mercado y Regulaciones MiCA.",
-  "image": "https://novumworld.com/es/crypto/analisis-inversion-criptoactivos-2026//images/defaults/default-crypto.jpg",
-  "datePublished": "2026-08-10T12:07:44",
-  "author": {
-    "@type": "Person",
-    "name": "Dr. Marc Valls (Analista On-Chain & DeFi)"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ El mercado se profesionaliza rápidamente bajo la mirada de los reguladores glob
     }
   }
 }
-</script>

@@ -1,14 +1,18 @@
 ---
-title: "*CT (Lux) Global Technology Fund* alcanza un retorno del *+58,5%* en un año frente al *+25%* del sector"
-date: 2026-05-31T07:44:06
+title: '*CT (Lux) Global Technology Fund* alcanza un retorno del *+58,5%* en un año
+  frente al *+25%* del sector'
+date: 2026-05-31 07:44:06
 draft: false
-description: "Descubre cómo el *CT (Lux) Global Technology Fund* logró un impresionante retorno del *+58,5%* en un año, superando al sector en un *+25%*."
-featured_image: "/images/ct-lux-global-technology-fund-alcanza-un-retorno-del-585-en-un-ano-frente-al-25-.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "74571df0-5b17-053d-ec3f-6540a17e4436"
+description: Descubre cómo el *CT (Lux) Global Technology Fund* logró un impresionante
+  retorno del *+58,5%* en un año, superando al sector en un *+25%*.
+featured_image: /images/ct-lux-global-technology-fund-alcanza-un-retorno-del-585-en-un-ano-frente-al-25-.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 74571df0-5b17-053d-ec3f-6540a17e4436
 ---
 
 ![*CT (Lux) Global Technology Fund* alcanza un retorno del *+58,5%* en un año frente al *+25%* del sector](/images/ct-lux-global-technology-fund-alcanza-un-retorno-del-585-en-un-ano-frente-al-25-.jpg)
@@ -20,8 +24,6 @@ El *CT (Lux) Global Technology Fund* ha alcanzado un retorno del *+58,5%* en un 
 * [Crecimiento estimado del sector tecnológico de 8,5% para el próximo año — fuente: **Morningstar**]  
 
 La gestión activa y la selección rigurosa de activos han llevado al fondo a posicionarse como uno de los más destacados en su categoría. La reciente demanda de tecnología, impulsada por la digitalización acelerada y la adopción de nuevas soluciones, ha permitido a este fondo sobresalir en un espacio competitivo.
-
-
 
 {{< adsterra_native >}}
 
@@ -81,6 +83,4 @@ Dado su rendimiento pasado y su estrategia de inversión, podría ser una opció
 - [Tres fondos indexados al Nasdaq 100 en España superan el 30% de rentabilidad en 2023](/es/funds/tres-fondos-indexados-al-nasdaq-100-en-espana-superan-el-30-de-rentabilidad-en-2/)
 - [Tres fondos indexados al Nasdaq 100 en España que superan el 25% en 2026](/es/funds/tres-fondos-indexados-al-nasdaq-100-en-espana-que-superan-el-25-en-2026/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

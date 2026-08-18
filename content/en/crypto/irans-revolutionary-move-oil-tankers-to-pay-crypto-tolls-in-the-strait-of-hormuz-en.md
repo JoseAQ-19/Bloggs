@@ -1,16 +1,19 @@
 ---
-title: "Iran's Bold Move: Oil Tankers Now Paying Crypto Tolls in Strait of Hormuz"
-date: 2026-04-08T16:34:25
+title: 'Iran''s Bold Move: Oil Tankers Now Paying Crypto Tolls in Strait of Hormuz'
+date: 2026-04-08 16:34:25
 draft: false
-description: "Discover how Iran's oil tankers are revolutionizing trade by using cryptocurrency tolls in the strategic Strait of Hormuz. Explore the implications now!."
-featured_image: "/images/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en.jpg"
-slug: "irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en"
-canonical: "https://novumworld.com/crypto/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "7ca8b04d-82f3-81a4-2261-9563694cb94e"
+description: Discover how Iran's oil tankers are revolutionizing trade by using cryptocurrency
+  tolls in the strategic Strait of Hormuz. Explore the implications now!.
+featured_image: /images/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en.jpg
+slug: irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en
+canonical: https://novumworld.com/crypto/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 7ca8b04d-82f3-81a4-2261-9563694cb94e
 ---
 
 ![Iran's Bold Move: Oil Tankers Now Paying Crypto Tolls in Strait of Hormuz](/images/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en.jpg)
@@ -84,12 +87,10 @@ Shipping companies should begin exploring crypto payment systems and prepare for
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV85MDQ5elNaeVFyZFc5bTVRSTJNMVczclhCd2psWDI3UDBjTF9jRDJSWDZVRUNBd1ZFZ2tESDBMM3d6eGdNNXR3MmlKaEZHa3gxYl9WQWlNYTR3RWI4ZExXRmtvYzlDLVJ4YXpnSm9zbGN1dkVUUGFLclctMEhGbGpLNHp3WmJFc1FfaHh1UWpXSEx0SWppVE1Ud2JPaFRJRWZrNENvNFpXRWdGUVdrOF9CNHFwcDZfSi1mQXNSZHZGZw?oc=5)
 
-
 ## Related Articles
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [Missed the Bull Run? 3 Cry](/crypto/on-chain-analysis-undervalued-cryptocurrencies-en/)
 - [8% Surge: Kazakhstan''s Crypto Obsession Risk](/crypto/kazakhstan-sovereign-wealth-crypto-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -99,18 +100,7 @@ Shipping companies should begin exploring crypto payment systems and prepare for
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iran's Bold Move: Oil Tankers Now Paying Crypto Tolls in Strait of Hormuz",
-  "description": "Discover how Iran's oil tankers are revolutionizing trade by using cryptocurrency tolls in the strategic Strait of Hormuz. Explore the implications now!.",
-  "image": "https://novumworld.com/images/irans-revolutionary-move-oil-tankers-to-pay-crypto-tolls-in-the-strait-of-hormuz-en.jpg",
-  "datePublished": "2026-04-08T16:34:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +110,3 @@ Shipping companies should begin exploring crypto payment systems and prepare for
     }
   }
 }
-</script>

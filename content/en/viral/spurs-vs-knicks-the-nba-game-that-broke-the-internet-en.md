@@ -1,16 +1,20 @@
 ---
-title: "Knicks Just Dominated Closeout Games By An Average Of 39.3 Points And Broke The Internet"
-date: 2026-06-13T00:06:17
+title: Knicks Just Dominated Closeout Games By An Average Of 39.3 Points And Broke
+  The Internet
+date: 2026-06-13 00:06:17
 draft: false
-description: "Discover how the Knicks' stunning average of 39.3 points in closeout games captivated fans and broke the internet with their dominance this season."
-featured_image: "/images/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en.jpg"
-slug: "spurs-vs-knicks-the-nba-game-that-broke-the-internet-en"
-canonical: "https://novumworld.com/viral/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "faa0688f-8aff-153d-e5e2-f8f3151b198c"
+description: Discover how the Knicks' stunning average of 39.3 points in closeout
+  games captivated fans and broke the internet with their dominance this season.
+featured_image: /images/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en.jpg
+slug: spurs-vs-knicks-the-nba-game-that-broke-the-internet-en
+canonical: https://novumworld.com/viral/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: faa0688f-8aff-153d-e5e2-f8f3151b198c
 ---
 
 ![Knicks Just Dominated Closeout Games By An Average Of 39.3 Points And Broke The Internet](/images/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en.jpg)
@@ -53,28 +57,12 @@ The Knicks' historic closeout dominance has set a new standard for playoff perfo
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUZCRVRCLUJ5UTUzcW5MWjVSOHNDdC1PSmN1aGlGRkxlNHc0THJPLVVNOHd6amJXdVJ6YV9HeWFBYkFfRDFrM3BXRmFRdERIV0g1cnRUeHg0aVhScnliRk9YU0FNSGYzNDZCN1hSN3F5cXFXN0dmV0ZSX1pDZzBSNjFnejZTUEhGbkZWdExQbzNfOXM3U1N4c0YwRmlLZGQ3Umtrd2VzWWRtQ1hDZkppQjludGk0M1ZrUDY4d2RB0gHDAUFVX3lxTE5ud2E1dENhMmZjOEZySExsREt1QklDeHAzSGFudHVBdVM1NkxybjN6b292OHFObUFEVF91ZnNqRDJUSER6bm84ZF9LX0U2cWF0YnRhbjlXakVjOWZTTUNGbTNTMEJjaGtaelQtalIzWFRrcmdQMUpFRTcxUkIxTXU4ZVg3cjNYcDluSGpFeDhBZlBTX0pDLUY3b29rMXUwQldZcHhjN1BvbnBGWW5sRG1jZzVLdUhRLXhuMkN1aU1seDkySQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGVJU0dIbm9LMEJ1VTRZbXEyV2hVamsxZlJyMU5KUUlJQWRoR0dFXzJ2bkQ0U2tOOHVYd3RfUmlTeEZBVmhtd2tfSW43TGhlYVQzbmRsUS1WZHJ3VmxZd051UlBsV3l1Y2oxaG9uSm1aM1owWldoTl9xa1U4YmZaZlVTRUptSFZidU1PZjRWNlRpSGFqM3lhNmlwVHdpTGtPWFF4a3Vpbjg4VWFLSUYxbtIBxAFBVV95cUxNYnhLbXpFcS1yTndqOUY4Z3E5YWdZcTVieDhxcHZwVnREVjNCaERHdUl1Qkpack5tdDVIZ2YxeThnMlZOX1o0R09kR2RjMmdjV1J4QUFwb0JUcE0tOF9vU01rMEVQQkpsWG5ydEpJLWxzNnRLSTV1V0Vza1FSMnlzVzM2SlFGNk9lQWdqSnFWZml0enNRc0xUS3lGOFJTNEdmV2k0RHVTSzI1UGItd0lvX3V4NTlGZVFCMkVLSlBaME1LZ25o?oc=5)
 
-
 ## Related Articles
 - [Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know](/viral/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Knicks Just Dominated Closeout Games By An Average Of 39.3 Points And Broke The Internet",
-  "description": "Discover how the Knicks' stunning average of 39.3 points in closeout games captivated fans and broke the internet with their dominance this season.",
-  "image": "https://novumworld.com/images/spurs-vs-knicks-the-nba-game-that-broke-the-internet-en.jpg",
-  "datePublished": "2026-06-13T00:06:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +72,3 @@ The Knicks' historic closeout dominance has set a new standard for playoff perfo
     }
   }
 }
-</script>

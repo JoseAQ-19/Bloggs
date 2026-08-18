@@ -1,16 +1,19 @@
 ---
-title: "La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto"
-date: 2026-06-19T11:13:00
+title: La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto
+date: 2026-06-19 11:13:00
 draft: false
-description: "La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto."
-featured_image: "/images/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026.jpg"
-slug: "la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026"
-canonical: "https://novumworld.com/es/ia/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "276c6837-cc00-1c3c-3810-7f4f2ab5e824"
+description: La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al
+  Respecto.
+featured_image: /images/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026.jpg
+slug: la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026
+canonical: https://novumworld.com/es/ia/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 276c6837-cc00-1c3c-3810-7f4f2ab5e824
 ---
 
 ![La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto](/images/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026.jpg)
@@ -62,28 +65,12 @@ Es imperativo que la industria de la inteligencia artificial asuma la responsabi
 - [news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVW9PSkJKdEF6RWxmZUpaWGNCNXFENjFrRm8wdTdXMXNWdU93UDRiZVpaeWVLZ1VKOGpDdmJNYzZLSXJCSkNIVkRXa0Q2cm5wNEg4R3ZtbFJUZ0lxNjFJdlRPTUZQWXE2SXBDanNKVGMtRUZHNV9xb0Y1REdybkpmbHpZVnRSWGQ1blJ2N0h0bw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTRwS19wXzF1ZTVnVDY2OG1SVGU2b2FUNDNsNUlvWnBiSGV5OHgzS3ktRzRmTjlZb0o4cWlhOWNuSUpGYVBYd29wVDZ4SGtfbjlCbmR0cmdCZkJoTm1McGs2LVVwT25fNjZ6R1hhOEM4OTNUemIwSFU4cW1xVk5vYWZ3?oc=5)
 
-
 ## Artículos relacionados
 - [¿Sueñan los And](/es/ia/suenan-los-androides-con-ovejas-electricas-y-tu-co/)
 - [SaaSpocalypse Ahora: Sólo Un 20% Usan Ia, Y Tú Q](/es/ia/saaspocalypse-inversores-ia-ganadores/)
 - [ChatGPT contra tu SaaS: en 2026 solo sobrevivirán los que hagan E](/es/ia/saas-apocalipsis-ia-2026/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto",
-  "description": "La IA Grok Crea Imágenes Sexualizadas de Menores y Nadie Hizo Nada al Respecto.",
-  "image": "https://novumworld.com/images/la-polemica-de-la-ia-manipulacion-o-sexualizacion-en-el-mundial-2026.jpg",
-  "datePublished": "2026-06-19T11:13:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +80,3 @@ Es imperativo que la industria de la inteligencia artificial asuma la responsabi
     }
   }
 }
-</script>

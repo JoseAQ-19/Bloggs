@@ -1,16 +1,20 @@
 ---
-title: "Uncovering The $500 Million Family Ties Behind Iran's Controversial Crypto Exchange Transactions"
-date: 2026-05-01T18:07:02
+title: Uncovering The $500 Million Family Ties Behind Iran's Controversial Crypto
+  Exchange Transactions
+date: 2026-05-01 18:07:02
 draft: false
-description: "Explore the intricate family connections fueling Iran's controversial crypto exchange transactions, revealing a $500 million web of influence and intrigue."
-featured_image: "/images/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en.jpg"
-slug: "irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en"
-canonical: "https://novumworld.com/crypto/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "db659818-76a0-7b1c-acee-7ed9427848d6"
+description: Explore the intricate family connections fueling Iran's controversial
+  crypto exchange transactions, revealing a $500 million web of influence and intrigue.
+featured_image: /images/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en.jpg
+slug: irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en
+canonical: https://novumworld.com/crypto/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: db659818-76a0-7b1c-acee-7ed9427848d6
 ---
 
 ![Uncovering The $500 Million Family Ties Behind Iran's Controversial Crypto Exchange Transactions](/images/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en.jpg)
@@ -79,12 +83,10 @@ The implications for users are dire. The lack of robust cybersecurity measures m
 ## Methodology and Sources
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [AI Just Made Crypto Hacks 92% Easier—What You Need to Know Now](/crypto/the-ai-threat-to-crypto-why-anthropics-mythos-isnt-the-real-concern-en/)
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -94,18 +96,7 @@ The implications for users are dire. The lack of robust cybersecurity measures m
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Uncovering The $500 Million Family Ties Behind Iran's Controversial Crypto Exchange Transactions",
-  "description": "Explore the intricate family connections fueling Iran's controversial crypto exchange transactions, revealing a $500 million web of influence and intrigue.",
-  "image": "https://novumworld.com/images/irans-crypto-exchange-the-family-ties-fuelling-controversial-transactions-en.jpg",
-  "datePublished": "2026-05-01T18:07:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +106,3 @@ The implications for users are dire. The lack of robust cybersecurity measures m
     }
   }
 }
-</script>

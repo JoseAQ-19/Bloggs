@@ -71,8 +71,6 @@ La Inteligencia Artificial del siglo XXI presenta las características de una **
 
 La "exuberancia irracional" actual, combinada con la transferencia de riesgos hacia los más desfavorecidos y la violación sistemática de derechos, configura un escenario donde **"los números no cuadran"**. La IA, tal como se implementa hoy, no es el faro del progreso prometido, sino una herramienta que concentra poder, diluye responsabilidades y mercantiliza la interacción humana. Es hora de un debate honesto y transparente sobre el verdadero impacto de la IA, antes de que la burbuja estalle y deje a muchos con las manos vacías.
 
-
-
 {{< adsterra_native >}}
 
 ## Metodología y Fuentes
@@ -82,6 +80,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Claude Sentencia a 2 Millones de Españoles: El Apocalipsis Laboral Es Ahora](/es/ia/anthropic-claude-apocalipsis-laboral-espana/)
 - [Acciona el Pánico: La IA Amenaza 300 Millones de Euros Invertidos en Startups](/es/ia/saaspocalypse-sobreviviran-las-empresas-de-software-a-la-ia-los-datos-que-no-te-cuentan/)
 - [: El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)](/es/ia/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

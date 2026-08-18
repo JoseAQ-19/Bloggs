@@ -22,8 +22,6 @@ type: funds
 ## Resumen Ejecutivo
 En el contexto de los Premios Morningstar 2026, el fondo Magallanes Value Investors se ha destacado por lograr su tercer galardón consecutivo, consolidándose como uno de los más eficientes del mercado español. Mientras que el 87,5% de los fondos de inversión en España no lograron superar el rendimiento del índice Ibex 35 en 2025, Magallanes reportó un notable rendimiento del 12,5%. Este artículo analiza en profundidad el desempeño del fondo en comparación con otros competidores, las opiniones de expertos y los riesgos asociados a la volatilidad del mercado.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis del Desempeño de Fondos de Inversión en España
@@ -73,6 +71,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
 - [Dividendo 2026: 3 Estrategias para No Caer en la Trampa, Según Morningstar](/es/funds/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar/)
 - [Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

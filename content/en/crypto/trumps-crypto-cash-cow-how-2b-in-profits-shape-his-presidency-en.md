@@ -80,12 +80,10 @@ In a world where the lines between finance and politics blur, the ongoing develo
 - [news.google.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTE1YmVZZlBjNEtHdnBzM3YxdVVENjMwWTJMLWZqUkpVZFZyYkQzV2pka1JyUUNBdjJFRUgxTWF4NVBMVU9nbHNqVGtmOWVvYnl4VEJfMGZtMVpVeWFLck41ZDJvd09SQkRRMmdZamhWZTlfT21XQjJaT3hGclN4ZWNfVEU4QTZkSmVJWEJUQjRDdzRkYjdNeU1Pc1lUN3pVcGJDd01idjk5YW1HMFBHcjBvQjZmUDN6XzRWRUhEUU9XMGFYS2REd2FFNHpkVUgwMUJr?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [US-Iran's Crypto Battle: Five Key Strategies Behind Their Sanctions Warfare](/crypto/us-irans-crypto-showdown-a-high-stakes-game-of-sanctions-and-strategy-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [The White House's Shocking Crypto Clarity Initiative: Game-Changer Or Empty Promise?](/crypto/white-house-pushes-for-crypto-clarity-a-game-changer-in-regulation-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -95,18 +93,7 @@ In a world where the lines between finance and politics blur, the ongoing develo
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s $2 Billion Crypto Windfall: How It Shapes His Presidency And Nobody Noticed",
-  "description": "Discover how Trump's $2 billion crypto fortune influences his presidency and why this monumental shift went unnoticed by the public and media alike.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-29T17:27:34",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +103,3 @@ In a world where the lines between finance and politics blur, the ongoing develo
     }
   }
 }
-</script>

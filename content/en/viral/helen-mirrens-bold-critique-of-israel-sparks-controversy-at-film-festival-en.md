@@ -1,16 +1,19 @@
 ---
-title: "Helen Mirren's Shocking Remarks on Israel Ignite Outrage at Film Festival"
-date: 2026-06-12T00:01:15
+title: Helen Mirren's Shocking Remarks on Israel Ignite Outrage at Film Festival
+date: 2026-06-12 00:01:15
 draft: false
-description: "Helen Mirren's controversial comments on Israel spark widespread backlash at the film festival, igniting heated debates about art and politics."
-featured_image: "/images/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en.jpg"
-slug: "helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en"
-canonical: "https://novumworld.com/viral/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "1c244630-dc5e-4019-2249-3a2f528aac65"
+description: Helen Mirren's controversial comments on Israel spark widespread backlash
+  at the film festival, igniting heated debates about art and politics.
+featured_image: /images/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en.jpg
+slug: helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en
+canonical: https://novumworld.com/viral/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 1c244630-dc5e-4019-2249-3a2f528aac65
 ---
 
 ![Helen Mirren's Shocking Remarks on Israel Ignite Outrage at Film Festival](/images/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en.jpg)
@@ -76,22 +79,7 @@ Industry stakeholders should foster dialogue on the implications of celebrity ac
 - [The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/)
 - [27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Helen Mirren's Shocking Remarks on Israel Ignite Outrage at Film Festival",
-  "description": "Helen Mirren's controversial comments on Israel spark widespread backlash at the film festival, igniting heated debates about art and politics.",
-  "image": "https://novumworld.com/images/helen-mirrens-bold-critique-of-israel-sparks-controversy-at-film-festival-en.jpg",
-  "datePublished": "2026-06-12T00:01:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ Industry stakeholders should foster dialogue on the implications of celebrity ac
     }
   }
 }
-</script>

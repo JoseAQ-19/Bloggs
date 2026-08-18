@@ -1,16 +1,19 @@
 ---
-title: "The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis"
-date: 2026-04-06T11:44:50
+title: The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis
+date: 2026-04-06 11:44:50
 draft: false
-description: "Explore the heated debate surrounding the 2026 IHSAA Championship officiating crisis in Iowa. Uncover the truths and controversies shaking the sports."
-featured_image: "/images/iowas-2026-ihsaa-state-championship-what-to-expect-en.jpg"
-slug: "iowas-2026-ihsaa-state-championship-what-to-expect-en"
-canonical: "https://novumworld.com/ia/iowas-2026-ihsaa-state-championship-what-to-expect-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "f5f06722-cfa3-7caf-2236-3cbf865db551"
+description: Explore the heated debate surrounding the 2026 IHSAA Championship officiating
+  crisis in Iowa. Uncover the truths and controversies shaking the sports.
+featured_image: /images/iowas-2026-ihsaa-state-championship-what-to-expect-en.jpg
+slug: iowas-2026-ihsaa-state-championship-what-to-expect-en
+canonical: https://novumworld.com/ia/iowas-2026-ihsaa-state-championship-what-to-expect-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: f5f06722-cfa3-7caf-2236-3cbf865db551
 ---
 
 ![The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis](/images/iowas-2026-ihsaa-state-championship-what-to-expect-en.jpg)
@@ -50,28 +53,12 @@ As the officiating crisis escalates, the future of high school sports in Iowa ha
 - [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3V3MVB5NEpPSEk5UUY3ZlJlZkI0MFdkN0I1eFU4Y1ZsNFhSdExndDRlS3Z2cEVnV2F2aE53Z2xiTDdEWEhLRUdfYXFzZ2xUSDlxZmt0WnhIYlJ4MXZwV0xIcVJjZkRGMnQ5UE5MVTQ2TEUwdDVWWnl0cmJsN29kZUo4S0RoTUMxOGpVZG15RVNBMzVCaXRFYQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVRybklsTHZFT0ptVUN6N0pfTmgydFpTaFM5N1ZIZE1PWkdUVC13bWRVeldBX1RCdllLVkhmN0J5SDlrVTE1U3JxbUZYemJNdFVoR0lzbk13dnF0dzB0VWJtbm1yUVZSTktuUi1WWWNHMFVuM2ZzSmd4RmRhX0IyNkNOUU5mRi1BNDAwaExmb1R3cTMwNlNvOGtCUVBXYVVTOVV4ay15N0NXRHJJc1Z5azlnYXVWbmxxbXVXWHJqUXNhWTFf?oc=5)
 
-
 ## Related Articles
 - [The Shocking $1 Million](/ia/ia-financials-bold-move-1-million-investment-in-pediatric-ai-initiative-en/)
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 - [Hugging Face Embeddings: The $4.5 Billion L](/ia/hugging-face-embeddings-lobotomy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis",
-  "description": "Explore the heated debate surrounding the 2026 IHSAA Championship officiating crisis in Iowa. Uncover the truths and controversies shaking the sports.",
-  "image": "https://novumworld.com/images/iowas-2026-ihsaa-state-championship-what-to-expect-en.jpg",
-  "datePublished": "2026-04-06T11:44:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -81,4 +68,3 @@ As the officiating crisis escalates, the future of high school sports in Iowa ha
     }
   }
 }
-</script>

@@ -25,8 +25,6 @@ La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán
 
 La escalada de tensión en Oriente Medio, tras los recientes ataques entre Irán e Israel, ha inyectado volatilidad en los mercados, con analistas de Bloomberg anticipando un posible desplome del 5% en la cotización de bancos españoles con exposición internacional. ¿Es momento de refugio o de oportunidad?
 
-
-
 {{< adsterra_native >}}
 
 ## Guerra Irán: ¿Golpe del 5% a ING, Santander y BBVA? Impacto real en fondos.
@@ -115,6 +113,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [SpaceX: ¿Una valoración de 200.000 millones justificada?](/es/funds/spacex-una-valoracion-de-200000-millones-justificada/)
 - [Oro en la Eurozona: 5 ETFs ''Large Cap'' superan el 12% anual](/es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual/)
 - [Ataque en Irán: Stoxx 600 Recupera un 2%, ¿Sostenible o Rebote Efímero?](/es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

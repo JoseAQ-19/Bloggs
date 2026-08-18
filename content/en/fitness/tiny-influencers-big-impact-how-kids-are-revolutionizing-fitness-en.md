@@ -1,16 +1,20 @@
 ---
-title: "Tiny Influencers Are Generating Massive Change: Kids Driving Family Fitness Revolution"
-date: 2026-05-31T06:51:18
+title: 'Tiny Influencers Are Generating Massive Change: Kids Driving Family Fitness
+  Revolution'
+date: 2026-05-31 06:51:18
 draft: false
-description: "Discover how tiny influencers are sparking a family fitness revolution, empowering kids to inspire healthy lifestyles and create lasting change together."
-featured_image: "/images/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en.jpg"
-slug: "tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en"
-canonical: "https://novumworld.com/fitness/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "0d624ebe-f961-bfe7-a74b-8d93629b7587"
+description: Discover how tiny influencers are sparking a family fitness revolution,
+  empowering kids to inspire healthy lifestyles and create lasting change together.
+featured_image: /images/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en.jpg
+slug: tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en
+canonical: https://novumworld.com/fitness/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 0d624ebe-f961-bfe7-a74b-8d93629b7587
 ---
 
 ![Tiny Influencers Are Generating Massive Change: Kids Driving Family Fitness Revolution](/images/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en.jpg)
@@ -51,22 +55,7 @@ Children driving family fitness is not a utopian health movement; it's a high-st
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Tiny Influencers Are Generating Massive Change: Kids Driving Family Fitness Revolution",
-  "description": "Discover how tiny influencers are sparking a family fitness revolution, empowering kids to inspire healthy lifestyles and create lasting change together.",
-  "image": "https://novumworld.com/images/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en.jpg",
-  "datePublished": "2026-05-31T06:51:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -76,4 +65,3 @@ Children driving family fitness is not a utopian health movement; it's a high-st
     }
   }
 }
-</script>

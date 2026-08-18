@@ -1,16 +1,19 @@
 ---
-title: "Slack Just Lost 30% of Its Users to Discord and Nobody Noticed"
-date: 2026-05-31T15:04:13
+title: Slack Just Lost 30% of Its Users to Discord and Nobody Noticed
+date: 2026-05-31 15:04:13
 draft: false
-description: "Discover how Slack's user base fell by 30% to Discord, and why this shift went largely unnoticed in the tech community. Explore the implications now."
-featured_image: "/images/slack-vs-discord-technical-teardown-en.jpg"
-slug: "slack-vs-discord-technical-teardown-en"
-canonical: "https://novumworld.com/tools/slack-vs-discord-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "99a50b84-c5c2-e28d-d3b6-fcf17d65e713"
+description: Discover how Slack's user base fell by 30% to Discord, and why this shift
+  went largely unnoticed in the tech community. Explore the implications now.
+featured_image: /images/slack-vs-discord-technical-teardown-en.jpg
+slug: slack-vs-discord-technical-teardown-en
+canonical: https://novumworld.com/tools/slack-vs-discord-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 99a50b84-c5c2-e28d-d3b6-fcf17d65e713
 ---
 
 ![Slack Just Lost 30% of Its Users to Discord and Nobody Noticed](/images/slack-vs-discord-technical-teardown-en.jpg)
@@ -55,28 +58,12 @@ Discord's limitations are equally stark but different. The most severe is the la
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUpoc3lXQ0p3RkJXMF9HVWUzLURXQy1GQm1EOFBHNVdYWEt3bjFqMFh2U2lnZDhMUGF6ekk1Wi1KNVl6TnZBeUtPNk81bUdHQXdZRTVaUzZDOWZ2N1RJQ0JuSGtmcWUxNVBQeGs3Q29hUnZwMTU2RktlSWpRUnFDWC02Ty11U2FMZ0JLVG1ud1dzVVRsTGwzVUZn?oc=5)
 
-
 ## Related Articles
 - [Byron Smith Revolutionizes Golf Education With 5 Game-Changing Teaching Tools](/tools/transforming-golf-education-byron-smiths-innovative-teaching-tools-en/)
 - [Twill Typhoon Unleashed: 90 Zero-Day Exploits Targeting Your Business Right Now](/tools/twill-typhoon-technical-teardown-en/)
 - [The Shocking Truth About Mixing Tubeless Sealants: Don’t Make This Mistake](/tools/technical-teardown-compact-mtb-tools-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Slack Just Lost 30% of Its Users to Discord and Nobody Noticed",
-  "description": "Discover how Slack's user base fell by 30% to Discord, and why this shift went largely unnoticed in the tech community. Explore the implications now.",
-  "image": "https://novumworld.com/images/slack-vs-discord-technical-teardown-en.jpg",
-  "datePublished": "2026-05-31T15:04:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -86,4 +73,3 @@ Discord's limitations are equally stark but different. The most severe is the la
     }
   }
 }
-</script>

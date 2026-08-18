@@ -1,16 +1,20 @@
 ---
-title: "YouTube's 823,000 Outage Reports Expose Shocking Vulnerability in Its Recommendation System"
-date: 2026-05-17T19:30:49
+title: YouTube's 823,000 Outage Reports Expose Shocking Vulnerability in Its Recommendation
+  System
+date: 2026-05-17 19:30:49
 draft: false
-description: "Discover how 823,000 outage reports reveal critical flaws in YouTube's recommendation system, raising concerns about user experience and platform."
-featured_image: "/images/youtube-goes-dark-what-we-know-about-the-outage-en.jpg"
-slug: "youtube-goes-dark-what-we-know-about-the-outage-en"
-canonical: "https://novumworld.com/youtube/youtube-goes-dark-what-we-know-about-the-outage-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "8ed5f27a-5abf-88fe-5483-5b300ae233ea"
+description: Discover how 823,000 outage reports reveal critical flaws in YouTube's
+  recommendation system, raising concerns about user experience and platform.
+featured_image: /images/youtube-goes-dark-what-we-know-about-the-outage-en.jpg
+slug: youtube-goes-dark-what-we-know-about-the-outage-en
+canonical: https://novumworld.com/youtube/youtube-goes-dark-what-we-know-about-the-outage-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 8ed5f27a-5abf-88fe-5483-5b300ae233ea
 ---
 
 ![YouTube's 823,000 Outage Reports Expose Shocking Vulnerability in Its Recommendation System](/images/youtube-goes-dark-what-we-know-about-the-outage-en.jpg)
@@ -71,28 +75,12 @@ The reliance on YouTube's recommendation system is a trap that many creators fin
 - [news.google.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkNKeEJrSGI2MmN2NEZZOFlDSG92OEktcjZiVzJ6TUJ0VXptV2FWRlMteVJ5NUpFWUROY0U3US1LSVVVbFNaV3U4ZjVYUXBqQzFXNXhyWnRUT0hjaXdrZ2dGa3BiN2hOVDBNX0JzNC0ySlZSbHlncnp0MG1ZbV9mMEJmTVpFems?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVB2cGRGZ2lLOFNHYmNCUlRHNEo4cGNoSTVvNktJdTZKUTFsNnAzN3U4VThwWmk3bjM3QkV6d3Z1UUFuM0VIaGNscXh0MVhVdFJhMEFZTWE3SjVSYkRHWDlzUnNKd2xQLXFTRUNWWmNhR2lpakJpTTFEWWxyN2l4WmtLLUo4dw?oc=5)
 
-
 ## Related Articles
 - [From $100 To $6: YouTube''s Ad Reve](/youtube/youtube-vs-disney-new-media-king-en/)
 - [YouTube's Picture-in-Picture Feature Drains 60% Battery and Nobody Is Talking About It](/youtube/youtubes-picture-in-picture-feature-a-game-changer-with-a-frustrating-twist-en/)
 - [YouTube TV In 2026: The $83 Ga](/youtube/youtube-tv-2026-price-hike-or-worth-the-hype-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's 823,000 Outage Reports Expose Shocking Vulnerability in Its Recommendation System",
-  "description": "Discover how 823,000 outage reports reveal critical flaws in YouTube's recommendation system, raising concerns about user experience and platform.",
-  "image": "https://novumworld.com/images/youtube-goes-dark-what-we-know-about-the-outage-en.jpg",
-  "datePublished": "2026-05-17T19:30:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ The reliance on YouTube's recommendation system is a trap that many creators fin
     }
   }
 }
-</script>

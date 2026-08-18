@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Inc Stock Rises 18% as Data Demand Fuels Fintech Growth"
-date: 2026-05-18T08:18:30
+title: Morningstar Inc Stock Rises 18% as Data Demand Fuels Fintech Growth
+date: 2026-05-18 08:18:30
 draft: false
-description: "Discover how Morningstar Inc's stock surged 18% amid rising data demand, highlighting fintech growth and its impact on investment strategies."
-featured_image: "/images/morningstar-inc-stock-rises-18-as-data-demand-fuels-fintech-growth-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "57f38a79-98f8-c5ee-991b-7a3ac1543e87"
+description: Discover how Morningstar Inc's stock surged 18% amid rising data demand,
+  highlighting fintech growth and its impact on investment strategies.
+featured_image: /images/morningstar-inc-stock-rises-18-as-data-demand-fuels-fintech-growth-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 57f38a79-98f8-c5ee-991b-7a3ac1543e87
 ---
 
 ![Morningstar Inc Stock Rises 18% as Data Demand Fuels Fintech Growth](/images/morningstar-inc-stock-rises-18-as-data-demand-fuels-fintech-growth-en.jpg)
@@ -20,8 +23,6 @@ Morningstar Inc's stock has surged 18% recently, driven by a substantial increas
 * [Morningstar's earnings momentum remains strong — Google News Finance]
 
 The financial landscape is evolving, and Morningstar is at the forefront of this transformation. The company's ability to leverage its data-centric offerings has positioned it favorably in the competitive fintech arena. According to recent data, Morningstar's revenue for the third quarter of 2023 reached $490 million, a year-over-year increase of 12% [**Morningstar**]. Analysts attribute this growth primarily to the rising need for actionable insights among investors and financial institutions.
-
-
 
 {{< adsterra_native >}}
 
@@ -78,6 +79,4 @@ While current trends are positive, investors should watch for regulatory changes
 - [Morningstar’s Deeper Snowflake Integration Boosts Data-Driven Investment Strategy by 25%](/funds/morningstars-deeper-snowflake-integration-boosts-data-driven-investment-strategy-en/)
 - [VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure](/funds/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

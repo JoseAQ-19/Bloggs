@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth Behind Central College and Saint Benedict's DIII Softball Rivalry"
-date: 2026-05-15T12:09:47
+title: The Shocking Truth Behind Central College and Saint Benedict's DIII Softball
+  Rivalry
+date: 2026-05-15 12:09:47
 draft: false
-description: "Discover the intense rivalry between Central College and Saint Benedict's in DIII softball. Uncover the shocking truths and stories that define their."
-featured_image: "/images/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en.jpg"
-slug: "epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en"
-canonical: "https://novumworld.com/ia/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "9ba5f1b2-39fb-f920-7bff-7ba5021f88b1"
+description: Discover the intense rivalry between Central College and Saint Benedict's
+  in DIII softball. Uncover the shocking truths and stories that define their.
+featured_image: /images/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en.jpg
+slug: epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en
+canonical: https://novumworld.com/ia/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 9ba5f1b2-39fb-f920-7bff-7ba5021f88b1
 ---
 
 ![The Shocking Truth Behind Central College and Saint Benedict's DIII Softball Rivalry](/images/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en.jpg)
@@ -61,22 +65,7 @@ The Central College-Saint Benedict softball rivalry exemplifies how NCAA Divisio
 - [Uncorking Fun: 2026 Le Mars Wine & Roses Festival Is a Must-Attend Event](/ia/uncorking-fun-what-to-expect-at-le-mars-wine-roses-event-en/)
 - [iA Financial Just Increased Dividends by 11%: What Investors Need to Know](/ia/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Central College and Saint Benedict's DIII Softball Rivalry",
-  "description": "Discover the intense rivalry between Central College and Saint Benedict's in DIII softball. Uncover the shocking truths and stories that define their.",
-  "image": "https://novumworld.com/images/epic-showdown-central-vs-saint-benedict-a-diii-softball-clash-for-the-ages-en.jpg",
-  "datePublished": "2026-05-15T12:09:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -86,4 +75,3 @@ The Central College-Saint Benedict softball rivalry exemplifies how NCAA Divisio
     }
   }
 }
-</script>

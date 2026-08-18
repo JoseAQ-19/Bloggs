@@ -1,16 +1,19 @@
 ---
-title: "La Impactante Versión de ‘Las Meninas’ Que Dos Jóvenes Crearon Con IA Generativa"
-date: 2026-04-04T21:52:31
+title: La Impactante Versión de ‘Las Meninas’ Que Dos Jóvenes Crearon Con IA Generativa
+date: 2026-04-04 21:52:31
 draft: false
-description: "Descubre cómo dos jóvenes transformaron 'Las Meninas' en una obra innovadora usando IA generativa. ¡Una fusión de arte clásico y tecnología!."
-featured_image: "/images/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas.jpg"
-slug: "dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas"
-canonical: "https://novumworld.com/es/viral/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "890a4756-8e5c-fff0-a7ff-3ef1afb4dddd"
+description: Descubre cómo dos jóvenes transformaron 'Las Meninas' en una obra innovadora
+  usando IA generativa. ¡Una fusión de arte clásico y tecnología!.
+featured_image: /images/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas.jpg
+slug: dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas
+canonical: https://novumworld.com/es/viral/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 890a4756-8e5c-fff0-a7ff-3ef1afb4dddd
 ---
 
 ![La Impactante Versión de ‘Las Meninas’ Que Dos Jóvenes Crearon Con IA Generativa](/images/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas.jpg)
@@ -84,27 +87,11 @@ La IA generativa no es el fin del arte, pero sí el fin de la excusa para no apr
 - [hernandez.house.gov](https://hernandez.house.gov/media/press-releases/comisionado-residente-pablo-jose-hernandez-reconoce-jovenes-talentos-en-la)
 - [nga.gov](https://www.nga.gov/artworks/227556-boys-meet-girl-spanish-harlem-new-york)
 
-
 ## Artículos relacionados
 - [Shakira gratis en cdmx: ¿10 muertos más com](/es/viral/shakira-concierto-gratis-cdmx-riesgos/)
 - [La Base De Maquillaje](/es/viral/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Versión de ‘Las Meninas’ Que Dos Jóvenes Crearon Con IA Generativa",
-  "description": "Descubre cómo dos jóvenes transformaron 'Las Meninas' en una obra innovadora usando IA generativa. ¡Una fusión de arte clásico y tecnología!.",
-  "image": "https://novumworld.com/images/dos-jovenes-rompen-barreras-y-hacen-historia-con-su-version-de-las-meninas.jpg",
-  "datePublished": "2026-04-04T21:52:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +101,3 @@ La IA generativa no es el fin del arte, pero sí el fin de la excusa para no apr
     }
   }
 }
-</script>

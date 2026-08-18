@@ -70,12 +70,10 @@ As this situation unfolds, it is imperative for citizens to remain vigilant and 
 - [news.google.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0lpM2xRRVczbUlqWXd1bk1hbm01VkdTMzFKTUV5Yk13MVRabUlRV3VvNWRhVjRjNGE4VDJOdnZyblBFYUhIMWZGYkpGUTNFQlRKVnBSalNaT1B4Rmd6X1QtRnA5STZqdFB3OWtKUHdFQ2dLdnJkNFYweXpqMjZXdU95WnU?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0UyYVIwSVluc0ZxNUdSNFBoeEpDRWltNE1EVy0talo2S0k1bFlMYUI0U1NjYVY1bnFTQTY2dEx2VUNHcVJlSVQzMnNzSXNmeWQwQllaNXdPeFR3cnViV2VLRUI1WXRkMG4zNWk5ek1oTjhnWVZORThwdm9fYWxoTW1HS2xEaGRabWc0?oc=5)
 
-
 ## Related Articles
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/crypto/trump-iran-crypto-network-en/)
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -85,18 +83,7 @@ As this situation unfolds, it is imperative for citizens to remain vigilant and 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Senate Democrats Expose Trump’s Hidden Crypto Earnings: The Shocking Truth Revealed",
-  "description": "Discover how Senate Democrats unveil Trump's concealed cryptocurrency profits, revealing startling truths about financial dealings and potential.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-10T19:06:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +93,3 @@ As this situation unfolds, it is imperative for citizens to remain vigilant and 
     }
   }
 }
-</script>

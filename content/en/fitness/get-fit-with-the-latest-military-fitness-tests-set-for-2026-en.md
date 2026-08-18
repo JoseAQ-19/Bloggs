@@ -29,8 +29,6 @@ type: fitness
 
 The Pentagon's pursuit of a "gender-neutral" fighting force by 2026 is a high-stakes gamble that threatens to reshape the ranks of modern infantry. This administrative overhaul prioritizes performance parity over physiological variance, moving away from age-and-sex-adjusted scoring toward a rigid, combat-outcome-based metric. While proponents argue this ensures every soldier can drag a 200lb comrade regardless of gender, critics warn that the shift ignores fundamental biological disparities, potentially impacting recruitment and retention.
 
-
-
 {{< adsterra_native >}}
 
 ## The Gender-Neutral Shift: A High-Stakes Gamble for Military Readiness
@@ -87,6 +85,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Lukaku''s Absence: UEFA''s ACL Injury Warning Ignored By Belgium Management?](/en/fitness/lukaku-omitted-belgium-games-en/)
 - [Planet Fitness Donated 100+ Fitness Machines And Changed Community Health Forever](/en/fitness/planet-fitness-gives-back-over-100-fitness-equipment-donations-to-communities-en/)
 - [The 11-Minute Workout Revolution: How It Cuts Mortality Risk By 25%](/en/fitness/the-11-minute-cold-war-workout-thats-making-a-comeback-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

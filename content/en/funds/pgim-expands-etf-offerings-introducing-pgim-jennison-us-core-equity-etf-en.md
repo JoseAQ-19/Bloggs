@@ -1,14 +1,17 @@
 ---
-title: "PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF"
-date: 2026-05-22T08:06:39
+title: 'PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF'
+date: 2026-05-22 08:06:39
 draft: false
-description: "Discover PGIM's latest innovation in ETFs with the PGIM Jennison US Core Equity ETF, designed to enhance your investment strategy and maximize returns."
-featured_image: "/images/pgim-expands-etf-offerings-introducing-pgim-jennison-us-core-equity-etf-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "78e5bfe8-0168-34c0-0c59-585ccdba31f8"
+description: Discover PGIM's latest innovation in ETFs with the PGIM Jennison US Core
+  Equity ETF, designed to enhance your investment strategy and maximize returns.
+featured_image: /images/pgim-expands-etf-offerings-introducing-pgim-jennison-us-core-equity-etf-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 78e5bfe8-0168-34c0-0c59-585ccdba31f8
 ---
 
 ![PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF](/images/pgim-expands-etf-offerings-introducing-pgim-jennison-us-core-equity-etf-en.jpg)
@@ -20,8 +23,6 @@ PGIM's latest launch introduces the PGIM Jennison US Core Equity ETF, aiming to 
 * 0.55% — The expense ratio of PGIM Jennison US Core Equity ETF, competitive against the industry average of 0.63%. — **CNMV**
 
 The PGIM Jennison US Core Equity ETF aims to provide investors with exposure to a diversified portfolio of U.S. equities, selecting stocks based on fundamental analysis with an eye on long-term growth. This active management approach is designed to navigate market fluctuations and capitalize on opportunities that passive strategies may overlook.
-
-
 
 {{< adsterra_native >}}
 
@@ -79,6 +80,4 @@ The PGIM Jennison US Core Equity ETF exhibits characteristics that align with ev
 - [Van](/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [Vanguard's International High Dividend Yield ETF Cuts Expense Ratio by 60%](/funds/vanguards-international-high-dividend-yield-etf-cuts-expense-ratio-by-60-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

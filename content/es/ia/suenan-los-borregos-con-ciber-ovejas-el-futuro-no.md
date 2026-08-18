@@ -20,8 +20,6 @@ type: ia
 ## Resumen Ejecutivo
 La búsqueda de replicar la conciencia humana en máquinas es una distracción que oculta las verdaderas amenazas que presenta la inteligencia artificial (IA) actual. En lugar de concentrarnos en la posibilidad de una IA consciente, deberíamos estar alarmados por el uso no ético de tecnologías existentes que manipulan y controlan a la población. La computación tradicional y la cognición humana son fundamentalmente diferentes, y la IA actual, aunque efectiva en tareas específicas, carece de comprensión y adaptabilidad. El Test de Turing y la noción de singularidad tecnológica son conceptos engañosos que desvían la atención de problemas reales como la vigilancia masiva y la perpetuación de desigualdades. La regulación y la transparencia son cruciales para mitigar los riesgos de la IA.
 
-
-
 {{< adsterra_native >}}
 
 ## La Estupidez Intrínseca del Silicio
@@ -77,6 +75,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Silicon Valley se Desangra: La Era Dorada ha Terminado (Y Nadie lo Admite)](/es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin/)
 - [Groenlandia: El Iceberg que Hundirá el Imperio Digital de EE.UU.](/es/ia/groenlandia-el-iceberg-que-hundira-el-imperio-digi/)
 - [El Capitalismo Zombi: Anatomía de un Sistema Fallido](/es/ia/el-capitalismo-zombi-anatomia-de-un-sistema-fallid/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

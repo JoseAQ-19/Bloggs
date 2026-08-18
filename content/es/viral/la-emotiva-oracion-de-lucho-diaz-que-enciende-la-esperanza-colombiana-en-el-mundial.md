@@ -1,16 +1,19 @@
 ---
-title: "La Emotiva Oración de Lucho Díaz Que Revive la Esperanza Colombiana en el Mundial"
-date: 2026-06-18T22:17:25
+title: La Emotiva Oración de Lucho Díaz Que Revive la Esperanza Colombiana en el Mundial
+date: 2026-06-18 22:17:25
 draft: false
-description: "Descubre la conmovedora oración de Lucho Díaz que inspira a Colombia y renueva la esperanza en el Mundial. Un mensaje de fe y unidad."
-featured_image: "/images/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial.jpg"
-slug: "la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial"
-canonical: "https://novumworld.com/es/viral/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "1e9adfbc-2c44-5092-4052-2a68f7666d58"
+description: Descubre la conmovedora oración de Lucho Díaz que inspira a Colombia
+  y renueva la esperanza en el Mundial. Un mensaje de fe y unidad.
+featured_image: /images/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial.jpg
+slug: la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial
+canonical: https://novumworld.com/es/viral/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 1e9adfbc-2c44-5092-4052-2a68f7666d58
 ---
 
 ![La Emotiva Oración de Lucho Díaz Que Revive la Esperanza Colombiana en el Mundial](/images/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial.jpg)
@@ -73,28 +76,12 @@ Al final, el fútbol es más que un juego; es un lazo que une a un país en mome
 - [news.google.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNV8xT1oxZ0E1bHlaWW9LNWJnRUJKRnB3cVhZZW91b2x5bmRtblN1Yk1KZTdzTkV6RDh3b3BaYWtoVlZSTlE5RmlsaHRoaHVnbWI5M1dSUmtEWEg1a0lvRW55Y0t0RzVPTENxaGszZ0tOVUhzNEpIX0RoR1RmNTR0aDJ1TXMwX09fdF8xa2dzV01BdXpOcXZXZ0YzTGhHcnBJZjZlM3h30gHAAUFVX3lxTE9GbXhDSXdfa2RxTDZPRkdKN1g4WkxSU3QtWmh0QnVaZm1XMmI1eVlmdWVENDE1NGN0NHdabG03dzNGRzJrMDYyaDFBSlptVWRUd013a21lTVlTSnlINHlMTVJUSG9jMXEyUjhxem9QTkFSRDRhVElwVXF2UFNVSW4zbjRIblVpRHo1dWNNZ21oQmViYzdvRG0tNHBKSUFNeGhqamVibVlVM05xMGg0elR6NnBXd2FmM01FdmF5dHl1dw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjE4WFR0eVYtanp3Y21odDhva1hFdVNNV01CY1JwRDRkcldLOFNfQ0FKRkdvNlhYT0FUSGx3azJpMU9HRUMzM0JqMjJBc0dXSlVKWXNZTDA1aUYwal9FeHZRLU5zNUg0cXhlMzFxN1lvN05qOTFpWFRRU2xlUTc3WkpsV092dVRheVFJVHQxSFhhcDdPSk1DX0hGak51bFZMVVloTUw4WVlQeHAwSFhpb2N3SU81aGc4VmhhTEJfQVlLQ0J5WjZ1WGdsblBuaDdDRHlyYm54U2JjYVhzNjRfN0hnRFIzUTg0T2tLbdIB7AFBVV95cUxOVjE4WFR0eVYtanp3Y21odDhva1hFdVNNV01CY1JwRDRkcldLOFNfQ0FKRkdvNlhYT0FUSGx3azJpMU9HRUMzM0JqMjJBc0dXSlVKWXNZTDA1aUYwal9FeHZRLU5zNUg0cXhlMzFxN1lvN05qOTFpWFRRU2xlUTc3WkpsV092dVRheVFJVHQxSFhhcDdPSk1DX0hGak51bFZMVVloTUw4WVlQeHAwSFhpb2N3SU81aGc4VmhhTEJfQVlLQ0J5WjZ1WGdsblBuaDdDRHlyYm54U2JjYVhzNjRfN0hnRFIzUTg0T2tLbQ?oc=5)
 
-
 ## Artículos relacionados
 - [Hormuz Desata el Caos: IBEX 35 se Derrumba Tras Alcanzar](/es/viral/trump-cede-ormuz-ibex/)
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [La Tarjeta De Criptomonedas De Revolut: Ocultando Altas Comisiones A Sus Usuarios](/es/viral/revolut-y-su-misteriosa-tarjeta-de-criptomonedas-una-estrategia-que-marcara-tendencia/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Emotiva Oración de Lucho Díaz Que Revive la Esperanza Colombiana en el Mundial",
-  "description": "Descubre la conmovedora oración de Lucho Díaz que inspira a Colombia y renueva la esperanza en el Mundial. Un mensaje de fe y unidad.",
-  "image": "https://novumworld.com/images/la-emotiva-oracion-de-lucho-diaz-que-enciende-la-esperanza-colombiana-en-el-mundial.jpg",
-  "datePublished": "2026-06-18T22:17:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +91,3 @@ Al final, el fútbol es más que un juego; es un lazo que une a un país en mome
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "Kansas Governor Vetoes Mandatory Fitness in Schools: 5 Shocking Reasons Why Parents Are Outraged"
-date: 2026-04-30T06:13:27
+title: 'Kansas Governor Vetoes Mandatory Fitness in Schools: 5 Shocking Reasons Why
+  Parents Are Outraged'
+date: 2026-04-30 06:13:27
 draft: false
-description: "Discover the 5 shocking reasons behind parents' outrage as Kansas Governor vetoes mandatory fitness in schools. Explore the impact on children's health!."
-featured_image: "/images/kansas-governor-vetoes-school-fitness-en.jpg"
-slug: "kansas-governor-vetoes-school-fitness-en"
-canonical: "https://novumworld.com/fitness/kansas-governor-vetoes-school-fitness-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "98742432-4627-3a49-3b18-e0ad0e5722cb"
+description: Discover the 5 shocking reasons behind parents' outrage as Kansas Governor
+  vetoes mandatory fitness in schools. Explore the impact on children's health!.
+featured_image: /images/kansas-governor-vetoes-school-fitness-en.jpg
+slug: kansas-governor-vetoes-school-fitness-en
+canonical: https://novumworld.com/fitness/kansas-governor-vetoes-school-fitness-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 98742432-4627-3a49-3b18-e0ad0e5722cb
 ---
 
 ![Kansas Governor Vetoes Mandatory Fitness in Schools: 5 Shocking Reasons Why Parents Are Outraged](/images/kansas-governor-vetoes-school-fitness-en.jpg)
@@ -78,22 +82,7 @@ If proactive measures are not taken today, we risk compromising the futures of o
 - [15% Faster Muscle Recovery? Ditch These Spri](/fitness/spring-fitness-fails-habits-en/)
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Kansas Governor Vetoes Mandatory Fitness in Schools: 5 Shocking Reasons Why Parents Are Outraged",
-  "description": "Discover the 5 shocking reasons behind parents' outrage as Kansas Governor vetoes mandatory fitness in schools. Explore the impact on children's health!.",
-  "image": "https://novumworld.com/images/kansas-governor-vetoes-school-fitness-en.jpg",
-  "datePublished": "2026-04-30T06:13:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +92,3 @@ If proactive measures are not taken today, we risk compromising the futures of o
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "La Impactante Caída De BUILDon ($B): 478 Millones En Pérdidas Y Nadie Lo Ve"
-date: 2026-05-15T16:21:47
+title: 'La Impactante Caída De BUILDon ($B): 478 Millones En Pérdidas Y Nadie Lo Ve'
+date: 2026-05-15 16:21:47
 draft: false
-description: "Descubre la sorprendente caída de BUILDon ($B) y sus impresionantes 478 millones en pérdidas. ¿Qué sucedió y por qué nadie lo vio venir?."
-featured_image: "/images/la-caida-de-buildon-b-fin-de-la-era-cripto.jpg"
-slug: "la-caida-de-buildon-b-fin-de-la-era-cripto"
-canonical: "https://novumworld.com/es/crypto/la-caida-de-buildon-b-fin-de-la-era-cripto/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "ed3b27dc-7912-80da-ea2a-50ae3f4e55b8"
+description: Descubre la sorprendente caída de BUILDon ($B) y sus impresionantes 478
+  millones en pérdidas. ¿Qué sucedió y por qué nadie lo vio venir?.
+featured_image: /images/la-caida-de-buildon-b-fin-de-la-era-cripto.jpg
+slug: la-caida-de-buildon-b-fin-de-la-era-cripto
+canonical: https://novumworld.com/es/crypto/la-caida-de-buildon-b-fin-de-la-era-cripto/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: ed3b27dc-7912-80da-ea2a-50ae3f4e55b8
 ---
 
 ![La Impactante Caída De BUILDon ($B): 478 Millones En Pérdidas Y Nadie Lo Ve](/images/la-caida-de-buildon-b-fin-de-la-era-cripto.jpg)
@@ -66,12 +69,10 @@ La historia de BUILDon no solo es un caso aislado, sino que refleja una tendenci
 ## Metodología y Fuentes
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [Las Instituciones Pierden Fe en Bitcoin: 72% De Inversores Cambian Su Estrategia](/es/crypto/las-instituciones-han-perdido-la-fe-en-bitcoin-ipc-e-iran-podrian-cambiar-el-juego/)
 - [El 80% de Los Inversores Españoles en Criptomonedas Ignoran la Volatilidad de BTCUSD](/es/crypto/la-evolucion-del-mercado-analisis-de-btcusd-y-sus-implicaciones/)
 - [Bitcoin Al Desnudo: El Apalancamiento Es L](/es/crypto/rally-bitcoin-apalancamiento-onchain/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -81,18 +82,7 @@ La historia de BUILDon no solo es un caso aislado, sino que refleja una tendenci
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Caída De BUILDon ($B): 478 Millones En Pérdidas Y Nadie Lo Ve",
-  "description": "Descubre la sorprendente caída de BUILDon ($B) y sus impresionantes 478 millones en pérdidas. ¿Qué sucedió y por qué nadie lo vio venir?.",
-  "image": "https://novumworld.com/images/la-caida-de-buildon-b-fin-de-la-era-cripto.jpg",
-  "datePublished": "2026-05-15T16:21:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +92,3 @@ La historia de BUILDon no solo es un caso aislado, sino que refleja una tendenci
     }
   }
 }
-</script>

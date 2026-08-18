@@ -1,16 +1,20 @@
 ---
-title: "$154 Billion Illicit Crypto Surge: How Iran Exploits Loopholes While The US Fails"
-date: 2026-04-07T14:55:41
+title: '$154 Billion Illicit Crypto Surge: How Iran Exploits Loopholes While The US
+  Fails'
+date: 2026-04-07 14:55:41
 draft: false
-description: "Discover how Iran capitalizes on loopholes in the crypto market, leading to a $154 billion surge while the US struggles to keep pace."
-featured_image: "/images/us-tools-iran-sanctions-enforcement-en.jpg"
-slug: "us-tools-iran-sanctions-enforcement-en"
-canonical: "https://novumworld.com/tools/us-tools-iran-sanctions-enforcement-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "d35478f5-bf30-e3b9-0376-4c9a9a5fd0b7"
+description: Discover how Iran capitalizes on loopholes in the crypto market, leading
+  to a $154 billion surge while the US struggles to keep pace.
+featured_image: /images/us-tools-iran-sanctions-enforcement-en.jpg
+slug: us-tools-iran-sanctions-enforcement-en
+canonical: https://novumworld.com/tools/us-tools-iran-sanctions-enforcement-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: d35478f5-bf30-e3b9-0376-4c9a9a5fd0b7
 ---
 
 ![$154 Billion Illicit Crypto Surge: How Iran Exploits Loopholes While The US Fails](/images/us-tools-iran-sanctions-enforcement-en.jpg)
@@ -71,28 +75,12 @@ If the U.S. doesn't act now, the future of its sanctions regime may be written i
 - [congress.gov](https://www.congress.gov/crs_external_products/R/PDF/R47321/R47321.18.pdf)
 - [dni.gov](https://www.dni.gov/files/ODNI/documents/assessments/ODNI-Unclassified-Irans-Nuclear-Weapons-Capability-and-Terrorism-Monitoring-Act-of-2022-202411.pdf)
 
-
 ## Related Articles
 - [Statin MYOPATHY Cover-Up? The](/tools/next-gen-heart-health-dyslipidemia-guidelines-2026-en/)
 - [$40,000 Per Claim: The Hidden Cost Of Your Cra](/tools/diamondback-tool-belt-ergonomics-review-en/)
 - [The Hidden Crisis: 1 In 200 Students Falsely Accuse](/tools/marquette-ai-guide-technical-analysis-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$154 Billion Illicit Crypto Surge: How Iran Exploits Loopholes While The US Fails",
-  "description": "Discover how Iran capitalizes on loopholes in the crypto market, leading to a $154 billion surge while the US struggles to keep pace.",
-  "image": "https://novumworld.com/images/us-tools-iran-sanctions-enforcement-en.jpg",
-  "datePublished": "2026-04-07T14:55:41",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ If the U.S. doesn't act now, the future of its sanctions regime may be written i
     }
   }
 }
-</script>

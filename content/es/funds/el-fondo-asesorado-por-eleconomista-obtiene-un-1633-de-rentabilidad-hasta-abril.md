@@ -1,14 +1,18 @@
 ---
-title: "El fondo asesorado por elEconomista obtiene un 16,33% de rentabilidad hasta abril"
-date: 2026-05-10T07:18:25
+title: El fondo asesorado por elEconomista obtiene un 16,33% de rentabilidad hasta
+  abril
+date: 2026-05-10 07:18:25
 draft: false
-description: "Descubre cómo el fondo asesorado por elEconomista logró una impresionante rentabilidad del 16,33% hasta abril. ¡Invierte con confianza!."
-featured_image: "/images/el-fondo-asesorado-por-eleconomista-obtiene-un-1633-de-rentabilidad-hasta-abril.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "b393246d-6e78-7958-a9d0-8d31be45705a"
+description: Descubre cómo el fondo asesorado por elEconomista logró una impresionante
+  rentabilidad del 16,33% hasta abril. ¡Invierte con confianza!.
+featured_image: /images/el-fondo-asesorado-por-eleconomista-obtiene-un-1633-de-rentabilidad-hasta-abril.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: b393246d-6e78-7958-a9d0-8d31be45705a
 ---
 
 ![El fondo asesorado por elEconomista obtiene un 16,33% de rentabilidad hasta abril](/images/el-fondo-asesorado-por-eleconomista-obtiene-un-1633-de-rentabilidad-hasta-abril.jpg)
@@ -20,8 +24,6 @@ El fondo asesorado por elEconomista ha logrado una rentabilidad del 16,33% hasta
 * [Mayores gestoras de fondos a nivel nacional — **elEconomista**]
 
 Esta cifra resalta la capacidad del fondo para adaptarse y prosperar en un contexto financiero caracterizado por la volatilidad y la incertidumbre. La gestión activa del fondo, combinada con un enfoque estratégico en la selección de activos, ha permitido no solo superar a muchos de sus competidores, sino también proporcionar un refugio para los inversores en busca de rendimientos sólidos. 
-
-
 
 {{< adsterra_native >}}
 
@@ -91,6 +93,4 @@ El análisis exhaustivo de su rendimiento y la evaluación de sus estrategias de
 - [Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos](/es/funds/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e/)
 - [Oro en la Eurozona: 5 ETFs ''L](/es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

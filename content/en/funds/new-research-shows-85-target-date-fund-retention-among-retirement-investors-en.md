@@ -1,14 +1,17 @@
 ---
-title: "New Research Shows 85% Target Date Fund Retention Among Retirement Investors"
-date: 2026-05-30T09:06:41
+title: New Research Shows 85% Target Date Fund Retention Among Retirement Investors
+date: 2026-05-30 09:06:41
 draft: false
-description: "Discover how 85% of retirement investors stick with target date funds, revealing key insights into their effectiveness and appeal in long-term planning."
-featured_image: "/images/new-research-shows-85-target-date-fund-retention-among-retirement-investors-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "24970d35-c589-37f0-a3db-c26c4c748169"
+description: Discover how 85% of retirement investors stick with target date funds,
+  revealing key insights into their effectiveness and appeal in long-term planning.
+featured_image: /images/new-research-shows-85-target-date-fund-retention-among-retirement-investors-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 24970d35-c589-37f0-a3db-c26c4c748169
 ---
 
 ![New Research Shows 85% Target Date Fund Retention Among Retirement Investors](/images/new-research-shows-85-target-date-fund-retention-among-retirement-investors-en.jpg)
@@ -20,8 +23,6 @@ A striking 85% of retirement investors retain their Target Date Funds (TDFs), un
 * [TDFs have outperformed traditional equity funds by an average of 2% annually over the past five years — source Morningstar]
 
 Target Date Funds have gained remarkable traction among retirement investors, with their structured glide paths appealing to those seeking a hands-off investment approach. As the landscape of retirement investing evolves, the persistence of TDFs is particularly noteworthy, given the backdrop of fluctuating markets and shifting investor preferences. The allure of simplicity in managing retirement savings and the automatic adjustments in asset allocation over time contribute to the sustained popularity of these funds.
-
-
 
 {{< adsterra_native >}}
 
@@ -78,36 +79,12 @@ Not all retirement plans include Target Date Funds, but a significant percentage
 ### Are Target Date Funds suitable for younger investors?
 Yes, younger investors can benefit from Target Date Funds as they typically offer higher growth potential in the early years, gradually becoming more conservative as they approach retirement age. 
 
-<script type="application/ld+json"></script>
-{ 
-  "@context": "https://schema.org", 
-  "@type": "NewsArticle", 
-  "headline": "New Research Shows 85% Target Date Fund Retention Among Retirement Investors", 
-  "datePublished": "2023-10-01", 
-  "author": { 
-    "@type": "Person", 
-    "name": "Mutual Fund Analyst" 
-  }, 
+, 
   "mainEntityOfPage": { 
-    "@type": "WebPage", 
-    "@id": "https://example.com/article" 
-  } 
 } 
-</script> 
+ 
 
-<script type="application/ld+json"></script>
-{ 
-  "@context": "https://schema.org", 
-  "@type": "FAQPage", 
-  "mainEntity": [ 
-    { 
-      "@type": "Question", 
-      "name": "Are Target Date Funds a good choice for retirement savings?", 
-      "acceptedAnswer": { 
-        "@type": "Answer", 
-        "text": "Yes, Target Date Funds can be an effective choice for retirement savings due to their diversified portfolios and automatic rebalancing feature that aligns with an investor's retirement timeline." 
-      } 
-    }, 
+}, 
     { 
       "@type": "Question", 
       "name": "What are the fees associated with Target Date Funds?", 
@@ -158,13 +135,10 @@ Yes, younger investors can benefit from Target Date Funds as they typically offe
     } 
   ] 
 } 
-</script>
 
 ## Related Articles
 - [Van](/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [XAEL-AI Enters U.S. Market, Builds on 30% Growth in China](/funds/xael-ai-enters-us-market-builds-on-30-growth-in-china-en/)
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

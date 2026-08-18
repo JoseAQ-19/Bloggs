@@ -63,22 +63,7 @@ Referencias:
 - [Unleash Your Fitness Journey: Save Up To 48% On Top-Rated Equipment With Horizon Fitness Promo Codes Analysis](/fitness/unleash-your-fitness-journey-save-up-to-48-on-top-rated-equipment-with-horizon-fitness-promo-codes-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis",
-  "description": "Running For A Cause: Sacramento's Runnin' for Rhett Fitness Festival Beats The Heat To Promote Movement And Community Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-08-02T07:47:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +73,3 @@ Referencias:
     }
   }
 }
-</script>

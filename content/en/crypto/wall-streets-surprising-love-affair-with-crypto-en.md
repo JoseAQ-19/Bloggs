@@ -1,16 +1,19 @@
 ---
-title: "Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming"
-date: 2026-06-10T18:17:24
+title: Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming
+date: 2026-06-10 18:17:24
 draft: false
-description: "Goldman Sachs surprises the market by filing for a Bitcoin ETF, shaking up the financial landscape. Discover the implications and expert insights now!."
-featured_image: "/images/wall-streets-surprising-love-affair-with-crypto-en.jpg"
-slug: "wall-streets-surprising-love-affair-with-crypto-en"
-canonical: "https://novumworld.com/crypto/wall-streets-surprising-love-affair-with-crypto-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "88b8e57c-a7f3-6206-1e75-08a52fa1060b"
+description: Goldman Sachs surprises the market by filing for a Bitcoin ETF, shaking
+  up the financial landscape. Discover the implications and expert insights now!.
+featured_image: /images/wall-streets-surprising-love-affair-with-crypto-en.jpg
+slug: wall-streets-surprising-love-affair-with-crypto-en
+canonical: https://novumworld.com/crypto/wall-streets-surprising-love-affair-with-crypto-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 88b8e57c-a7f3-6206-1e75-08a52fa1060b
 ---
 
 ![Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming](/images/wall-streets-surprising-love-affair-with-crypto-en.jpg)
@@ -80,12 +83,10 @@ As the cryptocurrency market continues to mature, the stakes are higher than eve
 - [news.google.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPYUNQMUk2MHpZRThYOUJJS3REbjNSaEhrZXJoX0xHWWxnUDJxN3VBTE9kSFc2MENxY3I0WFNoVVc0bWkwVFlZRWZORHcwSklJQUhPLS13RTkzSk9CVmNyaU5laVZxcVBKd2c5THY0NW01dV82Mk5DUjdzNElhcnFTbmhB?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPbVBONVlfTVg0eURRbzQ4Xy1TYXVWblF0ZE1JQ00xN2pHbk1JRnlSUlVLanhMWXFMV25OYjlBdmJMMkhBNjNjd2FrSVd1Y0dRUlc3d0ZZeXhtd0szZjlCSU01NllRd2xseVFYV2xuXzlRNXZoV2ZoTmxfYzU3VVF1cjVTZmpaemljMXptcXZmTlN1MjM2dzhGWkpab1prOFRabDgtRTdDaWpGbXctNGlqdHA1OA?oc=5)
 
-
 ## Related Articles
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 - [The Hidden Risks Behind The $2 Trillion Market Meltdown That Shocked Investors](/crypto/the-real-story-behind-the-market-meltdown-crypto-stocks-and-gold-in-freefall-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -95,18 +96,7 @@ As the cryptocurrency market continues to mature, the stakes are higher than eve
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming",
-  "description": "Goldman Sachs surprises the market by filing for a Bitcoin ETF, shaking up the financial landscape. Discover the implications and expert insights now!.",
-  "image": "https://novumworld.com/images/wall-streets-surprising-love-affair-with-crypto-en.jpg",
-  "datePublished": "2026-06-10T18:17:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +106,3 @@ As the cryptocurrency market continues to mature, the stakes are higher than eve
     }
   }
 }
-</script>

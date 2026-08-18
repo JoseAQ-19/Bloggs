@@ -1,16 +1,19 @@
 ---
-title: "Rosalía Desata La Locura: 1.3 Millones De Euros Por Dos Canciones En Sevilla"
-date: 2026-05-31T22:02:16
+title: 'Rosalía Desata La Locura: 1.3 Millones De Euros Por Dos Canciones En Sevilla'
+date: 2026-05-31 22:02:16
 draft: false
-description: "Rosalía arrasa en Sevilla con dos canciones que la hicieron recaudar 1.3 millones de euros. Descubre todos los detalles de este fenómeno musical."
-featured_image: "/images/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel.jpg"
-slug: "rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel"
-canonical: "https://novumworld.com/es/viral/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e0585744-ed67-9879-83de-da15cc941022"
+description: Rosalía arrasa en Sevilla con dos canciones que la hicieron recaudar
+  1.3 millones de euros. Descubre todos los detalles de este fenómeno musical.
+featured_image: /images/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel.jpg
+slug: rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel
+canonical: https://novumworld.com/es/viral/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e0585744-ed67-9879-83de-da15cc941022
 ---
 
 ![Rosalía Desata La Locura: 1.3 Millones De Euros Por Dos Canciones En Sevilla](/images/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel.jpg)
@@ -77,28 +80,12 @@ Cuando se trata de entretenimiento, la unión de talento local y plataformas glo
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE95dWxtd2FJbThuRkl4LUpXYXo1X3h2QTdZUElEUFFDNFVuWTMxc2RvYTZHLWJoSm1VbFBqbkRUTl8yVllFZVUtdmh6Y200akxwN2w2Z3luOVFZWXF4aHRIVHp1dHJJUVBwZkxlX0VtNzlzS1dISW1iSS1Bem1rUEJTLXhkR2ZqaHJJdjRDLUlxRlo1THJLTzZVeXZLQ3Rqc0h3ZTczMlhTNFhlNktVdEJUUEU?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPaXg3bGgwR29GUl9lMXpILU1pLXAxYXlleUF1WEhnT19fUnlEU0ZfeXU4ZmJCWUdOd0FlbkV6eXdCS2F1c1A3Q056NTZWM1lGb25McDFn?oc=5)
 
-
 ## Artículos relacionados
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [La Reacción](/es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad/)
 - [La Nueva Moda de Bodas: 42% de Novias Opta por Packs de Bótox Peligrosos](/es/viral/la-nueva-tendencia-en-bodas-de-ramos-de-flores-a-packs-de-botox/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Rosalía Desata La Locura: 1.3 Millones De Euros Por Dos Canciones En Sevilla",
-  "description": "Rosalía arrasa en Sevilla con dos canciones que la hicieron recaudar 1.3 millones de euros. Descubre todos los detalles de este fenómeno musical.",
-  "image": "https://novumworld.com/images/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel.jpg",
-  "datePublished": "2026-05-31T22:02:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +95,3 @@ Cuando se trata de entretenimiento, la unión de talento local y plataformas glo
     }
   }
 }
-</script>

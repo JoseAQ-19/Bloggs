@@ -1,16 +1,20 @@
 ---
-title: "82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming Truth"
-date: 2026-04-14T11:48:15
+title: '82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming
+  Truth'
+date: 2026-04-14 11:48:15
 draft: false
-description: "Discover why 82% of companies struggle with zero-trust security. Project Glasswing reveals critical insights and solutions to enhance your defense."
-featured_image: "/images/project-glasswing-revolutionizing-software-security-for-the-ai-age-en.jpg"
-slug: "project-glasswing-revolutionizing-software-security-for-the-ai-age-en"
-canonical: "https://novumworld.com/ia/project-glasswing-revolutionizing-software-security-for-the-ai-age-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "27c80e45-c78d-285a-9f91-c5f9c1fe0e46"
+description: Discover why 82% of companies struggle with zero-trust security. Project
+  Glasswing reveals critical insights and solutions to enhance your defense.
+featured_image: /images/project-glasswing-revolutionizing-software-security-for-the-ai-age-en.jpg
+slug: project-glasswing-revolutionizing-software-security-for-the-ai-age-en
+canonical: https://novumworld.com/ia/project-glasswing-revolutionizing-software-security-for-the-ai-age-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 27c80e45-c78d-285a-9f91-c5f9c1fe0e46
 ---
 
 ![82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming Truth](/images/project-glasswing-revolutionizing-software-security-for-the-ai-age-en.jpg)
@@ -90,28 +94,12 @@ For a detailed technical foundation on zero-trust architecture and supply chain 
 - [news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRFMya3lDZkFtQy1fU2QwODZwVHBmV0psTE9HcGZsTVJ2b25FUWpQczdsNDlNRXg1X3dQdEd4TjRMVWxUZHpUVXhtbVhBQ0QyZmhxU0lJSG1hLWxteDh6RDZQQ2pfRHVWb2tKOUFuY1F6dmFTSlJnVEg1LWNRVWUyS3lBbkxFZ1VMMTZJZXdaYjlTY1FVajl1T3NlY0UyeDJSaFUzM2xOY3hKaDlFUzFaeS15d2dWMkUy?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3JxYW43TFdDZzBaTklmQkh1Nmc0VDlNTmFhMjVhbEk3S004NklJdEtDeUVJZGZRVzVWaW5DUGltc192VGxkSEZObXRLWkdoY0c1NkI3Vm43MDc4Mm9ISDhHZzNwc1ZEamk1RHFaTGJvQUdqLURWMFozXzMzZWtETVlVY0J4Q1VYbl9xbm1FR2JaVVdSa3JneFlTU3JQcG1uNmZaaTd1X1U3OXNtaHVBTW1R?oc=5)
 
-
 ## Related Articles
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis](/ia/iowas-2026-ihsaa-state-championship-what-to-expect-en/)
 - [The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming Truth",
-  "description": "Discover why 82% of companies struggle with zero-trust security. Project Glasswing reveals critical insights and solutions to enhance your defense.",
-  "image": "https://novumworld.com/images/project-glasswing-revolutionizing-software-security-for-the-ai-age-en.jpg",
-  "datePublished": "2026-04-14T11:48:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -121,4 +109,3 @@ For a detailed technical foundation on zero-trust architecture and supply chain 
     }
   }
 }
-</script>

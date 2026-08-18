@@ -1,16 +1,19 @@
 ---
-title: "New Legislation Targets 5 Major Crypto Tax Loopholes That Could Shock Investors"
-date: 2026-06-17T17:17:07
+title: New Legislation Targets 5 Major Crypto Tax Loopholes That Could Shock Investors
+date: 2026-06-17 17:17:07
 draft: false
-description: "Discover how new legislation aims to close five major crypto tax loopholes that could surprise investors and reshape the digital currency landscape."
-featured_image: "/images/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en.jpg"
-slug: "new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en"
-canonical: "https://novumworld.com/crypto/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "e19b5667-ed06-167a-e94d-7d702f5550dc"
+description: Discover how new legislation aims to close five major crypto tax loopholes
+  that could surprise investors and reshape the digital currency landscape.
+featured_image: /images/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en.jpg
+slug: new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en
+canonical: https://novumworld.com/crypto/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: e19b5667-ed06-167a-e94d-7d702f5550dc
 ---
 
 ![New Legislation Targets 5 Major Crypto Tax Loopholes That Could Shock Investors](/images/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en.jpg)
@@ -71,7 +74,6 @@ Investors must proactively consult tax professionals to understand the implicati
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -80,18 +82,7 @@ Investors must proactively consult tax professionals to understand the implicati
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "New Legislation Targets 5 Major Crypto Tax Loopholes That Could Shock Investors",
-  "description": "Discover how new legislation aims to close five major crypto tax loopholes that could surprise investors and reshape the digital currency landscape.",
-  "image": "https://novumworld.com/images/new-legislation-aims-to-close-crypto-tax-loopholes-arringtons-bold-move-en.jpg",
-  "datePublished": "2026-06-17T17:17:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +92,3 @@ Investors must proactively consult tax professionals to understand the implicati
     }
   }
 }
-</script>

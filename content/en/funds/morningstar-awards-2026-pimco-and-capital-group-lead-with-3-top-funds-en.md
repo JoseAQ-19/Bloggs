@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Awards 2026: PIMCO and Capital Group Lead with 3 Top Funds"
-date: 2026-04-10T08:54:34
+title: 'Morningstar Awards 2026: PIMCO and Capital Group Lead with 3 Top Funds'
+date: 2026-04-10 08:54:34
 draft: false
-description: "Discover the 2026 Morningstar Awards winners as PIMCO and Capital Group shine with their top 3 mutual funds, guiding your investment decisions."
-featured_image: "/images/morningstar-awards-2026-pimco-and-capital-group-lead-with-3-top-funds-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "a0684100-03e0-03cd-e7b6-e0a19bb16008"
+description: Discover the 2026 Morningstar Awards winners as PIMCO and Capital Group
+  shine with their top 3 mutual funds, guiding your investment decisions.
+featured_image: /images/morningstar-awards-2026-pimco-and-capital-group-lead-with-3-top-funds-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: a0684100-03e0-03cd-e7b6-e0a19bb16008
 ---
 
 ![Morningstar Awards 2026: PIMCO and Capital Group Lead with 3 Top Funds](/images/morningstar-awards-2026-pimco-and-capital-group-lead-with-3-top-funds-en.jpg)
@@ -20,8 +23,6 @@ PIMCO and Capital Group have dominated the Morningstar Awards for investing exce
 * [PIMCO Credit Opportunities Fund: 8.8% 5Y average return with a 0.65% expense ratio — CNMV]
 
 The Morningstar Awards highlight the best in financial services, with a focus on funds that offer not just high returns, but also manage risk effectively. PIMCO, a leader in fixed income, has seen its Total Return Fund recognized for a remarkable 1-year return of 10.5%. This fund has leveraged the current interest rate environment to its advantage, capitalizing on both active management and strategic positioning. Meanwhile, Capital Group's Growth Fund has garnered attention with a robust 3-year average annual return of 12.2%, reflecting its ability to navigate market volatility successfully.
-
-
 
 {{< adsterra_native >}}
 
@@ -89,35 +90,11 @@ Consider performance history, management team reputation, expense ratios, and ho
 
 Regular reviews, ideally quarterly or biannually, are recommended to ensure that the funds continue to meet your investment objectives and to adjust your portfolio as necessary based on market conditions and personal financial goals.
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Awards 2026: PIMCO and Capital Group Lead with 3 Top Funds",
-  "datePublished": "2026-01-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/morningstar-awards-2026"
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the top-performing funds from PIMCO and Capital Group?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "PIMCO Total Return Fund and Capital Group Growth Fund are among the top performers recognized in the Morningstar Awards for 2026."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How can I invest in these funds?",
@@ -174,6 +151,4 @@ Regular reviews, ideally quarterly or biannually, are recommended to ensure that
 - [Vanguard](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 - [Morn](/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

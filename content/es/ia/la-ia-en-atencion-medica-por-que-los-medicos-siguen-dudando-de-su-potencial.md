@@ -1,16 +1,19 @@
 ---
-title: "La Verdad Oculta: Los 70% de Médicos Que Desconfían de la IA en Salud"
-date: 2026-04-20T10:23:09
+title: 'La Verdad Oculta: Los 70% de Médicos Que Desconfían de la IA en Salud'
+date: 2026-04-20 10:23:09
 draft: false
-description: "Descubre por qué el 70% de los médicos desconfían de la inteligencia artificial en salud y cómo esto impacta en el futuro de la medicina."
-featured_image: "/images/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial.jpg"
-slug: "la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial"
-canonical: "https://novumworld.com/es/ia/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "049e7fcc-52c5-6f4b-0c55-b70f0c494135"
+description: Descubre por qué el 70% de los médicos desconfían de la inteligencia
+  artificial en salud y cómo esto impacta en el futuro de la medicina.
+featured_image: /images/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial.jpg
+slug: la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial
+canonical: https://novumworld.com/es/ia/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 049e7fcc-52c5-6f4b-0c55-b70f0c494135
 ---
 
 ![La Verdad Oculta: Los 70% de Médicos Que Desconfían de la IA en Salud](/images/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial.jpg)
@@ -63,28 +66,12 @@ La desconfianza de los médicos hacia la IA en salud es un llamado de atención 
 - [news.google.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbmx5YjdaOXh3Vk5Fb2F2UnVBSDNSRzhKYV82N2ZYd1hJUnY1dDhCazNHclBDb2VVQV8teTdUeGNNU3dzdUlHWEVLcndtWWMzQmJlSFBzaW5RRkpEZE5EbFdRa3drWVMxdmMySUs5TGYtVzE2VThsXzlmLTZ6M2twQ2lKdDhYVDMtV0thWDdJWWRJaTJGdEF0eG1QNkJMV1FPcDhDdTdYVEhrbFI3TjNDQTB1TE9UUW5NY2RqS3kwY2x5MllobGkzYXNwMmlBZzBITnZRcVlpQUUzWnFpZ2RSa9IB9AFBVV95cUxNbjNVX0ZfWXBqcEY2VnNEWlE4VkcybWwyVncxZkVfMEptd1FneFlVSndUelluejJNTUw0cDFqYkhwSzllZmpzUWdzenJub2ZxZ2VQOXFhWFBZODF6VHdOX1RmY0tIWGpieVR5SzY3MnVhYjhEbUY0VEhwWE84LWxnajg3TUkzdVBlRFVZazN4OVo2ekdQVTRyY21NTDNmNnBHZy1nWklHUUJGWnhCUHY4eDgta3VxTFNGSEhVZTMyQVhjWFpBZnYtU2FpNHhGclJ4RVRPRVQ0bU8wQjFfeGhpcDc0N2k0MmM1RGlwMDFYMFE5bktf?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGtJYXZrOFpjR2tZRHlQNUZoYU9jZGhOTk81VW51c3poV2tOQWZ0ZmtESFhFWHVyLTVXUUpiTXFXWm83UFA1WkF4eTRVdGswUnJvOFY4UmRCN2d6UjljRVFTZF9adVUwbUxrSERpX29rbkVHTzhSNVhQMlh4YXp6YlJ3OTNZTUVxZ05nX1lMT09VTENyUTg0dDRiTldjM1FkeFlNaTJleUJGQldtRXJFZWFkOWd6MXZoSVp5cVFBeDBRdW8wNWc?oc=5)
 
-
 ## Artículos relacionados
 - [Silicon Valley Está Muerto: El F](/es/ia/silicon-valley-esta-muerto-el-futuro-es-descentral/)
 - [¿Tablas Prohibi](/es/ia/tablas-prohibidas-el-arma-secreta-de-la-desinforma/)
 - [NOVUMWORLD:](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Verdad Oculta: Los 70% de Médicos Que Desconfían de la IA en Salud",
-  "description": "Descubre por qué el 70% de los médicos desconfían de la inteligencia artificial en salud y cómo esto impacta en el futuro de la medicina.",
-  "image": "https://novumworld.com/images/la-ia-en-atencion-medica-por-que-los-medicos-siguen-dudando-de-su-potencial.jpg",
-  "datePublished": "2026-04-20T10:23:09",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +81,3 @@ La desconfianza de los médicos hacia la IA en salud es un llamado de atención 
     }
   }
 }
-</script>

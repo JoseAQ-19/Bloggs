@@ -1,16 +1,19 @@
 ---
-title: "Fitness Courts Are Taking Over: 5 Reasons You’ll Be Sweating This Summer"
-date: 2026-06-20T06:59:25
+title: 'Fitness Courts Are Taking Over: 5 Reasons You’ll Be Sweating This Summer'
+date: 2026-06-20 06:59:25
 draft: false
-description: "Discover why fitness courts are the summer trend! Explore 5 compelling reasons to get active, stay fit, and enjoy outdoor workouts this season."
-featured_image: "/images/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en.jpg"
-slug: "fitness-courts-are-coming-get-ready-to-sweat-this-summer-en"
-canonical: "https://novumworld.com/fitness/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "08b1ed22-45d0-c1eb-e0df-db9c29cb4ac2"
+description: Discover why fitness courts are the summer trend! Explore 5 compelling
+  reasons to get active, stay fit, and enjoy outdoor workouts this season.
+featured_image: /images/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en.jpg
+slug: fitness-courts-are-coming-get-ready-to-sweat-this-summer-en
+canonical: https://novumworld.com/fitness/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 08b1ed22-45d0-c1eb-e0df-db9c29cb4ac2
 ---
 
 ![Fitness Courts Are Taking Over: 5 Reasons You’ll Be Sweating This Summer](/images/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en.jpg)
@@ -76,28 +79,12 @@ To get started with fitness courts, follow these simple steps:
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZncxR0dlRDVjd3k1cnY2cWhWYUFKa2NSY1AyYjlmYl9NNDRuRWVtSmpiRW01NkMyT3lGX1pZeVBESXpXaS1qTDl1WHg4bTVQQWpUQUhGbU02SWR5aktpQ3k1bFgyeW9FTDRzdUlSVm4?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdjVNLVhkazRPLXZPRGs1Wjh1MnI2MHBfOW5wa1g0cGhLc3Y0bk82Mm5nRGRiOUpTNGpKMVZFclRWOEZJQ2ZPbWZKNmtUZmJEQUtEV3hydVg0b2g3VW5NcjhZYkRmZ2J1UjRabVNnY3A?oc=5)
 
-
 ## Related Articles
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 - [Women Unite: 5 Unforgettable Moments From Sacramento's Kaiser Fitness Festival Igniting Empowerment](/fitness/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fitness Courts Are Taking Over: 5 Reasons You’ll Be Sweating This Summer",
-  "description": "Discover why fitness courts are the summer trend! Explore 5 compelling reasons to get active, stay fit, and enjoy outdoor workouts this season.",
-  "image": "https://novumworld.com/images/fitness-courts-are-coming-get-ready-to-sweat-this-summer-en.jpg",
-  "datePublished": "2026-06-20T06:59:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +94,3 @@ To get started with fitness courts, follow these simple steps:
     }
   }
 }
-</script>

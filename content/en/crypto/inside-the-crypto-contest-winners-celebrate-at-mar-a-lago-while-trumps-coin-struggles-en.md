@@ -1,16 +1,19 @@
 ---
-title: "Winners Celebrate at Mar-a-Lago While Trump Coin Plummets 23% in Value"
-date: 2026-04-25T18:00:18
+title: Winners Celebrate at Mar-a-Lago While Trump Coin Plummets 23% in Value
+date: 2026-04-25 18:00:18
 draft: false
-description: "Winners toast at Mar-a-Lago as Trump's coin faces a shocking 23% plunge in value. Discover the latest on this financial twist and its implications."
-featured_image: "/images/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en.jpg"
-slug: "inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en"
-canonical: "https://novumworld.com/crypto/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "9bd49fc4-2b5c-c142-6191-a33687ce4fae"
+description: Winners toast at Mar-a-Lago as Trump's coin faces a shocking 23% plunge
+  in value. Discover the latest on this financial twist and its implications.
+featured_image: /images/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en.jpg
+slug: inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en
+canonical: https://novumworld.com/crypto/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 9bd49fc4-2b5c-c142-6191-a33687ce4fae
 ---
 
 ![Winners Celebrate at Mar-a-Lago While Trump Coin Plummets 23% in Value](/images/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en.jpg)
@@ -62,12 +65,10 @@ The saga of Trump Coin, marked by the stark contrast between the Mar-a-Lago cele
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOazF2bXQyb2JXSHE4REtKOHM3LU04aFZkd3pQZUtCSGJ2R0JsSXVKRExTaGlyVlpXYnVEQjhnbGUxMlViTV9BU005dk9nYTM2Qlp5Z0E4YV9JODNzNmwya0dwRzJ3UnVMU3o0T3p1U2J2Z1hWbUJELWV0V0NETG9TUXFnX2xENzgwN2EyazB2aEQwWVQxY200Z2R4Z3hrNl9DWmJPWTVRSWhaNTBtQzFmUURB?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE44QjZJZkNqR0RLejVsdWd3eXBaY21lQk1lR2QxWEduVndNWEk3ci1RMnhhNnBWQS1POU8wOTVPU1ZYdFpfV2R1QkJ2ZW9LRWpXT2szazhBU2lWVWhVcldwQWhNNzFCbFJNVWpseG1aQVp6eTdUdTdJUVhn?oc=5)
 
-
 ## Related Articles
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
 - [France's Alarming 41 Crypto Kidnappings: The Dark Side of Digital Currency Exposed](/crypto/the-dark-side-of-crypto-frances-alarming-rise-in-cryptocurrency-kidnappings-en/)
 - [SEC Just Opened the Floodgates for Decentralized Crypto Trading and Investors Should Panic](/crypto/sec-opens-doors-for-decentralized-crypto-trading-what-it-means-for-investors-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -77,18 +78,7 @@ The saga of Trump Coin, marked by the stark contrast between the Mar-a-Lago cele
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Winners Celebrate at Mar-a-Lago While Trump Coin Plummets 23% in Value",
-  "description": "Winners toast at Mar-a-Lago as Trump's coin faces a shocking 23% plunge in value. Discover the latest on this financial twist and its implications.",
-  "image": "https://novumworld.com/images/inside-the-crypto-contest-winners-celebrate-at-mar-a-lago-while-trumps-coin-struggles-en.jpg",
-  "datePublished": "2026-04-25T18:00:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +88,3 @@ The saga of Trump Coin, marked by the stark contrast between the Mar-a-Lago cele
     }
   }
 }
-</script>

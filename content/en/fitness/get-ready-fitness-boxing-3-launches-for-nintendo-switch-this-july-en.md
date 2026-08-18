@@ -1,16 +1,20 @@
 ---
-title: "Shocking Decline: Fitness Boxing 3 Scores Lower Than Its Predecessors Amid Controversies"
-date: 2026-05-16T06:19:12
+title: 'Shocking Decline: Fitness Boxing 3 Scores Lower Than Its Predecessors Amid
+  Controversies'
+date: 2026-05-16 06:19:12
 draft: false
-description: "Discover why Fitness Boxing 3 is facing a shocking decline in scores compared to its predecessors amid rising controversies in the gaming world."
-featured_image: "/images/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en.jpg"
-slug: "get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en"
-canonical: "https://novumworld.com/fitness/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "22b6527b-d1c8-6e71-bafa-d980d27662b7"
+description: Discover why Fitness Boxing 3 is facing a shocking decline in scores
+  compared to its predecessors amid rising controversies in the gaming world.
+featured_image: /images/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en.jpg
+slug: get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en
+canonical: https://novumworld.com/fitness/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 22b6527b-d1c8-6e71-bafa-d980d27662b7
 ---
 
 ![Shocking Decline: Fitness Boxing 3 Scores Lower Than Its Predecessors Amid Controversies](/images/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en.jpg)
@@ -79,28 +83,12 @@ Fitness Boxing 3 exemplifies the dangerous disconnect between commercial success
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE1RLUJhR0RpNjcyNzlpSDJuYVR5eGV1WngzNC1KLW93VlZfaDU4M09QZHBFMjM4ZVJFOEpVY1hCcjhjem9LeEZvOW0yOHBTblUxZ3BXNXdvWVhYTXRBSERNdUJMYm5USzRQN2RlQnNKVmM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUJmZGNuWTdkMDlJNEd2SjluV1kyU210UFFNRWdwQ0F5Y29DOHNBcTNMa3FsdGtmcmN5bGtiR3JFZEFLaDFfOWZ6N3RERnluTUhUTWpFVTMyTUtHSlhYamY0VTJaXzY3cGRjNFB2T3pXalBDZnZVZlljZ09ZbHRGejk3enFSbDNWUEd0Y0hGVGdjbzl1MGFjMGNR?oc=5)
 
-
 ## Related Articles
 - [Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially](/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/)
 - [Hack Your Calm: Vagus Nerv](/fitness/somatic-fitness-vagus-nerve-stimulation-en/)
 - [Forget Incline! 44 Degrees Is The](/fitness/upper-chest-hypertrophy-science-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking Decline: Fitness Boxing 3 Scores Lower Than Its Predecessors Amid Controversies",
-  "description": "Discover why Fitness Boxing 3 is facing a shocking decline in scores compared to its predecessors amid rising controversies in the gaming world.",
-  "image": "https://novumworld.com/images/get-ready-fitness-boxing-3-launches-for-nintendo-switch-this-july-en.jpg",
-  "datePublished": "2026-05-16T06:19:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ Fitness Boxing 3 exemplifies the dangerous disconnect between commercial success
     }
   }
 }
-</script>

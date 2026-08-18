@@ -1,14 +1,17 @@
 ---
-title: "El fondo XYZ supera a sus competidores en un 25% en el último trimestre"
-date: 2026-06-24T07:48:13
+title: El fondo XYZ supera a sus competidores en un 25% en el último trimestre
+date: 2026-06-24 07:48:13
 draft: false
-description: "Descubre cómo el fondo XYZ ha logrado un impresionante 25% de rendimiento superior a sus competidores en el último trimestre. ¡Invierta sabiamente!."
-featured_image: "/images/el-fondo-xyz-supera-a-sus-competidores-en-un-25-en-el-ultimo-trimestre.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "575d865d-3dca-22b1-e3bb-ed1ebe76080a"
+description: Descubre cómo el fondo XYZ ha logrado un impresionante 25% de rendimiento
+  superior a sus competidores en el último trimestre. ¡Invierta sabiamente!.
+featured_image: /images/el-fondo-xyz-supera-a-sus-competidores-en-un-25-en-el-ultimo-trimestre.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 575d865d-3dca-22b1-e3bb-ed1ebe76080a
 ---
 
 ![El fondo XYZ supera a sus competidores en un 25% en el último trimestre](/images/el-fondo-xyz-supera-a-sus-competidores-en-un-25-en-el-ultimo-trimestre.jpg)
@@ -20,8 +23,6 @@ El fondo XYZ ha logrado un rendimiento impresionante, superando a sus competidor
 * [Volatilidad del fondo XYZ: 10% — fuente CNMV]
 
 El análisis comparativo revela que el fondo XYZ no solo ha superado a sus pares en términos de rendimiento, sino que también ha mantenido una menor volatilidad en comparación con otros fondos en su categoría. En el último año, el fondo ha registrado un rendimiento del 40%, frente al 32% de la media de su grupo. A tres y cinco años, el rendimiento del fondo XYZ se sitúa en el 85% y el 150%, respectivamente, superando significativamente el promedio del sector.
-
-
 
 {{< adsterra_native >}}
 
@@ -91,6 +92,4 @@ El análisis de estos factores es crucial para tomar decisiones de inversión in
 - [Rendimiento del 18%: fondo que apuesta por los 20 mayores unicornios no cotizados](/es/funds/rendimiento-del-18-fondo-que-apuesta-por-los-20-mayores-unicornios-no-cotizados/)
 - [Vanguard presenta su nuevo equipo en España y su impacto en fondos de inversión locales](/es/funds/vanguard-presenta-su-nuevo-equipo-en-espana-y-su-impacto-en-fondos-de-inversion-/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

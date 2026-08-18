@@ -32,8 +32,6 @@ type: funds
 
 Vanguard, the largest mutual fund provider in the US, has announced a significant reduction in fees across its index fund lineup. This move is expected to save investors approximately $250 million in 2023, resulting in a 0.03% increase in annual returns. The fee reduction is a welcome development for investors, who have been facing increasing costs in the mutual fund industry.
 
-
-
 {{< adsterra_native >}}
 
 ## The Fee Reduction: A Closer Look
@@ -73,41 +71,11 @@ A: Vanguard has stated that the fee reduction will not affect the quality of its
 Q: How does Vanguard's fee reduction compare to other mutual fund providers?
 A: Vanguard's fee reduction is one of the most significant in the industry. However, other mutual fund providers, such as Fidelity and BlackRock, have also reduced their fees in recent years.
 
-### Schema Markup
-
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns by 0.03%",
-"description": "Vanguard reduces fees across its index fund lineup, saving investors $250 million in 2023.",
-"image": "https://example.com/image.jpg",
-"author": "John Doe",
-"publisher": "NovumWorld",
-"datePublished": "2023-02-20",
-"dateModified": "2023-02-20",
-"mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://example.com/article"
-},
+,
 "relatedLink": [
-{
-"@type": "WebPage",
-"@id": "https://example.com/related-article"
-}
 ]
 }
 
-{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"mainEntity": [
-{
-"@type": "Question",
-"name": "How much will I save in fees with Vanguard's new pricing?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "The amount you save in fees will depend on the specific fund you invest in and the amount you invest. However, according to Morningstar, the estimated increase in annual returns for Vanguard investors due to the fee reduction is 0.03%."
-}
 },
 {
 "@type": "Question",
@@ -137,6 +105,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Hartford''s $850 Million Fund Downgrade: Morningstar Points to Subadvising](/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en/)
 - [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
 - [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

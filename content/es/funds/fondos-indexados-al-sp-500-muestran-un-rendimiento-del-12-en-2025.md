@@ -1,14 +1,17 @@
 ---
-title: "Fondos indexados al S&P 500 muestran un rendimiento del 12% en 2025"
-date: 2026-04-23T07:11:44
+title: Fondos indexados al S&P 500 muestran un rendimiento del 12% en 2025
+date: 2026-04-23 07:11:44
 draft: false
-description: "Descubre cómo los fondos indexados al S&P 500 lograron un impresionante rendimiento del 12% en 2025 y qué significa para tus inversiones."
-featured_image: "/images/fondos-indexados-al-sp-500-muestran-un-rendimiento-del-12-en-2025.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "a475fc54-eec0-817e-3bad-3e83253e122a"
+description: Descubre cómo los fondos indexados al S&P 500 lograron un impresionante
+  rendimiento del 12% en 2025 y qué significa para tus inversiones.
+featured_image: /images/fondos-indexados-al-sp-500-muestran-un-rendimiento-del-12-en-2025.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: a475fc54-eec0-817e-3bad-3e83253e122a
 ---
 
 ![Fondos indexados al S&P 500 muestran un rendimiento del 12% en 2025](/images/fondos-indexados-al-sp-500-muestran-un-rendimiento-del-12-en-2025.jpg)
@@ -20,8 +23,6 @@ El rendimiento de los fondos indexados al S&P 500 ha alcanzado un notable 12% en
 * [Ratio de Sharpe promedio de los fondos indexados al S&P 500: 1.2 — fuente: SEC]
 
 Este rendimiento se ha visto impulsado por la recuperación de sectores clave y la continua atracción de capital hacia estrategias de inversión pasiva. Los fondos indexados, en particular, han captado la atención de los inversores que buscan minimizar costos y maximizar sus ganancias a largo plazo. En este análisis, examinaremos las características de estos fondos, su rendimiento en comparación con otros tipos de fondos y las opiniones de expertos sobre sus perspectivas futuras.
-
-
 
 {{< adsterra_native >}}
 
@@ -81,17 +82,7 @@ Sí, la diversificación entre diferentes fondos indexados y otras clases de act
 
 Creemos que los fondos indexados al S&P 500 son una opción atractiva para muchos inversores, especialmente aquellos que buscan una estrategia de inversión pasiva y de bajo costo. La combinación de un rendimiento sólido, una volatilidad relativamente baja y la opinión de expertos que respaldan su eficacia hace que estos fondos sean una elección viable para construir una cartera a largo plazo. Es fundamental que los inversores mantengan una perspectiva informada y diversificada mientras navegan por el complejo paisaje de inversión actual. 
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fondos indexados al S&P 500 muestran un rendimiento del 12% en 2025",
-  "datePublished": "2025-01-15",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntity": [
     {
       "@type": "Question",
@@ -135,13 +126,10 @@ Creemos que los fondos indexados al S&P 500 son una opción atractiva para mucho
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Fondos españoles pinchan un 5% en el primer trimestre de 2023 frente a 2022](/es/funds/fondos-espanoles-pinchan-un-5-en-el-primer-trimestre-de-2023-frente-a-2022/)
 - [Fondos indexados al S&P 500 lograron un rendimiento del 10% en 2025](/es/funds/fondos-indexados-al-sp-500-lograron-un-rendimiento-del-10-en-2025/)
 - [SpaceX: ¿Una valoración d](/es/funds/spacex-una-valoracion-de-200000-millones-justificada/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

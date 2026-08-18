@@ -1,14 +1,17 @@
 ---
-title: "Fondos ESG en México: activos caen 12% y rendimientos rezagados frente a ETFs"
-date: 2026-05-29T07:55:00
+title: 'Fondos ESG en México: activos caen 12% y rendimientos rezagados frente a ETFs'
+date: 2026-05-29 07:55:00
 draft: false
-description: "Descubre cómo los fondos ESG en México enfrentan una caída del 12% y por qué sus rendimientos son inferiores a los ETFs en este análisis detallado."
-featured_image: "/images/fondos-esg-en-mexico-activos-caen-12-y-rendimientos-rezagados-frente-a-etfs.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "f5dab3cf-81b3-a64b-f68e-dbf7d648a138"
+description: Descubre cómo los fondos ESG en México enfrentan una caída del 12% y
+  por qué sus rendimientos son inferiores a los ETFs en este análisis detallado.
+featured_image: /images/fondos-esg-en-mexico-activos-caen-12-y-rendimientos-rezagados-frente-a-etfs.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: f5dab3cf-81b3-a64b-f68e-dbf7d648a138
 ---
 
 ![Fondos ESG en México: activos caen 12% y rendimientos rezagados frente a ETFs](/images/fondos-esg-en-mexico-activos-caen-12-y-rendimientos-rezagados-frente-a-etfs.jpg)
@@ -20,8 +23,6 @@ El mercado de fondos de inversión ESG en México ha enfrentado una contracción
 * [Banorte lidera la captación en un mercado en contracción — Fuente: Google News Finance]
 
 El contexto actual presenta un panorama complicado para los fondos ESG, con una creciente concentración de activos en un número reducido de fondos, lo que podría limitar la diversificación y aumentar el riesgo para los inversionistas. En comparación, los ETFs han demostrado ser más competitivos, ofreciendo rendimientos superiores y menores comisiones. Este fenómeno refleja una tendencia global donde los fondos tradicionales están siendo desplazados por estructuras de inversión más ágiles y rentables, como los ETFs.
-
-
 
 {{< adsterra_native >}}
 
@@ -77,6 +78,4 @@ Creemos que la situación actual de los fondos ESG en México requiere una reeva
 - [Guerra Irán: ¿Golp](/es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos/)
 - [Renta 4 Megatendencias Fi Ariema Hidrógeno: 30% de crecimiento transforma tu inversión en 2026](/es/funds/renta-4-megatendencias-fi-ariema-hidrogeno-30-de-crecimiento-transforma-tu-inver/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

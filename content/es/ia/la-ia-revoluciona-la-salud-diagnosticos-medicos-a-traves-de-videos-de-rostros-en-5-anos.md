@@ -1,16 +1,19 @@
 ---
-title: "La IA Revoluciona la Salud: Diagnósticos Médicos a Través de Vídeos en 5 Años"
-date: 2026-04-21T10:13:49
+title: 'La IA Revoluciona la Salud: Diagnósticos Médicos a Través de Vídeos en 5 Años'
+date: 2026-04-21 10:13:49
 draft: false
-description: "Descubre cómo la inteligencia artificial transformará los diagnósticos médicos mediante vídeos en solo 5 años. Un futuro prometedor para la salud."
-featured_image: "/images/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos.jpg"
-slug: "la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos"
-canonical: "https://novumworld.com/es/ia/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "e6f15d2f-0eb7-9094-4f6a-731111dcfcb0"
+description: Descubre cómo la inteligencia artificial transformará los diagnósticos
+  médicos mediante vídeos en solo 5 años. Un futuro prometedor para la salud.
+featured_image: /images/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos.jpg
+slug: la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos
+canonical: https://novumworld.com/es/ia/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: e6f15d2f-0eb7-9094-4f6a-731111dcfcb0
 ---
 
 ![La IA Revoluciona la Salud: Diagnósticos Médicos a Través de Vídeos en 5 Años](/images/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos.jpg)
@@ -59,22 +62,7 @@ La IA tiene el potencial para transformar la medicina, pero la implementación r
 - [¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu Saa](/es/ia/saas-extincion-masiva/)
 - [Trabajo y: La Dist](/es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Revoluciona la Salud: Diagnósticos Médicos a Través de Vídeos en 5 Años",
-  "description": "Descubre cómo la inteligencia artificial transformará los diagnósticos médicos mediante vídeos en solo 5 años. Un futuro prometedor para la salud.",
-  "image": "https://novumworld.com/images/la-ia-revoluciona-la-salud-diagnosticos-medicos-a-traves-de-videos-de-rostros-en-5-anos.jpg",
-  "datePublished": "2026-04-21T10:13:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +72,3 @@ La IA tiene el potencial para transformar la medicina, pero la implementación r
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew"
-date: 2026-05-15T06:34:15
+title: 'The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew'
+date: 2026-05-15 06:34:15
 draft: false
-description: "Discover the startling reality of muscle loss as we age. Learn how 50% of muscle mass vanishes by age 90 and what you can do to combat it."
-featured_image: "/images/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en.jpg"
-slug: "when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en"
-canonical: "https://novumworld.com/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "cc535ff5-9a36-9e2b-e4a4-102419eed2b6"
+description: Discover the startling reality of muscle loss as we age. Learn how 50%
+  of muscle mass vanishes by age 90 and what you can do to combat it.
+featured_image: /images/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en.jpg
+slug: when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en
+canonical: https://novumworld.com/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: cc535ff5-9a36-9e2b-e4a4-102419eed2b6
 ---
 
 ![The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/images/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en.jpg)
@@ -78,28 +81,12 @@ The implications of this crisis extend beyond individual health; they encompass 
 - [news.google.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVl9NR2gzV3E2cGRQLWZfeWYwRWQ5SWxnR05XSVVjdTM4cUZXbVlST0EzOWY2aHpDOWQ2MXQ3Yk9hbzZyX040SXpSSXR0WHZiM2tjZm5HeFF5ZktHbGNsYlM3blZ3V19uVXhtblAyYWQ1dUVqdjFMVzNWeGUzWFFLRXBiTG5vZDlrSlJ4QUlhN2pnNDhhOW5JazA3Vk5IRW5rVUxFdVF1SlVYaWwxb3g4ekJROFVnNkJKbGc2MVNybUY5TGVUSDYta3puVHRvd2ZTQ1dGYw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlota28zYk44R0Eza0ZBODdXdTdfZHBLQmxQajFLZ3ZLUDQ4aVAzYXgwTnpmTTJSa2RjdUd5eGwxMWhiWTdiZG1KcHI0ZWJLd016OUtVaDNDWk1DTnVrWWtWdzVHcGt6Wng4YTI1N1hBQWNva29Gc1hjQUdfNGNmWQ?oc=5)
 
-
 ## Related Articles
 - [15% Faster Muscle Recovery? Ditch These Spri](/fitness/spring-fitness-fails-habits-en/)
 - [Spotify And Peloton Unleash 1,400 Workouts: A Game Changer For Home Fitness](/fitness/spotify-and-peloton-join-forces-the-new-era-of-fitness-content-is-here-en/)
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew",
-  "description": "Discover the startling reality of muscle loss as we age. Learn how 50% of muscle mass vanishes by age 90 and what you can do to combat it.",
-  "image": "https://novumworld.com/images/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en.jpg",
-  "datePublished": "2026-05-15T06:34:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ The implications of this crisis extend beyond individual health; they encompass 
     }
   }
 }
-</script>

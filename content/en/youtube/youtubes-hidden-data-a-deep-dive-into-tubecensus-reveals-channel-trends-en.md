@@ -1,16 +1,19 @@
 ---
-title: "YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored"
-date: 2026-05-25T19:36:31
+title: YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored
+date: 2026-05-25 19:36:31
 draft: false
-description: "Discover how YouTube's hidden data shows 57% of creators are inactive, shedding light on the challenges and dynamics of content creation today."
-featured_image: "/images/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en.jpg"
-slug: "youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en"
-canonical: "https://novumworld.com/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "50a40c78-c604-6565-0a59-13fff74f42a5"
+description: Discover how YouTube's hidden data shows 57% of creators are inactive,
+  shedding light on the challenges and dynamics of content creation today.
+featured_image: /images/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en.jpg
+slug: youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en
+canonical: https://novumworld.com/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 50a40c78-c604-6565-0a59-13fff74f42a5
 ---
 
 ![YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored](/images/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en.jpg)
@@ -61,22 +64,7 @@ YouTube's creator ecosystem is at a tipping point—will you adapt or be left be
 - [YouTube's Hype Feature Surged to 5 Million Uses in Just Four Weeks](/youtube/youtubes-new-hype-feature-how-its-set-to-change-the-creator-game-en/)
 - [The Hidden Dangers of YouTube's Algorithm: How 70% of Views Are Manipulated](/youtube/youtubes-sneaky-trick-how-to-keep-your-watch-history-private-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored",
-  "description": "Discover how YouTube's hidden data shows 57% of creators are inactive, shedding light on the challenges and dynamics of content creation today.",
-  "image": "https://novumworld.com/images/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en.jpg",
-  "datePublished": "2026-05-25T19:36:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -86,4 +74,3 @@ YouTube's creator ecosystem is at a tipping point—will you adapt or be left be
     }
   }
 }
-</script>

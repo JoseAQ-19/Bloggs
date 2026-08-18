@@ -32,8 +32,6 @@ YouTube treats children's data as a revenue stream, not a protected asset, and t
 * A Los Angeles jury found YouTube liable for contributing to social media addiction, marking a pivotal shift in platform accountability for mental health impacts.
 * 62% of viewing by under-16s occurs on YouTube, dwarfing the 22% share of broadcast TV and proving the platform's dominance over the next generation of consumers.
 
-
-
 {{< adsterra_native >}}
 
 ## The $170 Million COPPA Settlement and Its Fallout
@@ -93,6 +91,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [YouTube Murder Alibi: Professor Farid Reveals The Real-World Harm Hidden Here.](/en/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [72 Million Data Points: YouTube''s Child Tracking Nightmare Exposed In Indonesia](/en/youtube/indonesia-youtube-tiktok-ban-en/)
 - [Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization](/en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

@@ -1,16 +1,20 @@
 ---
-title: "8th-Grade Guitar Prodigy Shreds Heavy Metal, Shocking Experts and Audiences Alike"
-date: 2026-04-07T23:43:51
+title: 8th-Grade Guitar Prodigy Shreds Heavy Metal, Shocking Experts and Audiences
+  Alike
+date: 2026-04-07 23:43:51
 draft: false
-description: "Meet the 8th-grade guitar prodigy taking the heavy metal scene by storm, impressing experts and audiences with jaw-dropping skills and talent."
-featured_image: "/images/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en.jpg"
-slug: "8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en"
-canonical: "https://novumworld.com/viral/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "6123a723-a34d-382a-1d2d-f60f6bcd85df"
+description: Meet the 8th-grade guitar prodigy taking the heavy metal scene by storm,
+  impressing experts and audiences with jaw-dropping skills and talent.
+featured_image: /images/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en.jpg
+slug: 8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en
+canonical: https://novumworld.com/viral/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 6123a723-a34d-382a-1d2d-f60f6bcd85df
 ---
 
 ![8th-Grade Guitar Prodigy Shreds Heavy Metal, Shocking Experts and Audiences Alike](/images/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en.jpg)
@@ -86,28 +90,12 @@ The next wave of guitar legends may come from unexpected places. With platforms 
 - [infocus.nlm.nih.gov](https://infocus.nlm.nih.gov/2019/04/11/teenager-taps-into-ncbi-expertise-and-becomes-finalist-in-science-competition/)
 - [archive-share.america.gov](https://archive-share.america.gov/teen-finds-green-power-in-guitar-strings/index.html)
 
-
 ## Related Articles
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [PopSockets'' $315 Million Mirage: Are Sales Figu](/viral/popsockets-market-saturation-en/)
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "8th-Grade Guitar Prodigy Shreds Heavy Metal, Shocking Experts and Audiences Alike",
-  "description": "Meet the 8th-grade guitar prodigy taking the heavy metal scene by storm, impressing experts and audiences with jaw-dropping skills and talent.",
-  "image": "https://novumworld.com/images/8th-grade-guitar-prodigy-shreds-heavy-metal-and-takes-talent-show-by-storm-en.jpg",
-  "datePublished": "2026-04-07T23:43:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +105,3 @@ The next wave of guitar legends may come from unexpected places. With platforms 
     }
   }
 }
-</script>

@@ -1,14 +1,18 @@
 ---
-title: "AlUla Development Company Begins NUMAJ Construction, Aiming for 20% Growth in Tourism Revenue"
-date: 2026-04-20T07:32:16
+title: AlUla Development Company Begins NUMAJ Construction, Aiming for 20% Growth
+  in Tourism Revenue
+date: 2026-04-20 07:32:16
 draft: false
-description: "Discover how AlUla Development Company’s NUMAJ project aims to boost tourism revenue by 20%, transforming the region's economic landscape."
-featured_image: "/images/alula-development-company-begins-numaj-construction-aiming-for-20-growth-in-tour-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "1e4b84b3-a545-1fac-3767-50da0070af6c"
+description: Discover how AlUla Development Company’s NUMAJ project aims to boost
+  tourism revenue by 20%, transforming the region's economic landscape.
+featured_image: /images/alula-development-company-begins-numaj-construction-aiming-for-20-growth-in-tour-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 1e4b84b3-a545-1fac-3767-50da0070af6c
 ---
 
 ![AlUla Development Company Begins NUMAJ Construction, Aiming for 20% Growth in Tourism Revenue](/images/alula-development-company-begins-numaj-construction-aiming-for-20-growth-in-tour-en.jpg)
@@ -22,8 +26,6 @@ AlUla Development Company has embarked on an ambitious project, initiating the c
 The NUMAJ project represents a significant milestone for the AlUla Development Company, which aims to enhance the region's attractiveness as a cultural and historical destination. The initiative aligns with Saudi Arabia's Vision 2030 strategy, which seeks to diversify the economy beyond oil dependency and stimulate growth in the tourism sector, particularly in areas rich in cultural heritage.
 
 The AlUla region, known for its archaeological wonders and natural beauty, is poised for a transformation that could redefine its economic landscape. With the construction of NUMAJ, the AlUla Development Company is not only investing in infrastructure but also in the future of sustainable tourism. This project is expected to create thousands of jobs and stimulate local businesses, thereby fostering economic growth.
-
-
 
 {{< adsterra_native >}}
 
@@ -78,26 +80,13 @@ The region expects to attract approximately 1.5 million tourists annually by 203
 ### How will the project affect local businesses?
 The influx of tourists is expected to stimulate local businesses, providing new opportunities for growth and development.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AlUla Development Company Begins NUMAJ Construction, Aiming for 20% Growth in Tourism Revenue",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
+,
   "articleBody": "AlUla Development Company has embarked on an ambitious project, initiating the construction of NUMAJ, with expectations of a 20% increase in tourism revenue. This notable growth trajectory is underscored by several key financial indicators: * *20% increase in projected tourism revenue — **source: Google News Finance*** * *$10 billion investment in AlUla's development over the next decade — **source: Google News Finance*** * *Expected 1.5 million tourists annually by 2030 — **source: Google News Finance*** The NUMAJ project represents a significant milestone for the AlUla Development Company, which aims to enhance the region's attractiveness as a cultural and historical destination. The initiative aligns with Saudi Arabia's Vision 2030 strategy, which seeks to diversify the economy beyond oil dependency and stimulate growth in the tourism sector, particularly in areas rich in cultural heritage. The AlUla region, known for its archaeological wonders and natural beauty, is poised for a transformation that could redefine its economic landscape. With the construction of NUMAJ, the AlUla Development Company is not only investing in infrastructure but also in the future of sustainable tourism. This project is expected to create thousands of jobs and stimulate local businesses, thereby fostering economic growth."
 }
-</script>
 
 ## Related Articles
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 - [VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure](/funds/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en/)
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

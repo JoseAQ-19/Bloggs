@@ -1,16 +1,20 @@
 ---
-title: "KSI's Shocking Exit: The £125 Million Sidemen Empire Faces Its Greatest Challenge Yet"
-date: 2026-05-31T19:36:46
+title: 'KSI''s Shocking Exit: The £125 Million Sidemen Empire Faces Its Greatest Challenge
+  Yet'
+date: 2026-05-31 19:36:46
 draft: false
-description: "KSI's unexpected departure sends shockwaves through the £125 million Sidemen empire, revealing unprecedented challenges ahead for the popular collective."
-featured_image: "/images/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en.jpg"
-slug: "ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en"
-canonical: "https://novumworld.com/youtube/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "dcf43a22-1583-0654-8885-ac8ba83c38b6"
+description: KSI's unexpected departure sends shockwaves through the £125 million
+  Sidemen empire, revealing unprecedented challenges ahead for the popular collective.
+featured_image: /images/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en.jpg
+slug: ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en
+canonical: https://novumworld.com/youtube/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: dcf43a22-1583-0654-8885-ac8ba83c38b6
 ---
 
 ![KSI's Shocking Exit: The £125 Million Sidemen Empire Faces Its Greatest Challenge Yet](/images/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en.jpg)
@@ -97,28 +101,12 @@ The Sidemen's empire may be at risk, but the show must go on—if they can find 
 - [news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUJQU1Q4eGdFNWRob29Tc3JKR0NRNXJDNVhPV20zTVp4bTF2RkRzcVpvR2hYdUNvOTZrZ2VXOUcxcHhZM0VzQ3h0SGY3cGtRV2N6T3VBSGVLMUwtbTVzaTBZR3NPMklTQ2g1U2hwclN3WGVXajlZU2NoQm5yaDI5d3o5ekhfYUYxeW41RnZ5NDBpOVBGdWdwR3k1UWp4WG1FSjZfWEZFY0RFbUE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBSaE11ZV9ZX1hPLXZFZTZzVF9pNVEzQ0tuLTFzMmo5VU11eS1JVFd6cEZjNjFrald6WDVqNFJjb2xHZGxObjAyMnpuVVg0cjdWZlByaEkzbm5OY2hQRmJiay1NRXRraGtlWmZrOTIxaS1NOTQ?oc=5)
 
-
 ## Related Articles
 - [YouTube Just Surged to $9.88 Billion in Ad Revenue and Creators Are Struggling](/youtube/youtubes-ad-revenue-soars-what-988-billion-means-for-creators-en/)
 - [The Hidden Shadowbanning Effect Impacting Thousands of Rising Creators on YouTube](/youtube/youtubes-rising-star-consumers-cant-get-enough-of-its-videos-en/)
 - [YouTube TV Just Unveiled Multiview: Now Watch Multiple Favorites Simultaneously](/youtube/youtube-tv-unveils-game-changing-multiview-watch-all-your-favorites-at-once-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "KSI's Shocking Exit: The £125 Million Sidemen Empire Faces Its Greatest Challenge Yet",
-  "description": "KSI's unexpected departure sends shockwaves through the £125 million Sidemen empire, revealing unprecedented challenges ahead for the popular collective.",
-  "image": "https://novumworld.com/images/ksis-shocking-exit-what-it-means-for-the-sidemen-and-their-future-en.jpg",
-  "datePublished": "2026-05-31T19:36:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -128,4 +116,3 @@ The Sidemen's empire may be at risk, but the show must go on—if they can find 
     }
   }
 }
-</script>

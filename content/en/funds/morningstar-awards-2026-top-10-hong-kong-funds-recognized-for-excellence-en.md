@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Awards 2026: Top 10 Hong Kong Funds Recognized for Excellence"
-date: 2026-05-01T07:47:35
+title: 'Morningstar Awards 2026: Top 10 Hong Kong Funds Recognized for Excellence'
+date: 2026-05-01 07:47:35
 draft: false
-description: "Discover the top 10 Hong Kong mutual funds honored at the 2026 Morningstar Awards for their outstanding performance and management excellence."
-featured_image: "/images/morningstar-awards-2026-top-10-hong-kong-funds-recognized-for-excellence-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "20a80b76-062d-a623-5771-76d3d440d6fa"
+description: Discover the top 10 Hong Kong mutual funds honored at the 2026 Morningstar
+  Awards for their outstanding performance and management excellence.
+featured_image: /images/morningstar-awards-2026-top-10-hong-kong-funds-recognized-for-excellence-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 20a80b76-062d-a623-5771-76d3d440d6fa
 ---
 
 ![Morningstar Awards 2026: Top 10 Hong Kong Funds Recognized for Excellence](/images/morningstar-awards-2026-top-10-hong-kong-funds-recognized-for-excellence-en.jpg)
@@ -20,8 +23,6 @@ The Morningstar Awards for Investing Excellence Hong Kong 2026 recognized ten st
 * [8.5% — CNMV]
 
 In a market characterized by rapid fluctuations and uncertainty, these funds have managed to outperform their benchmarks consistently. The awards serve not only as a recognition of past performance but also as a guiding light for investors seeking reliable options in the mutual fund space. The winning funds were selected based on rigorous analysis of their performance metrics over various time horizons, including one, three, and five years, as well as their risk-adjusted returns.
-
-
 
 {{< adsterra_native >}}
 
@@ -103,6 +104,4 @@ The Morningstar Awards for Investing Excellence 2026 have highlighted a group of
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 - [Top 5 REITs Delivering Over 10% Annual Returns in 2026](/funds/top-5-reits-delivering-over-10-annual-returns-in-2026-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

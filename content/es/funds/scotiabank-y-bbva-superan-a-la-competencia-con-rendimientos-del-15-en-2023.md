@@ -1,14 +1,17 @@
 ---
-title: "Scotiabank y BBVA superan a la competencia con rendimientos del 15% en 2023"
-date: 2026-06-22T08:39:20
+title: Scotiabank y BBVA superan a la competencia con rendimientos del 15% en 2023
+date: 2026-06-22 08:39:20
 draft: false
-description: "Descubre cómo Scotiabank y BBVA lideran el mercado con rendimientos del 15% en 2023 y qué estrategias los hacen destacar entre la competencia."
-featured_image: "/images/scotiabank-y-bbva-superan-a-la-competencia-con-rendimientos-del-15-en-2023.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "8b855474-1b41-9f59-faae-a170e9c55c96"
+description: Descubre cómo Scotiabank y BBVA lideran el mercado con rendimientos del
+  15% en 2023 y qué estrategias los hacen destacar entre la competencia.
+featured_image: /images/scotiabank-y-bbva-superan-a-la-competencia-con-rendimientos-del-15-en-2023.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 8b855474-1b41-9f59-faae-a170e9c55c96
 ---
 
 ![Scotiabank y BBVA superan a la competencia con rendimientos del 15% en 2023](/images/scotiabank-y-bbva-superan-a-la-competencia-con-rendimientos-del-15-en-2023.jpg)
@@ -20,8 +23,6 @@ El sector bancario en México ha visto un notable crecimiento en 2023, con Scoti
 * [Incremento de fondos de inversión mejor calificados en México — fuente: Google News Finance]
 
 Ambas instituciones han capitalizado tendencias de inversión, optimizando sus portafolios para adaptarse a un entorno dinámico influenciado por la geopolítica y la inteligencia artificial. Scotiabank, con su enfoque en el crecimiento sostenible, y BBVA, que ha implementado innovaciones tecnológicas en sus servicios, han demostrado ser competidores sólidos en el mercado.
-
-
 
 {{< adsterra_native >}}
 
@@ -76,6 +77,4 @@ Nuestro análisis indica que Scotiabank y BBVA han logrado un desempeño destaca
 - [](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 - [Tres fondos indexados al Nasdaq 100 en España que superan el 25% en 2026](/es/funds/tres-fondos-indexados-al-nasdaq-100-en-espana-que-superan-el-25-en-2026/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

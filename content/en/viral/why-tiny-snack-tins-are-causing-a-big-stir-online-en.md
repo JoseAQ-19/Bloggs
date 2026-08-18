@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: 2.6 Million Tons of Snack Tin Waste Ignored by Consumers"
-date: 2026-05-17T22:38:57
+title: 'The Shocking Truth: 2.6 Million Tons of Snack Tin Waste Ignored by Consumers'
+date: 2026-05-17 22:38:57
 draft: false
-description: "Discover the startling reality of 2.6 million tons of snack tin waste that consumers overlook. Learn how this impacts our planet and what we can do."
-featured_image: "/images/why-tiny-snack-tins-are-causing-a-big-stir-online-en.jpg"
-slug: "why-tiny-snack-tins-are-causing-a-big-stir-online-en"
-canonical: "https://novumworld.com/viral/why-tiny-snack-tins-are-causing-a-big-stir-online-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "9d12a2c5-a26f-f81d-cc8c-7a2eecc05bb3"
+description: Discover the startling reality of 2.6 million tons of snack tin waste
+  that consumers overlook. Learn how this impacts our planet and what we can do.
+featured_image: /images/why-tiny-snack-tins-are-causing-a-big-stir-online-en.jpg
+slug: why-tiny-snack-tins-are-causing-a-big-stir-online-en
+canonical: https://novumworld.com/viral/why-tiny-snack-tins-are-causing-a-big-stir-online-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 9d12a2c5-a26f-f81d-cc8c-7a2eecc05bb3
 ---
 
 ![The Shocking Truth: 2.6 Million Tons of Snack Tin Waste Ignored by Consumers](/images/why-tiny-snack-tins-are-causing-a-big-stir-online-en.jpg)
@@ -75,22 +78,7 @@ The snack industry must urgently address its environmental impact by adopting mo
 - [700 Virus-Stricken Passengers Disembark In UK: A Shocking Health Crisis Unfolds](/viral/uk-welcomes-virus-stricken-cruise-passengers-a-high-stakes-landing-en/)
 - [Trump''s Cuba Coup: How 1.6 Million Worke](/viral/trump-cuba-privatization-paradox-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: 2.6 Million Tons of Snack Tin Waste Ignored by Consumers",
-  "description": "Discover the startling reality of 2.6 million tons of snack tin waste that consumers overlook. Learn how this impacts our planet and what we can do.",
-  "image": "https://novumworld.com/images/why-tiny-snack-tins-are-causing-a-big-stir-online-en.jpg",
-  "datePublished": "2026-05-17T22:38:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ The snack industry must urgently address its environmental impact by adopting mo
     }
   }
 }
-</script>

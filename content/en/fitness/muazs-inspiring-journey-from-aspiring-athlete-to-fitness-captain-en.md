@@ -1,16 +1,20 @@
 ---
-title: "Muaz’s Transformation: How One Athlete Became A Fitness Captain Against All Odds"
-date: 2026-06-15T07:12:19
+title: 'Muaz’s Transformation: How One Athlete Became A Fitness Captain Against All
+  Odds'
+date: 2026-06-15 07:12:19
 draft: false
-description: "Discover Muaz's inspiring journey from adversity to triumph as he transforms into a fitness captain, motivating others to overcome their challenges."
-featured_image: "/images/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en.jpg"
-slug: "muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en"
-canonical: "https://novumworld.com/fitness/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "8aba29fb-dce6-e013-54ce-41af648e698f"
+description: Discover Muaz's inspiring journey from adversity to triumph as he transforms
+  into a fitness captain, motivating others to overcome their challenges.
+featured_image: /images/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en.jpg
+slug: muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en
+canonical: https://novumworld.com/fitness/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 8aba29fb-dce6-e013-54ce-41af648e698f
 ---
 
 ![Muaz’s Transformation: How One Athlete Became A Fitness Captain Against All Odds](/images/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en.jpg)
@@ -76,22 +80,7 @@ Readers can take actionable steps from Muaz’s experience: consider forming or 
 - [92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/)
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Muaz’s Transformation: How One Athlete Became A Fitness Captain Against All Odds",
-  "description": "Discover Muaz's inspiring journey from adversity to triumph as he transforms into a fitness captain, motivating others to overcome their challenges.",
-  "image": "https://novumworld.com/images/muazs-inspiring-journey-from-aspiring-athlete-to-fitness-captain-en.jpg",
-  "datePublished": "2026-06-15T07:12:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +90,3 @@ Readers can take actionable steps from Muaz’s experience: consider forming or 
     }
   }
 }
-</script>

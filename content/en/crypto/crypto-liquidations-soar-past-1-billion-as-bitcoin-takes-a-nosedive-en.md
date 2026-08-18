@@ -1,16 +1,19 @@
 ---
-title: "Bitcoin Plunge Triggers Over $1 Billion in Crypto Liquidations Overnight"
-date: 2026-06-02T18:46:52
+title: Bitcoin Plunge Triggers Over $1 Billion in Crypto Liquidations Overnight
+date: 2026-06-02 18:46:52
 draft: false
-description: "Bitcoin's dramatic plunge leads to over $1 billion in overnight crypto liquidations, shaking the market and leaving investors on edge. Discover the impact."
-featured_image: "/images/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en.jpg"
-slug: "crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en"
-canonical: "https://novumworld.com/crypto/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "915fb176-7805-b691-313c-f909de4078f5"
+description: Bitcoin's dramatic plunge leads to over $1 billion in overnight crypto
+  liquidations, shaking the market and leaving investors on edge. Discover the impact.
+featured_image: /images/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en.jpg
+slug: crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en
+canonical: https://novumworld.com/crypto/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 915fb176-7805-b691-313c-f909de4078f5
 ---
 
 ![Bitcoin Plunge Triggers Over $1 Billion in Crypto Liquidations Overnight](/images/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en.jpg)
@@ -76,7 +79,6 @@ As the crypto landscape evolves, staying informed and cautious is key to navigat
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms](/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -85,18 +87,7 @@ As the crypto landscape evolves, staying informed and cautious is key to navigat
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Plunge Triggers Over $1 Billion in Crypto Liquidations Overnight",
-  "description": "Bitcoin's dramatic plunge leads to over $1 billion in overnight crypto liquidations, shaking the market and leaving investors on edge. Discover the impact.",
-  "image": "https://novumworld.com/images/crypto-liquidations-soar-past-1-billion-as-bitcoin-takes-a-nosedive-en.jpg",
-  "datePublished": "2026-06-02T18:46:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +97,3 @@ As the crypto landscape evolves, staying informed and cautious is key to navigat
     }
   }
 }
-</script>

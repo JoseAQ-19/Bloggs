@@ -21,8 +21,6 @@ type: ia
 ## Resumen Ejecutivo
 La inteligencia artificial (IA) está transformando radicalmente el sector legal en España, planteando serias implicaciones para el futuro del empleo en este ámbito. Un informe de Goldman Sachs estima que el 44% de las tareas legales actuales son susceptibles de automatización, lo que podría dejar a miles de abogados junior sin trabajo. La implementación de tecnología avanzada en despachos como Cuatrecasas ha demostrado una drástica reducción en el tiempo y costo necesario para realizar tareas como la revisión de contratos. Este fenómeno no solo amenaza el puesto de trabajo de los abogados menos experimentados, sino que también plantea una paradoja de eficiencia: mientras los despachos aumentan sus beneficios, los empleados junior son considerados prescindibles.
 
-
-
 {{< adsterra_native >}}
 
 ## La Transformación del Sector Legal
@@ -66,6 +64,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/es/ia/ia-arma-armagedon-algoritmico-ceguera-militar/)
 - [Celular Te Espía. Y le Pagas por Ello](/es/ia/celular-te-espia-y-le-pagas-por-ello/)
 - [: El Año que el Mundo se Cayó a Pedazos](/es/ia/el-ano-que-el-mundo-se-cayo-a-pedazos/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

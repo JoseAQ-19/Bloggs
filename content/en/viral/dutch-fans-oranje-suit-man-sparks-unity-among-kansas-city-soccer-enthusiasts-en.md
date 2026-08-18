@@ -1,16 +1,20 @@
 ---
-title: "Dutch Fan's 'Oranje Suit Man' Unites 10,000 Kansas City Soccer Enthusiasts Like Never Before"
-date: 2026-06-22T23:49:24
+title: Dutch Fan's 'Oranje Suit Man' Unites 10,000 Kansas City Soccer Enthusiasts
+  Like Never Before
+date: 2026-06-22 23:49:24
 draft: false
-description: "Discover how the 'Oranje Suit Man' brought together 10,000 Kansas City soccer fans in a vibrant celebration of unity and passion for the game."
-featured_image: "/images/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en.jpg"
-slug: "dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en"
-canonical: "https://novumworld.com/viral/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "0bd2f1d8-535b-912e-6693-3f5ea1f77949"
+description: Discover how the 'Oranje Suit Man' brought together 10,000 Kansas City
+  soccer fans in a vibrant celebration of unity and passion for the game.
+featured_image: /images/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en.jpg
+slug: dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en
+canonical: https://novumworld.com/viral/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 0bd2f1d8-535b-912e-6693-3f5ea1f77949
 ---
 
 ![Dutch Fan's 'Oranje Suit Man' Unites 10,000 Kansas City Soccer Enthusiasts Like Never Before](/images/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en.jpg)
@@ -73,22 +77,7 @@ Attending local soccer matches can provide a firsthand experience of this burgeo
 - [Trump''s Cuba Coup: How 1.6 Million Worke](/viral/trump-cuba-privatization-paradox-en/)
 - [The Shocking Truth Behind Waco's Viral Bird Attack Videos Exposed](/viral/wacos-bird-attack-the-wild-videos-taking-the-internet-by-storm-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Dutch Fan's 'Oranje Suit Man' Unites 10,000 Kansas City Soccer Enthusiasts Like Never Before",
-  "description": "Discover how the 'Oranje Suit Man' brought together 10,000 Kansas City soccer fans in a vibrant celebration of unity and passion for the game.",
-  "image": "https://novumworld.com/images/dutch-fans-oranje-suit-man-sparks-unity-among-kansas-city-soccer-enthusiasts-en.jpg",
-  "datePublished": "2026-06-22T23:49:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +87,3 @@ Attending local soccer matches can provide a firsthand experience of this burgeo
     }
   }
 }
-</script>

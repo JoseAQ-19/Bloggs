@@ -1,16 +1,19 @@
 ---
-title: "Historic 57: Digirolamo and Degnan Make Waves in I-A Golf Analysis"
-date: 2026-06-15T13:26:32
+title: 'Historic 57: Digirolamo and Degnan Make Waves in I-A Golf Analysis'
+date: 2026-06-15 13:26:32
 draft: false
-description: "Discover how Digirolamo and Degnan are reshaping I-A golf analysis in Historic 57, highlighting trends, insights, and their impact on the sport."
-featured_image: "/images/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en.jpg"
-slug: "historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en"
-canonical: "https://novumworld.com/ia/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "32f7319b-a884-b2a6-5f8b-d5fcefff34e0"
+description: Discover how Digirolamo and Degnan are reshaping I-A golf analysis in
+  Historic 57, highlighting trends, insights, and their impact on the sport.
+featured_image: /images/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en.jpg
+slug: historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en
+canonical: https://novumworld.com/ia/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 32f7319b-a884-b2a6-5f8b-d5fcefff34e0
 ---
 
 ![Historic 57: Digirolamo and Degnan Make Waves in I-A Golf Analysis](/images/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en.jpg)
@@ -82,22 +85,7 @@ In golf, as in many facets of life, breaking records often requires breaking the
 - [Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community](/ia/two-injured-in-monona-countys-shocking-wrong-way-crash-en/)
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Historic 57: Digirolamo and Degnan Make Waves in I-A Golf Analysis",
-  "description": "Discover how Digirolamo and Degnan are reshaping I-A golf analysis in Historic 57, highlighting trends, insights, and their impact on the sport.",
-  "image": "https://novumworld.com/images/historic-57-digirolamo-and-degnan-make-waves-in-i-a-golf-en.jpg",
-  "datePublished": "2026-06-15T13:26:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +95,3 @@ In golf, as in many facets of life, breaking records often requires breaking the
     }
   }
 }
-</script>

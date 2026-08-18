@@ -1,16 +1,20 @@
 ---
-title: "55 Documentales Científicos Que Cambian La Vida De Pacientes Con Cáncer En YouTube"
-date: 2026-05-01T19:08:53
+title: 55 Documentales Científicos Que Cambian La Vida De Pacientes Con Cáncer En
+  YouTube
+date: 2026-05-01 19:08:53
 draft: false
-description: "Descubre 55 impactantes documentales científicos en YouTube que transforman la vida de pacientes con cáncer. Información valiosa y esperanzadora."
-featured_image: "/images/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes.jpg"
-slug: "55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes"
-canonical: "https://novumworld.com/es/youtube/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "2c707c51-4171-f16e-0470-e7dca1689679"
+description: Descubre 55 impactantes documentales científicos en YouTube que transforman
+  la vida de pacientes con cáncer. Información valiosa y esperanzadora.
+featured_image: /images/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes.jpg
+slug: 55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes
+canonical: https://novumworld.com/es/youtube/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 2c707c51-4171-f16e-0470-e7dca1689679
 ---
 
 ![55 Documentales Científicos Que Cambian La Vida De Pacientes Con Cáncer En YouTube](/images/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes.jpg)
@@ -66,28 +70,12 @@ La proliferación de contenido no regulado en YouTube representa un grave peligr
 - [pmfarma.es](https://www.pmfarma.es/articulos/2444-regulacion-de-la-publicidad-farmaceutica-en-espana-normas-restricciones-y-sanciones)
 - [univadis.es](https://www.univadis.es/articulo/youtube-espera-que-este-marco-de-politicas-de-uso-de-la-plataforma-sea-lo-suficientemente-flexible-para-cubrir-una-amplia-gama-de-cuestiones-medicas-mientras-encuentra-un-equilibrio-entre-minimizar-el-dano-y-permitir-el-debate)
 
-
 ## Artículos relacionados
 - [YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades](/es/youtube/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades/)
 - [YouTube Revoluciona La Publicidad: Anuncios Pausados En Momentos Clave Durante Los Directos](/es/youtube/youtube-revoluciona-la-publicidad-anuncios-sin-interrupciones-en-los-directos/)
 - [YouTube se Descontrola: 311 Millones de Razones](/es/youtube/youtube-anuncios-molestos/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "55 Documentales Científicos Que Cambian La Vida De Pacientes Con Cáncer En YouTube",
-  "description": "Descubre 55 impactantes documentales científicos en YouTube que transforman la vida de pacientes con cáncer. Información valiosa y esperanzadora.",
-  "image": "https://novumworld.com/images/55-documentales-cientificos-en-youtube-que-transforman-el-conocimiento-y-dan-voz-a-los-pacientes.jpg",
-  "datePublished": "2026-05-01T19:08:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ La proliferación de contenido no regulado en YouTube representa un grave peligr
     }
   }
 }
-</script>

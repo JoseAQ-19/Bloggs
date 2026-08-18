@@ -1,16 +1,19 @@
 ---
-title: "3 Minutes Of Terror: H-E-B Armed Robbery Attempt Ignites Safety Fears Nationwide"
-date: 2026-04-20T22:14:52
+title: '3 Minutes Of Terror: H-E-B Armed Robbery Attempt Ignites Safety Fears Nationwide'
+date: 2026-04-20 22:14:52
 draft: false
-description: "Discover how a recent armed robbery attempt at H-E-B has sparked nationwide safety concerns, igniting debates on security in our communities."
-featured_image: "/images/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en.jpg"
-slug: "armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en"
-canonical: "https://novumworld.com/viral/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "d71526e5-e38b-2681-47e7-ff2be7e6ebbf"
+description: Discover how a recent armed robbery attempt at H-E-B has sparked nationwide
+  safety concerns, igniting debates on security in our communities.
+featured_image: /images/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en.jpg
+slug: armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en
+canonical: https://novumworld.com/viral/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: d71526e5-e38b-2681-47e7-ff2be7e6ebbf
 ---
 
 ![3 Minutes Of Terror: H-E-B Armed Robbery Attempt Ignites Safety Fears Nationwide](/images/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en.jpg)
@@ -81,22 +84,7 @@ The future of retail safety hinges on recognizing that technology alone cannot s
 - [Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/)
 - [Shocking Ring Camera Footage Reveals Disturbing Threat: 'Where Is Your Daughter?](/viral/shocking-home-invasion-caught-on-ring-camera-where-is-your-daughter-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "3 Minutes Of Terror: H-E-B Armed Robbery Attempt Ignites Safety Fears Nationwide",
-  "description": "Discover how a recent armed robbery attempt at H-E-B has sparked nationwide safety concerns, igniting debates on security in our communities.",
-  "image": "https://novumworld.com/images/armed-robbery-attempt-at-h-e-b-shocking-video-sparks-safety-concerns-en.jpg",
-  "datePublished": "2026-04-20T22:14:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ The future of retail safety hinges on recognizing that technology alone cannot s
     }
   }
 }
-</script>

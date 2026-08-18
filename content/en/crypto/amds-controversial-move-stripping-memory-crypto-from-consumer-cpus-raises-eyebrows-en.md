@@ -1,16 +1,19 @@
 ---
-title: "AMD Just Stripped Memory Crypto From CPUs: The Shocking Truth Revealed"
-date: 2026-06-16T18:46:37
+title: 'AMD Just Stripped Memory Crypto From CPUs: The Shocking Truth Revealed'
+date: 2026-06-16 18:46:37
 draft: false
-description: "Discover why AMD has removed memory crypto from its CPUs and what this shocking decision means for security and performance in the tech landscape."
-featured_image: "/images/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en.jpg"
-slug: "amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en"
-canonical: "https://novumworld.com/crypto/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "20ad466a-9ab3-3d87-b464-ac39e4b44b92"
+description: Discover why AMD has removed memory crypto from its CPUs and what this
+  shocking decision means for security and performance in the tech landscape.
+featured_image: /images/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en.jpg
+slug: amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en
+canonical: https://novumworld.com/crypto/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 20ad466a-9ab3-3d87-b464-ac39e4b44b92
 ---
 
 ![AMD Just Stripped Memory Crypto From CPUs: The Shocking Truth Revealed](/images/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en.jpg)
@@ -69,7 +72,6 @@ In a landscape fraught with cyber risks, securing our data should never take a b
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -78,18 +80,7 @@ In a landscape fraught with cyber risks, securing our data should never take a b
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AMD Just Stripped Memory Crypto From CPUs: The Shocking Truth Revealed",
-  "description": "Discover why AMD has removed memory crypto from its CPUs and what this shocking decision means for security and performance in the tech landscape.",
-  "image": "https://novumworld.com/images/amds-controversial-move-stripping-memory-crypto-from-consumer-cpus-raises-eyebrows-en.jpg",
-  "datePublished": "2026-06-16T18:46:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +90,3 @@ In a landscape fraught with cyber risks, securing our data should never take a b
     }
   }
 }
-</script>

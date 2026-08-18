@@ -1,16 +1,19 @@
 ---
-title: "TikTok's 'Tanmaxxing' Craze Is Recklessly Endangering Gen Z's Skin Health"
-date: 2026-06-18T22:44:27
+title: TikTok's 'Tanmaxxing' Craze Is Recklessly Endangering Gen Z's Skin Health
+date: 2026-06-18 22:44:27
 draft: false
-description: "Discover how TikTok's 'tanmaxxing' trend is putting Gen Z's skin health at risk, and learn why safe sun practices are crucial for young skin."
-featured_image: "/images/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en.jpg"
-slug: "sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en"
-canonical: "https://novumworld.com/viral/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "daa9d58c-3962-798c-4e81-0585bf9ef543"
+description: Discover how TikTok's 'tanmaxxing' trend is putting Gen Z's skin health
+  at risk, and learn why safe sun practices are crucial for young skin.
+featured_image: /images/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en.jpg
+slug: sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en
+canonical: https://novumworld.com/viral/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: daa9d58c-3962-798c-4e81-0585bf9ef543
 ---
 
 ![TikTok's 'Tanmaxxing' Craze Is Recklessly Endangering Gen Z's Skin Health](/images/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en.jpg)
@@ -78,28 +81,12 @@ In a world where appearance often takes precedence over health, it is crucial to
 - [news.google.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9nd2Q2RFRWQ3lOdUdYOV9ZSGt3TU5oLVVHZXJSWUNKZDNva3hfUWszQ201M0ZNR001aDh4MWdRM0owZnh0aG9nQ3ctTUlxSTEzaHVEejQtdWl0NjVjTC1WZmJCNkQ5c2VKRDMtTTliaDFnNDNjb3c?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2Rrb2hkQmU5dHJieVIxYnA1dm0tX2cwOVVEU0IxTEV5ejhEbWtqQWo2UHBWaWladFJoZlVOMVZGSHlJR1ZpZHpJSl80S2E2Z2lSV0pnR3RDdkpfa0sxNjFqbXEwcU9uOFNNUlhIaXVEd2x6SnYzTlpDXzVXVW9nZW9JS0tRYUJkc2hR?oc=5)
 
-
 ## Related Articles
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [The Shocking Truth About Travel Pillows: 70% Fail To Provide Real Neck Support](/viral/this-travel-pillow-changed-the-game-a-frequent-flyers-review-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "TikTok's 'Tanmaxxing' Craze Is Recklessly Endangering Gen Z's Skin Health",
-  "description": "Discover how TikTok's 'tanmaxxing' trend is putting Gen Z's skin health at risk, and learn why safe sun practices are crucial for young skin.",
-  "image": "https://novumworld.com/images/sunscreen-misinformation-goes-wild-on-tiktok-what-you-need-to-know-en.jpg",
-  "datePublished": "2026-06-18T22:44:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ In a world where appearance often takes precedence over health, it is crucial to
     }
   }
 }
-</script>

@@ -37,8 +37,6 @@ Crypto.com despide al 12% de su plantilla global, lo que representa un cambio dr
 
 La empresa de criptomonedas, Crypto.com, enfrenta un importante reestructuración tras despedir al 12% de su personal. Esta medida, que afecta a alrededor de 180 empleados, se enmarca dentro de una estrategia de transformación hacia un enfoque "primero en IA". Kris Marszalek, CEO de Crypto.com, ha indicado que la empresa necesita actuar rápidamente para no quedarse atrás en un mercado que está evolucionando hacia la inteligencia artificial. Este despido masivo no es un hecho aislado; en los últimos años, la compañía ya había realizado recortes significativos, despidiendo un 20% de su personal en 2022 y un 5% adicional en 2023, lo que refleja un patrón preocupante en su gestión de recursos humanos.
 
-
-
 {{< adsterra_native >}}
 
 ## La Realidad Detrás de los Despidos de Crypto.com
@@ -80,6 +78,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?](/es/crypto/bitcoin-en-caida-libre-el-fin-de-la-era-dorada/)
 - [Cuidado Inversores: Toribio Predice Bitcoin a $2,000 Tras El Halving.](/es/crypto/bitcoin-inflacion-eeuu-2024/)
 - [Bitcoin a $200,000 o Colapso Total: El Gráfico Que Aterroriza a los Traders](/es/crypto/bitcoin-analisis-grafico-rumbo/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

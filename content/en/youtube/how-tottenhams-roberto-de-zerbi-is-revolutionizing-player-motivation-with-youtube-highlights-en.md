@@ -1,16 +1,19 @@
 ---
-title: "How Roberto De Zerbi's YouTube Tactics Are Shocking Tottenham Fans Into Motivation"
-date: 2026-04-25T20:39:32
+title: How Roberto De Zerbi's YouTube Tactics Are Shocking Tottenham Fans Into Motivation
+date: 2026-04-25 20:39:32
 draft: false
-description: "Discover how Roberto De Zerbi's innovative YouTube tactics are igniting motivation in Tottenham fans, transforming their team's performance and spirit."
-featured_image: "/images/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en.jpg"
-slug: "how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en"
-canonical: "https://novumworld.com/youtube/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "6bcec514-733d-5371-da45-15e8333f7ed3"
+description: Discover how Roberto De Zerbi's innovative YouTube tactics are igniting
+  motivation in Tottenham fans, transforming their team's performance and spirit.
+featured_image: /images/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en.jpg
+slug: how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en
+canonical: https://novumworld.com/youtube/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 6bcec514-733d-5371-da45-15e8333f7ed3
 ---
 
 ![How Roberto De Zerbi's YouTube Tactics Are Shocking Tottenham Fans Into Motivation](/images/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en.jpg)
@@ -73,22 +76,7 @@ Roberto De Zerbi’s appointment is a Hail Mary pass thrown by a quarterback who
 - [YouTube''s Dirty Se](/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 - [Jeopardy! Host''s YouTube Night](/youtube/youtube-hate-speech-policy-jeopardy-podcast-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How Roberto De Zerbi's YouTube Tactics Are Shocking Tottenham Fans Into Motivation",
-  "description": "Discover how Roberto De Zerbi's innovative YouTube tactics are igniting motivation in Tottenham fans, transforming their team's performance and spirit.",
-  "image": "https://novumworld.com/images/how-tottenhams-roberto-de-zerbi-is-revolutionizing-player-motivation-with-youtube-highlights-en.jpg",
-  "datePublished": "2026-04-25T20:39:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +86,3 @@ Roberto De Zerbi’s appointment is a Hail Mary pass thrown by a quarterback who
     }
   }
 }
-</script>

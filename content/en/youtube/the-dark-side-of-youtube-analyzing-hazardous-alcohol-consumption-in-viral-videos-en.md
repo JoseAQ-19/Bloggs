@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: 70% of Teens Have Tried Alcohol Before 18 and It's Dangerous"
-date: 2026-05-10T20:44:30
+title: 'The Shocking Truth: 70% of Teens Have Tried Alcohol Before 18 and It''s Dangerous'
+date: 2026-05-10 20:44:30
 draft: false
-description: "Discover the alarming reality: 70% of teens experiment with alcohol before 18. Learn about the risks and dangers that come with early drinking habits."
-featured_image: "/images/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en.jpg"
-slug: "the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en"
-canonical: "https://novumworld.com/youtube/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "0be2fba1-897b-bb3c-65e7-6427ce6ced66"
+description: 'Discover the alarming reality: 70% of teens experiment with alcohol
+  before 18. Learn about the risks and dangers that come with early drinking habits.'
+featured_image: /images/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en.jpg
+slug: the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en
+canonical: https://novumworld.com/youtube/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 0be2fba1-897b-bb3c-65e7-6427ce6ced66
 ---
 
 ![The Shocking Truth: 70% of Teens Have Tried Alcohol Before 18 and It's Dangerous](/images/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en.jpg)
@@ -89,28 +92,12 @@ The creator economy's obsession with growth metrics is actively eroding the cogn
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxOTklXanN6bzAwODB2WWN5QjlyczlCWFdQTHZ2SlhOM3ZBTW8tUFN1Y0RNRFlSRjh6Y2JXWm9zSVBjQkdFdjV5VGg4ZldvYXN3OFR6anU2VzZLVzlmWTNERWZhRmZObkxsUmMxQmh1Y2NKaFM0TGM4WjdaNkN0dFlNaGtMck80VWxrTlV6NXJHaFQ5S3F5cmRqRWVWcTE5VXpqUVNRcHhLSDZTNVg2dS1lOUU5Nkk?oc=5)
 
-
 ## Related Articles
 - [YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are Outraged](/youtube/youtubes-latest-controversy-influencer-clavicular-banned-again-en/)
 - [The Hidden Dangers of YouTube's Algorithm: How 70% of Views Are Manipulated](/youtube/youtubes-sneaky-trick-how-to-keep-your-watch-history-private-en/)
 - [Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic Bias Crisis](/youtube/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: 70% of Teens Have Tried Alcohol Before 18 and It's Dangerous",
-  "description": "Discover the alarming reality: 70% of teens experiment with alcohol before 18. Learn about the risks and dangers that come with early drinking habits.",
-  "image": "https://novumworld.com/images/the-dark-side-of-youtube-analyzing-hazardous-alcohol-consumption-in-viral-videos-en.jpg",
-  "datePublished": "2026-05-10T20:44:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +107,3 @@ The creator economy's obsession with growth metrics is actively eroding the cogn
     }
   }
 }
-</script>

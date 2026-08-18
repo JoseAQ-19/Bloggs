@@ -1,16 +1,19 @@
 ---
-title: "Bitcoin Is Drowning: IPOs Are Stealing 50% of Crypto Liquidity Right Now"
-date: 2026-06-03T17:56:49
+title: 'Bitcoin Is Drowning: IPOs Are Stealing 50% of Crypto Liquidity Right Now'
+date: 2026-06-03 17:56:49
 draft: false
-description: "Discover how IPOs are capturing 50% of crypto liquidity, leaving Bitcoin struggling. Explore the shifting landscape of digital currency investments today."
-featured_image: "/images/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en.jpg"
-slug: "bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en"
-canonical: "https://novumworld.com/crypto/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3175b611-edae-9c22-7e83-d515316fbf4e"
+description: Discover how IPOs are capturing 50% of crypto liquidity, leaving Bitcoin
+  struggling. Explore the shifting landscape of digital currency investments today.
+featured_image: /images/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en.jpg
+slug: bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en
+canonical: https://novumworld.com/crypto/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3175b611-edae-9c22-7e83-d515316fbf4e
 ---
 
 ![Bitcoin Is Drowning: IPOs Are Stealing 50% of Crypto Liquidity Right Now](/images/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en.jpg)
@@ -75,7 +78,6 @@ As the investment landscape continues to evolve, one thing is clear: the era of 
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -84,18 +86,7 @@ As the investment landscape continues to evolve, one thing is clear: the era of 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Is Drowning: IPOs Are Stealing 50% of Crypto Liquidity Right Now",
-  "description": "Discover how IPOs are capturing 50% of crypto liquidity, leaving Bitcoin struggling. Explore the shifting landscape of digital currency investments today.",
-  "image": "https://novumworld.com/images/bitcoin-struggles-as-ipos-siphon-crypto-liquidity-whats-next-en.jpg",
-  "datePublished": "2026-06-03T17:56:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +96,3 @@ As the investment landscape continues to evolve, one thing is clear: the era of 
     }
   }
 }
-</script>

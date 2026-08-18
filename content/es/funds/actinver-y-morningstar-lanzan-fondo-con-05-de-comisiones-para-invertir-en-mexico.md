@@ -1,14 +1,18 @@
 ---
-title: "Actinver y Morningstar lanzan fondo con 0,5% de comisiones para invertir en México"
-date: 2026-05-21T07:53:55
+title: Actinver y Morningstar lanzan fondo con 0,5% de comisiones para invertir en
+  México
+date: 2026-05-21 07:53:55
 draft: false
-description: "Descubre el nuevo fondo de Actinver y Morningstar con comisiones de solo 0,5%. Una oportunidad única para invertir en México de manera eficiente."
-featured_image: "/images/actinver-y-morningstar-lanzan-fondo-con-05-de-comisiones-para-invertir-en-mexico.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "2b1e5a40-7e82-c3d5-6754-50aee4438312"
+description: Descubre el nuevo fondo de Actinver y Morningstar con comisiones de solo
+  0,5%. Una oportunidad única para invertir en México de manera eficiente.
+featured_image: /images/actinver-y-morningstar-lanzan-fondo-con-05-de-comisiones-para-invertir-en-mexico.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 2b1e5a40-7e82-c3d5-6754-50aee4438312
 ---
 
 ![Actinver y Morningstar lanzan fondo con 0,5% de comisiones para invertir en México](/images/actinver-y-morningstar-lanzan-fondo-con-05-de-comisiones-para-invertir-en-mexico.jpg)
@@ -20,8 +24,6 @@ El nuevo fondo lanzado por Actinver y Morningstar presenta una comisión de solo
 * [Crecimiento del mercado de fondos en México: 12% en 2022 — **SEC**]
 
 El fondo se enfoca en empresas mexicanas de diversos sectores, buscando capturar el crecimiento económico local. La estrategia de inversión se basa en el análisis fundamental, donde se evalúan los balances y la capacidad de generación de ingresos de las empresas seleccionadas. Con un entorno macroeconómico que muestra signos de estabilidad, esta oferta podría ser atractiva tanto para inversores novatos como para aquellos más experimentados.
-
-
 
 {{< adsterra_native >}}
 
@@ -81,32 +83,9 @@ La política de liquidez del fondo determinará la facilidad con la que puedes r
 
 Creemos que el nuevo fondo de Actinver y Morningstar ofrece una propuesta atractiva en un mercado que busca opciones de inversión más rentables y con menores costos. La combinación de comisiones reducidas y un enfoque en empresas con sólidos fundamentos puede resultar en un vehículo de inversión competitivo. Sin embargo, es esencial que los inversores se mantengan informados sobre los riesgos y las condiciones del mercado, adaptando sus estrategias de inversión en consecuencia.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Actinver y Morningstar lanzan fondo con 0,5% de comisiones para invertir en México",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  }
 }
-</script>
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Qué pasa si el fondo no cumple con mis expectativas de rendimiento?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Es crucial entender que todos los fondos de inversión conllevan riesgos. Si el fondo no cumple con las expectativas, es recomendable revisar periódicamente la estrategia."
-      }
-    },
+
+},
     {
       "@type": "Question",
       "name": "¿Cómo se comparan las comisiones de este fondo con otros productos en el mercado?",
@@ -141,13 +120,10 @@ Creemos que el nuevo fondo de Actinver y Morningstar ofrece una propuesta atract
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Top 6 fondos indexados al S&P 500 en 2026: Rentabilidad y comisiones comparadas](/es/funds/top-6-fondos-indexados-al-sp-500-en-2026-rentabilidad-y-comisiones-comparadas/)
 - [Los 5 fondos más rentables de 2026 generan un 12% más que el índice de referencia](/es/funds/los-5-fondos-mas-rentables-de-2026-generan-un-12-mas-que-el-indice-de-referencia/)
 - [Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

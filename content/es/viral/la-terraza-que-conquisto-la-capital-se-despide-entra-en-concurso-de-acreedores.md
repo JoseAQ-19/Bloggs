@@ -1,16 +1,19 @@
 ---
-title: "La Terraza Que Conquistó Madrid Se Despide: Un Impacto De 5 Millones De Euros"
-date: 2026-04-30T22:04:21
+title: 'La Terraza Que Conquistó Madrid Se Despide: Un Impacto De 5 Millones De Euros'
+date: 2026-04-30 22:04:21
 draft: false
-description: "La Terraza que revolucionó Madrid cierra sus puertas, dejando un impacto económico de 5 millones de euros. Descubre su historia y legado."
-featured_image: "/images/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores.jpg"
-slug: "la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores"
-canonical: "https://novumworld.com/es/viral/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "d093d460-8d94-40a5-b92c-b85631ed3cfe"
+description: La Terraza que revolucionó Madrid cierra sus puertas, dejando un impacto
+  económico de 5 millones de euros. Descubre su historia y legado.
+featured_image: /images/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores.jpg
+slug: la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores
+canonical: https://novumworld.com/es/viral/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: d093d460-8d94-40a5-b92c-b85631ed3cfe
 ---
 
 ![La Terraza Que Conquistó Madrid Se Despide: Un Impacto De 5 Millones De Euros](/images/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores.jpg)
@@ -84,22 +87,7 @@ Se recomienda a los restauradores y emprendedores buscar alternativas creativas 
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [La Reina Letizia Sorprende Hablando Guaraní: El Mensaje Que Conmovió a Paraguay](/es/viral/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Terraza Que Conquistó Madrid Se Despide: Un Impacto De 5 Millones De Euros",
-  "description": "La Terraza que revolucionó Madrid cierra sus puertas, dejando un impacto económico de 5 millones de euros. Descubre su historia y legado.",
-  "image": "https://novumworld.com/images/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores.jpg",
-  "datePublished": "2026-04-30T22:04:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +97,3 @@ Se recomienda a los restauradores y emprendedores buscar alternativas creativas 
     }
   }
 }
-</script>

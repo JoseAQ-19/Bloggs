@@ -1,16 +1,19 @@
 ---
-title: "51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms"
-date: 2026-05-25T16:57:24
+title: '51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms'
+date: 2026-05-25 16:57:24
 draft: false
-description: "Explore the growing trend of Gen Z investing in crypto as housing prices stagnate, signaling potential financial crisis. What does this mean for the."
-featured_image: "/images/young-americans-torn-between-housing-stability-and-crypto-investments-en.jpg"
-slug: "young-americans-torn-between-housing-stability-and-crypto-investments-en"
-canonical: "https://novumworld.com/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c63dbfc6-8ce2-9182-fdbb-859a26572695"
+description: Explore the growing trend of Gen Z investing in crypto as housing prices
+  stagnate, signaling potential financial crisis. What does this mean for the.
+featured_image: /images/young-americans-torn-between-housing-stability-and-crypto-investments-en.jpg
+slug: young-americans-torn-between-housing-stability-and-crypto-investments-en
+canonical: https://novumworld.com/crypto/young-americans-torn-between-housing-stability-and-crypto-investments-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: c63dbfc6-8ce2-9182-fdbb-859a26572695
 ---
 
 ![51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms](/images/young-americans-torn-between-housing-stability-and-crypto-investments-en.jpg)
@@ -51,12 +54,10 @@ The shift of Gen Z towards cryptocurrency as a primary investment vehicle could 
 - [news.google.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGtQeUZETkV6MHh4cTd3aGtDbnpLV0dOOTY5S0ZjYzBWX2JQaUFtV3d4dEEyZVBiRTMtTVhDOURGSzJTUUlhQTFRdlhLNmFTeENkNDd4cVZtTFo4Z3NReVoxZ0RyQUlTNHBRSnN0T1k3aEdPWnBkNVllR25QNHNjbFJNUkkwWUN5ZmpyNXJWT0xnZw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2NsaEZnbU1wWXgxNmpRbVMyWEJEbUNVcE5Bbkp5ckpGbDk1SC1NRjF1dHMwSG9VQTYtSVVpWHBuS1V5RkNQMFkya3l2TUtJZ05idjdJU2QzNEUxOXNQZDk1QlVDOGRydEFqTzdQclpXMDZGb0lyUU9jUkZSb1FTeGlMeDlxdXVsVl95OE5pd2hHcDhFUUtz?oc=5)
 
-
 ## Related Articles
 - [Senate’s Groundbreaking Crypto Bill Could Unlock $1 Trillion Stablecoin Market By 2026](/crypto/senate-set-to-vote-on-groundbreaking-crypto-bill-what-it-means-for-the-future-en/)
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -66,18 +67,7 @@ The shift of Gen Z towards cryptocurrency as a primary investment vehicle could 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "51% Of Gen Z Owns Crypto While Housing Prices Stall: A Financial Crisis Looms",
-  "description": "Explore the growing trend of Gen Z investing in crypto as housing prices stagnate, signaling potential financial crisis. What does this mean for the.",
-  "image": "https://novumworld.com/images/young-americans-torn-between-housing-stability-and-crypto-investments-en.jpg",
-  "datePublished": "2026-05-25T16:57:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -87,4 +77,3 @@ The shift of Gen Z towards cryptocurrency as a primary investment vehicle could 
     }
   }
 }
-</script>

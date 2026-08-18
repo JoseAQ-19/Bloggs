@@ -29,8 +29,6 @@ Thailand’s mutual fund industry has exhibited significant growth in 2026, driv
 
 ---
 
-
-
 {{< adsterra_native >}}
 
 ## Performance Analysis: Top 3 Funds in Thailand 
@@ -90,15 +88,7 @@ Thailand’s top mutual funds have delivered stellar returns in 2026, signaling 
 
 ---
 
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Morningstar Thailand 2026: Top 3 Funds Outperform by 15% in Returns",
-"datePublished": "2026-03-15",
-"author": {
-"@type": "Person",
-"name": "Senior Financial Analyst, NovumWorld"
-},
+,
 "publisher": {
 "@type": "Organization",
 "name": "NovumWorld",
@@ -109,9 +99,6 @@ Thailand’s top mutual funds have delivered stellar returns in 2026, signaling 
 }
 },
 "mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://www.novumworld.com/articles/morningstar-thailand-2026-top-3-funds-outperform"
-},
 "description": "An in-depth analysis of the top-performing mutual funds in Thailand in 2026, with unique calculations, expert insights, and a focus on key performance metrics."
 }
 
@@ -124,6 +111,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en/)
 - [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
 - [OAKM: Morningstar Names This Active ETF a Top Pick for 2026, Citing 15% Growth.](/en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -14,6 +14,7 @@ title: 'The Silicon Perimeter: Architecture, Compute Economics, and the Governan
 translationKey: terms-of-service
 url: /es/terms-of-service/
 ---
+
 ## Resumen Ejecutivo
 - The governance of AI systems is shifting from abstract ethics to concrete technical constraints defined by hardware-bound Terms of Service (TOS) and compute availability.
 - The distinction between 'Open Weights' (Llama-3.1) and 'Open Source' (OSI compliant) is critical for understanding the legal and technical risks of deploying at the 405B parameter scale.

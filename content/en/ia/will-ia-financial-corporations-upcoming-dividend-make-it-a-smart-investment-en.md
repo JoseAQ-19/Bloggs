@@ -1,16 +1,19 @@
 ---
-title: "iA Financial Just Increased Dividends by 11%: What Investors Need to Know"
-date: 2026-05-11T12:30:31
+title: 'iA Financial Just Increased Dividends by 11%: What Investors Need to Know'
+date: 2026-05-11 12:30:31
 draft: false
-description: "Discover how iA Financial's 11% dividend increase impacts investors. Explore key insights and strategies to make the most of this financial news."
-featured_image: "/images/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en.jpg"
-slug: "will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en"
-canonical: "https://novumworld.com/ia/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "d1209e6d-123e-ab69-6353-8b76162c1625"
+description: Discover how iA Financial's 11% dividend increase impacts investors.
+  Explore key insights and strategies to make the most of this financial news.
+featured_image: /images/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en.jpg
+slug: will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en
+canonical: https://novumworld.com/ia/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: d1209e6d-123e-ab69-6353-8b76162c1625
 ---
 
 ![iA Financial Just Increased Dividends by 11%: What Investors Need to Know](/images/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en.jpg)
@@ -77,28 +80,12 @@ Those calculations deserve unrelenting attention.
 - [news.google.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHo5ZHdERThjODdMOEUzS0owYVdPVU1WMDdDbUthUElJc280a3gwdnJQM2dZOGkyVGR3dVhnMHFSX1k1QWxpaktYOFROMmpwMzBzcjFOZmRmS1lsdjJaRlgtLVJHeWxWRkRadG9FZy0tYWlaM2ZSc3FtSTU1am92UWoyR1pMQ0lkanRrMFpCMGF6aVhFZlVvU3dUWDVqMXIy?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1Dd1dDVnBpR29NT21Yc25oaDRIa1FOTHBnY1A1Yi1JLUJqdTBWMndaRkVCUWFyVm9sUDc3Y2tPaVA3S0NwdXBQNTNQeUJvZkhQWkhUZUtOelBHUVNkWUlnbkY3Zm85c0F6WUt1N1BIV2lIRm85WWJVNEZn?oc=5)
 
-
 ## Related Articles
 - [Digital Elites: Saviors or Soci](/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi/)
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "iA Financial Just Increased Dividends by 11%: What Investors Need to Know",
-  "description": "Discover how iA Financial's 11% dividend increase impacts investors. Explore key insights and strategies to make the most of this financial news.",
-  "image": "https://novumworld.com/images/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en.jpg",
-  "datePublished": "2026-05-11T12:30:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +95,3 @@ Those calculations deserve unrelenting attention.
     }
   }
 }
-</script>

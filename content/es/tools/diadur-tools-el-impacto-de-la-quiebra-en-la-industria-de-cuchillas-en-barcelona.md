@@ -1,16 +1,19 @@
 ---
-title: "La Quiebra De Diadur Tools Devasta La Industria De Cuchillas En Barcelona"
-date: 2026-06-10T13:53:50
+title: La Quiebra De Diadur Tools Devasta La Industria De Cuchillas En Barcelona
+date: 2026-06-10 13:53:50
 draft: false
-description: "La quiebra de Diadur Tools impacta fuertemente la industria de cuchillas en Barcelona. Descubre las repercusiones y el futuro del sector."
-featured_image: "/images/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona.jpg"
-slug: "diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona"
-canonical: "https://novumworld.com/es/tools/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "c79dd808-deca-396f-e5bc-6da3f6140845"
+description: La quiebra de Diadur Tools impacta fuertemente la industria de cuchillas
+  en Barcelona. Descubre las repercusiones y el futuro del sector.
+featured_image: /images/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona.jpg
+slug: diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona
+canonical: https://novumworld.com/es/tools/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: c79dd808-deca-396f-e5bc-6da3f6140845
 ---
 
 ![La Quiebra De Diadur Tools Devasta La Industria De Cuchillas En Barcelona](/images/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona.jpg)
@@ -57,22 +60,7 @@ Las empresas deben diversificar sus proveedores para mitigar el riesgo de futura
 - [La Actualización de PAM TOOLS Analysis de Saint-Gobain PAM Que Nadie Esperaba](/es/tools/saint-gobain-pam-revoluciona-la-eficiencia-tecnica-con-su-actualizacion-de-pam-tools/)
 - [Unior Revela Nuevas Herramientas Para Ruedas de 32 Pulgadas Que Cambiarán el MTB Para Siempre](/es/tools/unior-revoluciona-el-mtb-nuevas-herramientas-para-ruedas-de-32-pulgadas-estan-en-camino/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Quiebra De Diadur Tools Devasta La Industria De Cuchillas En Barcelona",
-  "description": "La quiebra de Diadur Tools impacta fuertemente la industria de cuchillas en Barcelona. Descubre las repercusiones y el futuro del sector.",
-  "image": "https://novumworld.com/images/diadur-tools-el-impacto-de-la-quiebra-en-la-industria-de-cuchillas-en-barcelona.jpg",
-  "datePublished": "2026-06-10T13:53:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -82,4 +70,3 @@ Las empresas deben diversificar sus proveedores para mitigar el riesgo de futura
     }
   }
 }
-</script>

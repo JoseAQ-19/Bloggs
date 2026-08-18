@@ -1,16 +1,19 @@
 ---
-title: "52% de los Videos Sobre ADHD en TikTok Contienen Información Errónea y Peligrosa"
-date: 2026-05-16T10:07:42
+title: 52% de los Videos Sobre ADHD en TikTok Contienen Información Errónea y Peligrosa
+date: 2026-05-16 10:07:42
 draft: false
-description: "Descubre cómo el 52% de los videos sobre ADHD en TikTok difunden información errónea y peligrosa. Infórmate y protege tu salud mental."
-featured_image: "/images/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir.jpg"
-slug: "tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir"
-canonical: "https://novumworld.com/es/ia/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "90548852-567a-0a33-5c2e-fd0896fd51cb"
+description: Descubre cómo el 52% de los videos sobre ADHD en TikTok difunden información
+  errónea y peligrosa. Infórmate y protege tu salud mental.
+featured_image: /images/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir.jpg
+slug: tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir
+canonical: https://novumworld.com/es/ia/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 90548852-567a-0a33-5c2e-fd0896fd51cb
 ---
 
 ![52% de los Videos Sobre ADHD en TikTok Contienen Información Errónea y Peligrosa](/images/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir.jpg)
@@ -88,28 +91,12 @@ Para profundizar en esta problemática, recomendamos la lectura de análisis det
 - [news.google.com](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQkNQdFRkNE9WWkZleUNHaGFIS3dCYUFqV1I0Xy1LVDFQV3NGamdJNjVKTHRJMHZwU1BQaUpjRm5ReHBNQzNrNXlPa2ZyNzA3dUhKU016RllUVzl5NjQ4ZmNlYmJVdUExTTdDb2ZwV3JwQkZKc3M2ZjM0SHVPTUxDSm14cWtDRWJhMzZfNlo5ZTFXdVFlOWwtN1BOa3BnWUlUREhyVzQ4OWFFcmU5QUxfS3FjaTJpWXVMcFdpcVowS3BQRk00Q1hnS3F4cm11UDFBdHB0aVdLNXo1ajMzS0JGdnVzUDhLRUdIdVVfZW9BSU9lU2g0a2FnQ3pKY2xDYnNvaElnT0VjS3HSAaMCQVVfeXFMUFZkY3czTC1xcWxqSFZWSGFPMDBWQnQ4SGJMQThIcDNqcTMtRlgyU3R3TENfdXlBR2ZTZEs3VGVGTVhQRmtJQktSby00dG1VODk0b2xYNW9neHVtYVB0OWw2V1BtTDFoQnBlNUU3bWhuWF9ESGp2aEcydDd1WEhpdnVwcERnMm5DNzE2MWxmVmRjR2lFVkNlZlRSVnlZcmpEcUJxdXY4NHYyRlVvb2JJOUF6dzVkcEhfbzRNUi05RjhwZGtBYVBIdkR1dnVsNWItMENYQkFoNm5MdTcwT2RPYXZzWUdtZXdLVllDNjJIaTQ2VDNiYklkRS1RaFViaHRPeWJrb3ZjWEUxa3AteHRxSFJnSU1MVGs4VThST1ppNDUzTk5r?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQREczalo1Tmh4MnJuSno2N2liVGR0U05rbmNjUi1VeTBHdU43N3JaaGxCeElPWHVucS0tc3JqMllickJRNW1xWHFzRng2NXUxekpMR2dwamZMd2V4ckxyU3BESHZSSGJjWUZYTXVBSTVHbjF1R2psYXJGTFZHMFVlSkxLZzJKc19PdV82VWRTN05SSkFPd3NIdnMtU2lBMVhCVElhUmFMWUpxeUxOdWxMOHBuVUZjVDNfS2RFY0gxYnVhaEl4SE1TNjhqM09CSXJBNV9oeXAxUlFndw?oc=5)
 
-
 ## Artículos relacionados
 - [Trabajo y: La Dist](/es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver/)
 - [La IA Transformará 1.6 Millones de Empresas en España y Latam en 2025](/es/ia/puede-la-ia-transformar-los-datos-en-oportunidades-para-emprendedores-en-espana-y-america-latina/)
 - [Silicon Valley se Desangra: L](/es/ia/silicon-valley-se-desangra-la-era-dorada-ha-termin/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "52% de los Videos Sobre ADHD en TikTok Contienen Información Errónea y Peligrosa",
-  "description": "Descubre cómo el 52% de los videos sobre ADHD en TikTok difunden información errónea y peligrosa. Infórmate y protege tu salud mental.",
-  "image": "https://novumworld.com/images/tiktok-y-la-peligrosa-desinformacion-medica-que-consejos-seguir.jpg",
-  "datePublished": "2026-05-16T10:07:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +106,3 @@ Para profundizar en esta problemática, recomendamos la lectura de análisis det
     }
   }
 }
-</script>

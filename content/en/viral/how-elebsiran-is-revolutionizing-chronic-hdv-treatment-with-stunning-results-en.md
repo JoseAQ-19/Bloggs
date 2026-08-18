@@ -1,16 +1,20 @@
 ---
-title: "Elebsiran Achieves 88% Undetectable HDV RNA Rate, Redefining Chronic Hepatitis Delta Treatment"
-date: 2026-05-29T22:38:12
+title: Elebsiran Achieves 88% Undetectable HDV RNA Rate, Redefining Chronic Hepatitis
+  Delta Treatment
+date: 2026-05-29 22:38:12
 draft: false
-description: "Discover how Elebsiran's impressive 88% undetectable HDV RNA rate is transforming treatment options for chronic hepatitis delta and improving patient."
-featured_image: "/images/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en.jpg"
-slug: "how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en"
-canonical: "https://novumworld.com/viral/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "b1304c44-a868-9cba-ab7e-7d97f8834fde"
+description: Discover how Elebsiran's impressive 88% undetectable HDV RNA rate is
+  transforming treatment options for chronic hepatitis delta and improving patient.
+featured_image: /images/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en.jpg
+slug: how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en
+canonical: https://novumworld.com/viral/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: b1304c44-a868-9cba-ab7e-7d97f8834fde
 ---
 
 ![Elebsiran Achieves 88% Undetectable HDV RNA Rate, Redefining Chronic Hepatitis Delta Treatment](/images/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en.jpg)
@@ -71,22 +75,7 @@ The real breakthrough won't come from viral suppression alone. It will require a
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Elebsiran Achieves 88% Undetectable HDV RNA Rate, Redefining Chronic Hepatitis Delta Treatment",
-  "description": "Discover how Elebsiran's impressive 88% undetectable HDV RNA rate is transforming treatment options for chronic hepatitis delta and improving patient.",
-  "image": "https://novumworld.com/images/how-elebsiran-is-revolutionizing-chronic-hdv-treatment-with-stunning-results-en.jpg",
-  "datePublished": "2026-05-29T22:38:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +85,3 @@ The real breakthrough won't come from viral suppression alone. It will require a
     }
   }
 }
-</script>

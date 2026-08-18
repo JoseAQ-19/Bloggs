@@ -71,7 +71,6 @@ Los inversores deben reevaluar su exposición a las memecoins y considerar alter
 - [Pavona Revoluciona el Silicio Abierto: 808 Millones de Euros en Juego para el Futuro](/es/crypto/pavona-la-revolucion-del-silicio-abierto-con-criptografia-post-cuantica/)
 - [La Impactante Predicción de TRON: 21.6 Millones de Dólares en Ingresos y Su Futuro Inmediato](/es/crypto/que-nos-depara-el-futuro-predicciones-de-tron-trx-para-2026-2027-y-2028/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -80,18 +79,7 @@ Los inversores deben reevaluar su exposición a las memecoins y considerar alter
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Hundimiento De DOGE Y SHIB: Cómo El Interés Institucional Destruye Las Memecoins",
-  "description": "Descubre cómo el interés institucional está afectando a DOGE y SHIB, y por qué las memecoins enfrentan un futuro incierto en el mercado.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-24T17:24:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ Los inversores deben reevaluar su exposición a las memecoins y considerar alter
     }
   }
 }
-</script>

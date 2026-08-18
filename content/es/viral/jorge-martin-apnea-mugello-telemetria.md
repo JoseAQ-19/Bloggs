@@ -1,16 +1,20 @@
 ---
-title: "5 Datos Impactantes Sobre La Telemetría de Jorge Martín en Mugello Que Nadie Conocía"
-date: 2026-05-29T22:11:21
+title: 5 Datos Impactantes Sobre La Telemetría de Jorge Martín en Mugello Que Nadie
+  Conocía
+date: 2026-05-29 22:11:21
 draft: false
-description: "Descubre 5 datos sorprendentes sobre la telemetría de Jorge Martín en Mugello que cambiarán tu perspectiva sobre el motociclismo. ¡No te lo pierdas!."
-featured_image: "/images/jorge-martin-apnea-mugello-telemetria.jpg"
-slug: "jorge-martin-apnea-mugello-telemetria"
-canonical: "https://novumworld.com/es/viral/jorge-martin-apnea-mugello-telemetria/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e1530e8a-ec72-a27a-f135-cc1604035e5e"
+description: Descubre 5 datos sorprendentes sobre la telemetría de Jorge Martín en
+  Mugello que cambiarán tu perspectiva sobre el motociclismo. ¡No te lo pierdas!.
+featured_image: /images/jorge-martin-apnea-mugello-telemetria.jpg
+slug: jorge-martin-apnea-mugello-telemetria
+canonical: https://novumworld.com/es/viral/jorge-martin-apnea-mugello-telemetria/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e1530e8a-ec72-a27a-f135-cc1604035e5e
 ---
 
 ![5 Datos Impactantes Sobre La Telemetría de Jorge Martín en Mugello Que Nadie Conocía](/images/jorge-martin-apnea-mugello-telemetria.jpg)
@@ -87,22 +91,7 @@ La presión de los neumáticos es un tema que va más allá de una simple regula
 - [La Tarjeta De Criptomonedas De Revolut: Ocultando Altas Comisiones A Sus Usuarios](/es/viral/revolut-y-su-misteriosa-tarjeta-de-criptomonedas-una-estrategia-que-marcara-tendencia/)
 - [Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran](/es/viral/realities-espana-polemica/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "5 Datos Impactantes Sobre La Telemetría de Jorge Martín en Mugello Que Nadie Conocía",
-  "description": "Descubre 5 datos sorprendentes sobre la telemetría de Jorge Martín en Mugello que cambiarán tu perspectiva sobre el motociclismo. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/jorge-martin-apnea-mugello-telemetria.jpg",
-  "datePublished": "2026-05-29T22:11:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +101,3 @@ La presión de los neumáticos es un tema que va más allá de una simple regula
     }
   }
 }
-</script>

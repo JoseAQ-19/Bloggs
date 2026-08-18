@@ -1,16 +1,19 @@
 ---
-title: "La Catedral Más Pequeña Del Mundo: Un Acto Espiritual Que Sorprende En Concéntrico"
-date: 2026-06-15T14:54:42
+title: 'La Catedral Más Pequeña Del Mundo: Un Acto Espiritual Que Sorprende En Concéntrico'
+date: 2026-06-15 14:54:42
 draft: false
-description: "Descubre la Catedral Más Pequeña del Mundo en Concéntrico, un lugar de asombro que fusiona espiritualidad y arte en un espacio único e inspirador."
-featured_image: "/images/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico.jpg"
-slug: "la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico"
-canonical: "https://novumworld.com/es/tools/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "8d22b2c6-a053-6f2f-7b2c-101d7e88adaa"
+description: Descubre la Catedral Más Pequeña del Mundo en Concéntrico, un lugar de
+  asombro que fusiona espiritualidad y arte en un espacio único e inspirador.
+featured_image: /images/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico.jpg
+slug: la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico
+canonical: https://novumworld.com/es/tools/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 8d22b2c6-a053-6f2f-7b2c-101d7e88adaa
 ---
 
 ![La Catedral Más Pequeña Del Mundo: Un Acto Espiritual Que Sorprende En Concéntrico](/images/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico.jpg)
@@ -65,28 +68,12 @@ Se recomienda visitar la instalación para experimentar de primera mano su impac
 ## Metodología y Fuentes
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNZVlzUm12S2JwOUdlekRsRUQ5RE5kLWJpMzdBQndGcHE1TE1TeGZJM1owVi1XczVsVjZyYjZsbmhobzJFVk90dmZkNDFPbGpZWERwM1FYdVM4ZmE1LXJTMzBMWFRucGZxM19ubnI2bUVhdVlsSjFGWVI4eVFIZm1ZX3pnQWc2bW0ySFVyWHpHb3VJWWR5VVVsT2VEUVVIbHM5aGVCZUp2OFFhLWlWaC11V1JMTklsY3J5alNYUmFR?oc=5)
 
-
 ## Artículos relacionados
 - [Salamanca Revela Los 5 Desafíos Clave Para Transformar La Economía Pública Con Blockchain](/es/tools/salamanca-acoge-las-jornadas-que-transformaran-la-economia-de-las-empresas-publicas/)
 - [¡Revolución En Milán 2026! 5 Diseños Que Cambiarán El Mundo Para Siempre](/es/tools/milan-2026-lo-ultimo-en-diseno-que-revolucionara-el-mundo/)
 - [Turnkey Asegura 12,5 Millones: La Inversión Que Está Transformando El Sector Tecnológico Español](/es/tools/turnkey-asegura-125-millones-la-inversion-que-esta-revolucionando-el-sector-tecnologico/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Catedral Más Pequeña Del Mundo: Un Acto Espiritual Que Sorprende En Concéntrico",
-  "description": "Descubre la Catedral Más Pequeña del Mundo en Concéntrico, un lugar de asombro que fusiona espiritualidad y arte en un espacio único e inspirador.",
-  "image": "https://novumworld.com/images/la-catedral-mas-pequena-del-mundo-un-acto-espiritual-en-el-festival-concentrico.jpg",
-  "datePublished": "2026-06-15T14:54:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +83,3 @@ Se recomienda visitar la instalación para experimentar de primera mano su impac
     }
   }
 }
-</script>

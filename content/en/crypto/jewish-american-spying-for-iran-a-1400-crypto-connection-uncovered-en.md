@@ -65,12 +65,10 @@ This case exposes a critical vulnerability at the intersection of national secur
 - [news.google.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbTBsay04c2o0WnNFNEhnaGNyOWtrWEgzUjJTTU5YQ2U4blI2WVFCZDhld19SbjI3TEVnZkVVTFRrckRHZUMyRHptSlptMFRtdlVtQ0JpWTZTNXhxMVc0Sl9UdlJ4QXBhYUNLOXNteXJqaVNHNzBsUnlR?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 - [The Hidden Risks Behind Trump's Controversial Crypto Deal That Nobody Saw Coming](/crypto/trumps-crypto-deal-a-game-changer-or-a-trap-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -80,18 +78,7 @@ This case exposes a critical vulnerability at the intersection of national secur
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Jewish American Spied for Iran: The Shocking $1,400 Crypto Connection Exposed",
-  "description": "Discover the unsettling story of a Jewish American's espionage for Iran, revealing a $1,400 crypto link that raises serious security concerns.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-03T17:43:35",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +88,3 @@ This case exposes a critical vulnerability at the intersection of national secur
     }
   }
 }
-</script>

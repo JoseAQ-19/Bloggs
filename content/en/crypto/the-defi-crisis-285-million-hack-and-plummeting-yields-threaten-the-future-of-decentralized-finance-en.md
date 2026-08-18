@@ -1,16 +1,19 @@
 ---
-title: "The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future"
-date: 2026-04-16T17:51:31
+title: 'The $285 Million Disaster: How Drift Protocol''s Hack Imperils DeFi''s Future'
+date: 2026-04-16 17:51:31
 draft: false
-description: "Explore the $285 million hack of Drift Protocol and its devastating implications for the future of decentralized finance. Learn how security failures."
-featured_image: "/images/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en.jpg"
-slug: "the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en"
-canonical: "https://novumworld.com/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3982d536-a4df-c1b4-ef40-bf992142d7bc"
+description: Explore the $285 million hack of Drift Protocol and its devastating implications
+  for the future of decentralized finance. Learn how security failures.
+featured_image: /images/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en.jpg
+slug: the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en
+canonical: https://novumworld.com/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3982d536-a4df-c1b4-ef40-bf992142d7bc
 ---
 
 ![The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/images/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en.jpg)
@@ -77,12 +80,10 @@ As the DeFi landscape evolves, only those who prioritize security will survive t
 - [sec.gov](https://www.sec.gov/files/ctf-written-input-inatba-053025.pdf)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [OpenClaw''s $120 Billion Seed Phrase Di](/crypto/openclaw-crypto-wallet-phishing-attack-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -92,18 +93,7 @@ As the DeFi landscape evolves, only those who prioritize security will survive t
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future",
-  "description": "Explore the $285 million hack of Drift Protocol and its devastating implications for the future of decentralized finance. Learn how security failures.",
-  "image": "https://novumworld.com/images/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en.jpg",
-  "datePublished": "2026-04-16T17:51:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +103,3 @@ As the DeFi landscape evolves, only those who prioritize security will survive t
     }
   }
 }
-</script>

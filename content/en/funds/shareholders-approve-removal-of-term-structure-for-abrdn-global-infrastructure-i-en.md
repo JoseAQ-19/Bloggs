@@ -1,14 +1,18 @@
 ---
-title: "Shareholders Approve Removal of Term Structure for abrdn Global Infrastructure Income Fund"
-date: 2026-05-28T08:20:10
+title: Shareholders Approve Removal of Term Structure for abrdn Global Infrastructure
+  Income Fund
+date: 2026-05-28 08:20:10
 draft: false
-description: "Discover how shareholders' approval to remove the term structure impacts the abrdn Global Infrastructure Income Fund's strategy and future performance."
-featured_image: "/images/shareholders-approve-removal-of-term-structure-for-abrdn-global-infrastructure-i-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "0d5a3648-d410-f40c-9eeb-7a339ce9d6ce"
+description: Discover how shareholders' approval to remove the term structure impacts
+  the abrdn Global Infrastructure Income Fund's strategy and future performance.
+featured_image: /images/shareholders-approve-removal-of-term-structure-for-abrdn-global-infrastructure-i-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 0d5a3648-d410-f40c-9eeb-7a339ce9d6ce
 ---
 
 ![Shareholders Approve Removal of Term Structure for abrdn Global Infrastructure Income Fund](/images/shareholders-approve-removal-of-term-structure-for-abrdn-global-infrastructure-i-en.jpg)
@@ -20,8 +24,6 @@ Shareholders have overwhelmingly approved the removal of the term structure for 
 * [Volatility measured over the past three years is at 12.4% — source Morningstar]
 
 The abrdn Global Infrastructure Income Fund, traditionally characterized by its fixed-term structure, has now opted for a more adaptable approach. The fund's management believes that this change will enhance its ability to respond to market fluctuations and investment opportunities, thereby potentially increasing returns for shareholders.
-
-
 
 {{< adsterra_native >}}
 
@@ -83,6 +85,4 @@ This strategic pivot by the abrdn Global Infrastructure Income Fund represents a
 - [PGIM Expands ETF Offerings: Introducing PGIM Jennison US Core Equity ETF](/funds/pgim-expands-etf-offerings-introducing-pgim-jennison-us-core-equity-etf-en/)
 - [Vanguard](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -1,16 +1,20 @@
 ---
-title: "4 Shocking Stats Reveal Sidemen FC's Dominance Over YouTube All Stars Ahead of 2026 Showdown"
-date: 2026-04-17T20:40:11
+title: 4 Shocking Stats Reveal Sidemen FC's Dominance Over YouTube All Stars Ahead
+  of 2026 Showdown
+date: 2026-04-17 20:40:11
 draft: false
-description: "Discover how Sidemen FC outshines YouTube All Stars with 4 shocking stats, just in time for the 2026 showdown. Dive into the numbers now!."
-featured_image: "/images/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en.jpg"
-slug: "sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en"
-canonical: "https://novumworld.com/youtube/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "37bda3e7-0214-8898-98a8-0452dc5bea41"
+description: Discover how Sidemen FC outshines YouTube All Stars with 4 shocking stats,
+  just in time for the 2026 showdown. Dive into the numbers now!.
+featured_image: /images/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en.jpg
+slug: sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en
+canonical: https://novumworld.com/youtube/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 37bda3e7-0214-8898-98a8-0452dc5bea41
 ---
 
 ![4 Shocking Stats Reveal Sidemen FC's Dominance Over YouTube All Stars Ahead of 2026 Showdown](/images/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en.jpg)
@@ -82,28 +86,12 @@ In the game of football, even the most talented must prioritize health over hype
 - [news.google.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdUtHaVlVZG1XdmdIN2lBWmZUSEY2VFN6M2FKQ0NscmlXaV9pMHY5RFdmVTAxd21aTXhCTndLNnYzdFM0SEF3VHMzVF9IU2RTaHJRQUxfeUlJUmtfOGZSZ2t1RzViS2hJaHRmMHVoS3B2T01sa2Q5QnBFam1Zdm5zMWRFQTgwRXRaRVFoLUlIN2lUeGFyMmVyRXlsSEtxSmdz?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkJtV25uXzlkUGd5djJnYWxJV1ZPamtKYzF0Nk5rUml1YzFMeXBubmJ0cUFsU1ZQcWd6bXlPWFNnZjBNYWd0YVhPNGNES1pRbVR0a0NrVEpKbkUxY0d6NWhIY3c2WlpCNVRfaWk4WkdJTnc4WlB6cWFqTzViTXdadHVEcTlmbklqLW5OZ09KRUNWU1hJbkNFbVZudWFZaGszS1JFZXhvVdIBrAFBVV95cUxPUDZEbGJ1b2RpVF9Fc05RSFdPNHlvTWpMbDdzMm1QV2stR1ZNQkx5bExlamM2VnhDNWY2UFpNaGZwd2Z4TER2cmJ6MGJaYlJvcTcwRmdBcTV3eng3OVRoSkU4ZTNOVU1COUJ6SFlkZVJ4NGp2ZHdLVXFBRXg5bHN3RWJCZnhFU1l2Y0hkQ0cyQ1VjVFp0MmdLNlpTcG8wVmNjaTJNcXRpVE9oSC1H?oc=5)
 
-
 ## Related Articles
 - [Good Good Golf''s Meltdown: 1.48 Mi](/youtube/youtube-golf-wars-business-fallout-en/)
 - [73% Quit: The Dark Side Of YouTube''s Creator Burnout Crisis](/youtube/youtube-media-giant-en/)
 - [YouTube Premium Just Hiked Prices: What 2 Dollars Means for 135 Million Subscribers](/youtube/youtube-premium-price-hike-what-the-new-rates-mean-for-subscribers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "4 Shocking Stats Reveal Sidemen FC's Dominance Over YouTube All Stars Ahead of 2026 Showdown",
-  "description": "Discover how Sidemen FC outshines YouTube All Stars with 4 shocking stats, just in time for the 2026 showdown. Dive into the numbers now!.",
-  "image": "https://novumworld.com/images/sidemen-fc-vs-youtube-all-stars-the-ultimate-charity-match-showdown-for-2026-en.jpg",
-  "datePublished": "2026-04-17T20:40:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +101,3 @@ In the game of football, even the most talented must prioritize health over hype
     }
   }
 }
-</script>

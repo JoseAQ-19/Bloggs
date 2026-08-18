@@ -29,8 +29,6 @@ Planet Fitness's lawsuit exposes a fatal flaw in the fitness industry's emergenc
 * Guy Harris's death at a Planet Fitness in Shreveport highlights a critical failure where a manager allegedly refused to provide an AED to bystanders attempting life-saving measures.
 * Gym liability waivers do not protect facilities from gross negligence claims, as demonstrated in multiple lawsuits against Planet Fitness and other fitness chains nationwide.
 
-
-
 {{< adsterra_native >}}
 
 ## The AED Access Controversy: A Fatal Error in Planet Fitness Protocols
@@ -90,6 +88,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Rashford''s Rehab Miracle: 42% Less Re-Injury Risk? Tech Makes Or Breaks His](/en/fitness/rashford-injury-barcelona-performance-en/)
 - [The Shocking Truth About Biometric Spoofing Risks In Fitness Trackers](/en/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en/)
 - [FAU’s “March Into Fitness” Program: 50% Of Students Embrace Wearable Tech](/en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

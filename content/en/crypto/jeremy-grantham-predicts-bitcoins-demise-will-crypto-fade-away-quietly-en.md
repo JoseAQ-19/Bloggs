@@ -81,12 +81,10 @@ Sin embargo, es importante destacar que la predicción de Grantham no es una cer
 - [news.google.com](https://news.google.com/rss/articles/CBMidEFVX3lxTFBWWjVyMFZuc0JqUDBVY200NVk1R1VjYUxvalJ4TnZtb2x4Y3NoVHBrRVRoSS01NUJYV2FDaW5fbV9qVi0zYUliajM5cWtLQ0Nyd1R4NjRrbFBRajFJTXp2eUZ3cjJQZUpDMDVjdVEyQUpNNXcz?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
 - [The Shocking Truth: 5 Ways Prediction Markets Are Disrupting Crypto Forever](/crypto/the-crypto-disruption-dilemma-where-do-prediction-markets-fit-in-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -96,18 +94,7 @@ Sin embargo, es importante destacar que la predicción de Grantham no es una cer
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Jeremy Grantham’s Stark Prediction: Bitcoin Will Dwindle Away With A Whimper Over Decades",
-  "description": "Discover Jeremy Grantham's bold prediction on Bitcoin's future decline, exploring why he believes it will fade away quietly over the coming decades.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-27T16:48:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +104,3 @@ Sin embargo, es importante destacar que la predicción de Grantham no es una cer
     }
   }
 }
-</script>

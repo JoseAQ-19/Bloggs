@@ -1,16 +1,20 @@
 ---
-title: "Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas Competition"
-date: 2026-04-21T06:04:55
+title: 'Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas
+  Competition'
+date: 2026-04-21 06:04:55
 draft: false
-description: "Tragedy struck at Ironman Texas as fitness influencer Mara Flávia drowned during the competition, leaving fans and the community in deep mourning."
-featured_image: "/images/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en.jpg"
-slug: "tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en"
-canonical: "https://novumworld.com/fitness/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "aa794df6-66cc-e544-90a9-40a45d6a606a"
+description: Tragedy struck at Ironman Texas as fitness influencer Mara Flávia drowned
+  during the competition, leaving fans and the community in deep mourning.
+featured_image: /images/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en.jpg
+slug: tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en
+canonical: https://novumworld.com/fitness/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: aa794df6-66cc-e544-90a9-40a45d6a606a
 ---
 
 ![Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas Competition](/images/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en.jpg)
@@ -78,28 +82,12 @@ To mitigate the risks of open water swimming, every triathlete must implement a 
 - [news.google.com](https://news.google.com/rss/articles/CBMioAJBVV95cUxQZGZuT1dNN0pucVVYcDhGZWJuMmF4RFY3NmRwTDhrTk56OUtPaFg4bUNLVWZQUHgzNmU2UFR3cHJ1Rm9ycExkYlNId21paHVqWGs3UGw1WFNpczZlc2I2TjhpWnEtUVd5NG5kRXdQdzh5ZWxTMnRSOTVHUDFtQ2JLaGRYTldBbVVjQWVrLTdIcXU3a3V6dlJvbldSOEFJVDluOEdsbUlReW44dHI2cGJFQzBaU2R4d29RZjlGdDBkbnZ3VTdLWGxjU25oUzlJeDhhTzdubWZwX1hUUTl3TDdyWmFrMzBGc2R3a0dySldfME5ienV5UXRnZFg4ZENrWjJzc0tlREk2VlVyaUZyVUNtSkdZOFF2VmhCc0JtLTF1MzbSAaYCQVVfeXFMTmMyODhhd3M2MlNNZGFaUXBVOHA5dmMwTktDaFdBRXMwNDA4eEVrU2J4bGxxenA1b2REZklhR1R3SnRYY2tQcG9TdDg3Z3JsaWRFOVlYU09OUmRJNkU3S25qTHBXQk4wQXRGdUtQTkhzU0Nna0ItVHh0MS1FN2h1RjkwWTA5V3VGQ1F3ZkFLYmstQThXN3RIdjJPV2xDRVo2Nmw3ZjhfTVcxS3F6dTdVMjI5UnN0aDVmREt0U2tfcTNZdk1MR0ZlUjI3emRKWjBJQUFMOVIwUWNwVjNiaFlFSXpSbjZqMHR3MmFXLVJOU0xrV3U4Nzl1X1ZtM21NOW5RMkVZaXNlU1NDenpPd09QYU9jT0FxNDBwblFnbEhHeXdiRERVMWh3?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0pZUWkyRWZSY2JTOE9leEhfb3MwM2Jnd2xOYUVzVFRVNDdveWVNYlVwX0hMS3VpZ3Q2cGpqQ29SeVdmejRLZGpRZFlXRVhWNEVIQW4xMWxybGpUWW1rMlEwc3RUTlJWbjN6b2JiNE90NG1VTS11R2JBb3E5Q0RBWV84aTM0NWvSAYwBQVVfeXFMTURRb29ucVozTlVkZGg1d2FVSGxRSnZ4T0VWWnRlbmg4ZVNmN0VoejRfSlY0V1NaTm9TNTFJcTRxb3RUd0RUcHl1VFZHYmJldzJsTzF6SF8wRXNWRnpZS0RiNEZiaDB5azhIc241M0kxdExuc2QxQURzMUhrVEV3VlpSX1ZQbF9fcktOUUY?oc=5)
 
-
 ## Related Articles
 - [94% Adherence: The Shocking Truth About Digital Cardiac Rehabilitation's Success](/fitness/unlocking-heart-health-the-power-of-combined-training-for-heart-failure-patients-en/)
 - [Forget Incline! 44 Degrees Is The](/fitness/upper-chest-hypertrophy-science-en/)
 - [Rashford''s Rehab Miracle: 42% Le](/fitness/rashford-injury-barcelona-performance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas Competition",
-  "description": "Tragedy struck at Ironman Texas as fitness influencer Mara Flávia drowned during the competition, leaving fans and the community in deep mourning.",
-  "image": "https://novumworld.com/images/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en.jpg",
-  "datePublished": "2026-04-21T06:04:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +97,3 @@ To mitigate the risks of open water swimming, every triathlete must implement a 
     }
   }
 }
-</script>

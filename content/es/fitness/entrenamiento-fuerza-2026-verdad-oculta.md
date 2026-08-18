@@ -30,8 +30,6 @@ El declive muscular relacionado con la edad no es una sentencia, pero sí una ep
 * El entrenamiento funcional se clasifica como la principal tendencia de fitness en España para 2026, según la Encuesta Nacional de Tendencias de Fitness en España para 2026, lo que indica un posible cambio hacia la prevención de la sarcopenia, pero la participación real sigue siendo baja.
 * Abordar la sarcopenia a través del entrenamiento de fuerza específico puede mejorar la calidad de vida y potencialmente prolongar la vida útil, lo que requiere que las personas prioricen e incorporen ejercicios de resistencia en sus rutinas, potencialmente bajo la supervisión de expertos cualificados.
 
-
-
 {{< adsterra_native >}}
 
 ## El Silencioso Ladrón de Movilidad: El Desconocimiento de la Sarcopenia en España y Sus Consecuencias Ocultas
@@ -91,6 +89,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Abdominales de Acero Friol Carballido: El Engaño Que Los Gurús No Quieren](/es/fitness/friol-carballido-abdominales-acero/)
 - [On Air Fitness Aterriza en España: 10 Millones de Euros para Revolucionar](/es/fitness/on-air-fitness-aterriza-en-espana-que-significa-para-el-panorama-del-fitness-nacional/)
 - [¿Más Lesiones Que Pilates? La Bomba Sobre El Entrenamiento Favorito De Kim](/es/fitness/lagree-fitness-mujeres-mayores-40/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

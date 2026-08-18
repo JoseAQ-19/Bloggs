@@ -84,7 +84,6 @@ This ruling has exposed the fragility of the crypto yield market, revealing the 
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -93,18 +92,7 @@ This ruling has exposed the fragility of the crypto yield market, revealing the 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Court Ruling Just Shook Crypto: 5 Shocking Implications for Yield Securities Ahead",
-  "description": "Discover the game-changing court ruling affecting crypto and its 5 shocking implications for yield securities that every investor needs to know.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-10T17:51:08",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +102,3 @@ This ruling has exposed the fragility of the crypto yield market, revealing the 
     }
   }
 }
-</script>

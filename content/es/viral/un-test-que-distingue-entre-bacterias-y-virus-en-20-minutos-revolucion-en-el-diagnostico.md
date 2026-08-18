@@ -1,16 +1,20 @@
 ---
-title: "Un Test Que Identifica Bacterias Y Virus En 20 Minutos: Revolución En Salud Pública"
-date: 2026-04-27T22:11:26
+title: 'Un Test Que Identifica Bacterias Y Virus En 20 Minutos: Revolución En Salud
+  Pública'
+date: 2026-04-27 22:11:26
 draft: false
-description: "Descubre cómo un innovador test identifica bacterias y virus en solo 20 minutos, transformando la salud pública y mejorando diagnósticos rápidamente."
-featured_image: "/images/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico.jpg"
-slug: "un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico"
-canonical: "https://novumworld.com/es/viral/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "eb23cabd-7310-86e6-423c-07ad5551a931"
+description: Descubre cómo un innovador test identifica bacterias y virus en solo
+  20 minutos, transformando la salud pública y mejorando diagnósticos rápidamente.
+featured_image: /images/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico.jpg
+slug: un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico
+canonical: https://novumworld.com/es/viral/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: eb23cabd-7310-86e6-423c-07ad5551a931
 ---
 
 ![Un Test Que Identifica Bacterias Y Virus En 20 Minutos: Revolución En Salud Pública](/images/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico.jpg)
@@ -75,22 +79,7 @@ El futuro de la salud pública está en nuestras manos, y con cada avance, enfre
 - [La Reacción](/es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad/)
 - [¡Alerta Roja! 20 Gramos de Paracetamol: La](/es/viral/reto-paracetamol-tiktok-peligro-viral/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Un Test Que Identifica Bacterias Y Virus En 20 Minutos: Revolución En Salud Pública",
-  "description": "Descubre cómo un innovador test identifica bacterias y virus en solo 20 minutos, transformando la salud pública y mejorando diagnósticos rápidamente.",
-  "image": "https://novumworld.com/images/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico.jpg",
-  "datePublished": "2026-04-27T22:11:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +89,3 @@ El futuro de la salud pública está en nuestras manos, y con cada avance, enfre
     }
   }
 }
-</script>

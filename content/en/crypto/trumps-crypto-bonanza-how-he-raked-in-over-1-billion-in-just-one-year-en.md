@@ -73,12 +73,10 @@ In the unpredictable world of crypto, what goes up may just as swiftly come cras
 - [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOajVoMHhHZG9KWS0tUFZZVi13VFU1Tk1SVVdTeV9GNENXS2NnTnpFek55Zl8zQmluWVcwZUpvODBFV21iOENBdDRNVC1ZMjM5NEp2ME5qUmNWVkhMVVJUS2RHU0JQZlp0LTdRNHVKV1V1TnV2NTdncVdCdVpqWmV2M1hqd2ZreERLNHF6SHdvbFBfNlN4U2NzVmt3?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [Tom Lee's Shocking Crypto Pick Could Skyrocket by 3,000% and Nobody is Talking](/crypto/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -88,18 +86,7 @@ In the unpredictable world of crypto, what goes up may just as swiftly come cras
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year",
-  "description": "Discover how Trump allegedly leveraged a secret crypto scheme to amass over $1 billion in just one year. Uncover the strategies behind this financial feat.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-01T18:09:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ In the unpredictable world of crypto, what goes up may just as swiftly come cras
     }
   }
 }
-</script>

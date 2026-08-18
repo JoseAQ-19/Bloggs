@@ -29,8 +29,6 @@ Despite AI biotechs raising $3.8 billion in VC deals in 2025, AI-discovered drug
 * AI-native biotechs have a nearly 100% valuation premium, with a median valuation of $78 million in 2024, compared to a median of $40 million for the broader biopharma industry.
 * Investors must demand greater transparency and focus on Phase III data to determine if AI's promise translates to tangible improvements in drug efficacy at scale, moving beyond the hype of early-stage results.
 
-
-
 {{< adsterra_native >}}
 
 ## The $25 Billion Hype Cycle: Generative AI's Clinical Reality Check
@@ -98,6 +96,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Claude''s $1B Code Hype: Advanced Devs Should Fear This Truth](/en/ia/anthropic-claude-code-2026-reality-check-en/)
 - [RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA Doesn't Want You To](/en/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en/)
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran Strike.](/en/ia/pentagon-ai-anthropic-iran-strikes-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

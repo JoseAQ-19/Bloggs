@@ -1,16 +1,19 @@
 ---
-title: "YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades"
-date: 2026-04-21T19:14:55
+title: YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades
+date: 2026-04-21 19:14:55
 draft: false
-description: "YouTube lanza una innovadora IA capaz de detectar el 90% de los deepfakes en celebridades. Descubre cómo esta tecnología cambia el juego."
-featured_image: "/images/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades.jpg"
-slug: "youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades"
-canonical: "https://novumworld.com/es/youtube/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "d9ba60b2-ef30-b779-f442-911b1b79accf"
+description: YouTube lanza una innovadora IA capaz de detectar el 90% de los deepfakes
+  en celebridades. Descubre cómo esta tecnología cambia el juego.
+featured_image: /images/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades.jpg
+slug: youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades
+canonical: https://novumworld.com/es/youtube/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: d9ba60b2-ef30-b779-f442-911b1b79accf
 ---
 
 ![YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades](/images/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades.jpg)
@@ -64,22 +67,7 @@ Esta IA de YouTube es un avance importante, pero no la panacea contra la crisis 
 - [YouTube Invierte Millones en I](/es/youtube/youtube-ia-infantil-monetizacion-controversia/)
 - [YouTube Te Espía: ¿Preparado Para Confesa](/es/youtube/youtube-deteccion-ia-honestidad-digital/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades",
-  "description": "YouTube lanza una innovadora IA capaz de detectar el 90% de los deepfakes en celebridades. Descubre cómo esta tecnología cambia el juego.",
-  "image": "https://novumworld.com/images/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades.jpg",
-  "datePublished": "2026-04-21T19:14:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +77,3 @@ Esta IA de YouTube es un avance importante, pero no la panacea contra la crisis 
     }
   }
 }
-</script>

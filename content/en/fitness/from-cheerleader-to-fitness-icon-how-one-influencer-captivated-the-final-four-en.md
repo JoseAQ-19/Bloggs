@@ -1,16 +1,20 @@
 ---
-title: "68% Of Collegiate Athletes Suffer Body Dissatisfaction: The Shocking Influence Of One Fitness Icon"
-date: 2026-04-07T06:02:56
+title: '68% Of Collegiate Athletes Suffer Body Dissatisfaction: The Shocking Influence
+  Of One Fitness Icon'
+date: 2026-04-07 06:02:56
 draft: false
-description: "Discover how a fitness icon's influence contributes to body dissatisfaction in 68% of collegiate athletes, revealing shocking truths in sports culture."
-featured_image: "/images/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en.jpg"
-slug: "from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en"
-canonical: "https://novumworld.com/fitness/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "cdca54cc-a6ff-1361-d876-e9cec52f7bb2"
+description: Discover how a fitness icon's influence contributes to body dissatisfaction
+  in 68% of collegiate athletes, revealing shocking truths in sports culture.
+featured_image: /images/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en.jpg
+slug: from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en
+canonical: https://novumworld.com/fitness/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: cdca54cc-a6ff-1361-d876-e9cec52f7bb2
 ---
 
 ![68% Of Collegiate Athletes Suffer Body Dissatisfaction: The Shocking Influence Of One Fitness Icon](/images/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en.jpg)
@@ -90,28 +94,12 @@ Stop tracking aesthetic metrics like body weight or body fat percentage as prima
 - [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/40393002/)
 - [news.google.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2JKY21Td204NmhPS2hWQXhydXJMXzVDZXVqc2lwbldWbGVteHg5QXhWX3ZLTVhMS25KNmszZmFZdlowT2FWUmcwUkZ3MWZMamZvU2pBLXVUUDVBOGlKeV8zRDlPYm9PbWVwVWxuZFhwb0l4ZXhnN05oSl9uTmVWVzJ5NnJIM2JxMDREWlFkSkc4SFhfVmlVV1hYQmRTSEZraUl2RzA2YnMwS0prSmFtVlV5MkFEUQ?oc=5)
 
-
 ## Related Articles
 - [Social Media''s Dangerous Game](/fitness/mortality-paradox-fitness-failure-en/)
 - [Bodybuilding''s Deadly](/fitness/natural-bodybuilding-contest-prep-dangers-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "68% Of Collegiate Athletes Suffer Body Dissatisfaction: The Shocking Influence Of One Fitness Icon",
-  "description": "Discover how a fitness icon's influence contributes to body dissatisfaction in 68% of collegiate athletes, revealing shocking truths in sports culture.",
-  "image": "https://novumworld.com/images/from-cheerleader-to-fitness-icon-how-one-influencer-captivated-the-final-four-en.jpg",
-  "datePublished": "2026-04-07T06:02:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -121,4 +109,3 @@ Stop tracking aesthetic metrics like body weight or body fat percentage as prima
     }
   }
 }
-</script>

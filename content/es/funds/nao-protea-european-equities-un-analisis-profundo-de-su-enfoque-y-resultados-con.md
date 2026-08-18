@@ -22,8 +22,6 @@ type: funds
 ## Resumen Ejecutivo
 * ![NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88.](/images/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.jpg)
 
-
-
 {{< adsterra_native >}}
 
 ## NAO Protea European Equities: Un análisis profundo de su enfoque y resultados con Sharpe de 0,88...
@@ -104,6 +102,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 - [Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 - [SpaceX: ¿Una valoración de 200.000 millones justificada?](/es/funds/spacex-una-valoracion-de-200000-millones-justificada/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

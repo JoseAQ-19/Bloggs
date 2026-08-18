@@ -1,16 +1,19 @@
 ---
-title: "How Bob Hepburn Went From Disney Cast Member To A Social Media Icon Overnight"
-date: 2026-06-19T22:29:28
+title: How Bob Hepburn Went From Disney Cast Member To A Social Media Icon Overnight
+date: 2026-06-19 22:29:28
 draft: false
-description: "Discover how Bob Hepburn transformed from a Disney cast member to a social media sensation overnight, captivating audiences with his unique journey."
-featured_image: "/images/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en.jpg"
-slug: "disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en"
-canonical: "https://novumworld.com/viral/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "016e6324-cbf6-4ff4-2fef-75ce9ea1636a"
+description: Discover how Bob Hepburn transformed from a Disney cast member to a social
+  media sensation overnight, captivating audiences with his unique journey.
+featured_image: /images/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en.jpg
+slug: disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en
+canonical: https://novumworld.com/viral/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 016e6324-cbf6-4ff4-2fef-75ce9ea1636a
 ---
 
 ![How Bob Hepburn Went From Disney Cast Member To A Social Media Icon Overnight](/images/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en.jpg)
@@ -67,22 +70,7 @@ Embrace your unique story; it could be the key to your own viral moment.
 - [UPS Driver's Shocking Paycheck Reveals Dark Truths About Gig Economy Earnings](/viral/ups-drivers-paycheck-revelation-goes-viral-a-look-at-the-gig-economy-en/)
 - [Jersey Mike's Nachos Just Revolutionized Our Order Game Forever](/viral/we-tried-jersey-mikes-nachos-and-revolutionized-our-order-game-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How Bob Hepburn Went From Disney Cast Member To A Social Media Icon Overnight",
-  "description": "Discover how Bob Hepburn transformed from a Disney cast member to a social media sensation overnight, captivating audiences with his unique journey.",
-  "image": "https://novumworld.com/images/disneys-bob-hepburn-how-a-retired-cast-member-became-an-unlikely-social-media-sensation-en.jpg",
-  "datePublished": "2026-06-19T22:29:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +80,3 @@ Embrace your unique story; it could be the key to your own viral moment.
     }
   }
 }
-</script>

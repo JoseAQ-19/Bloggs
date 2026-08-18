@@ -73,28 +73,12 @@ In the pursuit of fitness, safety should never take a backseat. The emphasis on 
 - [news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUhYMENURGtVbHBvVi1WZVhfc1I5eWJwZ3dqWm5qclN3VGJ4QlNqZlZqLVpIaFhlSGZoeVJuX0Z5VGNzeG94SnVMV2w2REVrVmw3S3Y0dF9FVnBtYUROVnpPbGttUXJpVERKRnUzZWxObWJTbWEzQkxuQWFUY1VsS3pNcERsNkthZDdCQkw2LVBRdVR0aWw0dHBXN3owelA5ZTdJZUU2My1BR3M?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxORTBJZENnQzNfeU80UGNRNGZwaDFXbnIwTWV2TUdkMC0yVnhxVGVUdERhd05tN0dkalVubmZueUNDdnFnOUdiUUdWRlBaRFFlbDMzNk5ocUkxclB4WmlLV05rSERDaGVxRC1fV3hsNExQc1d3cGQxVTY5TWE1VGhQeE1fSmNnZWNRZHh3WnRTWG5tVmgxeldBdTVtQk9xeDR4UWF5dG9vTTFwb1FHVnRQLVoxSXhab0tYWkc1YnZqT1E4dWllM0Fz?oc=5)
 
-
 ## Related Articles
 - [Shocking Turn of Events: Authorities Identify Body Linked to Missing Woman’s Gym Visit](/fitness/tragic-discovery-body-found-in-search-for-missing-woman-after-gym-visit-en/)
 - [92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/)
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking Gym Disasters: 25 Medical Emergencies That Turned Fitness Centers into Danger Zones",
-  "description": "Discover 25 shocking gym disasters that transformed fitness centers into danger zones. Learn about medical emergencies and how to stay safe while working.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-07T08:45:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +88,3 @@ In the pursuit of fitness, safety should never take a backseat. The emphasis on 
     }
   }
 }
-</script>

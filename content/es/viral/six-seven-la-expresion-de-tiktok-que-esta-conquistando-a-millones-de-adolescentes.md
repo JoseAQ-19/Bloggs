@@ -1,16 +1,20 @@
 ---
-title: "Seis Siete: Cómo Esta Tendencia de TikTok Manipula la Mente de Millones de Adolescentes"
-date: 2026-05-11T22:09:02
+title: 'Seis Siete: Cómo Esta Tendencia de TikTok Manipula la Mente de Millones de
+  Adolescentes'
+date: 2026-05-11 22:09:02
 draft: false
-description: "Descubre cómo la tendencia 'Seis Siete' de TikTok influye en la mente de millones de adolescentes y qué efectos tiene en su comportamiento y emociones."
-featured_image: "/images/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes.jpg"
-slug: "six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes"
-canonical: "https://novumworld.com/es/viral/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "222cec9e-46de-0c99-31f9-6f44dd8c18b2"
+description: Descubre cómo la tendencia 'Seis Siete' de TikTok influye en la mente
+  de millones de adolescentes y qué efectos tiene en su comportamiento y emociones.
+featured_image: /images/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes.jpg
+slug: six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes
+canonical: https://novumworld.com/es/viral/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 222cec9e-46de-0c99-31f9-6f44dd8c18b2
 ---
 
 ![Seis Siete: Cómo Esta Tendencia de TikTok Manipula la Mente de Millones de Adolescentes](/images/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes.jpg)
@@ -106,28 +110,12 @@ La batalla por la seguridad digital se libra en un terreno desigual donde los re
 - [news.google.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sM25wdXJzNExuc3VtblBNaU1nVEVHMnNmWWpTUi1FSVBOdEhOcmZ0dWRHNGR2bUo5aENIY1pMU2VWVTdfS0hBSDEwMEhKdnZNd1pWRmsyUlV6RFE1?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUFDY2dnMXZhc3J6S0FLR25JN0tRQTFxcmUzdXh6V0JiVW8wWk9Sd1VNbVBZYy1FVlF4Qmk3aWpKT3dWT1phNWpYaFF2bno4OTE2aE80bVIyT3NCNENQMjM4UzRYUGdLQl9rVHR1MFVRNUZUN3RkSkpHNlZEbnR2V010R0nSAYoBQVVfeXFMT1RKaUc2a3g1a1JSdzNnMF9fRkJsVHZ5N1pnRXBIdTVraDdnUjBJdDNDT0R1V012VGk0UDlyb3NCb2plN2JDMGlRZWhSZjhnVk9nV3lPUklTb2NvQXA4b0hnNEE2YjB4V2hmUUc4ZVB1WXRxT0ZUYmEyVzZobHdFVS1RN2N6MEpXQlRB?oc=5)
 
-
 ## Artículos relacionados
 - [Un Test Que Identifica Bacterias Y Virus En 20 Minutos: Revolución En Salud Pública](/es/viral/un-test-que-distingue-entre-bacterias-y-virus-en-20-minutos-revolucion-en-el-diagnostico/)
 - [Carriedo Desata la Ira Médica: ¿Pel](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 - [Shakira gratis en cdmx: ¿10 muertos más com](/es/viral/shakira-concierto-gratis-cdmx-riesgos/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Seis Siete: Cómo Esta Tendencia de TikTok Manipula la Mente de Millones de Adolescentes",
-  "description": "Descubre cómo la tendencia 'Seis Siete' de TikTok influye en la mente de millones de adolescentes y qué efectos tiene en su comportamiento y emociones.",
-  "image": "https://novumworld.com/images/six-seven-la-expresion-de-tiktok-que-esta-conquistando-a-millones-de-adolescentes.jpg",
-  "datePublished": "2026-05-11T22:09:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -137,4 +125,3 @@ La batalla por la seguridad digital se libra en un terreno desigual donde los re
     }
   }
 }
-</script>

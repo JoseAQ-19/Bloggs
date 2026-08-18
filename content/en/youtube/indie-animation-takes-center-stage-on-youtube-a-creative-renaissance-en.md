@@ -1,16 +1,19 @@
 ---
-title: "Indie Animation Surges: 92% Of Filmmakers Embrace Free AI Tools In 2023"
-date: 2026-04-11T19:17:42
+title: 'Indie Animation Surges: 92% Of Filmmakers Embrace Free AI Tools In 2023'
+date: 2026-04-11 19:17:42
 draft: false
-description: "Discover how 92% of indie filmmakers in 2023 are leveraging free AI tools to revolutionize animation and boost creativity in the industry."
-featured_image: "/images/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en.jpg"
-slug: "indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en"
-canonical: "https://novumworld.com/youtube/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "5c73db6a-c595-5c54-8316-d425b7d3eb75"
+description: Discover how 92% of indie filmmakers in 2023 are leveraging free AI tools
+  to revolutionize animation and boost creativity in the industry.
+featured_image: /images/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en.jpg
+slug: indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en
+canonical: https://novumworld.com/youtube/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 5c73db6a-c595-5c54-8316-d425b7d3eb75
 ---
 
 ![Indie Animation Surges: 92% Of Filmmakers Embrace Free AI Tools In 2023](/images/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en.jpg)
@@ -69,28 +72,12 @@ The surge of AI tools in indie animation is a hostile takeover of the creative p
 - [par.nsf.gov](https://par.nsf.gov/servlets/purl/10187667)
 - [files.eric.ed.gov](https://files.eric.ed.gov/fulltext/ED652166.pdf)
 
-
 ## Related Articles
 - [YouTube Studio''s $36 Billion Proble](/youtube/youtube-studio-meltdown-creator-revenue-en/)
 - [YouTube Creators Expose Amazon's AI Training Scandal: $2.3 Billion Market Under Fire](/youtube/youtube-creators-take-a-stand-against-amazon-the-ai-training-controversy-unveiled-en/)
 - [Neal Mohan''s Nightmare: AI Lookalikes Threa](/youtube/youtube-gemini-creator-collabs-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Indie Animation Surges: 92% Of Filmmakers Embrace Free AI Tools In 2023",
-  "description": "Discover how 92% of indie filmmakers in 2023 are leveraging free AI tools to revolutionize animation and boost creativity in the industry.",
-  "image": "https://novumworld.com/images/indie-animation-takes-center-stage-on-youtube-a-creative-renaissance-en.jpg",
-  "datePublished": "2026-04-11T19:17:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +87,3 @@ The surge of AI tools in indie animation is a hostile takeover of the creative p
     }
   }
 }
-</script>

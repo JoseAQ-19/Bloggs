@@ -1,16 +1,20 @@
 ---
-title: "Inside Ben Gleib's Bold Move: The Surprising Shift To YouTube's Late-Night Scene"
-date: 2026-04-27T20:45:56
+title: 'Inside Ben Gleib''s Bold Move: The Surprising Shift To YouTube''s Late-Night
+  Scene'
+date: 2026-04-27 20:45:56
 draft: false
-description: "Discover how comedian Ben Gleib is shaking up the late-night landscape by transitioning to YouTube, bringing fresh humor and bold ideas to the platform."
-featured_image: "/images/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en.jpg"
-slug: "ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en"
-canonical: "https://novumworld.com/youtube/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "7ae7d555-df23-81cf-37c0-2c987f9c7190"
+description: Discover how comedian Ben Gleib is shaking up the late-night landscape
+  by transitioning to YouTube, bringing fresh humor and bold ideas to the platform.
+featured_image: /images/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en.jpg
+slug: ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en
+canonical: https://novumworld.com/youtube/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 7ae7d555-df23-81cf-37c0-2c987f9c7190
 ---
 
 ![Inside Ben Gleib's Bold Move: The Surprising Shift To YouTube's Late-Night Scene](/images/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en.jpg)
@@ -69,28 +73,12 @@ As the late-night landscape evolves, staying ahead of these trends is crucial fo
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMickFVX3lxTE5tZDdBb3hpMGcyaWs1amtjUDFYcGdjTGxkVFhKUDJ2RW13b3lMXy1BVG1nZGR0bGE1djZ1Q1l5VGFqbWVrckloYXZfdmRjbFcyc3ZhM1BUS1BPZm5wWjdVdHRpamduak9oUE9EUFctcGsyQQ?oc=5)
 
-
 ## Related Articles
 - [YouTube''s Dirty Se](/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 - [YouTube Bans Influencer Clavicular Again for Severe Violations And Fans Are Outraged](/youtube/youtubes-latest-controversy-influencer-clavicular-banned-again-en/)
 - [YouTube TV In 2026: Comcast''s Worst Nightmare Or](/youtube/youtube-tv-2026-worth-it-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Inside Ben Gleib's Bold Move: The Surprising Shift To YouTube's Late-Night Scene",
-  "description": "Discover how comedian Ben Gleib is shaking up the late-night landscape by transitioning to YouTube, bringing fresh humor and bold ideas to the platform.",
-  "image": "https://novumworld.com/images/ben-gleibs-bold-move-inside-his-new-late-night-youtube-talk-show-en.jpg",
-  "datePublished": "2026-04-27T20:45:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ As the late-night landscape evolves, staying ahead of these trends is crucial fo
     }
   }
 }
-</script>

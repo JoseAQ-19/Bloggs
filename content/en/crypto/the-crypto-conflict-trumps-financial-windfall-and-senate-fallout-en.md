@@ -68,12 +68,10 @@ The implications of Trump's reported $1.4 billion in cryptocurrency income exten
 - [news.google.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUdQNUR4N2dka1BMNmVUNFZldE9tLVVmX216UFBMNTJFSFpkeWNPX1pndHdfYTJKNGx6WUI0aUVCZ3NIaG8xaGJqekFicTRtbzVRcTF3LUVySjFkWEZJblRPWlF0eUVwS2NFUVY4QjBsTWZhemVpT3ViZG85a21HRmVfZTczQllzLUo1dVJiSlhUajlhd1BmeGcxM3Q0NGtqbkNiOXNxbm5ncldpeDVRUFJjaXhNMEg5RlZoSFRwOVAxYW1ESllQNU83cS1RdFc2Y2NOM2xCdU5lNWhQNFZ0YVFiRUVQQ1J4Q25IbEZZTlE?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [Bitcoin Dominance Surges As Experts Predict $250K By 2027 And Nobody Noticed](/crypto/why-is-the-crypto-market-surging-today-unpacking-the-latest-trends-en/)
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -83,18 +81,7 @@ The implications of Trump's reported $1.4 billion in cryptocurrency income exten
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s Shocking $1.4 Billion Crypto Income Amid Ethics Scandal Ignites Outrage",
-  "description": "Discover how Trump's $1.4 billion crypto income amid an ethics scandal is sparking outrage and reshaping the political landscape. Read more now!.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-02T18:03:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +91,3 @@ The implications of Trump's reported $1.4 billion in cryptocurrency income exten
     }
   }
 }
-</script>

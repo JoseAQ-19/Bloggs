@@ -1,14 +1,18 @@
 ---
-title: "2026 LSEG Lipper Award: Bramshill Income Performance Fund Achieves Best 5-Year Core Bond Fund"
-date: 2026-04-22T07:37:31
+title: '2026 LSEG Lipper Award: Bramshill Income Performance Fund Achieves Best 5-Year
+  Core Bond Fund'
+date: 2026-04-22 07:37:31
 draft: false
-description: "Discover how the Bramshill Income Performance Fund earned the 2026 LSEG Lipper Award as the best 5-year core bond fund and what it means for investors."
-featured_image: "/images/2026-lseg-lipper-award-bramshill-income-performance-fund-achieves-best-5-year-co-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "c38e57ca-13ef-2072-f819-d3ef32415284"
+description: Discover how the Bramshill Income Performance Fund earned the 2026 LSEG
+  Lipper Award as the best 5-year core bond fund and what it means for investors.
+featured_image: /images/2026-lseg-lipper-award-bramshill-income-performance-fund-achieves-best-5-year-co-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: c38e57ca-13ef-2072-f819-d3ef32415284
 ---
 
 ![2026 LSEG Lipper Award: Bramshill Income Performance Fund Achieves Best 5-Year Core Bond Fund](/images/2026-lseg-lipper-award-bramshill-income-performance-fund-achieves-best-5-year-co-en.jpg)
@@ -20,8 +24,6 @@ The Bramshill Income Performance Fund has achieved an impressive 5-year annualiz
 * [Expense ratio of 0.65%, below the category average of 0.85% — source CNMV]
 
 This accolade highlights the fund’s consistent performance amidst fluctuating interest rates and market volatility, positioning it as a reliable choice for investors seeking core bond exposure. The fund, managed by Bramshill Investments, has distinguished itself through a disciplined investment strategy that emphasizes high-quality bonds and an active approach to interest rate management. 
-
-
 
 {{< adsterra_native >}}
 
@@ -79,16 +81,7 @@ With an expense ratio of 0.65%, the Bramshill fund enhances net returns compared
 
 Investing in bond funds carries risks such as interest rate risk and credit risk. While the fund has a strong track record, market conditions can change, affecting performance.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "2026 LSEG Lipper Award: Bramshill Income Performance Fund Achieves Best 5-Year Core Bond Fund",
-  "datePublished": "2026-04-01T08:00:00+00:00",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "Finance Insights",
@@ -98,20 +91,8 @@ Investing in bond funds carries risks such as interest rate risk and credit risk
     }
   }
 }
-</script>
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes the Bramshill Income Performance Fund stand out from its peers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fund’s combination of strong historical performance, low expense ratio, and effective risk management strategies differentiate it from other core bond funds in the market."
-      }
-    },
+
+},
     {
       "@type": "Question",
       "name": "Is now a good time to invest in bond funds?",
@@ -146,13 +127,10 @@ Investing in bond funds carries risks such as interest rate risk and credit risk
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [Morningstar Thailand 2026:](/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en/)
 - [Morn](/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -1,16 +1,20 @@
 ---
-title: "Elon Musk Declares 90% of Cryptocurrencies Are Scams in Jaw-Dropping Court Analysis"
-date: 2026-04-30T16:47:42
+title: Elon Musk Declares 90% of Cryptocurrencies Are Scams in Jaw-Dropping Court
+  Analysis
+date: 2026-04-30 16:47:42
 draft: false
-description: "Elon Musk's bold court analysis claims 90% of cryptocurrencies are scams. Discover his insights and the implications for the crypto market today."
-featured_image: "/images/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en.jpg"
-slug: "elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en"
-canonical: "https://novumworld.com/crypto/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "a1087021-ea3c-d080-c23b-a23a2cb847fe"
+description: Elon Musk's bold court analysis claims 90% of cryptocurrencies are scams.
+  Discover his insights and the implications for the crypto market today.
+featured_image: /images/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en.jpg
+slug: elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en
+canonical: https://novumworld.com/crypto/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: a1087021-ea3c-d080-c23b-a23a2cb847fe
 ---
 
 ![Elon Musk Declares 90% of Cryptocurrencies Are Scams in Jaw-Dropping Court Analysis](/images/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en.jpg)
@@ -83,12 +87,10 @@ Musk’s declaration is a critical wake-up call that cuts through hype and expos
 - [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0c4MU04bDhXWGxzN0hEVktkRWpHdHltNmpWSGRWTHZPeUZRX0RnbDJSX3ZRUG1OZG9oYUw5Ri0tbjZzYjltZl9XUGRRSnFMWS1qazRzbTZKZ3V5MUJWX0ZJS2N2TElIQUkzQUZteW9GUnROSjBZbDlWa2pHdkU1TzJhNzFGaEVHaEktZkZTRjU5OG5lcHhMQQ?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [The $46 Million Crypto Heist Exposes Government Theft Threatening Billions In Tether Profits](/crypto/the-46-million-crypto-heist-how-government-theft-threatened-billions-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -98,18 +100,7 @@ Musk’s declaration is a critical wake-up call that cuts through hype and expos
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Elon Musk Declares 90% of Cryptocurrencies Are Scams in Jaw-Dropping Court Analysis",
-  "description": "Elon Musk's bold court analysis claims 90% of cryptocurrencies are scams. Discover his insights and the implications for the crypto market today.",
-  "image": "https://novumworld.com/images/elon-musk-calls-most-cryptos-scams-in-shocking-court-testimony-en.jpg",
-  "datePublished": "2026-04-30T16:47:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +110,3 @@ Musk’s declaration is a critical wake-up call that cuts through hype and expos
     }
   }
 }
-</script>

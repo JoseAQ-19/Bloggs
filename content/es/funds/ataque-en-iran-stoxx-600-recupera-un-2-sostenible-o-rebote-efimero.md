@@ -25,8 +25,6 @@ El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten
 
 El Stoxx 600 recupera un 2% tras el ataque en Irán, pero los expertos advierten que la volatilidad podría durar semanas, según Morningstar. Tras el reciente aumento de tensiones geopolíticas en Oriente Medio, el índice de referencia europeo ha mostrado resiliencia inmediata, aunque el análisis de flujos y estrategias de los grandes fondos de inversión revela un panorama complejo, con solo el 14% de los gestores activos españoles superando a sus *benchmarks* en los últimos 12 meses, según datos de la **CNMV**.
 
-
-
 {{< adsterra_native >}}
 
 ### **Tabla Comparativa: Rendimientos y Volatilidad de Fondos Europeos**
@@ -105,6 +103,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Oro en la Eurozona: 5 ETFs ''Large Cap'' superan el 12% anual](/es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual/)
 - [Indexa Capital: Bajada de comisiones en 2026 podría sumar 260.000€ a tu inversión.](/es/funds/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion/)
 - [Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad](/es/funds/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

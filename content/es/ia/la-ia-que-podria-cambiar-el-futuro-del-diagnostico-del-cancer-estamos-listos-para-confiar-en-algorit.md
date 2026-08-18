@@ -32,8 +32,6 @@ type: ia
 
 La inteligencia artificial está en el centro de un debate acalorado en el ámbito de la salud, especialmente en el tratamiento del cáncer. La reciente presentación del modelo SCORPIO, que predice la respuesta a la inmunoterapia con una precisión del 91.66%, es un ejemplo de la promesa y los peligros que conlleva el uso de la IA en medicina. Sin embargo, la realidad es más compleja y está llena de matices que exigen un análisis profundo.
 
-
-
 {{< adsterra_native >}}
 
 ### Key Points
@@ -90,6 +88,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [España Duerme: Deepfakes Bélicos Aumentan 191% y Nadie Está Preparado.](/es/ia/deepfakes-belicos-ia-espana/)
 - [NBA All-Star Weekend 2026: Estrategia Digital con Creadores de Contenido](/es/ia/nba-all-star-2026-estrategia-digital/)
 - [¿Metaverso Zombie? VR, Cripto y el Apocalipsis Tech que Nadie Quiere Ver](/es/ia/metaverso-zombie-vr-cripto-apocalipsis/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

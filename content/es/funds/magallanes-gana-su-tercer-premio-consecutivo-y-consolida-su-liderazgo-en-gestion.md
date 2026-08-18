@@ -26,8 +26,6 @@ type: funds
 - **Comisiones competitivas**: Sus gastos corrientes del 1,10% se sitúan por debajo de la media del sector, que supera el 1,50%, lo que la hace más atractiva para los inversores.
 - **Estrategia de inversión**: La firma se especializa en la inversión en valor, identificando empresas infravaloradas con un alto potencial de crecimiento, lo que ha permitido su éxito sostenido.
 
-
-
 {{< adsterra_native >}}
 
 ## Magallanes Value Investors: Un Liderazgo Consolidado en la Gestión de Fondos
@@ -75,6 +73,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus](/es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino/)
 - [Cinco fondos premiados por Morningstar en 2026 con más del 15% de rentabilidad](/es/funds/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an/)
 - [Premios Morningstar 2026: Magallanes Value Investors logra su tercer galardón](/es/funds/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

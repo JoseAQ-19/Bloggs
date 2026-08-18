@@ -1,16 +1,20 @@
 ---
-title: "$19.3 Billion Lost: The Shocking Risks of 24/7 Futures Trading on Avalanche and Sui"
-date: 2026-04-07T17:54:45
+title: '$19.3 Billion Lost: The Shocking Risks of 24/7 Futures Trading on Avalanche
+  and Sui'
+date: 2026-04-07 17:54:45
 draft: false
-description: "Discover the staggering $19.3 billion loss linked to 24/7 futures trading on Avalanche and Sui, exploring the risks and implications for investors."
-featured_image: "/images/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en.jpg"
-slug: "cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en"
-canonical: "https://novumworld.com/crypto/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "cd2e5aca-e5eb-546b-aa31-f04f943748af"
+description: Discover the staggering $19.3 billion loss linked to 24/7 futures trading
+  on Avalanche and Sui, exploring the risks and implications for investors.
+featured_image: /images/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en.jpg
+slug: cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en
+canonical: https://novumworld.com/crypto/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: cd2e5aca-e5eb-546b-aa31-f04f943748af
 ---
 
 ![$19.3 Billion Lost: The Shocking Risks of 24/7 Futures Trading on Avalanche and Sui](/images/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en.jpg)
@@ -92,12 +96,10 @@ The risks of 24/7 futures trading on Avalanche and Sui necessitate heightened aw
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZURXVV8xTW9vb2lGdldaNURSanAtWUxaRXNmY25GVWlvQzAwWHVxY0ZVYWJCWkg5NWhRREJhamU4ckpGT0RFam1yLXpNdFQyMzd5UFlyTlBWR05Zang0Q0ZaQVU5cmF6MkJNVERYa242WWt6WDg4NnpoRWxUbXpsRVpkc05TQ1XSAY8BQVVfeXFMTi13X1lNc2RibDlJNXJmN1pyVTRMWDU2cGJLRzJJNWpMTHVpR2VkelNvR1hLdElXNVNBTUwyc1dsaXc1Y2FzS0QwTTBTaExfSVUzUHIzZGcwSTRoSk8tTlpZRWhjUkQxT1I4UTJrak9DRFV3aVR3VW1KZWlLOEtkU0lPRFp2bW5zb3pYWFpDLUE?oc=5)
 
-
 ## Related Articles
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [Chainalysis Warns: Russia''s 694% Crypto Su](/crypto/russia-crypto-exchange-sanctions-en/)
 - [8% Surge: Kazakhstan''s Crypto Obsession Risk](/crypto/kazakhstan-sovereign-wealth-crypto-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -107,18 +109,7 @@ The risks of 24/7 futures trading on Avalanche and Sui necessitate heightened aw
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$19.3 Billion Lost: The Shocking Risks of 24/7 Futures Trading on Avalanche and Sui",
-  "description": "Discover the staggering $19.3 billion loss linked to 24/7 futures trading on Avalanche and Sui, exploring the risks and implications for investors.",
-  "image": "https://novumworld.com/images/cme-launches-247-futures-trading-with-avalanche-and-sui-a-new-era-for-crypto-en.jpg",
-  "datePublished": "2026-04-07T17:54:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -128,4 +119,3 @@ The risks of 24/7 futures trading on Avalanche and Sui necessitate heightened aw
     }
   }
 }
-</script>

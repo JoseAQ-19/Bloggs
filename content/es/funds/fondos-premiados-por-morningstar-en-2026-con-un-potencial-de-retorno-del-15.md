@@ -31,8 +31,6 @@ Un **40% de los fondos de inversión han superado el índice de referencia en lo
 
 Los fondos de inversión que han sido reconocidos por Morningstar en 2026 presentan un potencial de retorno atractivo, alineándose con las tendencias de mercado actuales y las expectativas de los inversores. Este análisis se centra en evaluar el rendimiento, la volatilidad y la gestión de costes de estos fondos, proporcionando un panorama claro para los inversores que buscan maximizar su rentabilidad en un entorno económico incierto.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis Comparativo de Fondos
@@ -80,6 +78,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a Irán](/es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran/)
 - [Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 - [ETFs de renta variable europea: Análisis del flujo de 6.940 millones € y sus](/es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

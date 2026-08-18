@@ -1,16 +1,20 @@
 ---
-title: "Bitcoin Plummets: $6.8B In Long Positions At Risk Amid Rising Geopolitical Tensions"
-date: 2026-06-04T18:15:54
+title: 'Bitcoin Plummets: $6.8B In Long Positions At Risk Amid Rising Geopolitical
+  Tensions'
+date: 2026-06-04 18:15:54
 draft: false
-description: "Bitcoin's value is in freefall, risking $6.8B in long positions as geopolitical tensions escalate. Discover the impact on the crypto market now."
-featured_image: "/images/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en.jpg"
-slug: "bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en"
-canonical: "https://novumworld.com/crypto/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3092c895-1af7-dee1-f37b-ed2c49d43fee"
+description: Bitcoin's value is in freefall, risking $6.8B in long positions as geopolitical
+  tensions escalate. Discover the impact on the crypto market now.
+featured_image: /images/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en.jpg
+slug: bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en
+canonical: https://novumworld.com/crypto/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3092c895-1af7-dee1-f37b-ed2c49d43fee
 ---
 
 ![Bitcoin Plummets: $6.8B In Long Positions At Risk Amid Rising Geopolitical Tensions](/images/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en.jpg)
@@ -61,12 +65,10 @@ The cryptocurrency market is witnessing a paradigm shift as it grapples with ext
 - [news.google.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDFLMjhtaVU2MENlSDVIcHFGZ2MtM3UtQXVyOVNZRUpYM3V0SUZ6WWhhQktDT2YtaVpCdmI1UUdqY1NPYVRxc1BQakZxTll0b3lnT3FkMGp5VnFyXzJvNXVuampvdzF4ZE81M2JSeFRQbG4zeFJCaXhWUTdnTGFSUTREZVN2QkViaWJQenVBSkNkOUxnMDVRN0h5enhjcDh6Y3B1cFN3?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE55VmF0bXN3Zlk3ZnBmWDd1TU9nVVN6blJwTUl1QnBNMWRrWmxIWkVDR1lBb2NiVGFIeEdnZkJpRjFpamtaN2QwN3ZZLUJtdndhczN6Q3ZSdVJLcEQ2QXFvWENscHdTaGFnR3RiRTU0NlVxR2xTWVEySEtCUQ?oc=5)
 
-
 ## Related Articles
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [US Senate’s Crypto Bill Could Propel Bitcoin To $200,000 By 2025](/crypto/us-senates-crypto-bill-a-game-changer-for-digital-assets-en/)
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -76,18 +78,7 @@ The cryptocurrency market is witnessing a paradigm shift as it grapples with ext
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Plummets: $6.8B In Long Positions At Risk Amid Rising Geopolitical Tensions",
-  "description": "Bitcoin's value is in freefall, risking $6.8B in long positions as geopolitical tensions escalate. Discover the impact on the crypto market now.",
-  "image": "https://novumworld.com/images/bitcoin-plummets-the-impact-of-geopolitical-tensions-on-cryptocurrency-markets-en.jpg",
-  "datePublished": "2026-06-04T18:15:54",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +88,3 @@ The cryptocurrency market is witnessing a paradigm shift as it grapples with ext
     }
   }
 }
-</script>

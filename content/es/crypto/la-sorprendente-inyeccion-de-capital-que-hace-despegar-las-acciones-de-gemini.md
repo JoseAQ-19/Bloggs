@@ -1,16 +1,20 @@
 ---
-title: "La Sorprendente Inyección de $100 Millones Que Hizo Saltar las Acciones de Gemini Analysis"
-date: 2026-05-18T16:59:47
+title: La Sorprendente Inyección de $100 Millones Que Hizo Saltar las Acciones de
+  Gemini Analysis
+date: 2026-05-18 16:59:47
 draft: false
-description: "Descubre cómo una inesperada inyección de $100 millones transformó las acciones de Gemini Analysis y qué significa para el futuro del mercado."
-featured_image: "/images/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini.jpg"
-slug: "la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini"
-canonical: "https://novumworld.com/es/crypto/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "4dfc9e20-376c-e73b-2434-df97bcc43eeb"
+description: Descubre cómo una inesperada inyección de $100 millones transformó las
+  acciones de Gemini Analysis y qué significa para el futuro del mercado.
+featured_image: /images/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini.jpg
+slug: la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini
+canonical: https://novumworld.com/es/crypto/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 4dfc9e20-376c-e73b-2434-df97bcc43eeb
 ---
 
 ![La Sorprendente Inyección de $100 Millones Que Hizo Saltar las Acciones de Gemini Analysis](/images/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini.jpg)
@@ -43,12 +47,10 @@ La inyección de capital de Winklevoss es un oxígeno temporal en una empresa co
 ## Metodología y Fuentes
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [La Impactante Predicción de TRON: 21.6 Millones de Dólares en Ingresos y Su Futuro Inmediato](/es/crypto/que-nos-depara-el-futuro-predicciones-de-tron-trx-para-2026-2027-y-2028/)
 - [Deutsche Bank Revela: El Impactante Auge del Bitcoin en EE.UU. Que Nadie Esperaba](/es/crypto/la-revolucion-del-bitcoin-deutsche-bank-revela-el-auge-de-las-criptomonedas-en-eeuu/)
 - [La Nueva Stablecoin de Circle Respalda el Yuan: Un Cambio Radical para España](/es/crypto/que-significa-la-nueva-stablecoin-de-circle-respaldada-por-el-yuan-para-el-futuro-de-las-criptomoned/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -58,18 +60,7 @@ La inyección de capital de Winklevoss es un oxígeno temporal en una empresa co
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Sorprendente Inyección de $100 Millones Que Hizo Saltar las Acciones de Gemini Analysis",
-  "description": "Descubre cómo una inesperada inyección de $100 millones transformó las acciones de Gemini Analysis y qué significa para el futuro del mercado.",
-  "image": "https://novumworld.com/images/la-sorprendente-inyeccion-de-capital-que-hace-despegar-las-acciones-de-gemini.jpg",
-  "datePublished": "2026-05-18T16:59:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -79,4 +70,3 @@ La inyección de capital de Winklevoss es un oxígeno temporal en una empresa co
     }
   }
 }
-</script>

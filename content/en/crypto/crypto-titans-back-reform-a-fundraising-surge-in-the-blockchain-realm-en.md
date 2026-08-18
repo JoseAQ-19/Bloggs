@@ -1,16 +1,19 @@
 ---
-title: "Crypto Titans Just Backed Reform: A $1 Billion Fundraising Surge Shocks Investors"
-date: 2026-06-04T17:18:07
+title: 'Crypto Titans Just Backed Reform: A $1 Billion Fundraising Surge Shocks Investors'
+date: 2026-06-04 17:18:07
 draft: false
-description: "Discover how crypto titans are fueling a $1 billion fundraising surge, shaking up investor confidence and reshaping the future of digital currency reform."
-featured_image: "/images/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en.jpg"
-slug: "crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en"
-canonical: "https://novumworld.com/crypto/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "a5dd1d0d-6de4-9649-be29-0d6d96f1d738"
+description: Discover how crypto titans are fueling a $1 billion fundraising surge,
+  shaking up investor confidence and reshaping the future of digital currency reform.
+featured_image: /images/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en.jpg
+slug: crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en
+canonical: https://novumworld.com/crypto/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: a5dd1d0d-6de4-9649-be29-0d6d96f1d738
 ---
 
 ![Crypto Titans Just Backed Reform: A $1 Billion Fundraising Surge Shocks Investors](/images/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en.jpg)
@@ -64,7 +67,6 @@ Investors should closely monitor developments in the regulatory landscape and co
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -73,18 +75,7 @@ Investors should closely monitor developments in the regulatory landscape and co
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto Titans Just Backed Reform: A $1 Billion Fundraising Surge Shocks Investors",
-  "description": "Discover how crypto titans are fueling a $1 billion fundraising surge, shaking up investor confidence and reshaping the future of digital currency reform.",
-  "image": "https://novumworld.com/images/crypto-titans-back-reform-a-fundraising-surge-in-the-blockchain-realm-en.jpg",
-  "datePublished": "2026-06-04T17:18:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +85,3 @@ Investors should closely monitor developments in the regulatory landscape and co
     }
   }
 }
-</script>

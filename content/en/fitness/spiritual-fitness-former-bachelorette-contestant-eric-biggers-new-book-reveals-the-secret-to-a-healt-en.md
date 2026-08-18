@@ -56,22 +56,7 @@ En resumen, el bienestar espiritual y físico están profundamente interconectad
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 - [The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis",
-  "description": "Spiritual Fitness: Former Bachelorette Contestant Eric Bigger's New Book Reveals the Secret to a Healthy Mind and Body Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-08-09T06:11:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -81,4 +66,3 @@ En resumen, el bienestar espiritual y físico están profundamente interconectad
     }
   }
 }
-</script>

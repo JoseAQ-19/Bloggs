@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm"
-date: 2026-05-09T11:47:51
+title: 'The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm'
+date: 2026-05-09 11:47:51
 draft: false
-description: "Discover how 76% of S&P 500 companies are vulnerable to AI iatrogenic harm and what it means for the future of technology and business resilience."
-featured_image: "/images/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en.jpg"
-slug: "the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en"
-canonical: "https://novumworld.com/ia/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "0a931238-4f94-ede1-822f-191b2ffd640f"
+description: Discover how 76% of S&P 500 companies are vulnerable to AI iatrogenic
+  harm and what it means for the future of technology and business resilience.
+featured_image: /images/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en.jpg
+slug: the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en
+canonical: https://novumworld.com/ia/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 0a931238-4f94-ede1-822f-191b2ffd640f
 ---
 
 ![The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm](/images/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en.jpg)
@@ -72,22 +75,7 @@ The era of unchecked AI deployment is over, replaced by a harsh reality where th
 - [Metaverse: T](/ia/metaverse-pyramid-scheme-en/)
 - [The Shocking Truth Behind China's One Million Attack Drones Ordered by 2026](/ia/unpacking-chinas-ai-driven-drone-strategy-a-glimpse-into-future-warfare-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm",
-  "description": "Discover how 76% of S&P 500 companies are vulnerable to AI iatrogenic harm and what it means for the future of technology and business resilience.",
-  "image": "https://novumworld.com/images/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en.jpg",
-  "datePublished": "2026-05-09T11:47:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ The era of unchecked AI deployment is over, replaced by a harsh reality where th
     }
   }
 }
-</script>

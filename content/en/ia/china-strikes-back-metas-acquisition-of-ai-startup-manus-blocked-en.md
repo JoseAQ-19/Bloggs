@@ -1,16 +1,19 @@
 ---
-title: "China Just Blocked Meta's Shocking Acquisition of AI Startup Manus"
-date: 2026-04-30T12:27:14
+title: China Just Blocked Meta's Shocking Acquisition of AI Startup Manus
+date: 2026-04-30 12:27:14
 draft: false
-description: "China's ban on Meta's acquisition of AI startup Manus raises questions about tech competition and regulatory challenges. Discover the implications now."
-featured_image: "/images/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en.jpg"
-slug: "china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en"
-canonical: "https://novumworld.com/ia/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "0c04790c-f38d-e9fc-d671-569136479b77"
+description: China's ban on Meta's acquisition of AI startup Manus raises questions
+  about tech competition and regulatory challenges. Discover the implications now.
+featured_image: /images/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en.jpg
+slug: china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en
+canonical: https://novumworld.com/ia/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 0c04790c-f38d-e9fc-d671-569136479b77
 ---
 
 ![China Just Blocked Meta's Shocking Acquisition of AI Startup Manus](/images/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en.jpg)
@@ -91,28 +94,12 @@ The bottom line is clear: technical talent has become as strategically important
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOdDhSWXNlNlpBS0YwWGJURGNUcWVPYjNuZWRpb01RWUdRNUNjVWZJSHl0MVVwVFExcENzcXd0X1pacWdNUDM4Y1R6TkRyOXZNZUhydDFiWUhKLVFKU1kzeHAyLUt5MG5tTkJKb1hkM3hpSlFNQW9NUW9qX2o0bEhQOEFZOUlqRHl5dk9wa0Fxenl0YnFPQTRzT005bFBSUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXRoLUpNNG9zOHE3bVE0OEMxUkRTVlJ3Y3FzdmIyU3JmZXdHUDZxUmhhVG5HOU1wa2ZVellsQ0VzMXhfUnltdUlmWFZnNDBWUUFLcGtoY3c2REQxXzYyT1lDamlvdHNDbFE3M0QyYXZQMkVzeXYxc05YMnBDY0w3eGhFM1AwYVZaVlRkOV96TTJuQlZBcm5V?oc=5)
 
-
 ## Related Articles
 - [Kleiner Perkins'' $3.5B AI Bet: Hallucinations Could Cost](/ia/kleiner-perkins-ai-gamble-en/)
 - [LearnWorlds Data: 80% Of AI Interactions Han](/ia/learnworlds-ai-adoption-paradox-en/)
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "China Just Blocked Meta's Shocking Acquisition of AI Startup Manus",
-  "description": "China's ban on Meta's acquisition of AI startup Manus raises questions about tech competition and regulatory challenges. Discover the implications now.",
-  "image": "https://novumworld.com/images/china-strikes-back-metas-acquisition-of-ai-startup-manus-blocked-en.jpg",
-  "datePublished": "2026-04-30T12:27:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +109,3 @@ The bottom line is clear: technical talent has become as strategically important
     }
   }
 }
-</script>

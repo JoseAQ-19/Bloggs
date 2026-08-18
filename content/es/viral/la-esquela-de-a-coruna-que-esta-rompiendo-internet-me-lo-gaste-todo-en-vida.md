@@ -1,16 +1,19 @@
 ---
-title: "La Esquela Viral de A Coruña Que Costó 20,000 Euros y Sacudió Internet"
-date: 2026-05-13T22:05:05
+title: La Esquela Viral de A Coruña Que Costó 20,000 Euros y Sacudió Internet
+date: 2026-05-13 22:05:05
 draft: false
-description: "Descubre la historia detrás de la esquela viral de A Coruña que sorprendió a todos y generó un impacto económico de 20,000 euros en Internet."
-featured_image: "/images/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida.jpg"
-slug: "la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida"
-canonical: "https://novumworld.com/es/viral/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "a3ae18e3-2654-d303-e801-3926fe4a1998"
+description: Descubre la historia detrás de la esquela viral de A Coruña que sorprendió
+  a todos y generó un impacto económico de 20,000 euros en Internet.
+featured_image: /images/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida.jpg
+slug: la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida
+canonical: https://novumworld.com/es/viral/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: a3ae18e3-2654-d303-e801-3926fe4a1998
 ---
 
 ![La Esquela Viral de A Coruña Que Costó 20,000 Euros y Sacudió Internet](/images/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida.jpg)
@@ -75,22 +78,7 @@ Recomendamos promover campañas de educación financiera que capaciten a los con
 - [La Peligrosa Verdad: 40% Más Estafas Online en España Que Nunca Antes](/es/viral/la-peligrosa-verdad-detras-de-los-trucos-virales-cuidado-con-lo-que-intentas/)
 - [Odio 24/7: Violeta Mangriñán y La Salud Mental](/es/viral/violeta-mangrinan-hate-online-fama/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Esquela Viral de A Coruña Que Costó 20,000 Euros y Sacudió Internet",
-  "description": "Descubre la historia detrás de la esquela viral de A Coruña que sorprendió a todos y generó un impacto económico de 20,000 euros en Internet.",
-  "image": "https://novumworld.com/images/la-esquela-de-a-coruna-que-esta-rompiendo-internet-me-lo-gaste-todo-en-vida.jpg",
-  "datePublished": "2026-05-13T22:05:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ Recomendamos promover campañas de educación financiera que capaciten a los con
     }
   }
 }
-</script>

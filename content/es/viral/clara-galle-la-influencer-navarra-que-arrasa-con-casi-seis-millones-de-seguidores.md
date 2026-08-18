@@ -1,16 +1,19 @@
 ---
-title: "Clara Galle Revela El Estrés Oculto Detrás De Sus Seis Millones De Seguidores"
-date: 2026-05-15T22:06:59
+title: Clara Galle Revela El Estrés Oculto Detrás De Sus Seis Millones De Seguidores
+date: 2026-05-15 22:06:59
 draft: false
-description: "Clara Galle comparte su experiencia sobre el estrés que acompaña a sus seis millones de seguidores, revelando la verdad detrás de la fama."
-featured_image: "/images/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores.jpg"
-slug: "clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores"
-canonical: "https://novumworld.com/es/viral/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "20a03dd4-fdbf-c7cd-5c60-8a6a817bf69f"
+description: Clara Galle comparte su experiencia sobre el estrés que acompaña a sus
+  seis millones de seguidores, revelando la verdad detrás de la fama.
+featured_image: /images/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores.jpg
+slug: clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores
+canonical: https://novumworld.com/es/viral/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 20a03dd4-fdbf-c7cd-5c60-8a6a817bf69f
 ---
 
 ![Clara Galle Revela El Estrés Oculto Detrás De Sus Seis Millones De Seguidores](/images/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores.jpg)
@@ -55,22 +58,7 @@ El burnout entre los creadores de contenido es un problema crítico que no se pu
 - [¡Escándalo En La Liga! Fisioterapeutas Revelan El](/es/viral/ventosas-futbol-moda-placebo/)
 - [Marcelo en la Kings League: El Genio Táctico Que No Puede Ganar](/es/viral/marcelo-kings-league-genio-o-espejismo/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Clara Galle Revela El Estrés Oculto Detrás De Sus Seis Millones De Seguidores",
-  "description": "Clara Galle comparte su experiencia sobre el estrés que acompaña a sus seis millones de seguidores, revelando la verdad detrás de la fama.",
-  "image": "https://novumworld.com/images/clara-galle-la-influencer-navarra-que-arrasa-con-casi-seis-millones-de-seguidores.jpg",
-  "datePublished": "2026-05-15T22:06:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -80,4 +68,3 @@ El burnout entre los creadores de contenido es un problema crítico que no se pu
     }
   }
 }
-</script>

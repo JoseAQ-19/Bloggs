@@ -1,16 +1,19 @@
 ---
-title: "Iowa House District 1 Candidates Raise $18.7 Million While Property Taxes Skyrocket"
-date: 2026-05-28T12:46:12
+title: Iowa House District 1 Candidates Raise $18.7 Million While Property Taxes Skyrocket
+date: 2026-05-28 12:46:12
 draft: false
-description: "Explore how Iowa House District 1 candidates raised $18.7 million amid soaring property taxes, highlighting the intersection of finance and local."
-featured_image: "/images/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en.jpg"
-slug: "meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en"
-canonical: "https://novumworld.com/ia/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "65184b6e-4f30-3475-db78-a281c2342dcd"
+description: Explore how Iowa House District 1 candidates raised $18.7 million amid
+  soaring property taxes, highlighting the intersection of finance and local.
+featured_image: /images/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en.jpg
+slug: meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en
+canonical: https://novumworld.com/ia/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 65184b6e-4f30-3475-db78-a281c2342dcd
 ---
 
 ![Iowa House District 1 Candidates Raise $18.7 Million While Property Taxes Skyrocket](/images/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en.jpg)
@@ -43,28 +46,12 @@ The $18.7 million poured into Iowa House District 1 is more than money—it’s 
 - [news.google.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMGlrWUlaWWg5cERaQnZLYlhlVDRLX2hhNm5xSk1zV3liaDd0dFVXRXRRbzY0YTVNQ1RQQ3VrVUdOMklvd1dmXzB6dU1vRmxJQzBZNnpqdE8xc1FYeFNvTUMtVkJ5Wjhjd3I2NEUweG8yWE5TZ0c4SzBzdWV3TkROWHlpN2k0UEw4U1R5ZEJTRGhjNDB5QlNqT19tVGZROEJEWkhKOXoteERLMDB4RnhFRzdObEFHaVoyYjdFVTY1UEJESXNsOExhSHI3dFFRMVhpLTRpZDltNzh1ZXA3N0tFaGp6eWhQd0tQR2UyUFZXVlQ4bG0zNnJGUjNKbkY?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQkw4TWR5UjA2YnBZdktNZ3ZuNzB3bmNOOGgwTmRibmxzSXctSkMzUlR1QnhOZmh6OVBnNFlFMkhpSVY5dVNRbkd1b0JHQVFWV2F6U19xeXVLamdaSG9aUnhYY3h5cXFnSG91cEVadGRrYzZHQ1hzT2V5LUdBYmU5OGpBYlZ1eXBhWW1LSC1BQ2hsVHJlVHRCU1FWMW1PVnZvcFg2a29TS1B3d2l1MklJMzVzQnctWXpsQzNJRTBPbVA3ODNqNkFOS0tGSTUtbEwwLUlB?oc=5)
 
-
 ## Related Articles
 - [358 Traffic Fatalities This Year: Iowa's Speed Limit Changes Spark Outrage](/ia/speed-limit-alert-changes-coming-to-us-75-through-hinton-ia-en/)
 - [RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA](/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en/)
 - [Black Box Data Exposed: Shocking Truth Behind Calhoun County Fatal Crash](/ia/tragic-crash-in-calhoun-county-claims-one-life-leaves-another-injured-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iowa House District 1 Candidates Raise $18.7 Million While Property Taxes Skyrocket",
-  "description": "Explore how Iowa House District 1 candidates raised $18.7 million amid soaring property taxes, highlighting the intersection of finance and local.",
-  "image": "https://novumworld.com/images/meet-the-candidates-whats-at-stake-in-ia-state-house-district-1-en.jpg",
-  "datePublished": "2026-05-28T12:46:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -74,4 +61,3 @@ The $18.7 million poured into Iowa House District 1 is more than money—it’s 
     }
   }
 }
-</script>

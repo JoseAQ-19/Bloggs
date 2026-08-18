@@ -1,16 +1,19 @@
 ---
-title: "El Actor Que Parece de 12 Años: 5 Secretos Oscuros Detrás de Su Viralidad"
-date: 2026-05-30T22:08:29
+title: 'El Actor Que Parece de 12 Años: 5 Secretos Oscuros Detrás de Su Viralidad'
+date: 2026-05-30 22:08:29
 draft: false
-description: "Descubre los 5 secretos oscuros del actor que sorprende con su apariencia juvenil. ¿Qué hay detrás de su viralidad? ¡No te lo pierdas!."
-featured_image: "/images/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad.jpg"
-slug: "el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad"
-canonical: "https://novumworld.com/es/viral/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e080ff6a-23fd-0a07-a0ca-83779158caf4"
+description: Descubre los 5 secretos oscuros del actor que sorprende con su apariencia
+  juvenil. ¿Qué hay detrás de su viralidad? ¡No te lo pierdas!.
+featured_image: /images/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad.jpg
+slug: el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad
+canonical: https://novumworld.com/es/viral/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e080ff6a-23fd-0a07-a0ca-83779158caf4
 ---
 
 ![El Actor Que Parece de 12 Años: 5 Secretos Oscuros Detrás de Su Viralidad](/images/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad.jpg)
@@ -81,22 +84,7 @@ El camino hacia una industria más segura y ética para los jóvenes talentos es
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [¿Taxi Gratis Para Acusado De Violación? El E](/es/viral/limpiasgate-coche-patrulla-taxi-vip/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Actor Que Parece de 12 Años: 5 Secretos Oscuros Detrás de Su Viralidad",
-  "description": "Descubre los 5 secretos oscuros del actor que sorprende con su apariencia juvenil. ¿Qué hay detrás de su viralidad? ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/el-actor-que-parece-de-12-anos-secretos-detras-de-su-viralidad.jpg",
-  "datePublished": "2026-05-30T22:08:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ El camino hacia una industria más segura y ética para los jóvenes talentos es
     }
   }
 }
-</script>

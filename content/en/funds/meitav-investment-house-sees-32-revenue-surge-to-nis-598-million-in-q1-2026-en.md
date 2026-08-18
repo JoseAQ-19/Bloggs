@@ -1,14 +1,17 @@
 ---
-title: "Meitav Investment House Sees 32% Revenue Surge to NIS 598 Million in Q1 2026"
-date: 2026-05-26T09:39:14
+title: Meitav Investment House Sees 32% Revenue Surge to NIS 598 Million in Q1 2026
+date: 2026-05-26 09:39:14
 draft: false
-description: "Discover how Meitav Investment House achieved a remarkable 32% revenue surge to NIS 598 million in Q1 2026. Insights and analysis await!."
-featured_image: "/images/meitav-investment-house-sees-32-revenue-surge-to-nis-598-million-in-q1-2026-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e3708750-f0fa-3392-1874-eb6caeffd6e7"
+description: Discover how Meitav Investment House achieved a remarkable 32% revenue
+  surge to NIS 598 million in Q1 2026. Insights and analysis await!.
+featured_image: /images/meitav-investment-house-sees-32-revenue-surge-to-nis-598-million-in-q1-2026-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: e3708750-f0fa-3392-1874-eb6caeffd6e7
 ---
 
 ![Meitav Investment House Sees 32% Revenue Surge to NIS 598 Million in Q1 2026](/images/meitav-investment-house-sees-32-revenue-surge-to-nis-598-million-in-q1-2026-en.jpg)
@@ -20,8 +23,6 @@ Meitav Investment House has reported a remarkable 32% revenue surge, reaching NI
 * [Net profit up 31% year-over-year — source: **google_news_finance**]
 
 The impressive results can be attributed to an enhanced portfolio performance and a strategic focus on high-demand investment products. These developments come amidst a challenging market environment where firms are navigating volatility and shifting economic indicators. Meitav's ability to generate significant revenue growth indicates a robust business model that resonates well with current investor preferences.
-
-
 
 {{< adsterra_native >}}
 
@@ -77,22 +78,11 @@ Meitav’s management strategy, which focuses on alternative investments and ada
 
 We believe Meitav Investment House is well-positioned for continued growth, given its strong financial performance, experienced management team, and strategic focus on high-demand investment products. However, potential investors should remain vigilant regarding external economic factors that could affect future performance. Balancing the current positive outlook with an awareness of the inherent risks will be crucial in navigating investment decisions related to Meitav. 
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Meitav Investment House Sees 32% Revenue Surge to NIS 598 Million in Q1 2026",
-  "datePublished": "2026-05-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUXlId2tOeVIxZVJZZ2QzanZKNnJyc0hTUUhBNzJOd1NrWFNRV0NBR0g2aTVHMTdEQk1iUm9fSFA5S3Bkb01UZENES08zZFlfal9EcnF5VjNUZzJKQURSWVZpMDVIZkVOanh4VnRsU3kxY0FKamlvc2lMbXIzTEZIVGVWeEwwWDdMRWhJR2xlWjFPTzU2S21fOHQzN0h4SmlMd3RtZTdNeENlSy1hZ3Q0R09BWGdYcWZCc0x6bnN1MElBa2cta2VqR1RLSGxsWjFTaHZsUlFReUlNdXhiRmc5SGxHaUJ0YjlsSnFGYVpEQ1pvR2V6NXZiWnRKblRjN3lBZHNDRXN3eVJrTlZsYnl6dVVsLVdhU1RLV25DZ0ZDYm5yTExYOEpYTzhXRVd4OEFqd19KNEMxSGp6MFVia0Rz?oc=5",
   "articleSection": "Finance",
   "description": "Meitav Investment House reports strong growth, driven by strategic investments and market adaptability."
 }
-</script>
 
 This article provides a comprehensive overview of Meitav Investment House's recent performance while addressing key metrics, expert insights, risks, and user inquiries.
 
@@ -101,6 +91,4 @@ This article provides a comprehensive overview of Meitav Investment House's rece
 - [Protect Your Portfolio: 4 TIPS Funds Performing 10% Better Than Inflation Rate](/funds/protect-your-portfolio-4-tips-funds-performing-10-better-than-inflation-rate-en/)
 - [S&P 500](/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

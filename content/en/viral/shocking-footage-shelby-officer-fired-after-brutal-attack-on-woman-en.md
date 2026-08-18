@@ -1,16 +1,20 @@
 ---
-title: "Shocking Footage Reveals 65 Assaults Reported In Shelby: Officer Fired After Brutal Attack"
-date: 2026-05-30T23:50:53
+title: 'Shocking Footage Reveals 65 Assaults Reported In Shelby: Officer Fired After
+  Brutal Attack'
+date: 2026-05-30 23:50:53
 draft: false
-description: "Disturbing new footage uncovers 65 assaults in Shelby, leading to the firing of an officer after a brutal attack. Discover the shocking details now."
-featured_image: "/images/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en.jpg"
-slug: "shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en"
-canonical: "https://novumworld.com/viral/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "e3535a0c-ce7c-03a0-6582-800780fe1e30"
+description: Disturbing new footage uncovers 65 assaults in Shelby, leading to the
+  firing of an officer after a brutal attack. Discover the shocking details now.
+featured_image: /images/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en.jpg
+slug: shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en
+canonical: https://novumworld.com/viral/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: e3535a0c-ce7c-03a0-6582-800780fe1e30
 ---
 
 ![Shocking Footage Reveals 65 Assaults Reported In Shelby: Officer Fired After Brutal Attack](/images/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en.jpg)
@@ -89,28 +93,12 @@ The law must serve justice, not protect misconduct.
 - [news.google.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUkyUVVFMUlPR2otUEh4Q2M2ZGU4eTQ4VkxOczJrQXhmREw4bUd1Y1p6NmlvNnYtQmtpcGtuaVRyYmhsMjQtV3ZBTUNhQXphNVc0SHlVbXREenNubWd3TnNvWmZRSmkwdVFhX19oVkhsMlBPNUJyNlMtUmZJdVJGMg?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1FR2xpN2tnaUZqajFUcTFkWEtycjhwNnBsZ1lXRnlnWUwwUGJ6dzZMNDNzWE1hM1NfUTFJUlRqRVdVYUN1VERITXFRZTV5TFBmeTh6bnYwWTVXcHhiaXJWbFp3SHZPM2cyNm9V?oc=5)
 
-
 ## Related Articles
 - [Tennessee Volunteers Claim 5th Title While UmpCast Leaves Fans Furious And Frustrated](/viral/the-meme-showdown-how-the-sec-baseball-tournament-captured-the-internets-attention-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [The Shocking Truth About Disney's Most Overrated Dessert: Hours of Waiting for a Cookie](/viral/the-dessert-at-disney-world-everyone-is-talking-about-is-it-worth-the-hype-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking Footage Reveals 65 Assaults Reported In Shelby: Officer Fired After Brutal Attack",
-  "description": "Disturbing new footage uncovers 65 assaults in Shelby, leading to the firing of an officer after a brutal attack. Discover the shocking details now.",
-  "image": "https://novumworld.com/images/shocking-footage-shelby-officer-fired-after-brutal-attack-on-woman-en.jpg",
-  "datePublished": "2026-05-30T23:50:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +108,3 @@ The law must serve justice, not protect misconduct.
     }
   }
 }
-</script>

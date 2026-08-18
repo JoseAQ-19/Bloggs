@@ -28,8 +28,6 @@ type: fitness
 * El 61.5% de españoles mayores de 65 años camina diariamente, superando a los grupos más jóvenes, pero solo un 17.4% realiza actividad física estructurada. 
 * Casi 50.000 mayores de Madrid quedaron sin talleres en 2024 por quiebra del proveedor, evidenciando la fragilidad de los sistemas de envejecimiento activo. 
 
-
-
 {{< adsterra_native >}}
 
 ## El Desafío de la Obsolescencia en Equipos para Mayores 
@@ -64,6 +62,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Marta Vicu Promete Espalda Recta, Pero Este Dato Sobre Lumbalgia Te Aterrará](/es/fitness/espalda-recta-sin-complicaciones-marta-vicu/)
 - [500 Euros Tirados: La Bomba De Tiempo De La Obsolescencia Programada En Nutrición](/es/fitness/wfp-victor-hoffer-obsolescencia-programada-fitness/)
 - [Programa de Kinesiología: Carreras Dinámicas en Ciencias del Movimiento Humano](/es/fitness/kinesiology-and-health-sciences-program-preparing-students-for-dynamic-careers-in-human-movement-alm/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

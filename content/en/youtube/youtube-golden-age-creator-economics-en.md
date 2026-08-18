@@ -29,8 +29,6 @@ Google is concealing a catastrophic collapse in its core creator economy busines
 * Approximately 70% of YouTube watch time is dictated by algorithm recommendations, forcing creators into a subservient relationship with opaque AI gatekeepers rather than their own audiences.
 * YouTube Premium subscriptions surged to 127 million users, generating $9.4 billion in revenue, highlighting a desperate pivot toward consumer subscriptions as ad revenue craters.
 
-
-
 {{< adsterra_native >}}
 
 ## The $10 Billion Hole: Why Google Isn't Talking About It
@@ -74,6 +72,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Google''s Project Kavya: Is Your Child''s Favorite YouTube Show a Deepfake?](/en/youtube/google-ai-kids-content-safety-concerns-en/)
 - [YouTube Just Generated $36.1 Billion in Ad Revenue: Here’s What You Don’t](/en/youtube/youtube-crowned-the-new-media-monarch-heres-the-inside-scoop-en/)
 - [Rosanna Pansino''s Mold Discovery: The Lunchly Scandal MrBeast Doesn''t Want](/en/youtube/logan-paul-mrbeast-mold-scandal-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

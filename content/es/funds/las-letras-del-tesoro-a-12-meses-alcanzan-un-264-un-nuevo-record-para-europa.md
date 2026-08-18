@@ -1,14 +1,17 @@
 ---
-title: "Las Letras del Tesoro a 12 meses alcanzan un 2,64%, un nuevo récord para Europa"
-date: 2026-04-08T07:15:20
+title: Las Letras del Tesoro a 12 meses alcanzan un 2,64%, un nuevo récord para Europa
+date: 2026-04-08 07:15:20
 draft: false
-description: "Descubre cómo el récord del 2,64% en letras del Tesoro a 12 meses impacta en el mercado europeo y qué oportunidades de inversión surgen."
-featured_image: "/images/las-letras-del-tesoro-a-12-meses-alcanzan-un-264-un-nuevo-record-para-europa.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "d4189209-1ed1-a80a-63db-50704d96c8d8"
+description: Descubre cómo el récord del 2,64% en letras del Tesoro a 12 meses impacta
+  en el mercado europeo y qué oportunidades de inversión surgen.
+featured_image: /images/las-letras-del-tesoro-a-12-meses-alcanzan-un-264-un-nuevo-record-para-europa.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: d4189209-1ed1-a80a-63db-50704d96c8d8
 ---
 
 ![Las Letras del Tesoro a 12 meses alcanzan un 2,64%, un nuevo récord para Europa](/images/las-letras-del-tesoro-a-12-meses-alcanzan-un-264-un-nuevo-record-para-europa.jpg)
@@ -20,8 +23,6 @@ La rentabilidad de las Letras del Tesoro a 12 meses ha alcanzado un notable 2,64
 * [Impacto en la inversión europea — fuente: Google News Finance]
 
 Este incremento en la rentabilidad ha atraído la atención de los analistas financieros, quienes ven en este fenómeno una respuesta a las políticas monetarias restrictivas implementadas por el Banco Central Europeo (BCE). A medida que la inflación se ha mantenido por encima de las expectativas, el BCE ha ajustado las tasas de interés, lo que a su vez ha llevado a un aumento en los rendimientos de los activos de renta fija. Los inversores están reevaluando sus estrategias, en un entorno donde las letras del tesoro ofrecen retornos que no se veían desde hace años.
-
-
 
 {{< adsterra_native >}}
 
@@ -87,6 +88,4 @@ La situación actual de las Letras del Tesoro a 12 meses ofrece un panorama inte
 - [iShares C](/es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44/)
 - [Top 5 dividendos del Ibex 35 en octubre 2023 con más del 5% de rendimiento](/es/funds/top-5-dividendos-del-ibex-35-en-octubre-2023-con-mas-del-5-de-rendimiento/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

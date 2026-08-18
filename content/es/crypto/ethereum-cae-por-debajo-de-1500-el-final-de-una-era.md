@@ -1,16 +1,19 @@
 ---
-title: "Ethereum Cae A Menos De $1,500: El Colapso Que Nadie Esperaba En 2023"
-date: 2026-06-08T16:56:11
+title: 'Ethereum Cae A Menos De $1,500: El Colapso Que Nadie Esperaba En 2023'
+date: 2026-06-08 16:56:11
 draft: false
-description: "Ethereum cae por debajo de $1,500, sorprendiendo a inversores. Descubre las causas y las implicaciones de este colapso inesperado en 2023."
-featured_image: "/images/ethereum-cae-por-debajo-de-1500-el-final-de-una-era.jpg"
-slug: "ethereum-cae-por-debajo-de-1500-el-final-de-una-era"
-canonical: "https://novumworld.com/es/crypto/ethereum-cae-por-debajo-de-1500-el-final-de-una-era/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "5d45185c-6023-6978-ec41-4f7c07be6bc2"
+description: Ethereum cae por debajo de $1,500, sorprendiendo a inversores. Descubre
+  las causas y las implicaciones de este colapso inesperado en 2023.
+featured_image: /images/ethereum-cae-por-debajo-de-1500-el-final-de-una-era.jpg
+slug: ethereum-cae-por-debajo-de-1500-el-final-de-una-era
+canonical: https://novumworld.com/es/crypto/ethereum-cae-por-debajo-de-1500-el-final-de-una-era/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 5d45185c-6023-6978-ec41-4f7c07be6bc2
 ---
 
 ![Ethereum Cae A Menos De $1,500: El Colapso Que Nadie Esperaba En 2023](/images/ethereum-cae-por-debajo-de-1500-el-final-de-una-era.jpg)
@@ -69,7 +72,6 @@ Se recomienda diversificar las inversiones y considerar activos más tradicional
 - [Monero Podría Alcanzar $1,160 en 2028: El Impacto de las Ondas Elliott Revelado](/es/crypto/monero-xmr-como-se-comportara-su-precio-hasta-2028/)
 - [La Impactante Predicción de TRON (TRX): ¿Hasta Dónde Llegará en 2028?](/es/crypto/la-sorprendente-prediccion-del-precio-de-tron-trx-para-2026-2028-que-no-puedes-ignorar/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -78,18 +80,7 @@ Se recomienda diversificar las inversiones y considerar activos más tradicional
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ethereum Cae A Menos De $1,500: El Colapso Que Nadie Esperaba En 2023",
-  "description": "Ethereum cae por debajo de $1,500, sorprendiendo a inversores. Descubre las causas y las implicaciones de este colapso inesperado en 2023.",
-  "image": "https://novumworld.com/images/ethereum-cae-por-debajo-de-1500-el-final-de-una-era.jpg",
-  "datePublished": "2026-06-08T16:56:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +90,3 @@ Se recomienda diversificar las inversiones y considerar activos más tradicional
     }
   }
 }
-</script>

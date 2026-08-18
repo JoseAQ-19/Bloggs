@@ -82,7 +82,6 @@ La demanda es un recordatorio de que, aunque las criptomonedas ofrecen oportunid
 - [Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/)
 - [¿Gas Demasiado Caro en Metamask? Gu](/es/crypto/metamask-gas-fees-guia-completa/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -91,18 +90,7 @@ La demanda es un recordatorio de que, aunque las criptomonedas ofrecen oportunid
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Inversores Británicos Demandaron a Binance y Zhao por $200 Millones: El Fin de la Impunidad",
-  "description": "Inversores británicos demandan a Binance y Zhao por $200 millones, marcando un posible cambio en la regulación y la lucha contra la impunidad en cripto.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-01T16:28:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +100,3 @@ La demanda es un recordatorio de que, aunque las criptomonedas ofrecen oportunid
     }
   }
 }
-</script>

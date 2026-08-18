@@ -1,16 +1,19 @@
 ---
-title: "The Disturbing Truth Behind Trump's Meme Coin: A $290 Million Scam Unraveled"
-date: 2026-04-30T18:03:30
+title: 'The Disturbing Truth Behind Trump''s Meme Coin: A $290 Million Scam Unraveled'
+date: 2026-04-30 18:03:30
 draft: false
-description: "Uncover the shocking details of Trump's meme coin and how a $290 million scam was orchestrated. Dive into the truth behind this financial deception."
-featured_image: "/images/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en.jpg"
-slug: "crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en"
-canonical: "https://novumworld.com/crypto/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0b1b8858-fb71-90f0-2470-e7f11930e7dc"
+description: Uncover the shocking details of Trump's meme coin and how a $290 million
+  scam was orchestrated. Dive into the truth behind this financial deception.
+featured_image: /images/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en.jpg
+slug: crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en
+canonical: https://novumworld.com/crypto/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 0b1b8858-fb71-90f0-2470-e7f11930e7dc
 ---
 
 ![The Disturbing Truth Behind Trump's Meme Coin: A $290 Million Scam Unraveled](/images/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en.jpg)
@@ -79,12 +82,10 @@ The Trump meme coin scandal exposes significant ethical and regulatory challenge
 - [news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0NxYkNsRTFVMk9ramdaMUFPZEZMMVlWODEyUUNmYVhSM01fT283V19BMTV5N0c4dUxtZFhHNlJoWG1ITk91SzdEYVFwWmtxbzFKMnpuOURsTTZFenRMTUhsaW1lM1hlYnNUWklXbk5Ca3BpX1gzdXh0TWJaWmJvZ3lQQk1YT2U3UUJDZ2FMQ0hrLTFpZDVTSUVndmlWdGV2bHRkNV9Ob01NNVdXN1NSaG1NT3dyQU1YWVdPNFhQYw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3OVZxN2JqMkpJTXdpME9FR2VPMEEyZGdlc0RuLXhFNVNUNWNEOTg3UkttT3d3QkxaTkJ4OHZhX0xOR1JFNU44WWZZWXlnRkJRbGtyQUctaTBYdw?oc=5)
 
-
 ## Related Articles
 - [AI Just Made Crypto Hacks 92% Easier—What You Need to Know Now](/crypto/the-ai-threat-to-crypto-why-anthropics-mythos-isnt-the-real-concern-en/)
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -94,18 +95,7 @@ The Trump meme coin scandal exposes significant ethical and regulatory challenge
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Disturbing Truth Behind Trump's Meme Coin: A $290 Million Scam Unraveled",
-  "description": "Uncover the shocking details of Trump's meme coin and how a $290 million scam was orchestrated. Dive into the truth behind this financial deception.",
-  "image": "https://novumworld.com/images/crypto-scandal-trump-linked-venture-under-investigation-for-scam-ties-en.jpg",
-  "datePublished": "2026-04-30T18:03:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +105,3 @@ The Trump meme coin scandal exposes significant ethical and regulatory challenge
     }
   }
 }
-</script>

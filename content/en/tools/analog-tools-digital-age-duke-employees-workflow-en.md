@@ -1,16 +1,20 @@
 ---
-title: "Duke Employees Are Burning Out: 66% Report High Stress Levels Amid Digital Overload"
-date: 2026-04-13T15:06:19
+title: 'Duke Employees Are Burning Out: 66% Report High Stress Levels Amid Digital
+  Overload'
+date: 2026-04-13 15:06:19
 draft: false
-description: "Explore the rising stress levels among Duke employees, as 66% report burnout due to digital overload. Discover insights and solutions in this eye-opening."
-featured_image: "/images/analog-tools-digital-age-duke-employees-workflow-en.jpg"
-slug: "analog-tools-digital-age-duke-employees-workflow-en"
-canonical: "https://novumworld.com/tools/analog-tools-digital-age-duke-employees-workflow-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "b87aeda0-1497-3346-f23f-6ae6654d0263"
+description: Explore the rising stress levels among Duke employees, as 66% report
+  burnout due to digital overload. Discover insights and solutions in this eye-opening.
+featured_image: /images/analog-tools-digital-age-duke-employees-workflow-en.jpg
+slug: analog-tools-digital-age-duke-employees-workflow-en
+canonical: https://novumworld.com/tools/analog-tools-digital-age-duke-employees-workflow-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: b87aeda0-1497-3346-f23f-6ae6654d0263
 ---
 
 ![Duke Employees Are Burning Out: 66% Report High Stress Levels Amid Digital Overload](/images/analog-tools-digital-age-duke-employees-workflow-en.jpg)
@@ -88,28 +92,12 @@ The pervasive issue of burnout among Duke employees underscores a broader trend 
 - [tsapps.nist.gov](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=921032)
 - [nist.gov](https://www.nist.gov/publications/smart-electronic-laboratory-notebooks-nist-research-environment)
 
-
 ## Related Articles
 - [61.8% of Rural Counties Lack Mental Health Professionals: The Telehealth Solution Everyone Ignores](/tools/telehealth-mental-health-rural-technical-teardown-en/)
 - [PCMag''s Security Obsession:](/tools/level-up-your-health-must-have-home-monitoring-tools-en/)
 - [$125,000/Hour: Is Your Jobsite Bleedi](/tools/iot-digital-twins-power-tool-revolution-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Duke Employees Are Burning Out: 66% Report High Stress Levels Amid Digital Overload",
-  "description": "Explore the rising stress levels among Duke employees, as 66% report burnout due to digital overload. Discover insights and solutions in this eye-opening.",
-  "image": "https://novumworld.com/images/analog-tools-digital-age-duke-employees-workflow-en.jpg",
-  "datePublished": "2026-04-13T15:06:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +107,3 @@ The pervasive issue of burnout among Duke employees underscores a broader trend 
     }
   }
 }
-</script>

@@ -1,16 +1,18 @@
 ---
-title: "IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis"
-date: 2026-06-02T11:19:07
+title: 'IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis'
+date: 2026-06-02 11:19:07
 draft: false
-description: "IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis."
-featured_image: "/images/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic.jpg"
-slug: "ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic"
-canonical: "https://novumworld.com/es/ia/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "b3d6d575-ac61-f4fc-f9e6-d9f1b7bf060d"
+description: 'IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis.'
+featured_image: /images/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic.jpg
+slug: ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic
+canonical: https://novumworld.com/es/ia/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: b3d6d575-ac61-f4fc-f9e6-d9f1b7bf060d
 ---
 
 ![IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis](/images/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic.jpg)
@@ -85,28 +87,12 @@ El movimiento del código abierto en inteligencia artificial está plagado de me
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYl9ua0VrMEhyY0Y0THg2NDducGJ3cEJkUmtQLVFONjZ2bmFkSTVWOUttLTQxSUQwcWQ2X3FuXzdCUDBqZDZzSWtFR2gzSmRvYU9NMkFLS1gwRDM1SmZJQVRzN0ZsM2x2akVLMk9iN3pRX0F0bFRjbmUzNVBDYTJzTC1NRnd6VWdrbVRrNlcwYlVLa1ZCNmJNY0RTQ25qS2w3STlPTzFGbGFXd3Rpc3fSAbMBQVVfeXFMT1lvN1d5YTdHVmxrSFdUWnd6TGZ6cjQxd2JKMkJPY082bGE4MUNwalJBSkRTdmw1dzVKZWJpRVBRXzBXbElkTGkwWjYyMEZaOXltSWtpQUlpZ215S2d5TWgtREJyX210dWRiR2NIVEJ5MERtSmFRTFB4djB2V2ZHWE1ZNnNOci1MTWhNSFZzUWh3NnMydldWMzM0NU1KbGE1Z0VSTkZMZjM2bWpIYnhLUGdJSEk?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUE5fQktVTU5DcUJBSTh4OElMdDVmeVVYMC1wQ19VY0FVWXdNMnBGdmZJUUFtY0xxLWU5WU50YWktaDQ4dVI5SjZzZDVsbGZxWi0zcTlzVnBlWWMyVmR3dWgwTVdBbkRwZjd4RXJ5SGdqSjhpcXltdUJweXdmN1Vqd0w1YVJHaGE5UE5WcnpmdHA1aHZUUktYLXRzcV9wVDVadjkwbmpPaXJ5MmtnSHZwSGxsMmdPNE1oTU1FMml5OHQ5bzZoTmlHRkl5NUx2R0xMaFVvanIxdFdmOGxJUEVMb0pFNVBZMFg5UVhGc1A2Zk5aczZ1V2JIRtIB-AFBVV95cUxPelVVMWJEVmJ3Z25YaFdub0djeTNjSlh0dWhZRFdST1BGTFRpNUNmME1FN1VmRU5CUHhqY0tPcjVHVzdDemlVbGhiWENPQTVPQ1B0TExqWWE1aW9jaVh1U3lJWEMwdWcwYUQ2dGFqMVM4UXJRMW5yZFh4QzJQb3lkSjBSOG5WajFYMDE5anY0aTdiclFHeFhVMkk5VTJSNTdZLTMxQkwydmJtdF91eUJhWXhPSERjcDYycVlHNHE4aWktb1pkT0FFVVVjYjJqOFh3YTZSMUlRdy1zNjk3a0hqR0prMV9HRy1vbHdlSk9mZzhuenc1TW5EdA?oc=5)
 
-
 ## Artículos relacionados
 - [Silicon Valley](/es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d/)
 - [La Soberanía Algorítmica: El Futuro de la Gobernanza de IA en 8 Diputaciones Españolas](/es/ia/soberania-algoritmica-el-futuro-de-la-gobernanza-de-ia-en-las-diputaciones-espanolas/)
 - [Pensilvania Demanda a Empresa de IA: Chatbots Médicos Fingen Ser Profesionales de la Salud](/es/ia/pensilvania-demanda-a-empresa-de-ia-por-chatbots-que-fingen-ser-medicos-un-escandalo-en-la-salud/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis",
-  "description": "IA: Revolución en el diagnóstico médico en el Hospital Clínic Analysis.",
-  "image": "https://novumworld.com/images/ia-revolucion-en-el-diagnostico-medico-en-el-hospital-clinic.jpg",
-  "datePublished": "2026-06-02T11:19:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +102,3 @@ El movimiento del código abierto en inteligencia artificial está plagado de me
     }
   }
 }
-</script>

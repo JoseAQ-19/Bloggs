@@ -1,14 +1,17 @@
 ---
-title: "Cinco acciones del Ibex 35 que ofrecen dividendos superiores al 5% en 2023"
-date: 2026-06-14T07:59:28
+title: Cinco acciones del Ibex 35 que ofrecen dividendos superiores al 5% en 2023
+date: 2026-06-14 07:59:28
 draft: false
-description: "Descubre las cinco acciones del Ibex 35 que brindan dividendos superiores al 5% en 2023 y optimiza tu inversión con estas opciones rentables."
-featured_image: "/images/cinco-acciones-del-ibex-35-que-ofrecen-dividendos-superiores-al-5-en-2023.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "037ced02-bc16-76b2-e72c-cbf339bc791e"
+description: Descubre las cinco acciones del Ibex 35 que brindan dividendos superiores
+  al 5% en 2023 y optimiza tu inversión con estas opciones rentables.
+featured_image: /images/cinco-acciones-del-ibex-35-que-ofrecen-dividendos-superiores-al-5-en-2023.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 037ced02-bc16-76b2-e72c-cbf339bc791e
 ---
 
 ![Cinco acciones del Ibex 35 que ofrecen dividendos superiores al 5% en 2023](/images/cinco-acciones-del-ibex-35-que-ofrecen-dividendos-superiores-al-5-en-2023.jpg)
@@ -20,8 +23,6 @@ El 2023 ha visto un incremento notable en el interés por acciones que ofrecen d
 * [6,1% — Dividendos de Telefónica en el último año según [**SEC**]](https://www.sec.gov).
 
 En este contexto, es esencial analizar las acciones que no solo ofrecen un rendimiento superior al promedio del índice, sino que también presentan fundamentos sólidos y un historial de distribución de dividendos consistente. 
-
-
 
 {{< adsterra_native >}}
 
@@ -95,36 +96,11 @@ La inflación puede erosionar el poder adquisitivo de los dividendos. Invertir e
 
 Reinvertir dividendos puede ser una estrategia efectiva para aumentar la acumulación de capital a largo plazo, aprovechando el interés compuesto.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Cinco acciones del Ibex 35 que ofrecen dividendos superiores al 5% en 2023",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.ejemplo.com/articulo"
-  }
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Es seguro invertir en acciones de alto dividendo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Invertir en acciones de alto dividendo puede ser seguro, pero conlleva riesgos inherentes. Es crucial hacer un análisis exhaustivo antes de tomar decisiones de inversión."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Qué impacto tienen las tarifas en el rendimiento de dividendos?",
@@ -175,13 +151,10 @@ Reinvertir dividendos puede ser una estrategia efectiva para aumentar la acumula
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Los 6 fondos indexados al S&P 500 que superan el 8% de rentabilidad en 2026](/es/funds/los-6-fondos-indexados-al-sp-500-que-superan-el-8-de-rentabilidad-en-2026/)
 - [Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e/)
 - [](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

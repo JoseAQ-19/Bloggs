@@ -29,8 +29,6 @@ type: funds
 * 12.56% — the 3-year annualized return of the winner in the Best Fixed Income Fund category, Krungsri Bond Fund, with a Sharpe ratio of 0.83 **SEC**
 * 1.23% — the expense ratio of the winner in the Best Index Fund category, SCB Index Fund, with a tracking error of 0.42% **CNMV**
 
-
-
 {{< adsterra_native >}}
 
 ## Morningstar Thailand Awards 2026: A Review of the Winners
@@ -88,6 +86,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
 - [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
 - [Vanguard VYMI''s 10 Basis Point Cut: Is Sub-0.25% Enough to Beat the Competition?](/en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

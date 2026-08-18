@@ -25,8 +25,6 @@ Crypto kiosks have morphed from a niche convenience tool into a predatory financ
 * Senator Jack Reed's Crypto ATM Fraud Prevention Act aims to add new protections to crypto ATM transactions, but critics argue the lack of oversight is the core issue.
 * Consumers, especially those over 60, need to be extremely wary of using crypto ATMs, as funds sent through these machines are virtually impossible to recover once sent to scammers.
 
-
-
 {{< adsterra_native >}}
 
 ## Nevada's Silent Surrender: How Crypto Kiosks Enabled a $333M Scam Avalanche
@@ -89,12 +87,10 @@ The risk level for consumers is **High**. The irreversible nature of transaction
 - [fincen.gov](https://www.fincen.gov/system/files/2025-08/FinCEN-Notice-CVCKIOSK.pdf)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [](/crypto/layerzero-trending-zero-blockchain-institutional-interest-market-dynamics-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -104,18 +100,7 @@ The risk level for consumers is **High**. The irreversible nature of transaction
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$333 Million Lost: Nevada's Crypto Kiosks Become a Scammer's Paradise in 2025.",
-  "description": "Nevada's crypto ATMs are losing millions! Dive into how lax regulations transformed these kiosks into a scammer's playground, costing investors $333M in.",
-  "image": "https://novumworld.com/images/nevada-crypto-kiosks-scam-paradise-en.jpg",
-  "datePublished": "2026-04-04T17:47:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -125,4 +110,3 @@ The risk level for consumers is **High**. The irreversible nature of transaction
     }
   }
 }
-</script>

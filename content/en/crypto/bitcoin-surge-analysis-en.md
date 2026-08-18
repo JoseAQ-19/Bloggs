@@ -30,8 +30,6 @@ Bhutan’s strategic reduction in Bitcoin holdings underscores the inherent risk
 * U.S. spot Bitcoin ETFs experienced approximately $4.5 billion in cumulative outflows since the start of 2026, but rebounded with a $1.1 billion inflow over three days in late February, according to J.A. Maartun, CryptoQuant Analyst.
 * While large Bitcoin holders can manipulate the market, understanding the role of ETF inflows and outflows as well as regulatory disclosures can help investors navigate the risks and volatility.
 
-
-
 {{< adsterra_native >}}
 
 ## The Sovereign Sell-Off: Did Bhutan Lose Faith in Bitcoin's Promise?
@@ -95,6 +93,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Hyperliquid Fuels $991 Million Oil Futures Frenzy: Is DeFi the New Rig?](/en/crypto/oil-futures-crypto-obsession-en/)
 - [35% Of Gen Z Millionaires Bet Half Their Portfolios On Crypto Despite Risks](/en/crypto/gen-z-millionaires-dive-into-crypto-is-fomo-driving-their-risky-bets-en/)
 - [SEC''s Brutal Shift: 60% Drop in Crypto Enforcement Actions Ignites Controversy](/en/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

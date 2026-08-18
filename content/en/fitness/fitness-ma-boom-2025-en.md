@@ -21,8 +21,6 @@ type: fitness
 ## Executive Summary
 The fitness industry is experiencing a significant shift, characterized by increased mergers and acquisitions (M&A) activity, particularly as private equity firms target the sector amidst changing consumer preferences. Jeremy Hirsch, a Director at Houlihan Lokey, forecasts 2025 to be a landmark year for fitness M&A, projecting 44 transactions worth approximately $2.1 billion in the first half alone. This boom is fueled by Gen Z’s preference for experiences over traditional fitness offerings, leading to a consolidation where budget and luxury fitness models thrive at the expense of mid-tier gyms. The article delves into the implications of this trend, the financial mechanics involved, and the bifurcation of the fitness market.
 
-
-
 {{< adsterra_native >}}
 
 ## The Landscape of Fitness M&A
@@ -60,6 +58,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Orangetheory''s $1 Billion Gamble: Will MLS Partnership Lead To Data Breach?](/en/fitness/orangetheory-mls-data-privacy-en/)
 - [Dr. JES Warns: Your Gym Waiver Won''t Save You From Gross Negligence After](/en/fitness/fitness-center-homicide-security-liability-en/)
 - [Oura Ring vs. Reality: Can It Tell the Difference Between Reading and Resting?](/en/fitness/oura-ring-sleep-latency-reading-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

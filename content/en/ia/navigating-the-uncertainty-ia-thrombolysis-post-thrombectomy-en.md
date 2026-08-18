@@ -1,16 +1,19 @@
 ---
-title: "AI Thrombolysis Just Increased EVT Rates by 100%—Here’s What You Need to Know"
-date: 2026-05-14T12:08:02
+title: AI Thrombolysis Just Increased EVT Rates by 100%—Here’s What You Need to Know
+date: 2026-05-14 12:08:02
 draft: false
-description: "Discover how AI thrombolysis has doubled EVT rates, transforming stroke treatment. Learn the key insights and implications for healthcare professionals."
-featured_image: "/images/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en.jpg"
-slug: "navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en"
-canonical: "https://novumworld.com/ia/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "b9b8a79e-fc66-972f-76e4-443192348821"
+description: Discover how AI thrombolysis has doubled EVT rates, transforming stroke
+  treatment. Learn the key insights and implications for healthcare professionals.
+featured_image: /images/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en.jpg
+slug: navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en
+canonical: https://novumworld.com/ia/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: b9b8a79e-fc66-972f-76e4-443192348821
 ---
 
 ![AI Thrombolysis Just Increased EVT Rates by 100%—Here’s What You Need to Know](/images/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en.jpg)
@@ -59,22 +62,7 @@ AI-driven thrombolysis tools demonstrably accelerate stroke diagnosis and increa
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 - [Black Box Data Exposed: Shocking Truth Behind Calhoun County Fatal Crash](/ia/tragic-crash-in-calhoun-county-claims-one-life-leaves-another-injured-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI Thrombolysis Just Increased EVT Rates by 100%—Here’s What You Need to Know",
-  "description": "Discover how AI thrombolysis has doubled EVT rates, transforming stroke treatment. Learn the key insights and implications for healthcare professionals.",
-  "image": "https://novumworld.com/images/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en.jpg",
-  "datePublished": "2026-05-14T12:08:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +72,3 @@ AI-driven thrombolysis tools demonstrably accelerate stroke diagnosis and increa
     }
   }
 }
-</script>

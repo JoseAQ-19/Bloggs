@@ -1,16 +1,20 @@
 ---
-title: "The Unexpected Philanthropy of George Michael: 10 Secret Acts That Shocked His Fans"
-date: 2026-04-20T11:50:51
+title: 'The Unexpected Philanthropy of George Michael: 10 Secret Acts That Shocked
+  His Fans'
+date: 2026-04-20 11:50:51
 draft: false
-description: "Discover the surprising side of George Michael as we unveil 10 secret acts of philanthropy that left fans in awe and showcased his generous spirit."
-featured_image: "/images/remembering-george-martin-the-legacy-of-a-musical-legend-en.jpg"
-slug: "remembering-george-martin-the-legacy-of-a-musical-legend-en"
-canonical: "https://novumworld.com/ia/remembering-george-martin-the-legacy-of-a-musical-legend-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "6fae8f11-f260-0a74-9ff9-79665efb7efb"
+description: Discover the surprising side of George Michael as we unveil 10 secret
+  acts of philanthropy that left fans in awe and showcased his generous spirit.
+featured_image: /images/remembering-george-martin-the-legacy-of-a-musical-legend-en.jpg
+slug: remembering-george-martin-the-legacy-of-a-musical-legend-en
+canonical: https://novumworld.com/ia/remembering-george-martin-the-legacy-of-a-musical-legend-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 6fae8f11-f260-0a74-9ff9-79665efb7efb
 ---
 
 ![The Unexpected Philanthropy of George Michael: 10 Secret Acts That Shocked His Fans](/images/remembering-george-martin-the-legacy-of-a-musical-legend-en.jpg)
@@ -75,28 +79,12 @@ For more on the enduring influence of George Michael’s philanthropy, visit **G
 - [news.google.com](https://news.google.com/rss/articles/CBMiakFVX3lxTE1CSGJDSzZtT0FnVkNhMDE3eGU4Y0Nwc050cVhmcVEtVmxMWWJSRXBXdS00RDlLRk9hSVNnSXVMWi1SSDBobHc3VmtPcWFSVVZERmNGYkNIakplOExDUnNXdXNuOTBuU3hLbGfSAW9BVV95cUxQaTNQUkM1YndnSDNUbXA0RWJmY2FBNjVzWmtocGk5cGpBdGlpeUwxdzBPTGNUNXZ0dlR5RzVWNlpUb3lWNFloM0locTRNOTB5YzkyNGhTMHBmbVZ5YmJSNE13dnhsNVBKeEV1d3VYNEk?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTJlOTJJdXdrSWNKUm9YNm0zbHphcmYzaUxzMmtZMlZOTzN4dUpzdk9WOWZWcU54S2s5LWV6SVlRcnpKM2t0TmVyN0NVN2JaYkZhZzlpaVdUQnY2REdPaHQxMXhneGlkdC01Z2FFZE1xNXFUcENPWi1sRDNqRS1qX3JBUVgybHA4ZzZSQ2lSQWFTdjRKWmJEam9XQ1I0NXV5b1BnY2JoWDVfYkFtazhic0t2SVJmUC1qWnBvRWxJWVNpZw?oc=5)
 
-
 ## Related Articles
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 - [Inside OpenAI's $4.8 Billion Race Against Anthropic's Talent Poaching Tactics](/ia/inside-openais-battle-plan-against-competitors-like-anthropic-en/)
 - [Metaverse: T](/ia/metaverse-pyramid-scheme-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Unexpected Philanthropy of George Michael: 10 Secret Acts That Shocked His Fans",
-  "description": "Discover the surprising side of George Michael as we unveil 10 secret acts of philanthropy that left fans in awe and showcased his generous spirit.",
-  "image": "https://novumworld.com/images/remembering-george-martin-the-legacy-of-a-musical-legend-en.jpg",
-  "datePublished": "2026-04-20T11:50:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ For more on the enduring influence of George Michael’s philanthropy, visit **G
     }
   }
 }
-</script>

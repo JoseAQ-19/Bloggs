@@ -1,16 +1,20 @@
 ---
-title: "iA Global Asset Management Just Snagged 52,220 Shares of Coca-Cola: What It Means"
-date: 2026-05-17T11:45:32
+title: 'iA Global Asset Management Just Snagged 52,220 Shares of Coca-Cola: What It
+  Means'
+date: 2026-05-17 11:45:32
 draft: false
-description: "Discover the implications of iA Global Asset Management acquiring 52,220 shares of Coca-Cola. Explore market trends and investment insights in our."
-featured_image: "/images/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en.jpg"
-slug: "ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en"
-canonical: "https://novumworld.com/ia/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "a8bc361e-2438-1d49-d7d3-63a85f7adc4b"
+description: Discover the implications of iA Global Asset Management acquiring 52,220
+  shares of Coca-Cola. Explore market trends and investment insights in our.
+featured_image: /images/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en.jpg
+slug: ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en
+canonical: https://novumworld.com/ia/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: a8bc361e-2438-1d49-d7d3-63a85f7adc4b
 ---
 
 ![iA Global Asset Management Just Snagged 52,220 Shares of Coca-Cola: What It Means](/images/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en.jpg)
@@ -100,22 +104,7 @@ The hype surrounding generative models must be tempered with a grounded understa
 - [Perplexity''s $200 Computer AI: 80% Of Companies](/ia/perplexity-ai-computer-overkill-future-en/)
 - [Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation](/ia/transforming-sound-how-mideo-turns-video-into-midi-magic-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "iA Global Asset Management Just Snagged 52,220 Shares of Coca-Cola: What It Means",
-  "description": "Discover the implications of iA Global Asset Management acquiring 52,220 shares of Coca-Cola. Explore market trends and investment insights in our.",
-  "image": "https://novumworld.com/images/ia-global-asset-management-makes-big-moves-snags-52220-shares-of-coca-cola-en.jpg",
-  "datePublished": "2026-05-17T11:45:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -125,4 +114,3 @@ The hype surrounding generative models must be tempered with a grounded understa
     }
   }
 }
-</script>

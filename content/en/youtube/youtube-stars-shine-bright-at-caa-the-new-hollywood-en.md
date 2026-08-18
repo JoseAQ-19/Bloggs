@@ -1,16 +1,20 @@
 ---
-title: "YouTube Stars Just Dominate CAA: The Shocking Truth Behind New Hollywood's Rise"
-date: 2026-06-22T20:08:10
+title: 'YouTube Stars Just Dominate CAA: The Shocking Truth Behind New Hollywood''s
+  Rise'
+date: 2026-06-22 20:08:10
 draft: false
-description: "Discover how YouTube stars are reshaping Hollywood in 'YouTube Stars Just Dominate CAA.' Uncover the surprising truths behind their meteoric rise."
-featured_image: "/images/youtube-stars-shine-bright-at-caa-the-new-hollywood-en.jpg"
-slug: "youtube-stars-shine-bright-at-caa-the-new-hollywood-en"
-canonical: "https://novumworld.com/youtube/youtube-stars-shine-bright-at-caa-the-new-hollywood-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "de9730dc-239c-9a34-ae7f-bd57062e901f"
+description: Discover how YouTube stars are reshaping Hollywood in 'YouTube Stars
+  Just Dominate CAA.' Uncover the surprising truths behind their meteoric rise.
+featured_image: /images/youtube-stars-shine-bright-at-caa-the-new-hollywood-en.jpg
+slug: youtube-stars-shine-bright-at-caa-the-new-hollywood-en
+canonical: https://novumworld.com/youtube/youtube-stars-shine-bright-at-caa-the-new-hollywood-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: de9730dc-239c-9a34-ae7f-bd57062e901f
 ---
 
 ![YouTube Stars Just Dominate CAA: The Shocking Truth Behind New Hollywood's Rise](/images/youtube-stars-shine-bright-at-caa-the-new-hollywood-en.jpg)
@@ -76,22 +80,7 @@ The traditional narrative of Hollywood is being rewritten, and those who ignore 
 - [90% Of YouTube Creators Suffer From Burnout And Nobody Is Talking About It](/youtube/youtubes-original-stars-spill-secrets-what-they-wish-they-knew-en/)
 - [YouTube's New AI Tool: 71% of Regrettable Videos Still Get Recommended](/youtube/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Stars Just Dominate CAA: The Shocking Truth Behind New Hollywood's Rise",
-  "description": "Discover how YouTube stars are reshaping Hollywood in 'YouTube Stars Just Dominate CAA.' Uncover the surprising truths behind their meteoric rise.",
-  "image": "https://novumworld.com/images/youtube-stars-shine-bright-at-caa-the-new-hollywood-en.jpg",
-  "datePublished": "2026-06-22T20:08:10",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +90,3 @@ The traditional narrative of Hollywood is being rewritten, and those who ignore 
     }
   }
 }
-</script>

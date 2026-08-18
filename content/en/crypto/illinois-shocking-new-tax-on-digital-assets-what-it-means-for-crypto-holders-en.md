@@ -1,16 +1,20 @@
 ---
-title: "Illinois Just Imposed A Shocking 10% Tax On Digital Assets That Could Cripple Crypto Holders"
-date: 2026-06-17T18:14:52
+title: Illinois Just Imposed A Shocking 10% Tax On Digital Assets That Could Cripple
+  Crypto Holders
+date: 2026-06-17 18:14:52
 draft: false
-description: "Illinois has enacted a surprising 10% tax on digital assets, raising concerns for crypto holders. Discover how this could impact your investments today."
-featured_image: "/images/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en.jpg"
-slug: "illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en"
-canonical: "https://novumworld.com/crypto/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3a4df124-0c35-7802-6652-7e3f151789a0"
+description: Illinois has enacted a surprising 10% tax on digital assets, raising
+  concerns for crypto holders. Discover how this could impact your investments today.
+featured_image: /images/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en.jpg
+slug: illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en
+canonical: https://novumworld.com/crypto/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3a4df124-0c35-7802-6652-7e3f151789a0
 ---
 
 ![Illinois Just Imposed A Shocking 10% Tax On Digital Assets That Could Cripple Crypto Holders](/images/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en.jpg)
@@ -72,7 +76,6 @@ The future of cryptocurrency in Illinois hinges on the state's ability to adapt 
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -81,18 +84,7 @@ The future of cryptocurrency in Illinois hinges on the state's ability to adapt 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Illinois Just Imposed A Shocking 10% Tax On Digital Assets That Could Cripple Crypto Holders",
-  "description": "Illinois has enacted a surprising 10% tax on digital assets, raising concerns for crypto holders. Discover how this could impact your investments today.",
-  "image": "https://novumworld.com/images/illinois-shocking-new-tax-on-digital-assets-what-it-means-for-crypto-holders-en.jpg",
-  "datePublished": "2026-06-17T18:14:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +94,3 @@ The future of cryptocurrency in Illinois hinges on the state's ability to adapt 
     }
   }
 }
-</script>

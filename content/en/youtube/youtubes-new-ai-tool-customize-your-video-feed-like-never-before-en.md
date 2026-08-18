@@ -1,16 +1,19 @@
 ---
-title: "YouTube's New AI Tool: 71% of Regrettable Videos Still Get Recommended"
-date: 2026-05-28T20:05:39
+title: 'YouTube''s New AI Tool: 71% of Regrettable Videos Still Get Recommended'
+date: 2026-05-28 20:05:39
 draft: false
-description: "Discover how YouTube's new AI tool still recommends 71% of regrettable videos, and what this means for content creators and viewers alike."
-featured_image: "/images/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en.jpg"
-slug: "youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en"
-canonical: "https://novumworld.com/youtube/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "25a20895-0d3f-95db-80f3-808794c279dd"
+description: Discover how YouTube's new AI tool still recommends 71% of regrettable
+  videos, and what this means for content creators and viewers alike.
+featured_image: /images/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en.jpg
+slug: youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en
+canonical: https://novumworld.com/youtube/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 25a20895-0d3f-95db-80f3-808794c279dd
 ---
 
 ![YouTube's New AI Tool: 71% of Regrettable Videos Still Get Recommended](/images/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en.jpg)
@@ -51,28 +54,12 @@ The creator economy bears the brunt of this system. Creators producing health mi
 - [news.google.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXJReUFzb2Y1Q3pORkREWTlUQW1aZTJYbTBVS3Vwb2Vsd2oyX0ZJOGJWNnlQSUNma0xGNXlCMVFOaUpzVFVLOElKVjkyYWZWbUVxVlRnUlRuWERpTVNxZUZ4aVRJVzdweFVxZlZSZEpndG8zNVBvc2szZl84SW5Mb1FzcmFXc0xo?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE1ickowemRBNmtWWUwxSVZqb2JSUDRtZ0x4TE1wUjdoNWNJMjlRdm9qRG9BTU4yYnVWX3ctTm85dVlFVkpEQ0VBYktvcFZOOXlkYXFDZWJUU3FlUFR1VUhBX0FrX1NqVUt5TmtmOGZLd3A?oc=5)
 
-
 ## Related Articles
 - [YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions](/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/)
 - [YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored](/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/)
 - [YouTube's New AI Labels Expose 70% Of Views Driven By Controversial Algorithm](/youtube/youtubes-new-ai-labels-what-creators-and-viewers-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's New AI Tool: 71% of Regrettable Videos Still Get Recommended",
-  "description": "Discover how YouTube's new AI tool still recommends 71% of regrettable videos, and what this means for content creators and viewers alike.",
-  "image": "https://novumworld.com/images/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en.jpg",
-  "datePublished": "2026-05-28T20:05:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -82,4 +69,3 @@ The creator economy bears the brunt of this system. Creators producing health mi
     }
   }
 }
-</script>

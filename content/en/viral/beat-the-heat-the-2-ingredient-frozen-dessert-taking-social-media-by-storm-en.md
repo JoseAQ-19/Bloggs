@@ -1,16 +1,20 @@
 ---
-title: "The 2-Ingredient Frozen Dessert Taking Social Media By Storm: Why You Need to Try It"
-date: 2026-05-24T22:25:59
+title: 'The 2-Ingredient Frozen Dessert Taking Social Media By Storm: Why You Need
+  to Try It'
+date: 2026-05-24 22:25:59
 draft: false
-description: "Discover the viral 2-ingredient frozen dessert that's captivating social media! Learn why this simple treat is a must-try for every dessert lover."
-featured_image: "/images/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en.jpg"
-slug: "beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en"
-canonical: "https://novumworld.com/viral/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "db7bc246-474b-b11b-dc21-3670c4d72fa5"
+description: Discover the viral 2-ingredient frozen dessert that's captivating social
+  media! Learn why this simple treat is a must-try for every dessert lover.
+featured_image: /images/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en.jpg
+slug: beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en
+canonical: https://novumworld.com/viral/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: db7bc246-474b-b11b-dc21-3670c4d72fa5
 ---
 
 ![The 2-Ingredient Frozen Dessert Taking Social Media By Storm: Why You Need to Try It](/images/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en.jpg)
@@ -95,22 +99,7 @@ Nice cream represents the algorithm's ultimate triumph and culinary culture's mo
 - [The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/)
 - [The Scalper Bot Crisis: How 2 Million MoonSwatches Disappeared Before Your Eyes](/viral/the-swatch-x-audemars-piguet-craze-why-you-cant-find-it-at-somerset-collection-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The 2-Ingredient Frozen Dessert Taking Social Media By Storm: Why You Need to Try It",
-  "description": "Discover the viral 2-ingredient frozen dessert that's captivating social media! Learn why this simple treat is a must-try for every dessert lover.",
-  "image": "https://novumworld.com/images/beat-the-heat-the-2-ingredient-frozen-dessert-taking-social-media-by-storm-en.jpg",
-  "datePublished": "2026-05-24T22:25:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +109,3 @@ Nice cream represents the algorithm's ultimate triumph and culinary culture's mo
     }
   }
 }
-</script>

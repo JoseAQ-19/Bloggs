@@ -29,8 +29,6 @@ Iran's crypto market, touted as a haven from sanctions, may instead be a ticking
 * Chainalysis estimates that about half of Iran's $7.8 billion in crypto activity in 2025 was linked to the Islamic Revolutionary Guard Corps (IRGC), raising concerns about sanctions evasion.
 * US Tech Professionals and Wall Street analysts must scrutinize crypto platforms' compliance with sanctions, as the US Treasury is investigating potential evasion by Iranian actors.
 
-
-
 {{< adsterra_native >}}
 
 ## Nobitex's $3 Million Exit: Iran's Preemptive Strike Against Instability
@@ -88,6 +86,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [$25.8 Trillion in Stablecoin Trading Volume: The Shocking Rise Nobody Expected](/en/crypto/crypto-class-adapting-to-a-new-era-of-digital-currency-en/)
 - [Clarity Act''s Static Mistakes: Why JPMorgan''s Crypto Bull Case Is a LIE](/en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en/)
 - [Hyperliquid Horror: One Trader''s $74M Loss Exposes $4.25B TVL Time Bomb](/en/crypto/hyperliquid-74m-liquidation-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

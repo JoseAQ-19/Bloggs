@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Completes 100% Integration of CRSP into Its Indexes"
-date: 2026-05-02T08:52:42
+title: Morningstar Completes 100% Integration of CRSP into Its Indexes
+date: 2026-05-02 08:52:42
 draft: false
-description: "Discover how Morningstar's full integration of CRSP into its indexes enhances investment strategies and boosts portfolio performance for investors."
-featured_image: "/images/morningstar-completes-100-integration-of-crsp-into-its-indexes-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "4db8c1b1-b9ba-f59a-8e8a-dad6204cd17f"
+description: Discover how Morningstar's full integration of CRSP into its indexes
+  enhances investment strategies and boosts portfolio performance for investors.
+featured_image: /images/morningstar-completes-100-integration-of-crsp-into-its-indexes-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 4db8c1b1-b9ba-f59a-8e8a-dad6204cd17f
 ---
 
 ![Morningstar Completes 100% Integration of CRSP into Its Indexes](/images/morningstar-completes-100-integration-of-crsp-into-its-indexes-en.jpg)
@@ -20,8 +23,6 @@ Morningstar has achieved a significant milestone, with the complete integration 
 * [CRSP acquisition cost Morningstar $648 million, a strategic investment in index strength — source CNMV]
 
 The integration of CRSP informs Morningstar's strategic positioning in the competitive indexing market, redefining how investors access and utilize market data. Historically, CRSP has been a revered source for accurate and comprehensive security price data. With this integration, Morningstar combines its extensive research capabilities with CRSP's robust data, creating a formidable index suite that will likely influence both passive and active fund strategies.
-
-
 
 {{< adsterra_native >}}
 
@@ -76,36 +77,11 @@ As with any market change, there is inherent risk. However, the historical perfo
 ### Can I expect Morningstar's indexes to outperform traditional benchmarks?
 While past performance is not a guarantee of future results, Morningstar's historical data shows a tendency to outperform traditional benchmarks, especially in specific asset classes. Investors should conduct their due diligence based on their individual risk tolerance and investment goals.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Completes 100% Integration of CRSP into Its Indexes",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://www.example.com/article"
-  }
 }
-</script>
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What changes should investors expect with the integration of CRSP into Morningstar indexes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Investors should anticipate improved data accuracy and potentially better performance metrics, alongside a rebranding of existing indexes under the Morningstar name."
-      }
-    },
+
+},
     {
       "@type": "Question",
       "name": "Will fees increase for Morningstar indexes post-integration?",
@@ -140,13 +116,10 @@ While past performance is not a guarantee of future results, Morningstar's histo
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [OAK](/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en/)
 - [T. Rowe](/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en/)
 - [Top 5 Energy Stocks Surpassing S&](/funds/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

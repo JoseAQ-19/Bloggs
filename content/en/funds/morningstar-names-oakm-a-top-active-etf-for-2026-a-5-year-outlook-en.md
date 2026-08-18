@@ -21,8 +21,6 @@ type: funds
 ## Executive Summary
 Morningstar has recognized the OAKM ETF (Invesco Dynamic Energy Exploration & Production ETF) as a leading active investment vehicle for 2026, particularly emphasizing its concentrated portfolio strategy within the energy infrastructure sector. With a commendable 4-star rating and an annualized five-year return of 18.2%, OAKM outperforms its benchmark, the MSCI US Investable Market Energy Index, which has a 12.5% return over the same period. However, the ETF's relatively high expense ratio of 0.65% raises questions about its long-term viability compared to lower-cost passive alternatives. While OAKM has shown resilience in a volatile sector, external geopolitical factors and the transitioning energy landscape pose risks to its future performance.
 
-
-
 {{< adsterra_native >}}
 
 ## Body
@@ -91,6 +89,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
 - [Morningstar Thailand 2026 Awards: Fund X''s 15% Lead Over Its Peer Group](/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en/)
 - [Morningstar''s 2026 Top Active ETF: OAKM''s Strategy Delivers Outperformance.](/en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

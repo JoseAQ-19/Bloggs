@@ -1,16 +1,20 @@
 ---
-title: "José Mourinho Revela: “Nadie Me Quiere” y Desata la Ira de los Aficionados Portugueses"
-date: 2026-04-18T21:50:36
+title: 'José Mourinho Revela: “Nadie Me Quiere” y Desata la Ira de los Aficionados
+  Portugueses'
+date: 2026-04-18 21:50:36
 draft: false
-description: "José Mourinho desata la polémica con su declaración sobre la falta de apoyo. Descubre la reacción de los aficionados portugueses en este apasionante."
-featured_image: "/images/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere.jpg"
-slug: "jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere"
-canonical: "https://novumworld.com/es/viral/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "9303fd17-f118-c520-80bd-435b10927fe9"
+description: José Mourinho desata la polémica con su declaración sobre la falta de
+  apoyo. Descubre la reacción de los aficionados portugueses en este apasionante.
+featured_image: /images/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere.jpg
+slug: jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere
+canonical: https://novumworld.com/es/viral/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 9303fd17-f118-c520-80bd-435b10927fe9
 ---
 
 ![José Mourinho Revela: “Nadie Me Quiere” y Desata la Ira de los Aficionados Portugueses](/images/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere.jpg)
@@ -85,28 +89,12 @@ La situación de Mourinho es crítica, y su falta de conexión con los aficionad
 - [id.loc.gov](https://id.loc.gov/authorities/names/nb2005018023.html)
 - [id.loc.gov](https://id.loc.gov/authorities/nb2005018023)
 
-
 ## Artículos relacionados
 - [El Saludo Viral de Florentino y Valverde Que Cambió Las Redes Sociales en España](/es/viral/el-saludo-que-se-volvio-viral-florentino-y-valverde-marcan-tendencia/)
 - [La Base De Maquillaje](/es/viral/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta/)
 - [Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran](/es/viral/realities-espana-polemica/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "José Mourinho Revela: “Nadie Me Quiere” y Desata la Ira de los Aficionados Portugueses",
-  "description": "José Mourinho desata la polémica con su declaración sobre la falta de apoyo. Descubre la reacción de los aficionados portugueses en este apasionante.",
-  "image": "https://novumworld.com/images/jose-mourinho-desata-la-polemica-en-portugal-nadie-me-quiere.jpg",
-  "datePublished": "2026-04-18T21:50:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +104,3 @@ La situación de Mourinho es crítica, y su falta de conexión con los aficionad
     }
   }
 }
-</script>

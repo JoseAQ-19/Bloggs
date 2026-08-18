@@ -1,16 +1,19 @@
 ---
-title: "DeWalt Just Broke Trust: The Alarming Reality of Their Miter Saw Recall"
-date: 2026-04-05T14:41:49
+title: 'DeWalt Just Broke Trust: The Alarming Reality of Their Miter Saw Recall'
+date: 2026-04-05 14:41:49
 draft: false
-description: "Discover the shocking details behind DeWalt's miter saw recall and how it has shattered consumer trust. Learn what you need to know to stay safe."
-featured_image: "/images/dewalt-miter-saw-recall-technical-teardown-en.jpg"
-slug: "dewalt-miter-saw-recall-technical-teardown-en"
-canonical: "https://novumworld.com/tools/dewalt-miter-saw-recall-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "be135f65-fc6f-7d30-6b75-d2797c5c2a23"
+description: Discover the shocking details behind DeWalt's miter saw recall and how
+  it has shattered consumer trust. Learn what you need to know to stay safe.
+featured_image: /images/dewalt-miter-saw-recall-technical-teardown-en.jpg
+slug: dewalt-miter-saw-recall-technical-teardown-en
+canonical: https://novumworld.com/tools/dewalt-miter-saw-recall-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: be135f65-fc6f-7d30-6b75-d2797c5c2a23
 ---
 
 ![DeWalt Just Broke Trust: The Alarming Reality of Their Miter Saw Recall](/images/dewalt-miter-saw-recall-technical-teardown-en.jpg)
@@ -84,28 +87,12 @@ DeWalt’s handling of the miter saw recall raises serious questions about consu
 - [news.google.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWhQU083VWI1aEZQaDNoWHVKaFFiZDQzSk5JTGhEaWRBN0NPQVRVTXNnUXQ1SkNYTlZsNC1ndDlWOXZlUjQtZWhmM0VJOE5aczJCT3plVDFYYW16UnhKLXBhRV9uQy1hSXRBRTlxVzY2ekdFZ21qaHNUeE9iTmhJZQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE5HYm5TR3Utb0thV1d5NDJKT1JLYnR6WkRxOWx0ZzZFbXhPTk5rVjJXdDNqZzhXOXpjVDR0ck1fXzJUclpEcThLS3N5dk5XVTBQd09Cak85Ni1KTmkyM3Bhc3BxM2R4NmhQaElmd3VOYXY?oc=5)
 
-
 ## Related Articles
 - [Rethinking AI: 75% Of Firms Fail By Ignoring](/tools/rethinking-ai-architecture-vs-tools-en/)
 - [84% of High Schoolers Use AI:](/tools/generative-ai-high-schools-technical-analysis-en/)
 - [Make.com Masterc](/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "DeWalt Just Broke Trust: The Alarming Reality of Their Miter Saw Recall",
-  "description": "Discover the shocking details behind DeWalt's miter saw recall and how it has shattered consumer trust. Learn what you need to know to stay safe.",
-  "image": "https://novumworld.com/images/dewalt-miter-saw-recall-technical-teardown-en.jpg",
-  "datePublished": "2026-04-05T14:41:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +102,3 @@ DeWalt’s handling of the miter saw recall raises serious questions about consu
     }
   }
 }
-</script>

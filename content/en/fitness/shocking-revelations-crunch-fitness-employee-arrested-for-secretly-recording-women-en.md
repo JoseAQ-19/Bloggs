@@ -93,22 +93,7 @@ The path forward requires collaboration between gyms and their members to redefi
 - [How One Fitness Program Is Empowering 10,000 Lives of Those With Spinal Cord Injuries](/fitness/transforming-lives-how-a-fitness-program-is-empowering-those-with-spinal-cord-injuries-en/)
 - [Trump Revives Presidential Fitness Test: Experts Warn It Might Not Change Kids’ Activity Levels](/fitness/will-the-return-of-the-presidential-fitness-test-transform-kids-activity-levels-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking Revelation: Crunch Fitness Employee Arrested for Secretly Recording 30 Women",
-  "description": "A Crunch Fitness employee has been arrested for secretly recording 30 women. Discover the shocking details and implications of this disturbing incident.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-30T07:41:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -118,4 +103,3 @@ The path forward requires collaboration between gyms and their members to redefi
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares"
-date: 2026-05-06T18:06:17
+title: 94% Of Institutional Investors Believe Blockchain Is The Future And Nobody
+  Cares
+date: 2026-05-06 18:06:17
 draft: false
-description: "Discover why 94% of institutional investors see blockchain as the future, yet the wider world remains indifferent. Dive into this paradoxical trend today!."
-featured_image: "/images/wall-streets-battle-with-crypto-whos-really-winning-en.jpg"
-slug: "wall-streets-battle-with-crypto-whos-really-winning-en"
-canonical: "https://novumworld.com/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "a91a54b7-8055-413e-07a3-30cc217a8980"
+description: Discover why 94% of institutional investors see blockchain as the future,
+  yet the wider world remains indifferent. Dive into this paradoxical trend today!.
+featured_image: /images/wall-streets-battle-with-crypto-whos-really-winning-en.jpg
+slug: wall-streets-battle-with-crypto-whos-really-winning-en
+canonical: https://novumworld.com/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: a91a54b7-8055-413e-07a3-30cc217a8980
 ---
 
 ![94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/images/wall-streets-battle-with-crypto-whos-really-winning-en.jpg)
@@ -73,12 +77,10 @@ The [EY Report](
 - [news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1pCQUNuUnBzYVY5VUM1WngtTjFMaU9yQzhqWTJwRFFBdXU0UHVnSUh1d3pUMlZmUXVHLW9xQTI2MFAtQ1hwY0Y3M3BuTm1TRDJKendJZEprcnJIb0pleVVrb05OMnBicVQzOGxXUk1oN1R4Vm1sNGlXSjZ4M2Jna0NjVVRIdll4Nnl3NTV0dE5JbEljWGluX0JlRDc1T0pFbldwQUN6SzBDb3M?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVERFdUp0TGViTnE5QjNKYzdjR1pjbFY5OWxjT01QU09iTnBYWmlwQ2RGcDM2c1d1Y1RBRDFjZjhHR0hFZ1A1Uy1XVmsxWHdaSXdBUDkyUU1tOU5qZFhwMVFMMHdCc0ZsOVIyQUYzMVA1OVV5RzNYcUJHanByWmNUNENESWhZbmdvU3BLTVBn?oc=5)
 
-
 ## Related Articles
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
 - [OpenClaw''s $120 Billion Seed Phrase Di](/crypto/openclaw-crypto-wallet-phishing-attack-en/)
 - [SEC Just Opened the Floodgates for Decentralized Crypto Trading and Investors Should Panic](/crypto/sec-opens-doors-for-decentralized-crypto-trading-what-it-means-for-investors-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -88,18 +90,7 @@ The [EY Report](
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares",
-  "description": "Discover why 94% of institutional investors see blockchain as the future, yet the wider world remains indifferent. Dive into this paradoxical trend today!.",
-  "image": "https://novumworld.com/images/wall-streets-battle-with-crypto-whos-really-winning-en.jpg",
-  "datePublished": "2026-05-06T18:06:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +100,3 @@ The [EY Report](
     }
   }
 }
-</script>

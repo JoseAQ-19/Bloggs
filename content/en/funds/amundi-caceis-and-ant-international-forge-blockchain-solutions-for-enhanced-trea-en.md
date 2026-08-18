@@ -1,14 +1,18 @@
 ---
-title: "Amundi, CACEIS, and Ant International Forge Blockchain Solutions for Enhanced Treasury Management"
-date: 2026-06-15T10:33:02
+title: Amundi, CACEIS, and Ant International Forge Blockchain Solutions for Enhanced
+  Treasury Management
+date: 2026-06-15 10:33:02
 draft: false
-description: "Discover how Amundi, CACEIS, and Ant International are leveraging blockchain technology to revolutionize treasury management in mutual funds."
-featured_image: "/images/amundi-caceis-and-ant-international-forge-blockchain-solutions-for-enhanced-trea-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "91237804-4610-ea6e-98af-0d31ff5d3041"
+description: Discover how Amundi, CACEIS, and Ant International are leveraging blockchain
+  technology to revolutionize treasury management in mutual funds.
+featured_image: /images/amundi-caceis-and-ant-international-forge-blockchain-solutions-for-enhanced-trea-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 91237804-4610-ea6e-98af-0d31ff5d3041
 ---
 
 ![Amundi, CACEIS, and Ant International Forge Blockchain Solutions for Enhanced Treasury Management](/images/amundi-caceis-and-ant-international-forge-blockchain-solutions-for-enhanced-trea-en.jpg)
@@ -20,8 +24,6 @@ Amundi, CACEIS, and Ant International are leveraging blockchain technology to en
 * [Blockchain market expected to reach $67.4 billion by 2026 — **CNMV**]
 
 The collaboration between these financial giants marks a significant pivot towards integrating blockchain for improved efficiency in treasury management and tokenized investment solutions. By utilizing distributed ledger technology, they aim to streamline processes, enhance data security, and provide real-time transaction capabilities, which can greatly optimize liquidity management for institutions. 
-
-
 
 {{< adsterra_native >}}
 
@@ -79,16 +81,7 @@ We believe that the collaboration between Amundi, CACEIS, and Ant International 
 
 As this technology evolves, staying informed and adaptable will be key for institutions aiming to leverage these advancements to enhance their operational frameworks. The path forward may be fraught with challenges, but the rewards for those who navigate it successfully could be substantial.
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Amundi, CACEIS, and Ant International Forge Blockchain Solutions for Enhanced Treasury Management",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNnM3NnQ3N25sYUtGMWt2NzVXYVR2UDRNVkZKZGJRaDBwMDltTFFwY1FxY1h3Y2V4TTJ3YjFobXdsbnVmd3J4MUgtMG9rNndSLUkzTWNKbHBfdGJzSFlLaEM0YkxrT1ZSNkQxZ0hkb0haT2ZzbXZ4R1YteVo4WWpnbnR0cWdRTEV4c3dzWGNqS2g1UW9UeUFMeXRrYXpGTnBVaUJIeDIwOVNUekplOHJudzdvcUcxTTdrUWxLdTg2Y3RtMmotWDZ1RzFZWUtyZm16eDRPaTdseENFOENZZjdIZ3Bjc3RTcjNWNkljYzBGV3llbXZXM1dkUEZwWVdmeGZrUkhxMzJ1RGIza282RW1lVQ?oc=5",
   "publisher": {
     "@type": "Organization",
@@ -105,6 +98,4 @@ As this technology evolves, staying informed and adaptable will be key for insti
 - [Tencent Reports Steady Growth as AI Investments Yield Positive Returns](/funds/tencent-reports-steady-growth-as-ai-investments-yield-positive-returns-en/)
 - [Your Fund Holding SpaceX: Analyze the 50% Valuation Decline Now](/funds/your-fund-holding-spacex-analyze-the-50-valuation-decline-now-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -1,16 +1,20 @@
 ---
-title: "70% Forensic Patients and Rising Violence: Tewksbury Hospital’s Security Policy Reversal Explained"
-date: 2026-05-03T14:46:36
+title: '70% Forensic Patients and Rising Violence: Tewksbury Hospital’s Security Policy
+  Reversal Explained'
+date: 2026-05-03 14:46:36
 draft: false
-description: "Explore Tewksbury Hospital's controversial security policy reversal amid rising violence among forensic patients. Understand the implications for safety."
-featured_image: "/images/tewksbury-state-hospital-security-tools-reinstatement-en.jpg"
-slug: "tewksbury-state-hospital-security-tools-reinstatement-en"
-canonical: "https://novumworld.com/tools/tewksbury-state-hospital-security-tools-reinstatement-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "18cb8a5b-fdf3-282a-6f94-ba4bbf4ad882"
+description: Explore Tewksbury Hospital's controversial security policy reversal amid
+  rising violence among forensic patients. Understand the implications for safety.
+featured_image: /images/tewksbury-state-hospital-security-tools-reinstatement-en.jpg
+slug: tewksbury-state-hospital-security-tools-reinstatement-en
+canonical: https://novumworld.com/tools/tewksbury-state-hospital-security-tools-reinstatement-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 18cb8a5b-fdf3-282a-6f94-ba4bbf4ad882
 ---
 
 ![70% Forensic Patients and Rising Violence: Tewksbury Hospital’s Security Policy Reversal Explained](/images/tewksbury-state-hospital-security-tools-reinstatement-en.jpg)
@@ -104,22 +108,7 @@ The reinstatement of defensive weapons at Tewksbury Hospital is a tacit admissio
 - [Craftsman Just Slashed Prices By 41% But Hidden Defects Are Raising Red Flags](/tools/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en/)
 - [The Hidden Crisis: 1 In 200 Students Falsely Accuse](/tools/marquette-ai-guide-technical-analysis-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "70% Forensic Patients and Rising Violence: Tewksbury Hospital’s Security Policy Reversal Explained",
-  "description": "Explore Tewksbury Hospital's controversial security policy reversal amid rising violence among forensic patients. Understand the implications for safety.",
-  "image": "https://novumworld.com/images/tewksbury-state-hospital-security-tools-reinstatement-en.jpg",
-  "datePublished": "2026-05-03T14:46:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -129,4 +118,3 @@ The reinstatement of defensive weapons at Tewksbury Hospital is a tacit admissio
     }
   }
 }
-</script>

@@ -1,14 +1,17 @@
 ---
-title: "Top 7 US Dividend Kings Yielding Over 4% to Buy in 2026"
-date: 2026-06-23T09:41:19
+title: Top 7 US Dividend Kings Yielding Over 4% to Buy in 2026
+date: 2026-06-23 09:41:19
 draft: false
-description: "Discover the top 7 US Dividend Kings yielding over 4% to invest in for 2026. Secure your financial future with these reliable income-generating stocks."
-featured_image: "/images/top-7-us-dividend-kings-yielding-over-4-to-buy-in-2026-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "2a54681e-1f68-6fc0-f4f1-f95f85dc9b29"
+description: Discover the top 7 US Dividend Kings yielding over 4% to invest in for
+  2026. Secure your financial future with these reliable income-generating stocks.
+featured_image: /images/top-7-us-dividend-kings-yielding-over-4-to-buy-in-2026-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 2a54681e-1f68-6fc0-f4f1-f95f85dc9b29
 ---
 
 ![Top 7 US Dividend Kings Yielding Over 4% to Buy in 2026](/images/top-7-us-dividend-kings-yielding-over-4-to-buy-in-2026-en.jpg)
@@ -20,8 +23,6 @@ Over the next year, investors should consider the robust yield potential of U.S.
 * [7.5% — Average Dividend Yield of the S&P 500 Index — Morningstar]
 
 The Dividend Kings are a select group of companies that have consistently increased their dividends for at least 50 consecutive years. These firms not only provide a reliable income stream but often exhibit strong fundamentals and resilient business models. As of October 2023, the following seven Dividend Kings stand out, yielding over 4%, making them attractive options for income-focused investors.
-
-
 
 {{< adsterra_native >}}
 
@@ -93,6 +94,4 @@ This analysis highlights the importance of thorough research and consideration o
 - [Vanguard Slash](/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 - [Top 5 REITs Delivering Over 10% Annual Returns in 2026](/funds/top-5-reits-delivering-over-10-annual-returns-in-2026-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

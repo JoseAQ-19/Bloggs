@@ -1,16 +1,19 @@
 ---
-title: "CAA And TPG Just Launched A $250 Million Fund That Will Change YouTube Forever"
-date: 2026-06-10T19:55:24
+title: CAA And TPG Just Launched A $250 Million Fund That Will Change YouTube Forever
+date: 2026-06-10 19:55:24
 draft: false
-description: "Discover how CAA and TPG's new $250 million fund aims to revolutionize YouTube, empowering creators and transforming the digital landscape forever."
-featured_image: "/images/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en.jpg"
-slug: "creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en"
-canonical: "https://novumworld.com/youtube/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "8fb7cb49-0183-4a9b-5a57-7b0eb8fcba2e"
+description: Discover how CAA and TPG's new $250 million fund aims to revolutionize
+  YouTube, empowering creators and transforming the digital landscape forever.
+featured_image: /images/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en.jpg
+slug: creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en
+canonical: https://novumworld.com/youtube/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 8fb7cb49-0183-4a9b-5a57-7b0eb8fcba2e
 ---
 
 ![CAA And TPG Just Launched A $250 Million Fund That Will Change YouTube Forever](/images/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en.jpg)
@@ -67,28 +70,12 @@ The potential for CAA and TPG to reshape the future of content creation is immen
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0pPZHNBZlRBaklxNjdQTW1ObF8xVV9XY0dLNHhNcm1EN2JxWHgwSjJsSzJJb0lCZjBUY0cwYVRTZGNYaHhoTWpIQy1CakliR1dFdUI1NFl5RllVd3ZLSjhoMjFaeV9zTlNpczZ0Y2hQYlkzWnNjQ0cwRkFTZHB1S2tGVlBnSEhUcmZzb3NtdXF4c2dBc1dIcUdmejd4YzhCa0FQMFNES21CX3dtSFk2a1lCTkNUUExlRVFTY1lCR2dzbkRnWGZYaXdB?oc=5)
 
-
 ## Related Articles
 - [YouTube's Picture-in-Picture Feature Drains 60% Battery and Nobody Is Talking About It](/youtube/youtubes-picture-in-picture-feature-a-game-changer-with-a-frustrating-twist-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million C](/youtube/youtube-tv-fox-deal-extension-en/)
 - [NFL's Antitrust Risks: Why 2026 Could Reshape Sports Broadcasting Forever](/youtube/youtubes-nfl-dilemma-why-netflix-and-broadcast-tv-could-shake-things-up-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "CAA And TPG Just Launched A $250 Million Fund That Will Change YouTube Forever",
-  "description": "Discover how CAA and TPG's new $250 million fund aims to revolutionize YouTube, empowering creators and transforming the digital landscape forever.",
-  "image": "https://novumworld.com/images/creative-artists-tpg-launch-a-game-changing-250-million-fund-for-youtube-talent-en.jpg",
-  "datePublished": "2026-06-10T19:55:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +85,3 @@ The potential for CAA and TPG to reshape the future of content creation is immen
     }
   }
 }
-</script>

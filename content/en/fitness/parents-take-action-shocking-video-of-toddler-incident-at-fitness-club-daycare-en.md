@@ -73,28 +73,12 @@ In conclusion, the safety of children in daycare facilities is a critical issue 
 - [news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWERFWGJMZjN5SnQ4X0RBeFpVQ3dSVUNHQ3BhT3ZRb2tKd2thSnd0Sm55S3c1dHFMOVVhdGNoWGxwQkdNZ3NlWmlqVEQzUWt6VTFwYlF2NmtWcjBEN1h6aVc1aFc0NXktbF9hRjBoOHB5cTRNZGEzejZsbFM4NTJycE85QlBpR0dpQ2dLdW9wN2wtV2FidHBHR3RHWWJ3ZzlHNTNURE9nLUVZS2Vuc1Jj?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMisAJBVV95cUxOSmJ2UUF5Uk1aLUZ5OHgtTXJNeE5IRnZuRGQ2cXNoZE1fZWNSWFBjWXF1dWEyb3dGbDNGNXZIaGE1VTVVVGM3REUwTW9mY3JEYW1KdjRNcTRiNVcxYy02S0ZkU2hqX24zY01IOXJreTdIMmlZYW5VYnB3REtmajNXbjA0cmNRTkpZR3cxUXczUUdrTkx6bXViZ3ZRbVdTaDQ1TEdHQUpxVWR0Z2Z3ZEc4QS1ETDFPRUFkdk9penJDdzZFZ0tCSUlFNUhlbUdJRkZka0xxSmxsVlVkM1VxVm9SUHBHZHd1dF9tTG5vdEphVmtOS1ZNbTA2QXFVd0tTT3dCamw4THJZUDM4dlo1djZKbkUyNWpQYTZxeHBkbmpXSV83S3VneUM3VUF3aXY0VEV6?oc=5)
 
-
 ## Related Articles
 - [92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/)
 - [Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before](/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/)
 - [Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina](/fitness/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Parents Take Action After Disturbing Video of Toddler Being Thrown at Daycare Emerges",
-  "description": "Parents are rallying for change after a shocking video of a toddler being thrown at daycare surfaces, sparking outrage and calls for accountability.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-09T09:00:10",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +88,3 @@ In conclusion, the safety of children in daycare facilities is a critical issue 
     }
   }
 }
-</script>

@@ -53,8 +53,6 @@ The financial black hole that Meta (formerly Facebook) has become is a testament
 
 Public interest, measured by Google Trends, has also cratered. Surveys conducted by YouGov revealed that only 26% of Americans used any Metaverse platform in 2024. The writing is on the wall: the general public is not buying what the Metaverse is selling, at least not in its current form. Meta, sensing the shifting tides, has begun to pull back. The company plans to cut Reality Labs' budget by as much as 30% by 2026 and has already laid off over 1,000 employees from the division, diverting capital towards artificial intelligence and smart glasses. These strategic pivots suggest a tacit admission that the initial Metaverse strategy was a miscalculation.
 
-
-
 {{< adsterra_native >}}
 
 ## Economic and Psychological Factors Behind the Metaverse Crash
@@ -112,6 +110,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Silicon Valley''s Dirty Secret: AI Progress Isn''t Exponential, It''s Stalling](/en/ia/exponential-ai-myth-or-reality-en/)
 - [2027 AI Nightmare: Root Access Exploits Slashed by 50%, Security Experts Panic](/en/ia/ai-agent-root-access-security-concerns-en/)
 - [90% Of AI Projects Will Fail: VC''s $258 Billion Disaster Waiting To Happen](/en/ia/ai-venture-capital-returns-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

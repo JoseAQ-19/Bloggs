@@ -1,16 +1,19 @@
 ---
-title: "27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story"
-date: 2026-04-23T22:16:45
+title: '27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story'
+date: 2026-04-23 22:16:45
 draft: false
-description: "Discover the harrowing tale of a skydiver’s near-fatal jump at Virginia Tech, battling 27 knot winds and the unexpected challenges that ensued."
-featured_image: "/images/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en.jpg"
-slug: "thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en"
-canonical: "https://novumworld.com/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "4273b567-e065-29a1-de73-990d09cd0f86"
+description: Discover the harrowing tale of a skydiver’s near-fatal jump at Virginia
+  Tech, battling 27 knot winds and the unexpected challenges that ensued.
+featured_image: /images/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en.jpg
+slug: thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en
+canonical: https://novumworld.com/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 4273b567-e065-29a1-de73-990d09cd0f86
 ---
 
 ![27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/images/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en.jpg)
@@ -78,22 +81,7 @@ The unfortunate crash of Pasha Palanker should serve as a turning point in how a
 - [Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/)
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story",
-  "description": "Discover the harrowing tale of a skydiver’s near-fatal jump at Virginia Tech, battling 27 knot winds and the unexpected challenges that ensued.",
-  "image": "https://novumworld.com/images/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en.jpg",
-  "datePublished": "2026-04-23T22:16:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ The unfortunate crash of Pasha Palanker should serve as a turning point in how a
     }
   }
 }
-</script>

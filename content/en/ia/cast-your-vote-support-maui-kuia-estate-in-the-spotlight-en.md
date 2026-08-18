@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Struggles Behind Maui Ku'ia Estate’s Fight For Survival Exposed"
-date: 2026-06-16T13:04:28
+title: The Hidden Struggles Behind Maui Ku'ia Estate’s Fight For Survival Exposed
+date: 2026-06-16 13:04:28
 draft: false
-description: "Discover the untold challenges faced by Maui Ku'ia Estate as it battles for survival amid adversity. Uncover the struggles that shape its journey."
-featured_image: "/images/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en.jpg"
-slug: "cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en"
-canonical: "https://novumworld.com/ia/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "3501c48d-58f0-c974-5b3c-c7b1af00f750"
+description: Discover the untold challenges faced by Maui Ku'ia Estate as it battles
+  for survival amid adversity. Uncover the struggles that shape its journey.
+featured_image: /images/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en.jpg
+slug: cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en
+canonical: https://novumworld.com/ia/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 3501c48d-58f0-c974-5b3c-c7b1af00f750
 ---
 
 ![The Hidden Struggles Behind Maui Ku'ia Estate’s Fight For Survival Exposed](/images/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en.jpg)
@@ -67,22 +70,7 @@ The narrative surrounding premium chocolate is evolving, and as we savor the pro
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Struggles Behind Maui Ku'ia Estate’s Fight For Survival Exposed",
-  "description": "Discover the untold challenges faced by Maui Ku'ia Estate as it battles for survival amid adversity. Uncover the struggles that shape its journey.",
-  "image": "https://novumworld.com/images/cast-your-vote-support-maui-kuia-estate-in-the-spotlight-en.jpg",
-  "datePublished": "2026-06-16T13:04:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +80,3 @@ The narrative surrounding premium chocolate is evolving, and as we savor the pro
     }
   }
 }
-</script>

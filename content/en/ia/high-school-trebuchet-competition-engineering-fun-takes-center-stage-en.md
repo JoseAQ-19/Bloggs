@@ -1,16 +1,20 @@
 ---
-title: "Only 31% of High School Graduates Prepare for STEM: Why Trebuchet Competitions Are Failing"
-date: 2026-04-11T11:36:21
+title: 'Only 31% of High School Graduates Prepare for STEM: Why Trebuchet Competitions
+  Are Failing'
+date: 2026-04-11 11:36:21
 draft: false
-description: "Discover why only 31% of high school graduates are ready for STEM careers and how trebuchet competitions may be missing the mark in inspiring students."
-featured_image: "/images/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en.jpg"
-slug: "high-school-trebuchet-competition-engineering-fun-takes-center-stage-en"
-canonical: "https://novumworld.com/ia/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "928e2671-de2d-ea16-cb3c-55abc7a5fd76"
+description: Discover why only 31% of high school graduates are ready for STEM careers
+  and how trebuchet competitions may be missing the mark in inspiring students.
+featured_image: /images/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en.jpg
+slug: high-school-trebuchet-competition-engineering-fun-takes-center-stage-en
+canonical: https://novumworld.com/ia/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 928e2671-de2d-ea16-cb3c-55abc7a5fd76
 ---
 
 ![Only 31% of High School Graduates Prepare for STEM: Why Trebuchet Competitions Are Failing](/images/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en.jpg)
@@ -62,28 +66,12 @@ Until we fix the foundational math deficit, handing students AI tools for engine
 - [jpl.nasa.gov](https://jpl.nasa.gov/news/students-aim-high-at-nasa-jpl-candy-toss-competition)
 - [eric.ed.gov](https://eric.ed.gov/?id=EJ1074875)
 
-
 ## Related Articles
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [The Controversial Truth Behind Iowa's 2026 IHSAA Championship Officiating Crisis](/ia/iowas-2026-ihsaa-state-championship-what-to-expect-en/)
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Only 31% of High School Graduates Prepare for STEM: Why Trebuchet Competitions Are Failing",
-  "description": "Discover why only 31% of high school graduates are ready for STEM careers and how trebuchet competitions may be missing the mark in inspiring students.",
-  "image": "https://novumworld.com/images/high-school-trebuchet-competition-engineering-fun-takes-center-stage-en.jpg",
-  "datePublished": "2026-04-11T11:36:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +81,3 @@ Until we fix the foundational math deficit, handing students AI tools for engine
     }
   }
 }
-</script>

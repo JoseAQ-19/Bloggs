@@ -1,16 +1,20 @@
 ---
-title: "The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece"
-date: 2026-04-22T23:46:19
+title: 'The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical
+  Masterpiece'
+date: 2026-04-22 23:46:19
 draft: false
-description: "Discover how five Hollywood legends reimagine the epic tale of 'The Odyssey' into a captivating musical experience that transforms storytelling forever."
-featured_image: "/images/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en.jpg"
-slug: "the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en"
-canonical: "https://novumworld.com/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "5a621434-0b84-baec-4397-96f6dc57955d"
+description: Discover how five Hollywood legends reimagine the epic tale of 'The Odyssey'
+  into a captivating musical experience that transforms storytelling forever.
+featured_image: /images/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en.jpg
+slug: the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en
+canonical: https://novumworld.com/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 5a621434-0b84-baec-4397-96f6dc57955d
 ---
 
 ![The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/images/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en.jpg)
@@ -103,22 +107,7 @@ The bubble of virtual production will likely burst in the next six months for st
 - [Temu''s Data Privacy Nightmare Expands: Now They Know Wh](/viral/temu-grocery-expansion-en/)
 - [Therian Identity Faces $78 Billion Crisis: AI](/viral/therian-culture-ai-disinformation-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece",
-  "description": "Discover how five Hollywood legends reimagine the epic tale of 'The Odyssey' into a captivating musical experience that transforms storytelling forever.",
-  "image": "https://novumworld.com/images/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en.jpg",
-  "datePublished": "2026-04-22T23:46:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -128,4 +117,3 @@ The bubble of virtual production will likely burst in the next six months for st
     }
   }
 }
-</script>

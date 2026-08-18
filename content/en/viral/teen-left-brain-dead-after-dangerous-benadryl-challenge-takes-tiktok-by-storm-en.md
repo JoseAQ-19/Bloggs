@@ -1,16 +1,19 @@
 ---
-title: "The Dark Truth Behind TikTok's Benadryl Challenge: One Teen's Tragic Fate"
-date: 2026-06-16T22:41:14
+title: 'The Dark Truth Behind TikTok''s Benadryl Challenge: One Teen''s Tragic Fate'
+date: 2026-06-16 22:41:14
 draft: false
-description: "Discover the shocking reality of TikTok's Benadryl Challenge and learn about one teen's tragic fate. Understand the risks and consequences of viral trends."
-featured_image: "/images/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en.jpg"
-slug: "teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en"
-canonical: "https://novumworld.com/viral/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "f75ebd9d-5da6-28c0-8f08-3c12235c58a9"
+description: Discover the shocking reality of TikTok's Benadryl Challenge and learn
+  about one teen's tragic fate. Understand the risks and consequences of viral trends.
+featured_image: /images/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en.jpg
+slug: teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en
+canonical: https://novumworld.com/viral/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: f75ebd9d-5da6-28c0-8f08-3c12235c58a9
 ---
 
 ![The Dark Truth Behind TikTok's Benadryl Challenge: One Teen's Tragic Fate](/images/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en.jpg)
@@ -64,28 +67,12 @@ The tragic story of the Oklahoma girl illustrates that the risks of such trends 
 - [news.google.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTJ6MS0xRlJZZFduN1daby1UQmwxS2VWOEhLdlREdHV4QktvYTh5dFRSMk16bkh1ZFEtMDBEUnZ3elFZMlBQNlVCYWNaUFJHb0hISTRTeVhoNkFpZmg1VmlPZk5mR25rSW9BU3BEWUZYQnNKY2N2aHpQME9seXV4YkMySThpQjJGRWItWi05Q1JYbHRmZFhDSkYweHJwd3ZRc19nRTJ30gGrAUFVX3lxTE00eWpNWVdvaEx5VnF6VVBZSTVsMjNEbzBRVlZQSmR4bnROSW1SY09KMUdzdFNXQnZqYTJyQkVyMjhYYkdDbjJTQ0VfY2YtUlhmZjdZMUVNd1lUY2lxeDhEZl8tRXhrU3hBeGtacGJ2Q2N5OVBBZWlBMzNBM25YR05WNms4ZnJWdlVtcVNaX0c3bjZjQjFzQk01ejQ4a19TdEg4SE1GQ29BWjNoSQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakd4MUNxUnFHRzB5LWdrcEZCbzl3WDhuSTRVaWhDTGszV1oxRVNlekQ1Q3RZY0dZU0dHVFdCOS04OUFpZ3BWU3dNbHA4eTR2c3BGMDI0VWNzUlFGWEstVl9neVhKYTVOSmRIc0l0R20tMVZVNVlhamU0czNFdUxtMUJLd0ZnclB6ZW05OTVrRXFjTGNseWt4dGhMR3c0cEhaRmtzQUdCelHSAa4BQVVfeXFMUGN0YUpsSnU3WEdXZWRweDZYSy1pYXo2aDU1Z3FmeEZIMTR6ZExwM21hS3lwOGxic0hiaDhCLUl0VExia0RucjBzV0dsYzRYS25fZ1BkUFZsSzRrNDFQOHZZVnU2TmQ4LXY2Q1llNC1Zd1lobVZ3ZnlVMDhhWDVKWUVWTWprNWdaX0ZMZXZjLTMtcTRaWk04Nm5zYVhyblVSdEVXbmlTSGppZmpiLWZB?oc=5)
 
-
 ## Related Articles
 - [Tennessee Volunteers Claim 5th Title While UmpCast Leaves Fans Furious And Frustrated](/viral/the-meme-showdown-how-the-sec-baseball-tournament-captured-the-internets-attention-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [Therian Identity Faces $78 Billion Crisis: AI](/viral/therian-culture-ai-disinformation-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Dark Truth Behind TikTok's Benadryl Challenge: One Teen's Tragic Fate",
-  "description": "Discover the shocking reality of TikTok's Benadryl Challenge and learn about one teen's tragic fate. Understand the risks and consequences of viral trends.",
-  "image": "https://novumworld.com/images/teen-left-brain-dead-after-dangerous-benadryl-challenge-takes-tiktok-by-storm-en.jpg",
-  "datePublished": "2026-06-16T22:41:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +82,3 @@ The tragic story of the Oklahoma girl illustrates that the risks of such trends 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "Coinbase Just Made History: First US Exchange to Launch Crypto Perpetual Contracts"
-date: 2026-05-31T16:39:39
+title: 'Coinbase Just Made History: First US Exchange to Launch Crypto Perpetual Contracts'
+date: 2026-05-31 16:39:39
 draft: false
-description: "Coinbase has made history by becoming the first US exchange to launch crypto perpetual contracts, reshaping the future of digital asset trading."
-featured_image: "/images/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en.jpg"
-slug: "coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en"
-canonical: "https://novumworld.com/crypto/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "51c49e0a-65c3-5acf-6bb1-6f7c6e6c743c"
+description: Coinbase has made history by becoming the first US exchange to launch
+  crypto perpetual contracts, reshaping the future of digital asset trading.
+featured_image: /images/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en.jpg
+slug: coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en
+canonical: https://novumworld.com/crypto/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 51c49e0a-65c3-5acf-6bb1-6f7c6e6c743c
 ---
 
 ![Coinbase Just Made History: First US Exchange to Launch Crypto Perpetual Contracts](/images/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en.jpg)
@@ -74,12 +77,10 @@ Coinbase's launch of crypto perpetual contracts represents a significant milesto
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzF3QVRVU3Z5TnJXenI1V1k2ZlU2SVhhTjFmOFFkS3IxYXhKYXpySEk5TjV0T0E3T3VuRUcwQm9KUHJoejBWVWhtMmdxMHRtMTV1MmhrbW5mV1ljdzh6Q2RFQnlHZjlDUS1YTm1uM2l4Mjd1djN6bnljYVE4cVRkR0w2NExGU2NCSDJkRVMwbTJBTmNyWlNYVzIydy1uLTJrUTJOTjRtTHlsaU5qRVFMNzNR?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUc2UnlIbWZrcnE3UHVxVzJhdWlmSlVTa0JSTzMyV1pUQnFVUUlzU05rc0dLYnNqSHZVYXltT3Z1eThUdWJEb1hCQ0tkWUw0cVFMdW5zeXVtSFBydnVveV9qeDY1U194WXZCUmJ0cFdBSERvcG53WmlWZzN0NVpmczNzQ1pmRmxSUW5oakRqMTJ5eUNaMnpZczU3aVBNUmlJTzQyUWlqZ19ybTRKUDhjWnlCZ3M5elUwdUNZ?oc=5)
 
-
 ## Related Articles
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -89,18 +90,7 @@ Coinbase's launch of crypto perpetual contracts represents a significant milesto
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Coinbase Just Made History: First US Exchange to Launch Crypto Perpetual Contracts",
-  "description": "Coinbase has made history by becoming the first US exchange to launch crypto perpetual contracts, reshaping the future of digital asset trading.",
-  "image": "https://novumworld.com/images/coinbase-makes-history-as-first-us-exchange-to-launch-crypto-perpetual-contracts-en.jpg",
-  "datePublished": "2026-05-31T16:39:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +100,3 @@ Coinbase's launch of crypto perpetual contracts represents a significant milesto
     }
   }
 }
-</script>

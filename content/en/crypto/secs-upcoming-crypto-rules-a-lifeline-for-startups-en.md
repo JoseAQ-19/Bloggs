@@ -80,7 +80,6 @@ Investors should approach the situation with caution, weighing the potential ben
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 - [The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves](/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -89,18 +88,7 @@ Investors should approach the situation with caution, weighing the potential ben
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "SEC’s Shocking Crypto Rules Could Save 5,000 Startups From Collapse",
-  "description": "Discover how the SEC's unexpected crypto regulations could rescue 5,000 startups from potential collapse and reshape the future of digital finance.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-07T18:04:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ Investors should approach the situation with caution, weighing the potential ben
     }
   }
 }
-</script>

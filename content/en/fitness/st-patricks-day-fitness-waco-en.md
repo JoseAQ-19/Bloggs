@@ -29,8 +29,6 @@ Waco fitness influencers are betting against the staying power of the Shamrock S
 * US consumers planned to spend a record $7.2 billion on St. Patrick's Day celebrations in 2024, indicating a significant market, despite growing health awareness and the body sculpting market estimated at USD 8.92 billion in 2025.
 * Prioritizing evidence-based nutrition and fitness strategies is crucial for those pursuing body recomposition, contrasting with the fleeting indulgence of high-sugar seasonal treats.
 
-
-
 {{< adsterra_native >}}
 
 ## The $8 Billion Indulgence vs. The $9 Billion Body: McDonald's Shamrock Shake Under Fire
@@ -120,6 +118,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Forget Weights: Xponential Fitness Doesn''t Want You To Know This Hypertrophy](/en/fitness/bodyweight-isometrics-hypertrophy-en/)
 - [The Dark Side Of Fitness: 46 Deaths Uncovered Among Bodybuilders Nobody Talks](/en/fitness/fitness-influencer-deaths-steroids-cardiac-arrest-en/)
 - [Leucine''s Lie: The Supplement Industry Is Killing Your Arteries, New Study](/en/fitness/leucine-atherosclerosis-risk-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

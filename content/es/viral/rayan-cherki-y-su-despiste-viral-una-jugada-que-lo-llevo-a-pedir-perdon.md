@@ -23,8 +23,6 @@ type: viral
 * A pesar de ser considerado uno de los talentos más prometedores, su inconsistencia ha sido un tema recurrente en la crítica, según expertos como Christophe Dugarry. 
 * La percepción pública y el manejo de su imagen pueden afectar su desarrollo en el Manchester City y su carrera futura. 
 
-
-
 {{< adsterra_native >}}
 
 ## La controversia de la jugada viral de Cherki
@@ -95,26 +93,10 @@ Finalmente, la cultura del castigo y la tolerancia en el deporte profesional ref
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8700599/)
 - [news.google.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjJTNWd3X0JsdEVoOExMZ1k0Wk5LMUNBSnZXbzlpdTNQS1lqT2c2UGNOSmp1QmhYUGhrVlAwQ281SW5mSkx0dHFqZ0RlNE5kdVlMT0RwbnAwdWRWX0NwbHh4ZWU3eHQtNjBJZWRPWG1IMWVLNFd3ZWt1bVhYTWRKalVCbGt3SC03RlhRdHdQV1pfZ0tpSTdfYWwtdWZYdFpGNHJ6NWZFcGNJZWRDaExwc2hJLXVzTmhZNUU3eTRKY3UwVGhMSmp1UXRFYlloaUh5Mnh4NnFDaWw2bGFPWFJJbkdTeXVHM2fSAfsBQVVfeXFMUFJzUS1RRE54MXU2UHg5djJYQzV6ODNYeDNRbENBZGdHd2RDNG03N0htLVV1SHA0Mll4ZjRQYVdjY1lCbGFKd2Z5aEowSk5fWUIyWmxUblZUbHp1bm55cVFERlpac2FzRDFSbTlrUFVZalZjbFlEQVR3R3J5T0VNbXRnWVdoWU9oSmtleHhkRENkSl93Y011NWh1OGxJcmpURV8xVmVWZF9kZ19vNmtqZ244WHUyLU1SSEx5Rnc2ZkZzU29VaEVycFYwc0hPNnlKSVU5ZWZRZ0s2QnBUVGNSVnlCLXcwQklrUGdSSGhYZEtYOXNqSUN4d3hvdVE?oc=5)
 
-
 ## Artículos relacionados
 - [Grok Desata el I](/es/viral/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Rayan Cherki Se Disculpa Tras Su Jugada Viral Que Provocó Críticas Intensas",
-  "description": "Rayan Cherki se disculpa por su jugada viral que generó críticas. Descubre cómo manejó la situación y la reacción de sus seguidores en este artículo.",
-  "image": "https://novumworld.com/images/rayan-cherki-y-su-despiste-viral-una-jugada-que-lo-llevo-a-pedir-perdon.jpg",
-  "datePublished": "2026-04-05T08:18:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +106,3 @@ Finalmente, la cultura del castigo y la tolerancia en el deporte profesional ref
     }
   }
 }
-</script>

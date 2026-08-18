@@ -1,16 +1,20 @@
 ---
-title: "2.9 Million Subscribers: How Ben Gleib's Good Night Disrupts Traditional Late Night"
-date: 2026-05-25T20:51:18
+title: '2.9 Million Subscribers: How Ben Gleib''s Good Night Disrupts Traditional
+  Late Night'
+date: 2026-05-25 20:51:18
 draft: false
-description: "Discover how Ben Gleib's 'Good Night' captivates 2.9 million subscribers, redefining late-night entertainment with fresh humor and engaging content."
-featured_image: "/images/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en.jpg"
-slug: "ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en"
-canonical: "https://novumworld.com/youtube/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "842dbff8-4e01-ec2b-155f-07c74e844767"
+description: Discover how Ben Gleib's 'Good Night' captivates 2.9 million subscribers,
+  redefining late-night entertainment with fresh humor and engaging content.
+featured_image: /images/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en.jpg
+slug: ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en
+canonical: https://novumworld.com/youtube/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 842dbff8-4e01-ec2b-155f-07c74e844767
 ---
 
 ![2.9 Million Subscribers: How Ben Gleib's Good Night Disrupts Traditional Late Night](/images/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en.jpg)
@@ -59,28 +63,12 @@ The late-night landscape is irreversibly shifting from broadcast to digital as y
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE9VTG1idEw0cXVDR0tORU5PWnNtX2FZam5sTEpLR29TQmR1ZWl6MFhRMjRfd0JhUHlFeHZiaDlESW92dXJQZThVdkluc3lwZFBaUGc1TExDUXpLampZNklyVzNEU0NDMFhMMVkzcEJjVTc4XzVzWHhDRVY5MEg?oc=5)
 
-
 ## Related Articles
 - [YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored](/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/)
 - [YouTube's Classroom Revolution: 7 Shocking Ways Video Learning Is Transforming Education Forever](/youtube/youtubes-classroom-revolution-how-video-learning-is-redefining-education-en/)
 - [YouTube TV’s Subscriber Tsunami:](/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "2.9 Million Subscribers: How Ben Gleib's Good Night Disrupts Traditional Late Night",
-  "description": "Discover how Ben Gleib's 'Good Night' captivates 2.9 million subscribers, redefining late-night entertainment with fresh humor and engaging content.",
-  "image": "https://novumworld.com/images/ben-gleib-reinvents-late-night-why-his-youtube-show-good-night-is-a-must-watch-en.jpg",
-  "datePublished": "2026-05-25T20:51:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -90,4 +78,3 @@ The late-night landscape is irreversibly shifting from broadcast to digital as y
     }
   }
 }
-</script>

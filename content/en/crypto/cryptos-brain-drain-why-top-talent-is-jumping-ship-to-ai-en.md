@@ -70,12 +70,10 @@ In summary, the brain drain witnessed at Meta serves as a cautionary tale for te
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUNzSXlZWnA3UVR1blZSaHMteEc5bzRUQzlVUF9FOHhfMWJzOTZXZmJfYmhXNFVQcTc4UG5ncGJieDU4SzNndnNlTDJWQTZGd20yMjhOTHpLYlRYaXpKZEV1R3l1ZklScjQtb0lLTnB2OXJVa2dyeVRWbGJCSTNSbWpDSjZCU0NZU0hSa1IyTG5rajZlY1BmdzFOeWc?oc=5)
 
-
 ## Related Articles
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
 - [Bitcoin Dominance Surges As Experts Predict $250K By 2027 And Nobody Noticed](/crypto/why-is-the-crypto-market-surging-today-unpacking-the-latest-trends-en/)
 - [Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -85,18 +83,7 @@ In summary, the brain drain witnessed at Meta serves as a cautionary tale for te
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto's Brain Drain: 3 Major Meta AI Departures That Shocked The Industry",
-  "description": "Explore the surprising departures of key AI talent in crypto, revealing the impact on innovation and the future of the industry in this insightful.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-18T18:28:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +93,3 @@ In summary, the brain drain witnessed at Meta serves as a cautionary tale for te
     }
   }
 }
-</script>

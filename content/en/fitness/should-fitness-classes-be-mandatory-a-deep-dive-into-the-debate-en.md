@@ -1,16 +1,20 @@
 ---
-title: "75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE"
-date: 2026-04-15T06:05:51
+title: '75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory
+  PE'
+date: 2026-04-15 06:05:51
 draft: false
-description: "Discover the alarming truth about US youth inactivity and the role of compulsory PE in promoting a healthier, more active lifestyle for future generations."
-featured_image: "/images/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en.jpg"
-slug: "should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en"
-canonical: "https://novumworld.com/fitness/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "4d538725-7408-6ac5-9c35-70e1ee7bfb81"
+description: Discover the alarming truth about US youth inactivity and the role of
+  compulsory PE in promoting a healthier, more active lifestyle for future generations.
+featured_image: /images/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en.jpg
+slug: should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en
+canonical: https://novumworld.com/fitness/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 4d538725-7408-6ac5-9c35-70e1ee7bfb81
 ---
 
 ![75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE](/images/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en.jpg)
@@ -65,28 +69,12 @@ In summary, the current landscape of compulsory physical education in the U.S. i
 - [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE5DSVJEMUtOTy0zWFUzS1dBc3dPZ0N3bThrT3pwVFRMMFFiT0lkYWFRSWprTWU4UUFvOFF6aW5WcGs3MU5wS0Rsd3VqUXNTOENqYlctZFYySUtiVEJfZlRxak1QbTNVNDZlemFIbw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE5FVG4xTy1VdGxuT3lDY1k1cHlSTnpBbTBJUWR5UmxWbkJXQURXeWFoNG1iRnRZSjlNSWRRTkNYdktVX2J3a2FFbVgxMk1ZSXg0enJOeWlGNk53UkU4YmRKd25Mbmtld2hTNlkxR0NHTF9HOUx6Nmc?oc=5)
 
-
 ## Related Articles
 - [30% Of College Athletes Quit: The Hidden Crisis Behind Runnin' Bulldogs' Strength Training](/fitness/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en/)
 - [The Shocking Truth A](/fitness/my-top-picks-the-best-fitness-trackers-i-tested-last-year-en/)
 - [94% Adherence: The Shocking Truth About Digital Cardiac Rehabilitation's Success](/fitness/unlocking-heart-health-the-power-of-combined-training-for-heart-failure-patients-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE",
-  "description": "Discover the alarming truth about US youth inactivity and the role of compulsory PE in promoting a healthier, more active lifestyle for future generations.",
-  "image": "https://novumworld.com/images/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en.jpg",
-  "datePublished": "2026-04-15T06:05:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +84,3 @@ In summary, the current landscape of compulsory physical education in the U.S. i
     }
   }
 }
-</script>

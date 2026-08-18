@@ -31,8 +31,6 @@ type: youtube
 * Forced confession videos of political prisoners Raman Pratasevich and Sofia Sapega ran as paid YouTube ads, generating 139,000 and 191,000 views respectively before removal.
 * Pro-government Telegram channels filled the void, producing 433 disinformation posts about the Ukraine war that garnered over 10 million views.
 
-
-
 {{< adsterra_native >}}
 
 ## The Silent Purge of State Media
@@ -80,6 +78,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [DaVinci Resolve Audio Dropouts: The Real Culprits & Fixes](/en/youtube/davinci-resolve-audio-dropouts-fix-en/)
 - [YouTube''s AI Crackdown: 83% Of Americans Terrified By Election Deepfakes](/en/youtube/youtube-deepfake-crackdown-politicians-journalists-en/)
 - [YouTube''s Shocking $170 Million COPPA Violation Exposed: Kids Are Paying](/en/youtube/youtube-addiction-copa-algorithm-scandals-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

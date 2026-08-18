@@ -1,16 +1,19 @@
 ---
-title: "Hantavirus Alert: EPA's New Guidance Exposes 30% Fatality Rate Risk"
-date: 2026-05-21T22:33:45
+title: 'Hantavirus Alert: EPA''s New Guidance Exposes 30% Fatality Rate Risk'
+date: 2026-05-21 22:33:45
 draft: false
-description: "Discover the alarming 30% fatality risk of hantavirus as revealed by the EPA's new guidance. Stay informed and protect yourself and your loved ones."
-featured_image: "/images/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en.jpg"
-slug: "hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en"
-canonical: "https://novumworld.com/viral/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "f0b3c2d5-01c4-2273-a12c-87d2b6ac0e56"
+description: Discover the alarming 30% fatality risk of hantavirus as revealed by
+  the EPA's new guidance. Stay informed and protect yourself and your loved ones.
+featured_image: /images/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en.jpg
+slug: hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en
+canonical: https://novumworld.com/viral/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: f0b3c2d5-01c4-2273-a12c-87d2b6ac0e56
 ---
 
 ![Hantavirus Alert: EPA's New Guidance Exposes 30% Fatality Rate Risk](/images/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en.jpg)
@@ -80,28 +83,12 @@ In an era where emerging infectious diseases pose increasing threats to public h
 - [hantaradar.com](https://hantaradar.com/rodent-control/)
 - [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8834783/)
 
-
 ## Related Articles
 - [Temu''s Data Privacy Nightmare Expands: Now They Know Wh](/viral/temu-grocery-expansion-en/)
 - [The Shocking Truth About NeeDoh: 65% Of Parents Are Ignoring Hidden Risks](/viral/the-needoh-craze-why-this-must-have-toy-is-flying-off-shelves-en/)
 - [The Shocking Truth: 2.6 Million Tons of Snack Tin Waste Ignored by Consumers](/viral/why-tiny-snack-tins-are-causing-a-big-stir-online-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Hantavirus Alert: EPA's New Guidance Exposes 30% Fatality Rate Risk",
-  "description": "Discover the alarming 30% fatality risk of hantavirus as revealed by the EPA's new guidance. Stay informed and protect yourself and your loved ones.",
-  "image": "https://novumworld.com/images/hantavirus-alert-epas-new-emergency-guidance-sparks-concern-en.jpg",
-  "datePublished": "2026-05-21T22:33:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +98,3 @@ In an era where emerging infectious diseases pose increasing threats to public h
     }
   }
 }
-</script>

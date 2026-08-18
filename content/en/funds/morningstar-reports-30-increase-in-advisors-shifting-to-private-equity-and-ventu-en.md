@@ -1,14 +1,18 @@
 ---
-title: "Morningstar Reports 30% Increase in Advisors Shifting to Private Equity and Venture Capital"
-date: 2026-06-17T10:06:40
+title: Morningstar Reports 30% Increase in Advisors Shifting to Private Equity and
+  Venture Capital
+date: 2026-06-17 10:06:40
 draft: false
-description: "Discover how Morningstar's report reveals a 30% rise in advisors pivoting to private equity and venture capital, reshaping investment strategies."
-featured_image: "/images/morningstar-reports-30-increase-in-advisors-shifting-to-private-equity-and-ventu-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "57231060-484e-8e40-efb8-39cbe3a72324"
+description: Discover how Morningstar's report reveals a 30% rise in advisors pivoting
+  to private equity and venture capital, reshaping investment strategies.
+featured_image: /images/morningstar-reports-30-increase-in-advisors-shifting-to-private-equity-and-ventu-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 57231060-484e-8e40-efb8-39cbe3a72324
 ---
 
 ![Morningstar Reports 30% Increase in Advisors Shifting to Private Equity and Venture Capital](/images/morningstar-reports-30-increase-in-advisors-shifting-to-private-equity-and-ventu-en.jpg)
@@ -20,8 +24,6 @@ Advisors are increasingly pivoting towards private equity and venture capital, w
 * [$600 billion in semi-liquid funds with high fees — CNMV]  
 
 The trend towards alternative investments has been underscored by Morningstar's recent findings, which indicate that a growing number of financial advisors are gravitating towards private equity and venture capital as part of their asset allocation strategies. This shift reflects a broader recognition of the potential for higher returns in alternative investments amid a landscape marked by volatility in traditional asset classes.
-
-
 
 {{< adsterra_native >}}
 
@@ -76,26 +78,14 @@ The future outlook for private equity remains positive, with expectations of con
 ### How do performance fees work in private equity?
 Performance fees in private equity typically involve a "carry" structure, where managers earn a percentage of profits above a certain threshold, commonly around 20% of profits after returning initial capital to investors.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Morningstar Reports 30% Increase in Advisors Shifting to Private Equity and Venture Capital",
-  "datePublished": "2023-10-25",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTJob1Q5SVg1NlpDYmV0cFFFREVlTW1kRXdWMmZvQmJCV2NzVTZrc3pNcmtFQjk5NXR1ZXhxbzhCZFVJZlZYNGVXQ3lfRENHejludXk4alNrOGRqcUNKS3VZSzNaTWdKdWd0eWZzeFU0dGdzbWhCazF1Q196czRGeVFqbExmV0tFNXhwMmtrWUZobWhyUmRBQzBveDA1aHczWG5iMlgyZkRvN3dUWkFGbGRwZVliSGktMUxLS0N5bzcxa3hNWUdBdFZR?oc=5",
   "articleBody": "Advisors are increasingly pivoting towards private equity and venture capital, with a notable 30% increase in allocations reported over the past year. [30% increase in advisors shifting to private equity and venture capital — Morningstar] [Private equity market size projected to reach $6 trillion by 2025 — SEC] [$600 billion in semi-liquid funds with high fees — CNMV] The trend towards alternative investments has been underscored by Morningstar's recent findings..."
 }
-</script>
 
 ## Related Articles
 - [Q1 2026 Review: Bluerock Fund Delivers 8.75% Annualized Distribution Rate](/funds/q1-2026-review-bluerock-fund-delivers-875-annualized-distribution-rate-en/)
 - [Vanguard Slash](/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 - [XAEL-AI Enters U.S. Market, Builds on 30% Growth in China](/funds/xael-ai-enters-us-market-builds-on-30-growth-in-china-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

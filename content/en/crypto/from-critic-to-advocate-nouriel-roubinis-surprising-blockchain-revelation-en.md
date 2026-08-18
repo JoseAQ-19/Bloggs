@@ -1,16 +1,19 @@
 ---
-title: "Nouriel Roubini Shockingly Becomes Blockchain Advocate And The World Is Stunned"
-date: 2026-06-23T18:12:00
+title: Nouriel Roubini Shockingly Becomes Blockchain Advocate And The World Is Stunned
+date: 2026-06-23 18:12:00
 draft: false
-description: "Nouriel Roubini, once a blockchain critic, now champions the technology. Discover what led to his surprising shift and its implications for the future."
-featured_image: "/images/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en.jpg"
-slug: "from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en"
-canonical: "https://novumworld.com/crypto/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "d6fbe28e-b306-66d6-1bb0-484de070de9e"
+description: Nouriel Roubini, once a blockchain critic, now champions the technology.
+  Discover what led to his surprising shift and its implications for the future.
+featured_image: /images/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en.jpg
+slug: from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en
+canonical: https://novumworld.com/crypto/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: d6fbe28e-b306-66d6-1bb0-484de070de9e
 ---
 
 ![Nouriel Roubini Shockingly Becomes Blockchain Advocate And The World Is Stunned](/images/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en.jpg)
@@ -74,7 +77,6 @@ The evolving narrative surrounding blockchain technology warrants a vigilant app
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -83,18 +85,7 @@ The evolving narrative surrounding blockchain technology warrants a vigilant app
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Nouriel Roubini Shockingly Becomes Blockchain Advocate And The World Is Stunned",
-  "description": "Nouriel Roubini, once a blockchain critic, now champions the technology. Discover what led to his surprising shift and its implications for the future.",
-  "image": "https://novumworld.com/images/from-critic-to-advocate-nouriel-roubinis-surprising-blockchain-revelation-en.jpg",
-  "datePublished": "2026-06-23T18:12:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +95,3 @@ The evolving narrative surrounding blockchain technology warrants a vigilant app
     }
   }
 }
-</script>

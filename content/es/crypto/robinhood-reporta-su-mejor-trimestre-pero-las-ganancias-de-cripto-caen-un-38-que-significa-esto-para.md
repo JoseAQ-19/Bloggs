@@ -61,7 +61,6 @@ La situación actual de Robinhood y el mercado de criptomonedas en general son u
 - [Raoul Pal Revela Las Tres Blockchains Que Sobrevivieron Al Colapso Cripto Y Nadie Lo Notó](/es/crypto/raoul-pal-revela-las-tres-blockchains-que-resistieron-el-colapso-cripto/)
 - [Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -70,18 +69,7 @@ La situación actual de Robinhood y el mercado de criptomonedas en general son u
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Robinhood Celebró Su Mejor Trimestre Y Al Mismo Tiempo Las Cripto Se Desploman",
-  "description": "Robinhood reporta su mejor trimestre a pesar de la caída de las criptomonedas. Descubre cómo esto impacta a los inversores y el futuro del mercado.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-30T17:15:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ La situación actual de Robinhood y el mercado de criptomonedas en general son u
     }
   }
 }
-</script>

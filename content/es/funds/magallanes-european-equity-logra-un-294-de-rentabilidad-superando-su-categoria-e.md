@@ -1,14 +1,18 @@
 ---
-title: "Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos"
-date: 2026-04-05T06:29:26
+title: Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría
+  en 16,5 puntos
+date: 2026-04-05 06:29:26
 draft: false
-description: "Descubre cómo el fondo Magallanes European Equity alcanzó un 29,4% de rentabilidad, superando su categoría en 16,5 puntos. ¡Infórmate aquí!."
-featured_image: "/images/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "58007053-65be-a4ec-d46b-fad77bce9d86"
+description: Descubre cómo el fondo Magallanes European Equity alcanzó un 29,4% de
+  rentabilidad, superando su categoría en 16,5 puntos. ¡Infórmate aquí!.
+featured_image: /images/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 58007053-65be-a4ec-d46b-fad77bce9d86
 ---
 
 ![Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos](/images/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e.jpg)
@@ -80,34 +84,11 @@ Los expertos consideran que la gestión activa y la selección de empresas con c
 ### ¿Es recomendable invertir en este fondo en el actual contexto económico?
 La recomendación depende del perfil de riesgo del inversor y su disposición a monitorizar el entorno económico.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos",
-  "image": "https://example.com/image.jpg",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "articleBody": "El fondo Magallanes European Equity ha logrado un impresionante 29,4% de rentabilidad, superando su categoría en 16,5 puntos durante el último año..."
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cuál es la rentabilidad histórica de Magallanes European Equity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La rentabilidad histórica ha sido de un 29,4% en el último año y de 17,58% anualizada en los últimos tres años."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Cuáles son los principales riesgos asociados con este fondo?",
@@ -142,6 +123,5 @@ La recomendación depende del perfil de riesgo del inversor y su disposición a 
     }
   ]
 }
-</script>
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*

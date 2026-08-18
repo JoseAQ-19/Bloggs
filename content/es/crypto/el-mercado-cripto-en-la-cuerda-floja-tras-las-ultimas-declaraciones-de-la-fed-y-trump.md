@@ -1,16 +1,19 @@
 ---
-title: "El Mercado Cripto Se Desmorona: Las Alarmantes Palabras de Trump y la Fed"
-date: 2026-06-18T16:57:24
+title: 'El Mercado Cripto Se Desmorona: Las Alarmantes Palabras de Trump y la Fed'
+date: 2026-06-18 16:57:24
 draft: false
-description: "El mercado cripto enfrenta una crisis. Descubre las preocupantes declaraciones de Trump y la Fed que están generando incertidumbre en la economía."
-featured_image: "/images/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump.jpg"
-slug: "el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump"
-canonical: "https://novumworld.com/es/crypto/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "bc4e5c5a-35f7-6673-a2f5-cf44ce66189c"
+description: El mercado cripto enfrenta una crisis. Descubre las preocupantes declaraciones
+  de Trump y la Fed que están generando incertidumbre en la economía.
+featured_image: /images/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump.jpg
+slug: el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump
+canonical: https://novumworld.com/es/crypto/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: bc4e5c5a-35f7-6673-a2f5-cf44ce66189c
 ---
 
 ![El Mercado Cripto Se Desmorona: Las Alarmantes Palabras de Trump y la Fed](/images/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump.jpg)
@@ -60,12 +63,10 @@ Con el mercado de criptomonedas mostrando signos de vida, la clave será identif
 - [news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE1yZ2ZPdXFJX2hVVFd6bkZKZ25IVUxPbzAzYkRCclNxeTY3TzBUUE03VDZHYkVuWlgwbmdZaWQxb3lfa21uSHdkR2dGb1p4bTBENjFpeHMzOHFsWVNEV0lYWlVsT1NYN3pFb0FXZ3ROd3pYaERKc05pZ0c0S2w?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [Raoul Pal Revela Las Tres Blockchains Que Sobrevivieron Al Colapso Cripto Y Nadie Lo Notó](/es/crypto/raoul-pal-revela-las-tres-blockchains-que-resistieron-el-colapso-cripto/)
 - [¡Make.com en 2 HORAS! Domina la A](/es/crypto/makecom-en-2-horas-domina-la-automatizacion-en-2026-guia-definitiva-para-principiantes/)
 - [La Impactante Predicción de TRON (TRX): ¿Hasta Dónde Llegará en 2028?](/es/crypto/la-sorprendente-prediccion-del-precio-de-tron-trx-para-2026-2028-que-no-puedes-ignorar/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -75,18 +76,7 @@ Con el mercado de criptomonedas mostrando signos de vida, la clave será identif
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Mercado Cripto Se Desmorona: Las Alarmantes Palabras de Trump y la Fed",
-  "description": "El mercado cripto enfrenta una crisis. Descubre las preocupantes declaraciones de Trump y la Fed que están generando incertidumbre en la economía.",
-  "image": "https://novumworld.com/images/el-mercado-cripto-en-la-cuerda-floja-tras-las-ultimas-declaraciones-de-la-fed-y-trump.jpg",
-  "datePublished": "2026-06-18T16:57:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +86,3 @@ Con el mercado de criptomonedas mostrando signos de vida, la clave será identif
     }
   }
 }
-</script>

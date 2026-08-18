@@ -1,16 +1,20 @@
 ---
-title: "La Abogacía Española Regala 10 Licencias de IA Jurídica: ¡No Te Quedes Sin La Tuya!"
-date: 2026-06-04T10:43:11
+title: 'La Abogacía Española Regala 10 Licencias de IA Jurídica: ¡No Te Quedes Sin
+  La Tuya!'
+date: 2026-06-04 10:43:11
 draft: false
-description: "¡Descubre cómo puedes obtener una de las 10 licencias de IA jurídica que regala la Abogacía Española! No pierdas esta oportunidad única."
-featured_image: "/images/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya.jpg"
-slug: "abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya"
-canonical: "https://novumworld.com/es/ia/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "dcc56ee2-77b8-6649-8be6-48ec9b9b9708"
+description: ¡Descubre cómo puedes obtener una de las 10 licencias de IA jurídica
+  que regala la Abogacía Española! No pierdas esta oportunidad única.
+featured_image: /images/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya.jpg
+slug: abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya
+canonical: https://novumworld.com/es/ia/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: dcc56ee2-77b8-6649-8be6-48ec9b9b9708
 ---
 
 ![La Abogacía Española Regala 10 Licencias de IA Jurídica: ¡No Te Quedes Sin La Tuya!](/images/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya.jpg)
@@ -63,22 +67,7 @@ Recomiendo a los abogados que aprovechen esta oportunidad para solicitar una de 
 - [Silicon Valley](/es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d/)
 - [¡ALERTA! NTT DATA Revela La Amenaza Silenciosa Que Extinguirá Tu Saa](/es/ia/saas-extincion-masiva/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Abogacía Española Regala 10 Licencias de IA Jurídica: ¡No Te Quedes Sin La Tuya!",
-  "description": "¡Descubre cómo puedes obtener una de las 10 licencias de IA jurídica que regala la Abogacía Española! No pierdas esta oportunidad única.",
-  "image": "https://novumworld.com/images/abogacia-espanola-lanza-sorteos-de-licencias-de-ia-juridica-participa-ya.jpg",
-  "datePublished": "2026-06-04T10:43:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +77,3 @@ Recomiendo a los abogados que aprovechen esta oportunidad para solicitar una de 
     }
   }
 }
-</script>

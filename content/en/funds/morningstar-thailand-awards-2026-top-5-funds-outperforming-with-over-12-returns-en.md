@@ -28,8 +28,6 @@ type: funds
 * 24.3% annualized return — Bualuang Global Equity Fund **source** 18.9% 3-year annualized return — Krungsri Global Technology Equity Fund **source** 11.2% 5-year CAGR — SCB Global Income Fund **source*
 This year’s winners demonstrate the resilience of Thailand’s investment opportunities amidst global volatility. With a mix of domestic and international exposure, these mutual funds have balanced innovation-led growth with risk-adjusted returns. 
 
-
-
 {{< adsterra_native >}}
 
 ## Performance Analysis: Top Funds Dominating the Thai Market 
@@ -97,6 +95,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Awards 2026: FPA Competes with PIMCO and Vanguard in Thailand](/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en/)
 - [Morningstar''s 2026 Top Active ETF: OAKM''s Strategy Delivers Outperformance.](/en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en/)
 - [Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

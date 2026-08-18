@@ -1,16 +1,19 @@
 ---
-title: "71 Years of Inspiration: How ‘Bodies in Motion’ Changed Fitness Forever"
-date: 2026-06-11T06:59:07
+title: '71 Years of Inspiration: How ‘Bodies in Motion’ Changed Fitness Forever'
+date: 2026-06-11 06:59:07
 draft: false
-description: "Discover how 'Bodies in Motion' transformed the fitness landscape over 71 years, inspiring generations to embrace health and vitality through movement."
-featured_image: "/images/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en.jpg"
-slug: "fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en"
-canonical: "https://novumworld.com/fitness/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "e07a3475-2d87-d124-07fc-b229d5571528"
+description: Discover how 'Bodies in Motion' transformed the fitness landscape over
+  71 years, inspiring generations to embrace health and vitality through movement.
+featured_image: /images/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en.jpg
+slug: fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en
+canonical: https://novumworld.com/fitness/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: e07a3475-2d87-d124-07fc-b229d5571528
 ---
 
 ![71 Years of Inspiration: How ‘Bodies in Motion’ Changed Fitness Forever](/images/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en.jpg)
@@ -82,22 +85,7 @@ Readers should incorporate both aerobic and recovery practices into their fitnes
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "71 Years of Inspiration: How ‘Bodies in Motion’ Changed Fitness Forever",
-  "description": "Discover how 'Bodies in Motion' transformed the fitness landscape over 71 years, inspiring generations to embrace health and vitality through movement.",
-  "image": "https://novumworld.com/images/fitness-icon-bodies-in-motion-passes-away-at-71-a-legacy-remembered-en.jpg",
-  "datePublished": "2026-06-11T06:59:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +95,3 @@ Readers should incorporate both aerobic and recovery practices into their fitnes
     }
   }
 }
-</script>

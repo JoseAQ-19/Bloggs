@@ -1,16 +1,20 @@
 ---
-title: "ODU Student Launches National Nugget Craze Analysis That’s Shocking The Fast Food Industry"
-date: 2026-04-30T22:28:52
+title: ODU Student Launches National Nugget Craze Analysis That’s Shocking The Fast
+  Food Industry
+date: 2026-04-30 22:28:52
 draft: false
-description: "Discover how an ODU student's groundbreaking analysis of the national nugget craze is shaking up the fast food industry and changing the game forever."
-featured_image: "/images/from-campus-to-crave-odu-student-launches-national-nugget-craze-en.jpg"
-slug: "from-campus-to-crave-odu-student-launches-national-nugget-craze-en"
-canonical: "https://novumworld.com/viral/from-campus-to-crave-odu-student-launches-national-nugget-craze-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "967fc217-5804-dcfc-7d15-98fbc7b32fa2"
+description: Discover how an ODU student's groundbreaking analysis of the national
+  nugget craze is shaking up the fast food industry and changing the game forever.
+featured_image: /images/from-campus-to-crave-odu-student-launches-national-nugget-craze-en.jpg
+slug: from-campus-to-crave-odu-student-launches-national-nugget-craze-en
+canonical: https://novumworld.com/viral/from-campus-to-crave-odu-student-launches-national-nugget-craze-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 967fc217-5804-dcfc-7d15-98fbc7b32fa2
 ---
 
 ![ODU Student Launches National Nugget Craze Analysis That’s Shocking The Fast Food Industry](/images/from-campus-to-crave-odu-student-launches-national-nugget-craze-en.jpg)
@@ -75,22 +79,7 @@ As the nugget craze takes flight, it is time for the industry to rethink what’
 - [Shocking Ring Camera Footage Reveals Disturbing Threat: 'Where Is Your Daughter?](/viral/shocking-home-invasion-caught-on-ring-camera-where-is-your-daughter-en/)
 - [Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter](/viral/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "ODU Student Launches National Nugget Craze Analysis That’s Shocking The Fast Food Industry",
-  "description": "Discover how an ODU student's groundbreaking analysis of the national nugget craze is shaking up the fast food industry and changing the game forever.",
-  "image": "https://novumworld.com/images/from-campus-to-crave-odu-student-launches-national-nugget-craze-en.jpg",
-  "datePublished": "2026-04-30T22:28:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +89,3 @@ As the nugget craze takes flight, it is time for the industry to rethink what’
     }
   }
 }
-</script>

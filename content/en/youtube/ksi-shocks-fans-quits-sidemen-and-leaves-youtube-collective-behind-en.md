@@ -1,16 +1,19 @@
 ---
-title: "KSI Quits Sidemen: The Shocking Move That Could Change YouTube Forever"
-date: 2026-05-31T20:50:40
+title: 'KSI Quits Sidemen: The Shocking Move That Could Change YouTube Forever'
+date: 2026-05-31 20:50:40
 draft: false
-description: "KSI's unexpected exit from Sidemen has sent shockwaves through YouTube. Discover the reasons behind this major decision and its potential impact on."
-featured_image: "/images/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en.jpg"
-slug: "ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en"
-canonical: "https://novumworld.com/youtube/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "19add9f6-d820-7b51-60ed-95e35f0b0088"
+description: KSI's unexpected exit from Sidemen has sent shockwaves through YouTube.
+  Discover the reasons behind this major decision and its potential impact on.
+featured_image: /images/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en.jpg
+slug: ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en
+canonical: https://novumworld.com/youtube/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 19add9f6-d820-7b51-60ed-95e35f0b0088
 ---
 
 ![KSI Quits Sidemen: The Shocking Move That Could Change YouTube Forever](/images/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en.jpg)
@@ -71,28 +74,12 @@ This isn't just the end of an era—it's the beginning of a creator economy Darw
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2JUWV80dW9GM0RkaE9NQ2xPQkRwdjNQcWV3SVg2TGtuV3QtVW5KcC1yYk14anE0R0RQU2c4UlpwX05QRmtCdGh5RHhaM1E3dzFSVlBFZEUyaHJ3V3E0S0xfa3RDdVZFQVczWXBUdUNQQVBfbWVXemtnSXZoTTB6Ymd3Y3VYN3o0alpBdjFpTU01Uk9BMjdDckdwN3VPZS13U2RnOUNHSlZUZDFMMm0ya1FVVGZjVWJBRTRkNFpn0gHDAUFVX3lxTE9DT3BLWTRIQ2dMVlI5bGxPWEthNTN2dm54V05pNGhsLUEwanBOTmk2bmx3QU1LV19pXzRDZlgzZVNWdEFuMVU3WXJCLXlKT0hDMXJsM1BiUnRXdmliZVpPWTcyMzlSNXNVVTdxaS1hOFNsNnltSlQ3dXJUMWdUYW1PbHdKLUlQa3d5eHBXekpHTDJZZGdVNDgtaDMwU1R3R3lYYzN6VTFsd0RZXzFEaVNTZjdieUwyZWNQdlE1V0UtUFEtWQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTFBSaE11ZV9ZX1hPLXZFZTZzVF9pNVEzQ0tuLTFzMmo5VU11eS1JVFd6cEZjNjFrald6WDVqNFJjb2xHZGxObjAyMnpuVVg0cjdWZlByaEkzbm5OY2hQRmJiay1NRXRraGtlWmZrOTIxaS1NOTQ?oc=5)
 
-
 ## Related Articles
 - [YouTube Murder Alibi: Professor Fari](/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions](/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/)
 - [90% Of YouTube Creators Suffer From Burnout And Nobody Is Talking About It](/youtube/youtubes-original-stars-spill-secrets-what-they-wish-they-knew-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "KSI Quits Sidemen: The Shocking Move That Could Change YouTube Forever",
-  "description": "KSI's unexpected exit from Sidemen has sent shockwaves through YouTube. Discover the reasons behind this major decision and its potential impact on.",
-  "image": "https://novumworld.com/images/ksi-shocks-fans-quits-sidemen-and-leaves-youtube-collective-behind-en.jpg",
-  "datePublished": "2026-05-31T20:50:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +89,3 @@ This isn't just the end of an era—it's the beginning of a creator economy Darw
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "953 Episodios de Manager Tools: El Podcast Que Marca La Diferencia Entre Humanos Y IA"
-date: 2026-04-22T13:28:59
+title: '953 Episodios de Manager Tools: El Podcast Que Marca La Diferencia Entre Humanos
+  Y IA'
+date: 2026-04-22 13:28:59
 draft: false
-description: "Descubre cómo los 953 episodios de Manager Tools transforman la gestión y liderazgo, marcando la diferencia entre humanos e inteligencia artificial."
-featured_image: "/images/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai.jpg"
-slug: "manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai"
-canonical: "https://novumworld.com/es/tools/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "74fa3c9b-c846-25eb-e995-ddda9b7344ae"
+description: Descubre cómo los 953 episodios de Manager Tools transforman la gestión
+  y liderazgo, marcando la diferencia entre humanos e inteligencia artificial.
+featured_image: /images/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai.jpg
+slug: manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai
+canonical: https://novumworld.com/es/tools/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 74fa3c9b-c846-25eb-e995-ddda9b7344ae
 ---
 
 ![953 Episodios de Manager Tools: El Podcast Que Marca La Diferencia Entre Humanos Y IA](/images/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai.jpg)
@@ -68,22 +72,7 @@ La burbuja de la IA generativa está obligando al mercado a realizar una correcc
 - [Michael Wayne Jr. Vende Acciones de Drilling Tools por 6.000 Dólares y Sacude el Mercado](/es/tools/michael-wayne-jr-se-desprende-de-acciones-de-drilling-tools-por-6000-dolares-que-significa-para-el-m/)
 - [Etxanobe y Estudiantes de Durango Revelan 400,000 Empleos en Peligro por la IA](/es/tools/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "953 Episodios de Manager Tools: El Podcast Que Marca La Diferencia Entre Humanos Y IA",
-  "description": "Descubre cómo los 953 episodios de Manager Tools transforman la gestión y liderazgo, marcando la diferencia entre humanos e inteligencia artificial.",
-  "image": "https://novumworld.com/images/manager-tools-el-primer-podcast-certificado-que-marca-la-diferencia-entre-humanos-y-ai.jpg",
-  "datePublished": "2026-04-22T13:28:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +82,3 @@ La burbuja de la IA generativa está obligando al mercado a realizar una correcc
     }
   }
 }
-</script>

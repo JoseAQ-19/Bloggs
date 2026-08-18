@@ -29,8 +29,6 @@ Geopolitical instability is now a tradable asset class, it seems. Cryptoasset ou
 * Chainalysis estimates the Islamic Revolutionary Guard Corps (IRGC) accounts for over 50% of Iran's total cryptocurrency inflows, exceeding $3 billion last year.
 * The potential for insider trading and sanctions evasion raises serious concerns about the role of cryptocurrency in geopolitical events, requiring enhanced scrutiny.
 
-
-
 {{< adsterra_native >}}
 
 ## Foreknowledge or Coincidence? Iran Crypto Whale Exodus Sparks Airstrike Suspicions
@@ -77,6 +75,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [59% Of Institutions To Flood Crypto: Are You Ready For The 2025 Boom?](/en/crypto/crypto-institutional-adoption-2025-en/)
 - [OKX''s $6 Trillion Secret: How The Exchange Dodged SEC Scrutiny (For Now).](/en/crypto/okx-valuation-regulatory-litmus-test-en/)
 - [SEC Names Bitcoin, Ether, And Solana As Commodities: Market Shockwaves Ahead](/en/crypto/sec-declares-bitcoin-ether-and-solana-as-digital-commodities-what-it-means-for-the-crypto-landscape-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

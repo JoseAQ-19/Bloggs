@@ -1,16 +1,20 @@
 ---
-title: "La UE Revela Nuevas Directrices de IA: ¿Estamos Preparados Para el Control Gubernamental?"
-date: 2026-06-08T14:17:47
+title: 'La UE Revela Nuevas Directrices de IA: ¿Estamos Preparados Para el Control
+  Gubernamental?'
+date: 2026-06-08 14:17:47
 draft: false
-description: "La UE presenta nuevas directrices sobre IA, cuestionando nuestra preparación para el control gubernamental. ¿Cómo afectarán a la innovación y la."
-featured_image: "/images/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa.jpg"
-slug: "la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa"
-canonical: "https://novumworld.com/es/tools/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "d6f76906-a097-0afd-6e81-943ca65a2921"
+description: La UE presenta nuevas directrices sobre IA, cuestionando nuestra preparación
+  para el control gubernamental. ¿Cómo afectarán a la innovación y la.
+featured_image: /images/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa.jpg
+slug: la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa
+canonical: https://novumworld.com/es/tools/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: d6f76906-a097-0afd-6e81-943ca65a2921
 ---
 
 ![La UE Revela Nuevas Directrices de IA: ¿Estamos Preparados Para el Control Gubernamental?](/images/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa.jpg)
@@ -60,28 +64,12 @@ En conclusión, la Ley de IA de la UE representa un paso significativo en la reg
 - [news.google.com](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fVnRZNEstdnM1aEVOeTBXVDdfUFRXVjZ2U0FQZU9tSHFIblNjaHl2TGgxSFA4SE51cTBjWC1YTlJlV1RmSFB5OUt2d1A3c2Y2MkdLTVMwajN2M2didEkzUUp2bw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMihgJBVV95cUxOYlJBZkI3N3BMdXdzNERWZ3RHam01a0xITjJGTWVBOWw0VmNlc1ZobjhLbTVYT0F2cXFZTW94ejhLbDJTRUNhVzlOWXZnLS1PTUJ4d21sbktHLW50T0xxSnNDNGM3M1NOSXgybEpuUzFXRzEtejl0eEMwUzlkNVNjU3hzUjM3TlpLV3dxd3dtb0xaUTlSUkE2TDlTY2tZWGRGV1o2TVRTRS1PMEUyNDh2NE9teVBNUHozQVpsSTViTU1XR2dpVlFOUlJrY01Ec215QVpRM1dvT3Z4cWFwdVdhaXRtX0FYdnoxM0dRcmxNWktzYmJSd3VjQmctSmFNaUxnbG9qRHln?oc=5)
 
-
 ## Artículos relacionados
 - [El Asombroso Informe Financiero De Taparia Tools Que Deja A Todos Sin Palabras](/es/tools/taparia-tools-limited-revela-cifras-sorprendentes-en-su-ultimo-informe-financiero/)
 - [Turnkey Asegura 12,5 Millones: La Inversión Que Está Transformando El Sector Tecnológico Español](/es/tools/turnkey-asegura-125-millones-la-inversion-que-esta-revolucionando-el-sector-tecnologico/)
 - [La Actualización de PAM TOOLS Analysis de Saint-Gobain PAM Que Nadie Esperaba](/es/tools/saint-gobain-pam-revoluciona-la-eficiencia-tecnica-con-su-actualizacion-de-pam-tools/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La UE Revela Nuevas Directrices de IA: ¿Estamos Preparados Para el Control Gubernamental?",
-  "description": "La UE presenta nuevas directrices sobre IA, cuestionando nuestra preparación para el control gubernamental. ¿Cómo afectarán a la innovación y la.",
-  "image": "https://novumworld.com/images/la-ue-actualiza-sus-directrices-para-el-uso-responsable-de-herramientas-de-ia-generativa.jpg",
-  "datePublished": "2026-06-08T14:17:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ En conclusión, la Ley de IA de la UE representa un paso significativo en la reg
     }
   }
 }
-</script>

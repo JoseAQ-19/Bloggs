@@ -1,16 +1,19 @@
 ---
-title: "Tom Lee's Shocking Crypto Pick Could Skyrocket by 3,000% and Nobody is Talking"
-date: 2026-06-07T17:46:48
+title: Tom Lee's Shocking Crypto Pick Could Skyrocket by 3,000% and Nobody is Talking
+date: 2026-06-07 17:46:48
 draft: false
-description: "Discover Tom Lee's surprising crypto pick poised to soar by 3,000%. Uncover the insights fueling this bold prediction that few are discussing."
-featured_image: "/images/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en.jpg"
-slug: "tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en"
-canonical: "https://novumworld.com/crypto/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "0ad244be-f087-2f46-22f7-5f0a919a275d"
+description: Discover Tom Lee's surprising crypto pick poised to soar by 3,000%. Uncover
+  the insights fueling this bold prediction that few are discussing.
+featured_image: /images/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en.jpg
+slug: tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en
+canonical: https://novumworld.com/crypto/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 0ad244be-f087-2f46-22f7-5f0a919a275d
 ---
 
 ![Tom Lee's Shocking Crypto Pick Could Skyrocket by 3,000% and Nobody is Talking](/images/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en.jpg)
@@ -75,7 +78,6 @@ The crypto landscape rewards those who question consensus narratives and priorit
 - [The Disturbing Truth: Trump’s Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -84,18 +86,7 @@ The crypto landscape rewards those who question consensus narratives and priorit
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Tom Lee's Shocking Crypto Pick Could Skyrocket by 3,000% and Nobody is Talking",
-  "description": "Discover Tom Lee's surprising crypto pick poised to soar by 3,000%. Uncover the insights fueling this bold prediction that few are discussing.",
-  "image": "https://novumworld.com/images/tom-lees-unstoppable-crypto-pick-poised-for-a-3000-surge-en.jpg",
-  "datePublished": "2026-06-07T17:46:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +96,3 @@ The crypto landscape rewards those who question consensus narratives and priorit
     }
   }
 }
-</script>

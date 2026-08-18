@@ -31,8 +31,6 @@ In Thailand's evolving investment landscape, mutual funds are increasingly compe
 
 The recent Morningstar Awards for Investing Excellence 2026 has positioned FPA, alongside industry titans PIMCO and Vanguard, as formidable contenders in Thailand's mutual fund market. This competition is underscored by an influx of assets and investor interest that continues to reshape the investment landscape. As of October 2023, mutual fund assets in Thailand have shown significant growth, reaching new heights as investors seek diversified portfolios amid volatile market conditions. 
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Analysis of Funds
@@ -118,6 +116,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [S&P 500 Fund Showdown: VOO vs. SPY with a 0.03% Expense Ratio Difference](/en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en/)
 - [Hartford''s $850 Million Fund Downgrade: Morningstar Points to Subadvising](/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en/)
 - [5-Star Fund Balances Income and Volatility: Top Morningstar Pick for 2026](/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -78,12 +78,10 @@ This recent event serves as a potent reminder of the hidden complexities within 
 - [news.google.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQekY5cld2dmlZRnNOV0t0N2lKQ2pIRFJHdURpUFdJTkVhUlRETjBUb3lqY3B6cTlmX1lWaGNYRXFkOEhxRnBPOVBLZnRBQU5IRHRmUlVEbXhiRmlvS0RSUGFPc1RFT2pRTW8taW9ZMDRGV2JlSXJBbndlLWVHaDJ4Zw?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [W26 Crypto Just Launched: This Memecoin Is Set to Disrupt Football Forever](/crypto/w26-crypto-the-memecoin-kickstarting-footballs-next-big-play-en/)
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [The Shocking Truth Behind Trump’s Push for Crypto Clarity Act Legislation](/crypto/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -93,18 +91,7 @@ This recent event serves as a potent reminder of the hidden complexities within 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking $383 Million Bitcoin Transfer That Nobody Saw Coming",
-  "description": "Discover the unexpected $383 million Bitcoin transfer that caught everyone off guard. Dive into the details of this shocking financial event today!.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-16T17:26:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +101,3 @@ This recent event serves as a potent reminder of the hidden complexities within 
     }
   }
 }
-</script>

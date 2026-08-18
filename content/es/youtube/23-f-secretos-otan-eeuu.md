@@ -29,8 +29,6 @@ La verdad sobre el 23-F sigue enterrada bajo toneladas de secretismo, incluso de
 * Los documentos desclasificados revelan la participación de seis agentes del CESID en el golpe, lo que desafía la narrativa oficial.
 * La desclasificación obliga a los historiadores y al público a reevaluar los acontecimientos del 23-F y su impacto duradero en la democracia española, aunque el resumen del juicio permanece clasificado.
 
-
-
 {{< adsterra_native >}}
 
 ## Juan Carlos I en el punto de mira: El Rey "Rajaba" y la sombra de la conspiración.
@@ -80,6 +78,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [YouTube: El Imperio Prohibido Donde el 64% de Tus Hijos Ya Están Cautivos](/es/youtube/youtube-destrona-disney-rey-medios-digital/)
 - [Gastó 12.000€ para Ser un Border Collie: la Verdad Detrás de los Therians](/es/youtube/therians-espana-moda-viral-campana-odio/)
 - [YouTube Bloquea VPN y Cancela Cuentas: La Era de los Gorrones Llega a su Fin](/es/youtube/ver-youtube-sin-pagar-por-esto-se-esta-volviendo-casi-imposible/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -1,16 +1,19 @@
 ---
-title: "93% of CMOs Report ROI From Generative AI, But Ethical Risks Loom Large"
-date: 2026-05-03T19:30:56
+title: 93% of CMOs Report ROI From Generative AI, But Ethical Risks Loom Large
+date: 2026-05-03 19:30:56
 draft: false
-description: "Discover how 93% of CMOs see ROI from generative AI while navigating significant ethical risks. Explore insights and strategies for sustainable growth."
-featured_image: "/images/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en.jpg"
-slug: "the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en"
-canonical: "https://novumworld.com/youtube/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "50561470-09a9-b2f3-8908-a6a712de0f8c"
+description: Discover how 93% of CMOs see ROI from generative AI while navigating
+  significant ethical risks. Explore insights and strategies for sustainable growth.
+featured_image: /images/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en.jpg
+slug: the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en
+canonical: https://novumworld.com/youtube/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 50561470-09a9-b2f3-8908-a6a712de0f8c
 ---
 
 ![93% of CMOs Report ROI From Generative AI, But Ethical Risks Loom Large](/images/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en.jpg)
@@ -74,28 +77,12 @@ To thrive in this evolving landscape, companies need to adopt responsible AI pra
 - [news.google.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDBkbFFLMTlSaE9kZ0cyalRybEJnUF9yTjM1QTZVd2lBQnNkZjQyZ1BTM2stSzdYd2x5ZU1TRXEwWFdqMWFmYTgzR21zUWFUSFZGNWNSUzVQQl9DeFZrZEdNRktvV2xfb2ZxVEd5dmlfVlUxN1lTS2VSRzk4aWEyWmtKZ3JoY1diSWYzY1VXTDQ4ZnVaR2lXNnUtU3BETzRCdDQyUjR0V05tbE5wcXlSM3pqLXJuZ3FWbHNfbi1wWTRYN1B2MDcxc1JHTG1hTHdsOE5wRQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLU5NaDJ1cGN3VTVDU2lPN3BDWnlxaTlyWlJzQUZPWDNyWko1OW9NTWdhLW8zdmptRlJ3bHFvSlczWmdOSDRxdThndDNNOXA1SWZ6YmxncU1ER2VMeEU4NWM4OHlvQU1zcDFKRDN2VmNsSnhSN0tPSHZ5YWFOT0VxNWZmSjVPQzBoV1NQZHZkZ2NpZTlOSnA5cDNHVFJNblJTeWYyczFvOXZGMkM3WndvTWZwN1h6MjVGckFINTk4SjlySkQyNk9xTXJJOTZXVVNvWVRQeU54XzVYUDN6OWVr?oc=5)
 
-
 ## Related Articles
 - [The Hidden Truth Behind YouTube's Shorts Algorithm: 2 Billion Users Affected](/youtube/youtubes-game-changer-now-you-can-hide-shorts-on-mobile-en/)
 - [YouTube TV’s Subscriber Tsunami:](/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [YouTube Studio''s $36 Billion Proble](/youtube/youtube-studio-meltdown-creator-revenue-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "93% of CMOs Report ROI From Generative AI, But Ethical Risks Loom Large",
-  "description": "Discover how 93% of CMOs see ROI from generative AI while navigating significant ethical risks. Explore insights and strategies for sustainable growth.",
-  "image": "https://novumworld.com/images/the-future-of-advertising-why-brands-must-embrace-creation-in-an-ai-driven-world-en.jpg",
-  "datePublished": "2026-05-03T19:30:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +92,3 @@ To thrive in this evolving landscape, companies need to adopt responsible AI pra
     }
   }
 }
-</script>

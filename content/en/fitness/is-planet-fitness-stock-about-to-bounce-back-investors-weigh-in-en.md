@@ -33,8 +33,6 @@ type: fitness
 
 Wall Street's fixation on a 61.73% upside potential for Planet Fitness is a classic case of recency bias, ignoring the biomechanics of a business model that is showing signs of muscular atrophy. The average analyst price target of $116.67 suggests a massive rebound from the current doldrums, but this assumes the company can maintain growth rates that are already decelerating. The reality is that Planet Fitness is not a high-growth tech stock; it is a leveraged brick-and-mortar operator facing a hostile regulatory environment and a saturated market. The mechanism of its success—franchising and low-cost subscriptions—is now the very thing constraining its ability to navigate a high-interest-rate world.
 
-
-
 {{< adsterra_native >}}
 
 ## The Franchise Mechanism: A House of Cards?
@@ -98,6 +96,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Wall Street Bets Big On Recovery: Home Gyms To Explode To $22.5 Billion By](/en/fitness/home-gyms-recovery-zones-en/)
 - [The Hidden Risks of Jay Blahnik’s Departure: Fitness Tech Could Never Be the](/en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en/)
 - [The Hidden Truth Behind Virginia’s Fitness Influencer Animal Abuse Allegations](/en/fitness/virginia-fitness-influencer-animal-abuse-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

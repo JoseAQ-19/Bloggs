@@ -1,14 +1,18 @@
 ---
-title: "Indexa Capital y Inversión Independiente: desempeño en 2023 con un 12% de diferencia"
-date: 2026-05-12T07:32:53
+title: 'Indexa Capital y Inversión Independiente: desempeño en 2023 con un 12% de
+  diferencia'
+date: 2026-05-12 07:32:53
 draft: false
-description: "Descubre cómo Indexa Capital ha logrado un desempeño destacado en 2023, superando la inversión independiente en un 12%. Infórmate y optimiza tus finanzas."
-featured_image: "/images/indexa-capital-y-inversion-independiente-desempeno-en-2023-con-un-12-de-diferenc.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "dcecf1dc-a098-fa36-0870-1faa958bb9ac"
+description: Descubre cómo Indexa Capital ha logrado un desempeño destacado en 2023,
+  superando la inversión independiente en un 12%. Infórmate y optimiza tus finanzas.
+featured_image: /images/indexa-capital-y-inversion-independiente-desempeno-en-2023-con-un-12-de-diferenc.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: dcecf1dc-a098-fa36-0870-1faa958bb9ac
 ---
 
 ![Indexa Capital y Inversión Independiente: desempeño en 2023 con un 12% de diferencia](/images/indexa-capital-y-inversion-independiente-desempeno-en-2023-con-un-12-de-diferenc.jpg)
@@ -20,8 +24,6 @@ El desempeño de los fondos de inversión en 2023 ha revelado una diferencia de 
 * [El coste medio de los fondos de inversión en España es del 1,4% — CNMV]
 
 La discusión sobre si es más beneficioso invertir a través de una gestora como Indexa Capital o gestionar uno mismo las inversiones ha cobrado relevancia en el actual entorno económico. Indexa Capital, un referente en la gestión de inversiones pasivas en España, se ha enfrentado a un aumento de competidores que ofrecen alternativas y a un mayor interés por parte de los inversores en la gestión independiente. En este contexto, analizamos cómo se ha comportado Indexa Capital en comparación con las inversiones autogestionadas y qué implicaciones tiene esto para los inversores.
-
-
 
 {{< adsterra_native >}}
 
@@ -81,29 +83,8 @@ Los fondos indexados pueden no adaptarse rápidamente a cambios drásticos en el
 
 Es fundamental evaluar tu nivel de conocimiento financiero, el tiempo disponible para gestionar inversiones y tu tolerancia al riesgo.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Indexa Capital y Inversión Independiente: desempeño en 2023 con un 12% de diferencia",
-  "datePublished": "2023-10-01T00:00:00Z",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntity": {
-    "@type": "FAQPage",
-    "name": "Preguntas Frecuentes sobre Indexa Capital",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "¿Es rentable invertir con Indexa Capital?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Sí, varios estudios indican que Indexa Capital ha superado a muchas carteras autogestionadas en términos de rendimiento."
-        }
-      },
       {
         "@type": "Question",
         "name": "¿Qué comisiones cobra Indexa?",
@@ -139,13 +120,10 @@ Es fundamental evaluar tu nivel de conocimiento financiero, el tiempo disponible
     ]
   }
 }
-</script>
 
 ## Artículos relacionados
 - [MyInvestor incorpora iShares de BlackRock en su cartera moderada con un rendimiento del 8%](/es/funds/myinvestor-incorpora-ishares-de-blackrock-en-su-cartera-moderada-con-un-rendimie/)
 - [Morningstar estima un crecimiento del 5% en la banca española para 2026](/es/funds/morningstar-estima-un-crecimiento-del-5-en-la-banca-espanola-para-2026/)
 - [Magallanes European Equity logra un 29,4% de rentabilidad, superando su categoría en 16,5 puntos](/es/funds/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

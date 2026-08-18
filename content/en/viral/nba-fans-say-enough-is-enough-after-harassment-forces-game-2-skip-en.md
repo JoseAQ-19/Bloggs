@@ -1,16 +1,19 @@
 ---
-title: "NBA Fans Unite: 25,000 Voices Say “Enough Is Enough” After Harassment Incident"
-date: 2026-06-05T22:26:17
+title: 'NBA Fans Unite: 25,000 Voices Say “Enough Is Enough” After Harassment Incident'
+date: 2026-06-05 22:26:17
 draft: false
-description: "NBA fans are uniting as 25,000 voices demand change following a harassment incident. Discover their powerful call for action and community support."
-featured_image: "/images/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en.jpg"
-slug: "nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en"
-canonical: "https://novumworld.com/viral/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "485934c6-9c6c-2b30-9608-077585467cb3"
+description: NBA fans are uniting as 25,000 voices demand change following a harassment
+  incident. Discover their powerful call for action and community support.
+featured_image: /images/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en.jpg
+slug: nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en
+canonical: https://novumworld.com/viral/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 485934c6-9c6c-2b30-9608-077585467cb3
 ---
 
 ![NBA Fans Unite: 25,000 Voices Say “Enough Is Enough” After Harassment Incident](/images/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en.jpg)
@@ -77,22 +80,7 @@ The power dynamics within the league are shifting, and fans are no longer willin
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 - [The Dark Side Of Dot Cakes: TikTok's Algorithm Manipulation Exposed](/viral/the-sweet-sensation-why-dot-cakes-are-taking-tiktok-by-storm-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "NBA Fans Unite: 25,000 Voices Say “Enough Is Enough” After Harassment Incident",
-  "description": "NBA fans are uniting as 25,000 voices demand change following a harassment incident. Discover their powerful call for action and community support.",
-  "image": "https://novumworld.com/images/nba-fans-say-enough-is-enough-after-harassment-forces-game-2-skip-en.jpg",
-  "datePublished": "2026-06-05T22:26:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ The power dynamics within the league are shifting, and fans are no longer willin
     }
   }
 }
-</script>

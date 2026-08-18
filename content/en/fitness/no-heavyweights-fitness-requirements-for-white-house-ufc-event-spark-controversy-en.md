@@ -1,16 +1,19 @@
 ---
-title: "Rapid Weight Loss Leads to 40% Higher Concussion Severity in MMA Fighters"
-date: 2026-05-30T06:35:32
+title: Rapid Weight Loss Leads to 40% Higher Concussion Severity in MMA Fighters
+date: 2026-05-30 06:35:32
 draft: false
-description: "Discover how rapid weight loss impacts concussion severity in MMA fighters, revealing a staggering 40% increase in injury risk and athlete safety concerns."
-featured_image: "/images/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en.jpg"
-slug: "no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en"
-canonical: "https://novumworld.com/fitness/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "0cb913d4-3aef-2a8b-c7da-72b002799480"
+description: Discover how rapid weight loss impacts concussion severity in MMA fighters,
+  revealing a staggering 40% increase in injury risk and athlete safety concerns.
+featured_image: /images/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en.jpg
+slug: no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en
+canonical: https://novumworld.com/fitness/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 0cb913d4-3aef-2a8b-c7da-72b002799480
 ---
 
 ![Rapid Weight Loss Leads to 40% Higher Concussion Severity in MMA Fighters](/images/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en.jpg)
@@ -83,28 +86,12 @@ In the pursuit of victory, fighters must recognize that true competitive longevi
 - [news.google.com](https://news.google.com/rss/articles/CBMisgJBVV95cUxOTnpDaUc1aDF6S3dzQXVKZk15V2Q2MFljYnFSOHlSempwaGNpSGNDMG1fbE15REtKOXRQcTQ1OE8yYVVmaVJWbVVNbHJLd3lNdTBuU2duclJJalA5TTdVeldtSWpzVDRNWTktSk9mczZRWDd0cFNIS0F4Zk9kOF9leGRucm9KX2poaFNseFItcWFFUnZPYlBULUI3WGRLY1BhNzdpUnBhZEdzaHBqYkJ1T3BjSE1Dcml0THhEajhVeHpqZllFTzk5aGVWdG9hV0w0THVyRmdMak5XcHlsX2Y0SlpHM2NBQkgzcF9JeHJiNnY0XzM0dUF6dXdnSnNpc3NscG8taWV4enlxbXkydUVDVVQ1WUt2c0ZaMzFmeFhST0w4Q3NiUTNzaEFXWnNKaG5xUkHSAbcCQVVfeXFMTkFVb3hfRUtST24zbERMcXNkdkRHSDlPQmUzd0Q4Zk5MUURuci1jSWdVUk1UelplVTcyUXZMVWFQQjRrcFhpT2h1TU9IUlpvT29YNDNZNUlSaWhtWkpPbWs0REU0SWFrMGJfTEhTZGNSenFzd1hodEtaU3pzcHcybWxMamNsYWoxbmxmNG5ZczE4a2pXWWxCd3BKNWRmNnl1RW1XaV9XdXFsX1Z6cDV0dHJaU01XekVpbkJZQ1BFR2pnNWp1X3dUc3RMaGViQUs2ZG1NNWQ2eGFqTk1hSFpDWEV1T1dMT2tuLThDdmJhdUVSVDlvZmNxd0JKWmZOZGRHYk9pYmRLcXJ5cXdxMmtFbXNDd21iZU9DX0dRV1NoTmxfNWxFUl9ubHBZVEVnajEzeXRiUUp4eHc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMimgJBVV95cUxPcnhkS0ZjdF9BM2ZoQ0tweElFVExHOTZLTU0wVXFMOEdKVlQyeGlkbjVtVGFhbnYyQlBaYk80VzJLSUhuUm8xajJBN2hVM3gtZG15aFRQLUNDbnp5U2V0ZjlnNG5TZlFvVVNDSlBBb1h4aG1XeUFrM2lPd0k2aEhKMHhaNnhsUjlBdldDemU1bjNUdGNRRjdLSndobG9objVuWXEwYmdMYklhUi1oWHhGUVFyNVVRR3dOc0FhQno4NXk3RHl2cEQyMDJCZHRncVNvc1NVcTlZM0l4dUF1UWxQOEI2UTM5Q0R5NmV1N1llSDNQeWJ3eTlTdng3VkxsaG9FZjJIRTdiNjZCbnpjRUFXOUNMRDZnQ09CX2fSAZ8CQVVfeXFMUGtUNkVpYWFlZHVPaUJtMDlPX0xSd2NIUUkydnlEaHphYXFUVy1YQS1BeWhrUTZiVXN1S3VXMVZwemhFSllDVFJIanU1RldGRnhRQmlwQjNhbEN5cV81MkFmTHlKeWluM3o1UnBYU1gwQU13VVlBVXZOZEN2OGllT0RCY2RNMTc0ZUJzRHh0TFlRMTlJWXkzR2ljWkFLTjliSU93ZWlPUjYyRkMzRmVMN0dGa2ttUHlSQmxMZ0tjWk1nZE0zNmw3S3M4MW52RWktbnkwajdnNldDVHp5UmpEalhEVUxFOF9kclZnSE9YY0NlTktGSDJyLXlVUFpLSzB1NWc1MjFIUXBXUFF1X0R6NGNPYzM1VFg1d051ejZMa0E?oc=5)
 
-
 ## Related Articles
 - [Storms Can't Stop Planet Fitness: North Texas Damage Analysis Reveals Hidden Membership Growth Risks](/fitness/storms-cant-stop-the-gains-planet-fitness-in-north-texas-faces-damage-after-memorial-day-chaos-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Rapid Weight Loss Leads to 40% Higher Concussion Severity in MMA Fighters",
-  "description": "Discover how rapid weight loss impacts concussion severity in MMA fighters, revealing a staggering 40% increase in injury risk and athlete safety concerns.",
-  "image": "https://novumworld.com/images/no-heavyweights-fitness-requirements-for-white-house-ufc-event-spark-controversy-en.jpg",
-  "datePublished": "2026-05-30T06:35:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +101,3 @@ In the pursuit of victory, fighters must recognize that true competitive longevi
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "La IA Destruirá 2,3 Millones de Empleos en España: El Futuro Laboral en Riesgo"
-date: 2026-04-30T10:17:59
+title: 'La IA Destruirá 2,3 Millones de Empleos en España: El Futuro Laboral en Riesgo'
+date: 2026-04-30 10:17:59
 draft: false
-description: "La IA podría eliminar 2,3 millones de empleos en España. Descubre cómo este cambio afectará el futuro laboral y qué sectores estarán en riesgo."
-featured_image: "/images/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados.jpg"
-slug: "la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados"
-canonical: "https://novumworld.com/es/ia/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "0bef738f-af0f-622f-9c71-e7f2beda69f3"
+description: La IA podría eliminar 2,3 millones de empleos en España. Descubre cómo
+  este cambio afectará el futuro laboral y qué sectores estarán en riesgo.
+featured_image: /images/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados.jpg
+slug: la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados
+canonical: https://novumworld.com/es/ia/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 0bef738f-af0f-622f-9c71-e7f2beda69f3
 ---
 
 ![La IA Destruirá 2,3 Millones de Empleos en España: El Futuro Laboral en Riesgo](/images/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados.jpg)
@@ -79,28 +82,12 @@ España tiene una exposición media-alta a la IA según **Francisco Rodríguez-F
 ## Metodología y Fuentes
 - [news.google.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYnd2SVREZWZuYXcwcW53SDRFYi0zVXNoenFxT3Ffd2ljTEwwRTR4dDdSMWZCdXNjSlR4NTMxLTV3dmhXQlN3VHR6bEIybHA0dGVKdU1QajNJZ2dkSHNmcmxTRkFDUnZFNndzZC1Dd3lpQnBnUnZaNkpQekNua0JRS0xzYWdDM0p0alhCeWpUcVBjRFRx?oc=5)
 
-
 ## Artículos relacionados
 - [¿Sueñan los Borregos con Ciber-Ovej](/es/ia/suenan-los-borregos-con-ciber-ovejas-el-futuro-no/)
 - [Silicon Valley](/es/ia/silicon-valley-la-burbuja-que-nunca-exploto-pero-d/)
 - [ChatGPT contra tu SaaS: en 2026 solo sobrevivirán los que hagan E](/es/ia/saas-apocalipsis-ia-2026/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Destruirá 2,3 Millones de Empleos en España: El Futuro Laboral en Riesgo",
-  "description": "La IA podría eliminar 2,3 millones de empleos en España. Descubre cómo este cambio afectará el futuro laboral y qué sectores estarán en riesgo.",
-  "image": "https://novumworld.com/images/la-ia-amenaza-con-eliminar-23-millones-de-empleos-en-espana-estamos-preparados.jpg",
-  "datePublished": "2026-04-30T10:17:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +97,3 @@ España tiene una exposición media-alta a la IA según **Francisco Rodríguez-F
     }
   }
 }
-</script>

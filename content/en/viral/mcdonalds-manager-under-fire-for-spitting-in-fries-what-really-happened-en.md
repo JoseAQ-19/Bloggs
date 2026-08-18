@@ -1,16 +1,20 @@
 ---
-title: "McDonald's Manager Spits in Fries: Shocking Incident Exposes Food Safety Fears Affecting Millions"
-date: 2026-05-18T22:26:12
+title: 'McDonald''s Manager Spits in Fries: Shocking Incident Exposes Food Safety
+  Fears Affecting Millions'
+date: 2026-05-18 22:26:12
 draft: false
-description: "A McDonald's manager's shocking act of spitting in fries raises serious food safety concerns, impacting millions. Discover the unsettling details now."
-featured_image: "/images/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en.jpg"
-slug: "mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en"
-canonical: "https://novumworld.com/viral/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "291279e5-8d7f-2fdb-2c1c-5c84b00859aa"
+description: A McDonald's manager's shocking act of spitting in fries raises serious
+  food safety concerns, impacting millions. Discover the unsettling details now.
+featured_image: /images/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en.jpg
+slug: mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en
+canonical: https://novumworld.com/viral/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 291279e5-8d7f-2fdb-2c1c-5c84b00859aa
 ---
 
 ![McDonald's Manager Spits in Fries: Shocking Incident Exposes Food Safety Fears Affecting Millions](/images/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en.jpg)
@@ -70,28 +74,12 @@ As consumers, we have a responsibility to advocate for better food safety practi
 - [news.google.com](https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3Y2a3A1VkNfYURaMk0zR0N2cGxyaG9LcUJtRXJBZ2JKUE02c2tyUUNhTGtvc2phSjQ3UnBBMXRrdzY1dW5GUHpFYy1HZTdXN2VuTDE3ZUp4b2FaTThoRkJLSEd1RTh1ZTc2c3JrMWNPMmxjUmc3ekRqcmZWQVR4SjhpRHdsY0Z2eW1ta0w4d0V1WUdFM2M4dDVBcUhPb0xid2hVdU1Ld2VqMm1aUXpYaWhITjhUUV82UHZzNjFFM3h6cG5CbWxnT19mSHFfRGRSMHk1YW03amE4RzRNVHFiSHJmMUc2S1NZa0FCVzNsUUNUWFQ3SWdMalFVa2k3WkdvcDdKVHdqWUFabW9sX0E?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXl2UDZqQlp1eFlLUWY0SHZNajRmM2d1d0VycWlBOVlvY0JpaUF1Q0xDTFdPd3QwY0gyMTlVcmVVcUt5YW1IRDZxdnNiS0lmcUpINGkxUXM3UVRBXzlYbEROTnY4Y0wyVERQRXJLbTdzYS1iTi1jMnhZaFY1V3dITGhrNFJsSTQxRmtKR3YxQnJNdmZXYllOZm0zT3hxU0xSVXVmUF9zZjNRdzF5VndQYUxRTTFpQ2pad3VVWFRybHFDX3lvNDdwTQ?oc=5)
 
-
 ## Related Articles
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "McDonald's Manager Spits in Fries: Shocking Incident Exposes Food Safety Fears Affecting Millions",
-  "description": "A McDonald's manager's shocking act of spitting in fries raises serious food safety concerns, impacting millions. Discover the unsettling details now.",
-  "image": "https://novumworld.com/images/mcdonalds-manager-under-fire-for-spitting-in-fries-what-really-happened-en.jpg",
-  "datePublished": "2026-05-18T22:26:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ As consumers, we have a responsibility to advocate for better food safety practi
     }
   }
 }
-</script>

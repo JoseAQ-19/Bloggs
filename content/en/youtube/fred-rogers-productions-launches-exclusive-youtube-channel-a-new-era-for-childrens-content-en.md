@@ -24,8 +24,6 @@ type: youtube
 - A recent 2024 study reveals that only 19% of YouTube videos for children under 36 months are deemed age-appropriate, highlighting a significant gap in the quality of content available on the platform.
 - The initiative challenges content creators and platforms to prioritize child-centric programming, addressing the growing concern over the cognitive impact of AI-generated content on young viewers.
 
-
-
 {{< adsterra_native >}}
 
 ## The YouTube Dilemma: A Playground for 'AI Slop'
@@ -65,27 +63,11 @@ The landscape of children's media is at a crossroads. The choices made today wil
 - [news.google.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxON0RMZTR6R2Q0YmUzZjRya0puSU5PTFVPQTBqOXU5dGg5UGxKOE5GWFU1blM3aVpaMkU3ZE5HNUFsMHZtRWp4d2VFNVRFTGZpaElNUmtjN0xvWmhmNXR1V250b1RfLTV6NHFEdVZkVkhCS1hSMmtPTV9wX3lZWG5OTzBMYkZ5YWloMGJoanlfemR5akROSGNUUC1fYVRKUHVneVlUWGVCclB6Zmd2ZkpGdk9admh5d21FWlE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9iSmZ4Zkhwdk9sNFZmbXh6QmlMM0pTMGlGangzQXdpb1Y0aTFvaTcyaV90b3Nrd0NnTnE3VFBsMlFDZktYbFA4Zmx3d0pRZllLODNkZ3kyNVp2UTJXa29VcEJNN2RILWwzdmZSbFNxUDhJMHZrS2c?oc=5)
 
-
 ## Related Articles
 - [YouTube''s $46.2 Billion Ad Revenue Disas](/youtube/youtube-golden-age-creator-economics-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million C](/youtube/youtube-tv-fox-deal-extension-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fred Rogers Productions Launches YouTube Channel: 85% of Kids Now at Risk of AI Slop",
-  "description": "Discover how Fred Rogers Productions' new YouTube channel tackles the growing concern of AI content, with 85% of kids at risk of digital slop.",
-  "image": "https://novumworld.com/images/fred-rogers-productions-launches-exclusive-youtube-channel-a-new-era-for-childrens-content-en.jpg",
-  "datePublished": "2026-04-04T20:43:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +77,3 @@ The landscape of children's media is at a crossroads. The choices made today wil
     }
   }
 }
-</script>

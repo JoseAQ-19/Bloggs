@@ -1,16 +1,20 @@
 ---
-title: "67% Of Gen Z Struggling With Housing Costs: The TikTok Movement Nobody Saw Coming"
-date: 2026-05-06T23:42:26
+title: '67% Of Gen Z Struggling With Housing Costs: The TikTok Movement Nobody Saw
+  Coming'
+date: 2026-05-06 23:42:26
 draft: false
-description: "Explore how 67% of Gen Z is grappling with housing costs and the unexpected TikTok movement that’s sparking change and awareness in the housing crisis."
-featured_image: "/images/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en.jpg"
-slug: "from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en"
-canonical: "https://novumworld.com/viral/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "f3ee3bb2-f23b-7a36-e325-b7c2446d93c9"
+description: Explore how 67% of Gen Z is grappling with housing costs and the unexpected
+  TikTok movement that’s sparking change and awareness in the housing crisis.
+featured_image: /images/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en.jpg
+slug: from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en
+canonical: https://novumworld.com/viral/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: f3ee3bb2-f23b-7a36-e325-b7c2446d93c9
 ---
 
 ![67% Of Gen Z Struggling With Housing Costs: The TikTok Movement Nobody Saw Coming](/images/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en.jpg)
@@ -69,28 +73,12 @@ The stakes are high. Failure to act now could result in an irreversible shift in
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9lT0IxWTZtdTNzczlLTkM3WGJ6ajcxNG9nR0FsMlNwVHlReHU4cmxOcE5ndnFyWC1OTUVZN3hnNVFCV3U1Uk5HVVM5cDQ2QzdrUHphQXJSanlrWF9wRnRfeVZkVE83U1BHaWVkZ9IBckFVX3lxTFBPN1lQT2lvMllXNFNnWVN6cG9DZ3NnUU1hV09iME5YM0xkWWZ2Y21GUk5hQmJCN1RSeVdGVzFKU2pEMk1tYVhiSFRFX3g0cmVQQ2lKdkptZTJZLVNuMWZOVFFock1TeVdtSzgwVFprTHdJQQ?oc=5)
 
-
 ## Related Articles
 - [Ugly Sonic Didn''t Die: His VFX Secr](/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [Jersey Mike's Nachos Just Revolutionized Our Order Game Forever](/viral/we-tried-jersey-mikes-nachos-and-revolutionized-our-order-game-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "67% Of Gen Z Struggling With Housing Costs: The TikTok Movement Nobody Saw Coming",
-  "description": "Explore how 67% of Gen Z is grappling with housing costs and the unexpected TikTok movement that’s sparking change and awareness in the housing crisis.",
-  "image": "https://novumworld.com/images/from-town-hall-to-tiktok-the-housing-comment-that-sparked-a-movement-en.jpg",
-  "datePublished": "2026-05-06T23:42:26",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ The stakes are high. Failure to act now could result in an irreversible shift in
     }
   }
 }
-</script>

@@ -1,14 +1,18 @@
 ---
-title: "Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026"
-date: 2026-04-09T07:17:46
+title: Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado
+  en 2026
+date: 2026-04-09 07:17:46
 draft: false
-description: "Descubre cómo los planes prediseñados de Lightyear con BlackRock y Vanguard están diseñados para superar al mercado en 2026. ¡Infórmate ya!."
-featured_image: "/images/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "89905b07-f965-ba40-2ef7-7adb2d6d2545"
+description: Descubre cómo los planes prediseñados de Lightyear con BlackRock y Vanguard
+  están diseñados para superar al mercado en 2026. ¡Infórmate ya!.
+featured_image: /images/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 89905b07-f965-ba40-2ef7-7adb2d6d2545
 ---
 
 ![Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/images/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e.jpg)
@@ -20,8 +24,6 @@ El 2026 se perfila como un año crucial en el ámbito de la inversión, con proy
 * [El rendimiento promedio de los ETFs de BlackRock y Vanguard ha sido del 8% anual en los últimos 5 años — CNMV]
 
 La creciente demanda de soluciones de inversión diversificadas y adaptadas al perfil de riesgo del inversor ha llevado a Lightyear a lanzar sus Planes Prediseñados en España. Estas carteras están compuestas por fondos de inversión de BlackRock y Vanguard, que son reconocidos por su sólida gestión de activos y su enfoque en la eficiencia de costes. 
-
-
 
 {{< adsterra_native >}}
 
@@ -88,6 +90,4 @@ La combinación de carteras prediseñadas eficientes y el respaldo de dos de las
 - [Ataque en Irá](/es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero/)
 - [Guerra](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

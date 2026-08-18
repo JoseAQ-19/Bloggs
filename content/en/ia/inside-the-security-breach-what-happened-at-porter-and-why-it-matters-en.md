@@ -1,16 +1,20 @@
 ---
-title: "44% Of Data Breaches Involve Ransomware: What Porter’s Breach Reveals About Cybersecurity Failures"
-date: 2026-04-19T11:42:44
+title: '44% Of Data Breaches Involve Ransomware: What Porter’s Breach Reveals About
+  Cybersecurity Failures'
+date: 2026-04-19 11:42:44
 draft: false
-description: "Explore how Porter’s breach highlights critical cybersecurity failures as 44% of data breaches involve ransomware. Learn key lessons for better protection."
-featured_image: "/images/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en.jpg"
-slug: "inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en"
-canonical: "https://novumworld.com/ia/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "7fd02a96-5f3f-98b4-7a80-78aa6dc07836"
+description: Explore how Porter’s breach highlights critical cybersecurity failures
+  as 44% of data breaches involve ransomware. Learn key lessons for better protection.
+featured_image: /images/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en.jpg
+slug: inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en
+canonical: https://novumworld.com/ia/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 7fd02a96-5f3f-98b4-7a80-78aa6dc07836
 ---
 
 ![44% Of Data Breaches Involve Ransomware: What Porter’s Breach Reveals About Cybersecurity Failures](/images/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en.jpg)
@@ -86,28 +90,12 @@ For further technical guidance on penetration testing methodologies and cloud se
 - [news.google.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZUWHRVZGpjazI5aUtiWlVaTDItQzQ3TXJOLXB2UXQxYzB4ZGNQY1VQZXZnT2ZERTlkNlc0WWhjNXd4aUNUQ0xISlhpQWMxZ0VJaGdlbjhuSXpueVIxQUdxbjFiZWxFcndXcUpEYktYZ08wOWZtTllZNXdUTEU3NmdELVNLVDA3ZV9nVTUtZXpIbFVNbFoxYVFHc0tSQzM2U3ZPTFJSWU1uRlpHREVoMTV1Y0VZQQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiyAJBVV95cUxPNVF1dGptTEFyWTdLT0Zqa2t3OEhxSEx1TWcyS29pdmtRVlVJd1htcUtPNXVIb1k5U0Vkd2ZMa0ZqR2xmWEFrbThNRVR3UVVpcDdJNkpZUkQwYXVweUFmVDl4WFpxZWd1YTh2WmNUdVBidndxd3lXSXp5TndRLURQRDlidkwxT19uYVVpX3ZjeTZ2YzA4VlpPd0c3Z3YwSElCeVZsN2xLazAwZVJHQjFiTWtnNS0tc01fdWxIVlZpd1hubnBjdnJ1bWJJT0RWRmRlOHFCYUcxX1hIUHVsekNxVDBpcENYakNtcno0OV9faWk2RFpPWUgwYnZrS0VnN3lXZldfVTFnZ2Z3b1BsTldpYm1Jd1ZRU25ZM2VDc0tXWl9fWTdkc2NhdUJKSDJyZl9zN0tPTmtIVFItamJFMngyQW5NUl9fa3ZL0gHOAkFVX3lxTE54V2JwOWxUNmtZNXNvWFMzeWpPdUpzb0VCY1E2Ty0yQWRXaHhpRGlIUEotOTI2d3ZocVpJVE94dDJoUHdvTkNueTJaVFFXOGtfelRad2pyVENTdmFOSklobnIwX1c0SU0tOWxHaWZ0dkRIRDdlWVhsOVd4cjRxWmdCWXVkM19wTEtKNFplRlN2dnBVMWc4Y3ZuY1NSd3JheFpDeXFmSUhONVpRdjhsV1hiNWlnWkMzRi1wQlY0S0x6dXRGUUtwdkI4eG5jS0VEdTNQRXBnS0xuUGIwQ21jLTFFanJraER3Vk5qbHFiT3dMOVFfVzVBd3pwUWdCY3M3c19ETzNobDVLdnhiSldLYmlDbWVkRGd4ejhrYS02S3duQzVOOFBwSVp3eWJwY1JHSGUta2JzV3JxZEl1MG1pZDFLY1F5dFN4dHI4MlRNU3c?oc=5)
 
-
 ## Related Articles
 - [39](/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en/)
 - [Hugging Face Transformers: Th](/ia/hugging-face-transformers-few-shot-limitations-en/)
 - [Iowa Hawkeyes Shocked the System: 5.4 Million NIL Engagements and a Tie with Georgia Tech](/ia/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "44% Of Data Breaches Involve Ransomware: What Porter’s Breach Reveals About Cybersecurity Failures",
-  "description": "Explore how Porter’s breach highlights critical cybersecurity failures as 44% of data breaches involve ransomware. Learn key lessons for better protection.",
-  "image": "https://novumworld.com/images/inside-the-security-breach-what-happened-at-porter-and-why-it-matters-en.jpg",
-  "datePublished": "2026-04-19T11:42:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +105,3 @@ For further technical guidance on penetration testing methodologies and cloud se
     }
   }
 }
-</script>

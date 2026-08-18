@@ -1,16 +1,19 @@
 ---
-title: "Iowa's Josh Turek Is Shaking Up Politics With His Bold Vision For Change"
-date: 2026-06-07T12:00:36
+title: Iowa's Josh Turek Is Shaking Up Politics With His Bold Vision For Change
+date: 2026-06-07 12:00:36
 draft: false
-description: "Discover how Iowa's Josh Turek is redefining politics with his innovative ideas and bold vision for change that inspires a new generation of leaders."
-featured_image: "/images/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en.jpg"
-slug: "iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en"
-canonical: "https://novumworld.com/ia/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "2756bfac-bde0-fc45-42d3-7dc974bc3598"
+description: Discover how Iowa's Josh Turek is redefining politics with his innovative
+  ideas and bold vision for change that inspires a new generation of leaders.
+featured_image: /images/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en.jpg
+slug: iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en
+canonical: https://novumworld.com/ia/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 2756bfac-bde0-fc45-42d3-7dc974bc3598
 ---
 
 ![Iowa's Josh Turek Is Shaking Up Politics With His Bold Vision For Change](/images/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en.jpg)
@@ -68,28 +71,12 @@ In an environment where the stakes are high and the pressures are mounting, the 
 - [news.google.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxPbnl6WElYd1VSSFJJUzhKXzBISWt4SDlWdlZBd1VBa0VDRkZ2LVRLcXpwdi14cm5BelFMdHdGZ3B1YndhNHZOOHdOOGRUdkc0aVViNTRQZkdISXRfN3dhOEoyM3ZYZVZkMkRkZUYxT1UwcTNiTm1nV3lhdDNGMkxLeFJLQ1FyYzVEWnZlOXdVM1ZNZS14S2VvNF9QRFZuam02WE5UZ25CWUZzM0gzLWs2M1NfdXM4RXZwUzQ1ZTVfa1c5UEFYQl8xbHhzTmx1QUtONHZPQi12OWVSdVNsV1pWNjJvMm9Bd1pLd3d5SVoyT09tUzFOeHRzS042Y0ZwN1ZHRVE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxORzNZcllwNGw2UjN4Q1Fuc1BQenRFQWhSY1EzNlF3cERoSzFUa0hzcDR2UDdxcEh6MTlOU0FIbVIzaXBrdlpQc1RXal9RNFFqWDUtejQ1R0RFR1pkNVk5VjlmdXFRMVdINllQV1B1MS0tS3BUdTFSRU9HVWZjczd3OFc2UWdkakJBVkJFT1NVeFo5VEdIc1AxYzh5cl9LSnZld0VDVEtYYlVUZ3VSVmc?oc=5)
 
-
 ## Related Articles
 - [39](/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en/)
 - [The Shocking Truth Behind China's One Million Attack Drones Ordered by 2026](/ia/unpacking-chinas-ai-driven-drone-strategy-a-glimpse-into-future-warfare-en/)
 - [Perplexity''s $200 Computer AI: 80% Of Companies](/ia/perplexity-ai-computer-overkill-future-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iowa's Josh Turek Is Shaking Up Politics With His Bold Vision For Change",
-  "description": "Discover how Iowa's Josh Turek is redefining politics with his innovative ideas and bold vision for change that inspires a new generation of leaders.",
-  "image": "https://novumworld.com/images/iowas-rising-star-meet-josh-turek-and-his-vision-for-the-future-en.jpg",
-  "datePublished": "2026-06-07T12:00:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +86,3 @@ In an environment where the stakes are high and the pressures are mounting, the 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "Donor Fatigue Hits Hard: The Hidden Struggles Facing Cruz's 2028 Campaign"
-date: 2026-05-02T11:51:02
+title: 'Donor Fatigue Hits Hard: The Hidden Struggles Facing Cruz''s 2028 Campaign'
+date: 2026-05-02 11:51:02
 draft: false
-description: "Explore the challenges of donor fatigue in Cruz's 2028 campaign, revealing the hidden struggles that could impact his political future and fundraising."
-featured_image: "/images/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en.jpg"
-slug: "cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en"
-canonical: "https://novumworld.com/ia/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "fd8e9036-f7df-386e-ecc8-2d6c721126af"
+description: Explore the challenges of donor fatigue in Cruz's 2028 campaign, revealing
+  the hidden struggles that could impact his political future and fundraising.
+featured_image: /images/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en.jpg
+slug: cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en
+canonical: https://novumworld.com/ia/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: fd8e9036-f7df-386e-ecc8-2d6c721126af
 ---
 
 ![Donor Fatigue Hits Hard: The Hidden Struggles Facing Cruz's 2028 Campaign](/images/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en.jpg)
@@ -91,28 +94,12 @@ Cruz must navigate these challenges carefully, as failing to address
 ## Methodology and Sources
 - [weareiowa.com](https://weareiowa.com/email)
 
-
 ## Related Articles
 - [The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/)
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 - [Digital Elites: Saviors or Soci](/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Donor Fatigue Hits Hard: The Hidden Struggles Facing Cruz's 2028 Campaign",
-  "description": "Explore the challenges of donor fatigue in Cruz's 2028 campaign, revealing the hidden struggles that could impact his political future and fundraising.",
-  "image": "https://novumworld.com/images/cruz-sets-sights-on-2028-iowas-political-stage-heats-up-en.jpg",
-  "datePublished": "2026-05-02T11:51:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +109,3 @@ Cruz must navigate these challenges carefully, as failing to address
     }
   }
 }
-</script>

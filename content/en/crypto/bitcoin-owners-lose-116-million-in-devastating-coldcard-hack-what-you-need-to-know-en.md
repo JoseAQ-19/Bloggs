@@ -65,7 +65,6 @@ El ataque al hardware de criptografía Coldcard ha dejado a los propietarios de 
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
 - [Bitcoin Dominance Surges As Experts Predict $250K By 2027 And Nobody Noticed](/crypto/why-is-the-crypto-market-surging-today-unpacking-the-latest-trends-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -74,18 +73,7 @@ El ataque al hardware de criptografía Coldcard ha dejado a los propietarios de 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis",
-  "description": "Bitcoin Owners Lose $116 Million in Devastating Coldcard Hack: What You Need to Know Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-08-03T19:11:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +83,3 @@ El ataque al hardware de criptografía Coldcard ha dejado a los propietarios de 
     }
   }
 }
-</script>

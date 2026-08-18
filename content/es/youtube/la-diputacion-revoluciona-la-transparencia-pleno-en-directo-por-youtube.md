@@ -1,16 +1,20 @@
 ---
-title: "La Revolución de la Transparencia: ¿Por Qué 43% de Españoles Desconfían de la Administración?"
-date: 2026-05-28T19:32:55
+title: 'La Revolución de la Transparencia: ¿Por Qué 43% de Españoles Desconfían de
+  la Administración?'
+date: 2026-05-28 19:32:55
 draft: false
-description: "Descubre las razones detrás de la desconfianza del 43% de los españoles hacia la administración y cómo la transparencia puede cambiar esta percepción."
-featured_image: "/images/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube.jpg"
-slug: "la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube"
-canonical: "https://novumworld.com/es/youtube/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "78abd3cf-9924-5b69-1d8e-9d6b260d3724"
+description: Descubre las razones detrás de la desconfianza del 43% de los españoles
+  hacia la administración y cómo la transparencia puede cambiar esta percepción.
+featured_image: /images/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube.jpg
+slug: la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube
+canonical: https://novumworld.com/es/youtube/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 78abd3cf-9924-5b69-1d8e-9d6b260d3724
 ---
 
 ![La Revolución de la Transparencia: ¿Por Qué 43% de Españoles Desconfían de la Administración?](/images/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube.jpg)
@@ -49,22 +53,7 @@ La administración pública española está atrapada en un mito: el de que la in
 - [La IA Está Transformando YouTube: 36 Millones de Visitas a Contenido Falso en 2024](/es/youtube/youtube-lanza-alertas-sobre-contenido-generado-por-ia-estamos-listos-para-el-cambio/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que En](/es/youtube/youtube-atracones-tele-peor/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Revolución de la Transparencia: ¿Por Qué 43% de Españoles Desconfían de la Administración?",
-  "description": "Descubre las razones detrás de la desconfianza del 43% de los españoles hacia la administración y cómo la transparencia puede cambiar esta percepción.",
-  "image": "https://novumworld.com/images/la-diputacion-revoluciona-la-transparencia-pleno-en-directo-por-youtube.jpg",
-  "datePublished": "2026-05-28T19:32:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -74,4 +63,3 @@ La administración pública española está atrapada en un mito: el de que la in
     }
   }
 }
-</script>

@@ -30,8 +30,6 @@ On Air Fitness inyecta 10 millones de euros en el mercado español con la preten
 * La cadena francesa planea abrir cinco nuevos centros este año, con una inversión de 2 millones de euros por ubicación, para alcanzar las 85 ubicaciones en cinco años.
 * España cuenta con más de 5,7 millones de usuarios de gimnasios, pero la penetración se estanca en el 12-13% de la población, lejos del potencial real de salud pública.
 
-
-
 {{< adsterra_native >}}
 
 ## La irrupción de capital francés y el mito de la "disrupción"
@@ -63,6 +61,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Lectura Nocturna y el Anillo Oura: ¿Puedo Decirle a Oura Por Qué No Me Duermo?](/es/fitness/lectura-nocturna-anillo-oura-retraso-sueno/)
 - [La FETRI Revela el Hyatlón: La Revolución Que Transformará Tu Entrenamiento](/es/fitness/la-fetri-presenta-el-hyatlon-una-nueva-revolucion-en-el-mundo-del-fitness/)
 - [La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo](/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

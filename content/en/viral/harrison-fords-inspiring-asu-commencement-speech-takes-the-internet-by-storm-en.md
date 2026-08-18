@@ -1,16 +1,19 @@
 ---
-title: "Harrison Ford’s ASU Speech Ignites 70% Of Gen Z To Seek Leadership Roles"
-date: 2026-05-13T22:32:02
+title: Harrison Ford’s ASU Speech Ignites 70% Of Gen Z To Seek Leadership Roles
+date: 2026-05-13 22:32:02
 draft: false
-description: "Harrison Ford's inspiring ASU speech motivates 70% of Gen Z to pursue leadership roles, sparking a new wave of ambition and change in their communities."
-featured_image: "/images/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en.jpg"
-slug: "harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en"
-canonical: "https://novumworld.com/viral/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "9b1f726f-8717-bdd8-c927-37dea3c7174b"
+description: Harrison Ford's inspiring ASU speech motivates 70% of Gen Z to pursue
+  leadership roles, sparking a new wave of ambition and change in their communities.
+featured_image: /images/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en.jpg
+slug: harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en
+canonical: https://novumworld.com/viral/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 9b1f726f-8717-bdd8-c927-37dea3c7174b
 ---
 
 ![Harrison Ford’s ASU Speech Ignites 70% Of Gen Z To Seek Leadership Roles](/images/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en.jpg)
@@ -80,28 +83,12 @@ Ultimately, the narrative surrounding Gen Z's career aspirations is complex. It 
 - [news.google.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYkhVcF9oZ2pvbWlFMVZSc0FvZG53ZDdZZHdDWDJxSmxUSUp2bDBjZk1nNHdwS1E1VURmLUJ3UUJ1WXB6M1dHZVN4S2JmaDRWUlFyUzBFaEEycVQzN0xCZkpmamprU3RIVW5NR0hleWJwT2doNEFGUk0yaGpOWkdKc3RmY0pwUklkdE1JeVNTeDFGc0JTXzhWbnRzNmJlckd1Y3c?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2tZSFBhSjhQSjFBN0lhYkluWVYwbHJZU19LMGZwdFQ5UUJpUlRHOWZDRzRtaTNoSDBUajdteXRPcUhtREloRmljUC11SlFpaUZnLWYtTkwyOEQtdHpNWlVBNl9tLWFxS20tZzNZdEE1ZGZUbmlrXzhrSmQxMDd2VWZTdk1na2MwM2xBdUdMUVdCWUJTak4yZGlqRFppeXEwSWk0?oc=5)
 
-
 ## Related Articles
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [Shocking 40% Death Rate: Andes Virus Outbreak Exposes Cruise Ship Vulnerabilities](/viral/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Harrison Ford’s ASU Speech Ignites 70% Of Gen Z To Seek Leadership Roles",
-  "description": "Harrison Ford's inspiring ASU speech motivates 70% of Gen Z to pursue leadership roles, sparking a new wave of ambition and change in their communities.",
-  "image": "https://novumworld.com/images/harrison-fords-inspiring-asu-commencement-speech-takes-the-internet-by-storm-en.jpg",
-  "datePublished": "2026-05-13T22:32:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +98,3 @@ Ultimately, the narrative surrounding Gen Z's career aspirations is complex. It 
     }
   }
 }
-</script>

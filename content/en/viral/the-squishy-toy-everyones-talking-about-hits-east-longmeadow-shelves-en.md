@@ -1,16 +1,19 @@
 ---
-title: "Parents Outraged: Squishy Toy's Hidden Dangers Exposed By Consumer Reports"
-date: 2026-05-26T22:39:24
+title: 'Parents Outraged: Squishy Toy''s Hidden Dangers Exposed By Consumer Reports'
+date: 2026-05-26 22:39:24
 draft: false
-description: "Discover the shocking hidden dangers of popular squishy toys revealed by Consumer Reports. Learn how to keep your children safe from potential risks."
-featured_image: "/images/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en.jpg"
-slug: "the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en"
-canonical: "https://novumworld.com/viral/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "5b257182-90c1-e04f-d8bd-3ca4f4cb9861"
+description: Discover the shocking hidden dangers of popular squishy toys revealed
+  by Consumer Reports. Learn how to keep your children safe from potential risks.
+featured_image: /images/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en.jpg
+slug: the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en
+canonical: https://novumworld.com/viral/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 5b257182-90c1-e04f-d8bd-3ca4f4cb9861
 ---
 
 ![Parents Outraged: Squishy Toy's Hidden Dangers Exposed By Consumer Reports](/images/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en.jpg)
@@ -92,22 +95,7 @@ In conclusion, the squishy toy phenomenon serves as a cautionary tale that highl
 - [The Scalper Bot Crisis: How 2 Million MoonSwatches Disappeared Before Your Eyes](/viral/the-swatch-x-audemars-piguet-craze-why-you-cant-find-it-at-somerset-collection-en/)
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Parents Outraged: Squishy Toy's Hidden Dangers Exposed By Consumer Reports",
-  "description": "Discover the shocking hidden dangers of popular squishy toys revealed by Consumer Reports. Learn how to keep your children safe from potential risks.",
-  "image": "https://novumworld.com/images/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en.jpg",
-  "datePublished": "2026-05-26T22:39:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +105,3 @@ In conclusion, the squishy toy phenomenon serves as a cautionary tale that highl
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "AI-Hacking Chaos: Crypto Token Plummets 50% As Security Threats Emerge"
-date: 2026-06-14T18:01:49
+title: 'AI-Hacking Chaos: Crypto Token Plummets 50% As Security Threats Emerge'
+date: 2026-06-14 18:01:49
 draft: false
-description: "Discover how emerging security threats led to a 50% drop in a popular crypto token, revealing the chaos of AI-hacking in the digital currency landscape."
-featured_image: "/images/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en.jpg"
-slug: "ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en"
-canonical: "https://novumworld.com/crypto/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "d0816f57-703b-8143-a514-6828715de6ac"
+description: Discover how emerging security threats led to a 50% drop in a popular
+  crypto token, revealing the chaos of AI-hacking in the digital currency landscape.
+featured_image: /images/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en.jpg
+slug: ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en
+canonical: https://novumworld.com/crypto/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: d0816f57-703b-8143-a514-6828715de6ac
 ---
 
 ![AI-Hacking Chaos: Crypto Token Plummets 50% As Security Threats Emerge](/images/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en.jpg)
@@ -66,12 +69,10 @@ In a landscape where AI could disrupt the very foundations of cryptocurrency, vi
 - [news.google.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnZmUmhqR3lDWVA1Wmx0TjlNbFozLTRhRjVXOXVQbUhOejEwRTEyNkdRaUFiYkphUV95dzdoZmdOZThpVkYzelhkbW5OdHlaNkNJUjdrRjZFRXR3VzJ4T05XcnhRRW1aWkJSWkhwa1g1SGNyRThMZ2ZZSlpBbUNJWFdTM3ZmWlBPMVFjemhDWGpjLTg?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [UFC Fighters To Receive Bonuses In Trump-Backed Crypto At White House Event](/crypto/trump-backed-crypto-ufc-fighters-to-get-paid-in-controversial-currency-en/)
 - [Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/)
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -81,18 +82,7 @@ In a landscape where AI could disrupt the very foundations of cryptocurrency, vi
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI-Hacking Chaos: Crypto Token Plummets 50% As Security Threats Emerge",
-  "description": "Discover how emerging security threats led to a 50% drop in a popular crypto token, revealing the chaos of AI-hacking in the digital currency landscape.",
-  "image": "https://novumworld.com/images/ai-hacking-chaos-crypto-token-plummets-50-amid-security-threats-en.jpg",
-  "datePublished": "2026-06-14T18:01:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +92,3 @@ In a landscape where AI could disrupt the very foundations of cryptocurrency, vi
     }
   }
 }
-</script>

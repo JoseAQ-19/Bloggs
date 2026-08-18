@@ -31,8 +31,6 @@ VO2 max, often considered the gold standard for endurance athletes, may be less 
 
 * To optimize performance, runners should prioritize refining their lactate threshold and enhancing their running economy alongside, or even instead of, chasing a higher VO2 max.
 
-
-
 {{< adsterra_native >}}
 
 ## Challenging the VO2 Max Dogma: Scott Johnston's Perspective
@@ -86,6 +84,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [This Personalized Nutrition Market Is Set To Explode To $66 Billion: Are You](/en/fitness/metabolic-age-acceleration-en/)
 - [Behind The Perfect Body: The Deadly Truth About Fitness Influencers](/en/fitness/fitness-influencer-deaths-en/)
 - [Amazon''s Fitness Tracker Lies: Your Calorie Burn is 69% WRONG!](/en/fitness/fitness-tracker-accuracy-privacy-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

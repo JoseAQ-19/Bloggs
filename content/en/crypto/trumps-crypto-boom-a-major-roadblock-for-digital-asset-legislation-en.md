@@ -81,7 +81,6 @@ As the cryptocurrency landscape continues to evolve, the mantra remains: not all
 - [The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves](/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/)
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -90,18 +89,7 @@ As the cryptocurrency landscape continues to evolve, the mantra remains: not all
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Threat Behind Trump’s Crypto Surge: 7 Reasons to Panic Now",
-  "description": "Discover the alarming implications of Trump's crypto surge. Uncover 7 critical reasons why this trend poses a hidden threat to the economy and investors.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-25T17:10:34",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ As the cryptocurrency landscape continues to evolve, the mantra remains: not all
     }
   }
 }
-</script>

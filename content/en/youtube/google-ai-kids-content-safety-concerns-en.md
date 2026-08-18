@@ -29,8 +29,6 @@ Google's Project Kavya is a trap, potentially luring children into personalized 
 * Animaj AI Kids secured an **$85 million Series B** investment in June 2025, spearheaded by HarbourView Equity, to bolster AI capabilities and acquire IP, subsequently boosting their YouTube views to 22 billion per month, per AICerts.com — **source**.
 * Children and teenagers spend nearly **20 hours each month** online, highlighting the increasing exposure to potential online threats, and the need for heightened parental vigilance — **source**.
 
-
-
 {{< adsterra_native >}}
 
 ## The $170 Million Mistake Repeating?
@@ -97,6 +95,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Streaming Democracy: 75% Of Local News Views Now Come From YouTube](/en/youtube/streaming-democracy-political-consultant-brings-nh-executive-council-meetings-live-to-youtube-en/)
 - [The Hidden Strategy Behind MrBeast's Insane Challenges That Everyone Missed](/en/youtube/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en/)
 - [72 Million Data Points: YouTube''s Child Tracking Nightmare Exposed In Indonesia](/en/youtube/indonesia-youtube-tiktok-ban-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

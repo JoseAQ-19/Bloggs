@@ -1,16 +1,19 @@
 ---
-title: "Startup Fun Just Secured $72 Million To Revolutionize Crypto And Cash Analysis"
-date: 2026-05-01T16:29:33
+title: Startup Fun Just Secured $72 Million To Revolutionize Crypto And Cash Analysis
+date: 2026-05-01 16:29:33
 draft: false
-description: "Startup Fun raises $72 million to transform crypto and cash analysis, promising innovative solutions and insights for the financial landscape. Discover."
-featured_image: "/images/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en.jpg"
-slug: "startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en"
-canonical: "https://novumworld.com/crypto/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "e2373551-763c-4fa2-0998-75ea80dd627a"
+description: Startup Fun raises $72 million to transform crypto and cash analysis,
+  promising innovative solutions and insights for the financial landscape. Discover.
+featured_image: /images/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en.jpg
+slug: startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en
+canonical: https://novumworld.com/crypto/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: e2373551-763c-4fa2-0998-75ea80dd627a
 ---
 
 ![Startup Fun Just Secured $72 Million To Revolutionize Crypto And Cash Analysis](/images/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en.jpg)
@@ -81,12 +84,10 @@ In the world of fintech, the right data can make all the difference—will Start
 - [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2dCRnhSVy1NWmdsak5SMFlPdnFfSVhDeWMwdkloNDA4aU42bkJFcWI5X0dMa25JcnVXbjU2V1Rrdm5UczdjRjhhWU1jTDdhNkloRXh2SmllQndFY3pRdzhYV25NYzVTM2Q4XzEtTkRDNXhaSlFEOEVSSFM4Q25VUVZSNnVsMm1YZmlqSi1zc0Utb181RFNBdE9FNlhsWVFpRzNN?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdlZDY3o4WXZsN094bWIzeXQ3X0N2SU4tV0h5ZGxpTC14OFhXMjFUUlRDeU5jMDN6S2JCZm85V1hFckNQQnprY3otaXRSelZHOUtlRmJqNWd3NFF3RERZMVRfeTVhbE1ub2dReHd1XzMzUlV6bVhVdUNLNWRpM3hsdjItSXhPMzg3TTJFbHhockdCcWJKVUJkOGdrb3U1elRsSmtuX0lLa1pIOGpmVDBGLWZZT1R3dFE?oc=5)
 
-
 ## Related Articles
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
 - [Trump''s Crypto Coup: How Jared Kushn](/crypto/trump-crypto-policies-kushner-benefit-en/)
 - [AI Just Made Crypto Hacks 92% Easier—What You Need to Know Now](/crypto/the-ai-threat-to-crypto-why-anthropics-mythos-isnt-the-real-concern-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -96,18 +97,7 @@ In the world of fintech, the right data can make all the difference—will Start
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Startup Fun Just Secured $72 Million To Revolutionize Crypto And Cash Analysis",
-  "description": "Startup Fun raises $72 million to transform crypto and cash analysis, promising innovative solutions and insights for the financial landscape. Discover.",
-  "image": "https://novumworld.com/images/startup-fun-secures-72-million-to-bridge-the-gap-between-crypto-and-cash-en.jpg",
-  "datePublished": "2026-05-01T16:29:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +107,3 @@ In the world of fintech, the right data can make all the difference—will Start
     }
   }
 }
-</script>

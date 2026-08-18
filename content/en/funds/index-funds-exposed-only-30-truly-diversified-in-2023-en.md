@@ -1,14 +1,17 @@
 ---
-title: "Index Funds Exposed: Only 30% Truly Diversified in 2023"
-date: 2026-04-19T07:31:07
+title: 'Index Funds Exposed: Only 30% Truly Diversified in 2023'
+date: 2026-04-19 07:31:07
 draft: false
-description: "Discover the truth behind index funds in 2023. Learn why only 30% offer true diversification and what this means for your investment strategy."
-featured_image: "/images/index-funds-exposed-only-30-truly-diversified-in-2023-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "a4cbfb89-1090-2aa1-ff22-b069cf9c2c02"
+description: Discover the truth behind index funds in 2023. Learn why only 30% offer
+  true diversification and what this means for your investment strategy.
+featured_image: /images/index-funds-exposed-only-30-truly-diversified-in-2023-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: a4cbfb89-1090-2aa1-ff22-b069cf9c2c02
 ---
 
 ![Index Funds Exposed: Only 30% Truly Diversified in 2023](/images/index-funds-exposed-only-30-truly-diversified-in-2023-en.jpg)
@@ -20,8 +23,6 @@ Only 30% of index funds are truly diversified in 2023, raising alarms among inve
 * 12% — historical underperformance of index funds against their benchmarks over the last decade noted by **CNMV**.
 
 The landscape of index investing is evolving, and the implications of this statistic could be significant for investors. While index funds have long been lauded for their cost-effectiveness and simplicity, a closer examination reveals that many of these vehicles are not delivering on the promise of diversification. This lack of true diversification can lead to an undue concentration in certain sectors or asset classes, potentially exposing investors to more risk than they realize.
-
-
 
 {{< adsterra_native >}}
 
@@ -84,34 +85,13 @@ We believe that while index funds can be a valuable component of an investment p
 
 As the landscape of index investing continues to evolve, staying informed and adaptable will be crucial for achieving long-term financial success. 
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Index Funds Exposed: Only 30% Truly Diversified in 2023",
-  "datePublished": "2023-10-10",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://your-article-url.com",
   "image": "https://your-image-url.com",
   "articleBody": "Only 30% of index funds are truly diversified in 2023, raising alarms among investors who might unknowingly be exposed to concentrated risks. ..."
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are index funds really safe investments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Index funds can be safe in terms of cost and lower volatility compared to individual stocks, but the risk of concentration means they may not be as diversified as previously thought."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "What should I look for in an index fund?",
@@ -152,6 +132,4 @@ As the landscape of index investing continues to evolve, staying informed and ad
 - [Morn](/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en/)
 - [XAEL-AI Enters U.S. Market After 150% Growth in China](/funds/xael-ai-enters-us-market-after-150-growth-in-china-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

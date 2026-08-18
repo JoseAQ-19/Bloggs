@@ -1,14 +1,17 @@
 ---
-title: "Morningstar Indexes Integrate CRSP: A Major Milestone in 2026"
-date: 2026-05-01T09:01:58
+title: 'Morningstar Indexes Integrate CRSP: A Major Milestone in 2026'
+date: 2026-05-01 09:01:58
 draft: false
-description: "Explore the significance of Morningstar Indexes integrating CRSP in 2026, a pivotal advancement for investors and the mutual fund landscape."
-featured_image: "/images/morningstar-indexes-integrate-crsp-a-major-milestone-in-2026-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "99a950cc-5551-20d4-27ac-2a582aabe77b"
+description: Explore the significance of Morningstar Indexes integrating CRSP in 2026,
+  a pivotal advancement for investors and the mutual fund landscape.
+featured_image: /images/morningstar-indexes-integrate-crsp-a-major-milestone-in-2026-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 99a950cc-5551-20d4-27ac-2a582aabe77b
 ---
 
 ![Morningstar Indexes Integrate CRSP: A Major Milestone in 2026](/images/morningstar-indexes-integrate-crsp-a-major-milestone-in-2026-en.jpg)
@@ -20,8 +23,6 @@ Morningstar's integration of CRSP into its index framework represents a signific
 * [Morningstar Indexes’ performance has outpaced the S&P 500 by 2% annually over the last 5 years — source: Morningstar]
 
 The merger of CRSP (Center for Research in Security Prices) into Morningstar's index offerings marks a pivotal moment in the indexing landscape. This integration aims to leverage CRSP’s robust research capabilities and extensive datasets to enhance the quality and accuracy of Morningstar's index products. As mutual funds increasingly pivot toward passive strategies, the stakes for index providers to deliver superior performance relative to traditional benchmarks have never been higher.
-
-
 
 {{< adsterra_native >}}
 
@@ -79,6 +80,4 @@ The ongoing integration of CRSP into Morningstar Indexes represents a vital chan
 - [Van](/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [Orion Platform Integrates 7 VanEck Multi-Asset ETF Model Portfolios](/funds/orion-platform-integrates-7-vaneck-multi-asset-etf-model-portfolios-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

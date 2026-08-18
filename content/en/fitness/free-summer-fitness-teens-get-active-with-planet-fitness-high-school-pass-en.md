@@ -1,16 +1,20 @@
 ---
-title: "3.7 Million Teens Got Active This Summer, But Fitness Levels Still Declined Dramatically"
-date: 2026-06-01T07:13:59
+title: 3.7 Million Teens Got Active This Summer, But Fitness Levels Still Declined
+  Dramatically
+date: 2026-06-01 07:13:59
 draft: false
-description: "Discover why 3.7 million teens engaged in summer activities yet fitness levels plummeted. Explore key factors affecting youth health and wellness today."
-featured_image: "/images/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en.jpg"
-slug: "free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en"
-canonical: "https://novumworld.com/fitness/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "6c1b0115-93cd-944e-c31f-e8835866e222"
+description: Discover why 3.7 million teens engaged in summer activities yet fitness
+  levels plummeted. Explore key factors affecting youth health and wellness today.
+featured_image: /images/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en.jpg
+slug: free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en
+canonical: https://novumworld.com/fitness/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 6c1b0115-93cd-944e-c31f-e8835866e222
 ---
 
 ![3.7 Million Teens Got Active This Summer, But Fitness Levels Still Declined Dramatically](/images/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en.jpg)
@@ -143,28 +147,12 @@ Specific recommendations include implementing trainer-to-participant ratios of 1
 - [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3IwSHVPQWZ2LUtHekN0b245VDdUSF9UZFJGZTRFOGNKcEVha3RJbXF3cjR1bUxSRXVlRC01U25lc2JnQVZGWUk2UUl6eGtUREZVakktZU9uREVvNGpkTkJUR0pybnpUZTZPMndZa0k5Z1FBb1BjcTl5ZVRGeEJsaTNnSXM1eWk3RUp2ZEhR?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0dhUFJkZk9oVHJKQUNKNElKNnUxbS1LbnZjWjEwTDJvM0RXR0VUTUFxRUZsVTJoRE9nVlBlSFAzTG1vVWhGZEM2NXNXcDJMVExlWUVMYWVYYktJb3dZcEJRdTVoRW9tVDRDeEVlMUw3TTF1dlNQV3BzMkNrc2FaXzlGLUVwV21zTEp6Q0lDTnFmNnRDTEJyX1J5aENOdHk1R2RmWTdUaS1QNDd4dktGekFaRFRmV2VJ?oc=5)
 
-
 ## Related Articles
 - [Bodybuilding Shocker: St](/fitness/stephanie-buttermore-death-investigation-en/)
 - [The Shocking Truth: Why Fitness Experts Say BMEA Pilates Ring Is Essential After 40](/fitness/unlock-your-potential-why-the-bmea-pilates-ring-is-a-game-changer-for-your-fitness-routine-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "3.7 Million Teens Got Active This Summer, But Fitness Levels Still Declined Dramatically",
-  "description": "Discover why 3.7 million teens engaged in summer activities yet fitness levels plummeted. Explore key factors affecting youth health and wellness today.",
-  "image": "https://novumworld.com/images/free-summer-fitness-teens-get-active-with-planet-fitness-high-school-pass-en.jpg",
-  "datePublished": "2026-06-01T07:13:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -174,4 +162,3 @@ Specific recommendations include implementing trainer-to-participant ratios of 1
     }
   }
 }
-</script>

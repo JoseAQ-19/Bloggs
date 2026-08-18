@@ -1,14 +1,17 @@
 ---
-title: "PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed"
-date: 2026-05-21T09:37:02
+title: PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed
+date: 2026-05-21 09:37:02
 draft: false
-description: "Discover how PGIM Real Estate Fund's latest $260M acquisition enhances its portfolio and drives growth in the real estate market. Explore the details now!."
-featured_image: "/images/pgim-real-estate-fund-marks-260m-with-10th-property-acquisition-completed-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "be2084c0-3cd1-c011-8e38-4a28f353d8ba"
+description: Discover how PGIM Real Estate Fund's latest $260M acquisition enhances
+  its portfolio and drives growth in the real estate market. Explore the details now!.
+featured_image: /images/pgim-real-estate-fund-marks-260m-with-10th-property-acquisition-completed-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: be2084c0-3cd1-c011-8e38-4a28f353d8ba
 ---
 
 ![PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed](/images/pgim-real-estate-fund-marks-260m-with-10th-property-acquisition-completed-en.jpg)
@@ -20,8 +23,6 @@ The PGIM Real Estate Fund has successfully completed its 10th property acquisiti
 - *5.5% — projected annual return on investment (via **PGIM**).*
 
 With the latest acquisition, the PGIM Real Estate Fund continues to diversify its portfolio across various geographies and property types. This strategy not only mitigates risk but also enhances the potential for returns. The fund has focused on residential and commercial properties in key metropolitan areas, where demand continues to outpace supply, contributing to sustained appreciation in property values.
-
-
 
 {{< adsterra_native >}}
 
@@ -77,30 +78,8 @@ Yes, potential risks include market downturns, rising interest rates, and geopol
 ### How does the PGIM Real Estate Fund manage risk?
 The fund employs a diversified investment strategy across various property types and geographies to mitigate risks associated with specific markets.
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed",
-  "datePublished": "2023-10-16",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  }
 }
-</script>
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of properties does the PGIM Real Estate Fund invest in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fund primarily invests in residential and commercial properties located in high-demand metropolitan areas."
-      }
-    },
     {
       "@type": "Question",
       "name": "How has the fund performed compared to its peers?",
@@ -135,13 +114,10 @@ The fund employs a diversified investment strategy across various property types
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [Vanguard Slash](/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 - [Van](/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 - [S&P 500](/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

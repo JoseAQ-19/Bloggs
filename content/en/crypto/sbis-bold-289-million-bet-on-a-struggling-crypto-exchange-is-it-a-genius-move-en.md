@@ -83,7 +83,6 @@ In summary, the intersection of regulatory challenges, market volatility, and in
 - [Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/)
 - [233 Million Reasons Why You Should Invest in Bitcoin Without Holding It Directly](/crypto/unlocking-crypto-exposure-invest-without-holding-coins-directly-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -92,18 +91,7 @@ In summary, the intersection of regulatory challenges, market volatility, and in
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "SBI's Shocking $289 Million Gamble On Failing Crypto Exchange Sparks Outrage Among Investors",
-  "description": "SBI's $289 million investment in a struggling crypto exchange has ignited outrage among investors. Discover the implications and reactions in our detailed.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-28T16:31:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +101,3 @@ In summary, the intersection of regulatory challenges, market volatility, and in
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "NYPD Uncovers Alarming Pattern: 12 Locker Thefts at Brooklyn's Planet Fitness Exposed"
-date: 2026-04-17T06:08:23
+title: 'NYPD Uncovers Alarming Pattern: 12 Locker Thefts at Brooklyn''s Planet Fitness
+  Exposed'
+date: 2026-04-17 06:08:23
 draft: false
-description: "Discover the NYPD's shocking findings on 12 locker thefts at Planet Fitness in Brooklyn, highlighting a growing trend of gym crime that demands attention."
-featured_image: "/images/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en.jpg"
-slug: "nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en"
-canonical: "https://novumworld.com/fitness/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "a36315fb-cf15-40be-ed29-0069a9839aa9"
+description: Discover the NYPD's shocking findings on 12 locker thefts at Planet Fitness
+  in Brooklyn, highlighting a growing trend of gym crime that demands attention.
+featured_image: /images/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en.jpg
+slug: nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en
+canonical: https://novumworld.com/fitness/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: a36315fb-cf15-40be-ed29-0069a9839aa9
 ---
 
 ![NYPD Uncovers Alarming Pattern: 12 Locker Thefts at Brooklyn's Planet Fitness Exposed](/images/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en.jpg)
@@ -77,28 +81,12 @@ The gym experience should be one of empowerment and well-being, not anxiety and 
 - [apps.criminaljustice.ny.gov](https://apps.criminaljustice.ny.gov/ofpa/pdfdocs/FINAL%202021%20MVTIFP%20Statewide%20Plan%20of%20Operation-Theft%204_11_22.pdf)
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNWktSdnl3aXh4ZWpmQlpXRmd6eENGU0tfOHUzbVhaYXBEWlg4VVRBa1NKS1AxY0dIdnNBdmRMMlB5WUhLNWp1cFdQb1FUUlVvRHc5RXZxbVRxVHI5eDBRbUE4ejJ0WWdVdDQ5VFdEZUQzWEQtR3Eyb0RmLXpIVTlOc1M2c0tXYUhxdDZuMGo1Z2NMWjczbFExVzB0Y3dGUQ?oc=5)
 
-
 ## Related Articles
 - [Rashford''s Rehab Miracle: 42% Le](/fitness/rashford-injury-barcelona-performance-en/)
 - [Bodybuilding''s Dark Secret](/fitness/natural-bodybuilding-testosterone-crash-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "NYPD Uncovers Alarming Pattern: 12 Locker Thefts at Brooklyn's Planet Fitness Exposed",
-  "description": "Discover the NYPD's shocking findings on 12 locker thefts at Planet Fitness in Brooklyn, highlighting a growing trend of gym crime that demands attention.",
-  "image": "https://novumworld.com/images/nypd-on-the-hunt-12-locker-thefts-at-brooklyns-planet-fitness-en.jpg",
-  "datePublished": "2026-04-17T06:08:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ The gym experience should be one of empowerment and well-being, not anxiety and 
     }
   }
 }
-</script>

@@ -85,12 +85,10 @@ As the dust settles on BlockEstate, one truth remains clear: not all that glitte
 - [news.google.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlhxVC1ZcnVEcGNkYTZjaGxSWUNKdF9jaEJGODNYWjZGSVBLMnFpSm1WMUtIQVNmcU16WkJLRFNySmlMbGJRZ0JBTHBrby1CT0RiRnU1Z254MVZFNEt2MzhWMUYtQ2pSZUctS0YzLVp6ZXJSYjdIdFpsUkVQUTR2ZDdHTDM0SlAwaXpZWHFVcnRsVTlPX1M2M25oYjR6QXpSU29KcVc3b0ZzcndKTnhHemhLdHd4N25fejhHZkpKcTlJYUJoY2s0STg1VDctNGM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTk9nR2VVQ1QtUlJoSkozNWNESDh5RHd5Rl9WZnB3bEVnUTFlS3l0ZXVYbllObnBZVnNvdUl1ME4zVEJNUjFWSjVvTEFUYlVKNjRDcE9QaDdjUEY5YWpHYWFIRVA2c21oR0E0SmlOTjd1bVpOUDRWUkJtSUFBcmtHczByRVJaSy1QVm56UTEyQ1FDYjlETUg0ZFlQcTNMTmRrR0lNYmc4TkdFWFlnZXk3ZDFDR3RUb2VoZUV6Z2NyS3d0Q1J5c3l4NTE3bldGQzZvOVE?oc=5)
 
-
 ## Related Articles
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/)
 - [Trump’s Crypto Token Catastrophe: Investors Lose $3.8 Billion While He Rakes In $1 Billion](/crypto/trumps-crypto-token-catastrophe-investors-lose-38-billion-as-he-profits-1-billion-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -100,18 +98,7 @@ As the dust settles on BlockEstate, one truth remains clear: not all that glitte
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Collapse of a $140 Million Crypto Real Estate Empire Exposed",
-  "description": "Discover the staggering downfall of a $140 million crypto real estate empire. Uncover the secrets, failures, and lessons from this shocking collapse.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-28T18:53:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -121,4 +108,3 @@ As the dust settles on BlockEstate, one truth remains clear: not all that glitte
     }
   }
 }
-</script>

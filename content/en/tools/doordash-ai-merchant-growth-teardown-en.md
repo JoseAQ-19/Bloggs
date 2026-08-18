@@ -1,16 +1,20 @@
 ---
-title: "DoorDash's AI Just Helped Merchants Boost Menu Quality by Over 30% and Nobody Noticed"
-date: 2026-05-10T14:46:11
+title: DoorDash's AI Just Helped Merchants Boost Menu Quality by Over 30% and Nobody
+  Noticed
+date: 2026-05-10 14:46:11
 draft: false
-description: "Discover how DoorDash's AI revolutionized menu quality for merchants, enhancing offerings by over 30% without customers even realizing the change."
-featured_image: "/images/doordash-ai-merchant-growth-teardown-en.jpg"
-slug: "doordash-ai-merchant-growth-teardown-en"
-canonical: "https://novumworld.com/tools/doordash-ai-merchant-growth-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "56a3af02-1c33-e63e-2b6a-0aebb699d1db"
+description: Discover how DoorDash's AI revolutionized menu quality for merchants,
+  enhancing offerings by over 30% without customers even realizing the change.
+featured_image: /images/doordash-ai-merchant-growth-teardown-en.jpg
+slug: doordash-ai-merchant-growth-teardown-en
+canonical: https://novumworld.com/tools/doordash-ai-merchant-growth-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 56a3af02-1c33-e63e-2b6a-0aebb699d1db
 ---
 
 ![DoorDash's AI Just Helped Merchants Boost Menu Quality by Over 30% and Nobody Noticed](/images/doordash-ai-merchant-growth-teardown-en.jpg)
@@ -62,22 +66,7 @@ DoorDash's AI advancements present a sophisticated trap for small businesses, of
 - [Only 28% of Finance Professionals Trust AI Tools: The Shocking Truth Revealed](/tools/why-only-28-of-finance-pros-trust-ai-tools-to-deliver-results-a-deep-dive-en/)
 - [The Hidden Truth Behind Iran's State-Sponsored Media and Trump's Deepfake Crisis](/tools/trump-disinformation-iran-influence-technical-teardown-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "DoorDash's AI Just Helped Merchants Boost Menu Quality by Over 30% and Nobody Noticed",
-  "description": "Discover how DoorDash's AI revolutionized menu quality for merchants, enhancing offerings by over 30% without customers even realizing the change.",
-  "image": "https://novumworld.com/images/doordash-ai-merchant-growth-teardown-en.jpg",
-  "datePublished": "2026-05-10T14:46:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -87,4 +76,3 @@ DoorDash's AI advancements present a sophisticated trap for small businesses, of
     }
   }
 }
-</script>

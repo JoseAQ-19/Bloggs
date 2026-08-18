@@ -71,7 +71,6 @@ Investors should consider diversifying their portfolios away from Bitcoin and in
 - [Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer](/crypto/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en/)
 - [Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming](/crypto/wall-streets-surprising-love-affair-with-crypto-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -80,18 +79,7 @@ Investors should consider diversifying their portfolios away from Bitcoin and in
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Just Lost 50% Value: The Crypto Winter Is Far From Over",
-  "description": "Bitcoin's value has plummeted by 50%, signaling that the crypto winter is far from over. Discover what this means for investors and the market's future.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-28T17:43:08",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ Investors should consider diversifying their portfolios away from Bitcoin and in
     }
   }
 }
-</script>

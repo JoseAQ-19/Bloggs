@@ -1,16 +1,19 @@
 ---
-title: "La Trágica Búsqueda De Álvaro: Cómo Un Niño Encontró Su Refugio En La Piscina"
-date: 2026-06-17T22:19:03
+title: 'La Trágica Búsqueda De Álvaro: Cómo Un Niño Encontró Su Refugio En La Piscina'
+date: 2026-06-17 22:19:03
 draft: false
-description: "Descubre la conmovedora historia de Álvaro, un niño que buscó refugio en la piscina. Una tragedia que revela la lucha y esperanza en tiempos oscuros."
-featured_image: "/images/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina.jpg"
-slug: "el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina"
-canonical: "https://novumworld.com/es/viral/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "5fbb0578-11a6-4eee-f6af-dcf17b1c2347"
+description: Descubre la conmovedora historia de Álvaro, un niño que buscó refugio
+  en la piscina. Una tragedia que revela la lucha y esperanza en tiempos oscuros.
+featured_image: /images/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina.jpg
+slug: el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina
+canonical: https://novumworld.com/es/viral/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 5fbb0578-11a6-4eee-f6af-dcf17b1c2347
 ---
 
 ![La Trágica Búsqueda De Álvaro: Cómo Un Niño Encontró Su Refugio En La Piscina](/images/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina.jpg)
@@ -83,22 +86,7 @@ Recomiendo que se prioricen programas de capacitación para voluntarios comunita
 - [¡Alerta Roja! 20 Gramos de Paracetamol: La](/es/viral/reto-paracetamol-tiktok-peligro-viral/)
 - [Sofía Contra Alcaraz: El Incómodo Encuentro](/es/viral/reina-sofia-alcaraz-polemica-miami/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Trágica Búsqueda De Álvaro: Cómo Un Niño Encontró Su Refugio En La Piscina",
-  "description": "Descubre la conmovedora historia de Álvaro, un niño que buscó refugio en la piscina. Una tragedia que revela la lucha y esperanza en tiempos oscuros.",
-  "image": "https://novumworld.com/images/el-desgarrador-testimonio-de-alvaro-el-nino-que-solo-buscaba-paz-en-la-piscina.jpg",
-  "datePublished": "2026-06-17T22:19:03",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ Recomiendo que se prioricen programas de capacitación para voluntarios comunita
     }
   }
 }
-</script>

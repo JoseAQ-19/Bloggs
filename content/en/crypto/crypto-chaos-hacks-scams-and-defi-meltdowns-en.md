@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Collapse of Clawdbot: From AI Darling to Crypto Nightmare"
-date: 2026-04-23T16:46:40
+title: 'The Shocking Collapse of Clawdbot: From AI Darling to Crypto Nightmare'
+date: 2026-04-23 16:46:40
 draft: false
-description: "Discover how Clawdbot, once a celebrated AI innovator, spiraled into chaos, revealing the dark side of crypto investments and technology's volatile future."
-featured_image: "/images/crypto-chaos-hacks-scams-and-defi-meltdowns-en.jpg"
-slug: "crypto-chaos-hacks-scams-and-defi-meltdowns-en"
-canonical: "https://novumworld.com/crypto/crypto-chaos-hacks-scams-and-defi-meltdowns-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "50c6dee1-25a0-0518-d1ee-5b473718c1f3"
+description: Discover how Clawdbot, once a celebrated AI innovator, spiraled into
+  chaos, revealing the dark side of crypto investments and technology's volatile future.
+featured_image: /images/crypto-chaos-hacks-scams-and-defi-meltdowns-en.jpg
+slug: crypto-chaos-hacks-scams-and-defi-meltdowns-en
+canonical: https://novumworld.com/crypto/crypto-chaos-hacks-scams-and-defi-meltdowns-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 50c6dee1-25a0-0518-d1ee-5b473718c1f3
 ---
 
 ![The Shocking Collapse of Clawdbot: From AI Darling to Crypto Nightmare](/images/crypto-chaos-hacks-scams-and-defi-meltdowns-en.jpg)
@@ -78,12 +81,10 @@ The lessons learned from the Clawdbot incident should serve as a wake-up call fo
 - [t.co](https://t.co/LPrQauiW5C)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Tether''s $135 Billion Treasury Binge: Are You Ig](/crypto/stablecoin-treasury-risk-2024-en/)
 - [Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk](/crypto/plymouth-man-crypto-scam-en/)
 - [The $46 Million Crypto Heist Exposes Government Theft Threatening Billions In Tether Profits](/crypto/the-46-million-crypto-heist-how-government-theft-threatened-billions-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -93,18 +94,7 @@ The lessons learned from the Clawdbot incident should serve as a wake-up call fo
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Collapse of Clawdbot: From AI Darling to Crypto Nightmare",
-  "description": "Discover how Clawdbot, once a celebrated AI innovator, spiraled into chaos, revealing the dark side of crypto investments and technology's volatile future.",
-  "image": "https://novumworld.com/images/crypto-chaos-hacks-scams-and-defi-meltdowns-en.jpg",
-  "datePublished": "2026-04-23T16:46:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +104,3 @@ The lessons learned from the Clawdbot incident should serve as a wake-up call fo
     }
   }
 }
-</script>

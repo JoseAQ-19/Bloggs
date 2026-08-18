@@ -1,16 +1,19 @@
 ---
-title: "AI Is Automating Disagreement: 23% Increase In Cancer Detection Rates Ignored"
-date: 2026-04-16T15:41:51
+title: 'AI Is Automating Disagreement: 23% Increase In Cancer Detection Rates Ignored'
+date: 2026-04-16 15:41:51
 draft: false
-description: "Explore how AI is reshaping cancer detection, revealing a 23% increase in accuracy that is being overlooked. Discover the implications for healthcare."
-featured_image: "/images/ai-histopathology-cancer-recurrence-technical-analysis-en.jpg"
-slug: "ai-histopathology-cancer-recurrence-technical-analysis-en"
-canonical: "https://novumworld.com/tools/ai-histopathology-cancer-recurrence-technical-analysis-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "d35adc81-9881-93db-a5c1-736a4e31b645"
+description: Explore how AI is reshaping cancer detection, revealing a 23% increase
+  in accuracy that is being overlooked. Discover the implications for healthcare.
+featured_image: /images/ai-histopathology-cancer-recurrence-technical-analysis-en.jpg
+slug: ai-histopathology-cancer-recurrence-technical-analysis-en
+canonical: https://novumworld.com/tools/ai-histopathology-cancer-recurrence-technical-analysis-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: d35adc81-9881-93db-a5c1-736a4e31b645
 ---
 
 ![AI Is Automating Disagreement: 23% Increase In Cancer Detection Rates Ignored](/images/ai-histopathology-cancer-recurrence-technical-analysis-en.jpg)
@@ -57,28 +60,12 @@ The AI pathology revolution is a sophisticated scam selling technological soluti
 - [par.nsf.gov](https://par.nsf.gov/biblio/10631898-critical-assessment-artificial-intelligence-magnetic-resonance-imaging-cancer)
 - [news.google.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3F0ZXczelhPRUZKOGZzVnlSVHJrclFCbnBWRDRaRmJlQzg2NUJpR0g2T09JYUsxbjBiUEhpUDRZYjNQcEZ5NEVxaWZ6VVFBYk5yeTdvOEdOc3g2Z284eVZzaE1FVWZfa3hBRGtmeFVYQVFneWdXeEJUVnNpRGN6RVI0bFJLZw?oc=5)
 
-
 ## Related Articles
 - [61.8% of Rural Counties Lack Mental Health Professionals: The Telehealth Solution Everyone Ignores](/tools/telehealth-mental-health-rural-technical-teardown-en/)
 - [Statin MYOPATHY Cover-Up? The](/tools/next-gen-heart-health-dyslipidemia-guidelines-2026-en/)
 - [Make.com Masterc](/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI Is Automating Disagreement: 23% Increase In Cancer Detection Rates Ignored",
-  "description": "Explore how AI is reshaping cancer detection, revealing a 23% increase in accuracy that is being overlooked. Discover the implications for healthcare.",
-  "image": "https://novumworld.com/images/ai-histopathology-cancer-recurrence-technical-analysis-en.jpg",
-  "datePublished": "2026-04-16T15:41:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +75,3 @@ The AI pathology revolution is a sophisticated scam selling technological soluti
     }
   }
 }
-</script>

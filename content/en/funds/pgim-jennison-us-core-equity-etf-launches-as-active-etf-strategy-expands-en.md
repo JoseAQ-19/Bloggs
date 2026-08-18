@@ -1,14 +1,17 @@
 ---
-title: "PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands"
-date: 2026-05-22T09:42:20
+title: PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands
+date: 2026-05-22 09:42:20
 draft: false
-description: "Discover how the PGIM Jennison US Core Equity ETF is redefining active investing as the ETF landscape expands. Explore its unique strategy now!."
-featured_image: "/images/pgim-jennison-us-core-equity-etf-launches-as-active-etf-strategy-expands-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "10d439ca-06a1-7cbd-4f71-351c0af562ce"
+description: Discover how the PGIM Jennison US Core Equity ETF is redefining active
+  investing as the ETF landscape expands. Explore its unique strategy now!.
+featured_image: /images/pgim-jennison-us-core-equity-etf-launches-as-active-etf-strategy-expands-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 10d439ca-06a1-7cbd-4f71-351c0af562ce
 ---
 
 ![PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands](/images/pgim-jennison-us-core-equity-etf-launches-as-active-etf-strategy-expands-en.jpg)
@@ -20,8 +23,6 @@ The launch of the PGIM Jennison US Core Equity ETF marks a significant developme
 * 60% — Share of new ETF launches in 2023 that are actively managed [**CNMV**].
 
 This launch aligns with a broader trend where investors are increasingly gravitating towards active management strategies, seeking to capitalize on market inefficiencies. The PGIM Jennison US Core Equity ETF aims to provide exposure to U.S. equities while employing a disciplined investment approach, leveraging Jennison Associates' extensive research capabilities. 
-
-
 
 {{< adsterra_native >}}
 
@@ -89,34 +90,12 @@ Typically, ETFs can be purchased in shares, with the minimum investment being th
 
 Active management aims to outperform the market through strategic stock selection, which can provide higher returns but also introduces the risk of underperformance.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "PGIM Jennison US Core Equity ETF Launches as Active ETF Strategy Expands",
-  "datePublished": "2023-10-01T00:00:00Z",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com",
   "image": "https://news.google.com/logo.png"
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I consider before investing in the PGIM Jennison US Core Equity ETF?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Investors should assess their risk tolerance, investment horizon, and the ETF's expense ratio compared to similar funds."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How does the PGIM Jennison US Core Equity ETF perform during market downturns?",
@@ -167,13 +146,10 @@ Active management aims to outperform the market through strategic stock selectio
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [Protect Your Portfolio: 4 TIPS Funds Performing 10% Better Than Inflation Rate](/funds/protect-your-portfolio-4-tips-funds-performing-10-better-than-inflation-rate-en/)
 - [Vanguard Slash](/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 - [Private Credit Funds Struggle with 20% Redemption Rates Amid High Fee Pressures](/funds/private-credit-funds-struggle-with-20-redemption-rates-amid-high-fee-pressures-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

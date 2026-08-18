@@ -1,16 +1,19 @@
 ---
-title: "60% of Parents Witnessed Abuse: The Alarming Truth Behind Viral Umpire Antics"
-date: 2026-05-10T23:44:06
+title: '60% of Parents Witnessed Abuse: The Alarming Truth Behind Viral Umpire Antics'
+date: 2026-05-10 23:44:06
 draft: false
-description: "Discover the shocking reality of parental abuse witnessed by 60% of parents, as we explore the disturbing trend behind viral umpire antics."
-featured_image: "/images/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en.jpg"
-slug: "little-league-umpires-wild-antics-steal-the-show-and-go-viral-en"
-canonical: "https://novumworld.com/viral/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "84f88f1e-139b-a760-648f-a13a37f8ac83"
+description: Discover the shocking reality of parental abuse witnessed by 60% of parents,
+  as we explore the disturbing trend behind viral umpire antics.
+featured_image: /images/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en.jpg
+slug: little-league-umpires-wild-antics-steal-the-show-and-go-viral-en
+canonical: https://novumworld.com/viral/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 84f88f1e-139b-a760-648f-a13a37f8ac83
 ---
 
 ![60% of Parents Witnessed Abuse: The Alarming Truth Behind Viral Umpire Antics](/images/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en.jpg)
@@ -68,22 +71,7 @@ In conclusion, the current state of youth sports demands a concerted effort from
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "60% of Parents Witnessed Abuse: The Alarming Truth Behind Viral Umpire Antics",
-  "description": "Discover the shocking reality of parental abuse witnessed by 60% of parents, as we explore the disturbing trend behind viral umpire antics.",
-  "image": "https://novumworld.com/images/little-league-umpires-wild-antics-steal-the-show-and-go-viral-en.jpg",
-  "datePublished": "2026-05-10T23:44:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +81,3 @@ In conclusion, the current state of youth sports demands a concerted effort from
     }
   }
 }
-</script>

@@ -29,8 +29,6 @@ Bates College's pivot to prioritizing "well-being" may very well turn into a bal
 * Bates' Director of Athletics, Stacey Bunting, emphasizes the project benefits the entire student body, with over 80% of Bates students using fitness facilities, according to college reports.
 * Students at Bates, and those considering attending, need to weigh the college's commitment to well-being initiatives against potential tuition increases or reduced academic resources resulting from the $45 million expenditure.
 
-
-
 {{< adsterra_native >}}
 
 ## Bates' $45 Million Bet: Will a Fitness Frenzy Outweigh Academic Excellence?
@@ -87,6 +85,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [The Shocking Truth: Wearable Fitness Trackers Are Underestimating Your VO2](/en/fitness/how-ai-is-revolutionizing-your-gym-experience-en/)
 - [71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist](/en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en/)
 - [Air Force Fitness Fiasco: Women Face 31% Higher Injury Risk. Why?](/en/fitness/air-force-fitness-overhaul-hidden-risks-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

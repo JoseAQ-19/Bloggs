@@ -29,8 +29,6 @@ Hyperliquid's siren song of 50x leverage has lured many to the rocks, but a rece
 * Hyperliquid experienced a price manipulation attack in November 2025 using the POPCAT token, resulting in approximately $4.9 million in losses for the platform (**WEEX Crypto News**).
 * Traders should exercise extreme caution when using high leverage on Hyperliquid and understand the risks associated with HLP, as they bear the brunt of losses during extreme market conditions.
 
-
-
 {{< adsterra_native >}}
 
 ## $74 Million Wiped Out: How Hyperliquid's Leverage Became a Liability
@@ -89,6 +87,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Why is Berachain trending today in crypto? Analysis](/en/crypto/why-is-berachain-trending-today-in-crypto-en/)
 - [The $4 Trillion Crypto Bet: Why Jamie Dimon Says It’s a Dangerous Scam](/en/crypto/jamie-dimons-bold-claim-are-crypto-tokens-just-decentralized-ponzi-schemes-en/)
 - [OKX''s $6 Trillion Secret: How The Exchange Dodged SEC Scrutiny (For Now).](/en/crypto/okx-valuation-regulatory-litmus-test-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

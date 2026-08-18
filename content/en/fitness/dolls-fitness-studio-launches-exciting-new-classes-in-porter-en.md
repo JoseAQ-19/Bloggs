@@ -80,22 +80,7 @@ Dolls Fitness Studio exemplifies how creative and inclusive fitness solutions ca
 - [7 Jaw-Dropping Highlights From The Brigade Fitness Competition That Will Leave You Speechless](/fitness/unleashing-potential-highlights-from-the-division-sustainment-brigade-fitness-competition-en/)
 - [92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "7 Reasons Dolls Fitness Studio’s New Classes Are Causing a Fitness Revolution",
-  "description": "Discover how Dolls Fitness Studio's innovative new classes are transforming workouts and inspiring a fitness revolution. Join the movement today!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-06T09:09:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +90,3 @@ Dolls Fitness Studio exemplifies how creative and inclusive fitness solutions ca
     }
   }
 }
-</script>

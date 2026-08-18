@@ -29,8 +29,6 @@ Ante la reiteración de casos de racismo en los estadios, la pregunta ya no es s
 * Tres aficionados del Valencia CF fueron condenados en junio de 2024 a ocho meses de prisión por abusar racialmente de Vinícius Jr. en mayo de 2023, marcando la primera condena de este tipo en el fútbol español.
 * Este caso subraya la creciente presión para erradicar el racismo en el fútbol español y podría sentar un precedente importante para futuras sanciones contra el comportamiento racista en los estadios.
 
-
-
 {{< adsterra_native >}}
 
 ## Mbappé en la Mira: La Solicitud de Prisión Revela la Lucha Contra el Racismo en el Fútbol Español
@@ -90,6 +88,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Grok Desata el Infierno: 3 Millones de Imágenes Infantiles Explicitas Generadas](/es/viral/deepfakes-infantiles-ia-sexualizacion-adolescentes-espana/)
 - [Adiós, Tama: El Desplome Turístico de Wakayama Cuesta 1.100 Millones de Yenes.](/es/viral/tama-gata-jefa-estacion-wakayama/)
 - [Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobierno?](/es/viral/shakira-concierto-gratis-cdmx-riesgos/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

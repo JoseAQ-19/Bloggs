@@ -1,16 +1,19 @@
 ---
-title: "DeFi Ecosystem Faces Collapse After Shocking $290 Million Crypto Heist"
-date: 2026-04-21T16:38:33
+title: DeFi Ecosystem Faces Collapse After Shocking $290 Million Crypto Heist
+date: 2026-04-21 16:38:33
 draft: false
-description: "The DeFi ecosystem is rocked by a staggering $290 million crypto heist. Discover the implications and what it means for the future of decentralized."
-featured_image: "/images/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en.jpg"
-slug: "crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en"
-canonical: "https://novumworld.com/crypto/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "ef5aedcc-059a-8c78-425e-f6e9f3da66c0"
+description: The DeFi ecosystem is rocked by a staggering $290 million crypto heist.
+  Discover the implications and what it means for the future of decentralized.
+featured_image: /images/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en.jpg
+slug: crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en
+canonical: https://novumworld.com/crypto/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: ef5aedcc-059a-8c78-425e-f6e9f3da66c0
 ---
 
 ![DeFi Ecosystem Faces Collapse After Shocking $290 Million Crypto Heist](/images/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en.jpg)
@@ -82,7 +85,6 @@ The long-term survival of decentralized finance will depend on its ability to ad
 - [Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk](/crypto/plymouth-man-crypto-scam-en/)
 - [The Shocking Truth: 5 Ways Prediction Markets Are Disrupting Crypto Forever](/crypto/the-crypto-disruption-dilemma-where-do-prediction-markets-fit-in-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -91,18 +93,7 @@ The long-term survival of decentralized finance will depend on its ability to ad
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "DeFi Ecosystem Faces Collapse After Shocking $290 Million Crypto Heist",
-  "description": "The DeFi ecosystem is rocked by a staggering $290 million crypto heist. Discover the implications and what it means for the future of decentralized.",
-  "image": "https://novumworld.com/images/crypto-hack-hits-290m-is-the-defi-ecosystem-on-the-brink-of-collapse-en.jpg",
-  "datePublished": "2026-04-21T16:38:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +103,3 @@ The long-term survival of decentralized finance will depend on its ability to ad
     }
   }
 }
-</script>

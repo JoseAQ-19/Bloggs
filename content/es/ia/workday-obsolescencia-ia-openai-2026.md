@@ -30,8 +30,6 @@ Es ingenuo pensar que Workday seguirá siendo intocable en el mercado español. 
 * Si bien el 74% de los profesionales españoles informan de una mayor productividad gracias a la IA, el 42% dedica hasta una hora por semana a corregir contenido generado por la IA.
 * Las empresas españolas deben priorizar la formación y abordar las preocupaciones sobre la privacidad de los datos para aprovechar al máximo los beneficios de las soluciones de RR. HH. impulsadas por la IA.
 
-
-
 {{< adsterra_native >}}
 
 ## La Apuesta de Cegid: ¿Un Jaque Mate a Workday o una Simple Amenaza en España?
@@ -87,6 +85,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Inteligencia Artificial: La Estafa del Siglo XXI](/es/ia/inteligencia-artificial-la-estafa-del-siglo-xxi/)
 - [La Dictadura Digital: Cómo Vendimos Nuestra Alma a los Algoritmos](/es/ia/la-dictadura-digital-como-vendimos-nuestra-alma-a/)
 - [¿En Sí Misma o En el Abismo? La Trampa Filosófica que Nos Ciega](/es/ia/en-si-misma-o-en-el-abismo-la-trampa-filosofica-qu/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Risks Behind iA Global's Major Cuts to Sandisk and Duke Energy"
-date: 2026-05-18T12:44:28
+title: The Hidden Risks Behind iA Global's Major Cuts to Sandisk and Duke Energy
+date: 2026-05-18 12:44:28
 draft: false
-description: "Explore the unexpected dangers lurking behind iA Global's significant reductions in Sandisk and Duke Energy, and how they could impact the market."
-featured_image: "/images/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en.jpg"
-slug: "major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en"
-canonical: "https://novumworld.com/ia/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "8bbc5cc6-b278-b088-ba84-1b039f8d6081"
+description: Explore the unexpected dangers lurking behind iA Global's significant
+  reductions in Sandisk and Duke Energy, and how they could impact the market.
+featured_image: /images/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en.jpg
+slug: major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en
+canonical: https://novumworld.com/ia/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 8bbc5cc6-b278-b088-ba84-1b039f8d6081
 ---
 
 ![The Hidden Risks Behind iA Global's Major Cuts to Sandisk and Duke Energy](/images/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en.jpg)
@@ -63,22 +66,7 @@ With both companies at a crossroads, now is the time for investors to reassess t
 - [AI Thrombolysis Just Increased EVT Rates by 100%—Here’s What You Need to Know](/ia/navigating-the-uncertainty-ia-thrombolysis-post-thrombectomy-en/)
 - [Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct](/ia/mysterious-death-investigation-shakes-small-town-le-mars-ia-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Risks Behind iA Global's Major Cuts to Sandisk and Duke Energy",
-  "description": "Explore the unexpected dangers lurking behind iA Global's significant reductions in Sandisk and Duke Energy, and how they could impact the market.",
-  "image": "https://novumworld.com/images/major-stock-shuffle-ia-global-cuts-holdings-in-sandisk-and-duke-energy-en.jpg",
-  "datePublished": "2026-05-18T12:44:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +76,3 @@ With both companies at a crossroads, now is the time for investors to reassess t
     }
   }
 }
-</script>

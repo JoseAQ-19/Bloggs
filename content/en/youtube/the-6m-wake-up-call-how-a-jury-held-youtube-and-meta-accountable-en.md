@@ -33,8 +33,6 @@ Meta's stock plunged 8% following a $6 million verdict holding the company 70% r
 
 The verdict fundamentally challenges how social media companies operate. Mark Lanier, lead attorney for the plaintiffs, successfully argued that platform design choices constitute defective products. "That's called the engineering of addiction," Lanier stated during the seven-week trial, focusing on how algorithms deliberately maximize engagement at the expense of user wellbeing.
 
-
-
 {{< adsterra_native >}}
 
 ## Why Section 230 Is No Longer a Safe Harbor
@@ -109,6 +107,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization](/en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en/)
 - [YouTube''s $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/en/youtube/youtube-golden-age-creator-economics-en/)
 - [Google''s Project Kavya: Is Your Child''s Favorite YouTube Show a Deepfake?](/en/youtube/google-ai-kids-content-safety-concerns-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

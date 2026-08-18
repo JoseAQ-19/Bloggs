@@ -29,8 +29,6 @@ Kazakhstan's electricity demand surged 8% in 2021 due to crypto mining, signific
 * Trading volume on licensed exchanges within the Astana International Financial Centre (AIFC) reached $1.4 billion in 2024, highlighting the scale of crypto activity despite regulatory crackdowns.
 * Eight major crypto mining companies wrote an open letter to President Kassym-Jomart Tokayev, describing the Kazakh crypto mining industry as being in a "very distressful situation" due to rising energy prices.
 
-
-
 {{< adsterra_native >}}
 
 ## The Power Drain: How Crypto Mining Sent Kazakhstan's Grid Into Overdrive
@@ -102,6 +100,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Clarity Act''s Static Mistakes: Why JPMorgan''s Crypto Bull Case Is a LIE](/en/crypto/clarity-act-jpmorgan-crypto-risk-2026-en/)
 - [Hyperliquid's $47 Billion Volume Week Exposes Bitcoin's Fading Macro Hedge](/en/crypto/hyperliquid-volumes-bitcoin-weakness-en/)
 - [Tether''s $135 Billion Treasury Binge: Are You Ignoring A Crypto Time Bomb?](/en/crypto/stablecoin-treasury-risk-2024-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

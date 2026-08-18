@@ -1,16 +1,19 @@
 ---
-title: "DRC's Ebola Testing Surge: 550 Cases, But Is Trust Enough to Save Lives?"
-date: 2026-06-11T22:39:37
+title: 'DRC''s Ebola Testing Surge: 550 Cases, But Is Trust Enough to Save Lives?'
+date: 2026-06-11 22:39:37
 draft: false
-description: "Explore the DRC's alarming rise in Ebola cases and the critical role of trust in public health efforts to save lives amid the ongoing crisis."
-featured_image: "/images/drcs-ebola-testing-progress-made-but-is-it-enough-en.jpg"
-slug: "drcs-ebola-testing-progress-made-but-is-it-enough-en"
-canonical: "https://novumworld.com/viral/drcs-ebola-testing-progress-made-but-is-it-enough-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "967e3e70-9253-293e-8ebc-8d4f4072e121"
+description: Explore the DRC's alarming rise in Ebola cases and the critical role
+  of trust in public health efforts to save lives amid the ongoing crisis.
+featured_image: /images/drcs-ebola-testing-progress-made-but-is-it-enough-en.jpg
+slug: drcs-ebola-testing-progress-made-but-is-it-enough-en
+canonical: https://novumworld.com/viral/drcs-ebola-testing-progress-made-but-is-it-enough-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 967e3e70-9253-293e-8ebc-8d4f4072e121
 ---
 
 ![DRC's Ebola Testing Surge: 550 Cases, But Is Trust Enough to Save Lives?](/images/drcs-ebola-testing-progress-made-but-is-it-enough-en.jpg)
@@ -67,28 +70,12 @@ In the battle against Ebola, trust may just be the most powerful medicine.
 - [news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmNJSGU1ZVI0aG82MEhFUTI0MElDbk82UV8zRmw2ektXd2d2NHlKT2NrcVBSajlpM2RVc193T1FFbkE0eUdlZjNHS0d5S3hBd0ctMzZXdkswTVVucHFYSm9ZQzhRMXFiazhsT2Y0YlFKMEE1eGU5ckJ5Z2lTZGNianFrU05aOWJsMWhZU251LVp2dmlON2VJdmVkLUU?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGFNc2ZJaHQ3WGlZOTNTUU9KY1BBbXA1VWJEa1NpRTNKU0pzVENreXdvdmdnQ01rNkZ2OXJkTllzdzVlVmFkVXhCRXdSd3VRMlVxU3E1VWg2Q2prWWV2RG8zSUs5SDB1YmRGdVFrNElxbUs0NXZ1U0kySUVnQUJwVjJhX0ZhMWlPY2dsSFVobXgxUFFWa0l0djktT2R6NV85OW5yZ0x3?oc=5)
 
-
 ## Related Articles
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 - [The Dot Cake Craze Is Taking Over TikTok And You Won't Believe Why](/viral/the-dot-cake-craze-why-everyones-sprinkling-their-desserts-on-tiktok-en/)
 - [The Shocking Truth About NeeDoh: 65% Of Parents Are Ignoring Hidden Risks](/viral/the-needoh-craze-why-this-must-have-toy-is-flying-off-shelves-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "DRC's Ebola Testing Surge: 550 Cases, But Is Trust Enough to Save Lives?",
-  "description": "Explore the DRC's alarming rise in Ebola cases and the critical role of trust in public health efforts to save lives amid the ongoing crisis.",
-  "image": "https://novumworld.com/images/drcs-ebola-testing-progress-made-but-is-it-enough-en.jpg",
-  "datePublished": "2026-06-11T22:39:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +85,3 @@ In the battle against Ebola, trust may just be the most powerful medicine.
     }
   }
 }
-</script>

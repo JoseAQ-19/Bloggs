@@ -1,16 +1,19 @@
 ---
-title: "Missouri AG Takes Action: $114 Million Lost to Crypto ATM Scams Exposed"
-date: 2026-05-20T17:33:30
+title: 'Missouri AG Takes Action: $114 Million Lost to Crypto ATM Scams Exposed'
+date: 2026-05-20 17:33:30
 draft: false
-description: "Discover how Missouri's Attorney General is tackling $114 million in losses from crypto ATM scams, protecting consumers and enhancing regulations."
-featured_image: "/images/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en.jpg"
-slug: "missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en"
-canonical: "https://novumworld.com/crypto/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "2ac04ea0-cd2c-4ea4-b59f-66806a340972"
+description: Discover how Missouri's Attorney General is tackling $114 million in
+  losses from crypto ATM scams, protecting consumers and enhancing regulations.
+featured_image: /images/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en.jpg
+slug: missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en
+canonical: https://novumworld.com/crypto/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 2ac04ea0-cd2c-4ea4-b59f-66806a340972
 ---
 
 ![Missouri AG Takes Action: $114 Million Lost to Crypto ATM Scams Exposed](/images/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en.jpg)
@@ -110,12 +113,10 @@ As Missouri shows, the future of crypto ATMs hinges on accountability—it's tim
 - [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEZNTDctanpQSmFEMFpfMzZyMXBiZm4tUm95UkVBc3otanhHR3REYWxiNDZRTXJiWHpUd1Q3SkRqQ3Blczh6TXRjOWZPdDVPMlF0NExaS0hoaTlNVDI0dmpBM1VDcUdiZDlvd0o4Q0hiTVpmU19qSXJybXdSa3RuVWJPSmlvREpCYUVTZVdhQmVidnJ5UEhQeWRlQnpmUElaQkVmM3JoUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVS1rSl9SeGhEQUpTeUJZQkFWeEZoZThUNmxkczJDakpjY0Y2TkFNalN0ZlQzWGJ3Y0R3OGU0TTVnbHhoeWR3aC1FamlkM1BCYjlRMjV1OVlZNmhCVnNaUUtGaXRUd3ltU0NPWXdfVG9NZWUtTWtUbElGQWJwSlY4aFZleGpLRGwtUzlWU2M3bw?oc=5)
 
-
 ## Related Articles
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -125,18 +126,7 @@ As Missouri shows, the future of crypto ATMs hinges on accountability—it's tim
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Missouri AG Takes Action: $114 Million Lost to Crypto ATM Scams Exposed",
-  "description": "Discover how Missouri's Attorney General is tackling $114 million in losses from crypto ATM scams, protecting consumers and enhancing regulations.",
-  "image": "https://novumworld.com/images/missouri-ag-takes-action-lawsuit-filed-against-crypto-atm-network-for-scams-en.jpg",
-  "datePublished": "2026-05-20T17:33:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -146,4 +136,3 @@ As Missouri shows, the future of crypto ATMs hinges on accountability—it's tim
     }
   }
 }
-</script>

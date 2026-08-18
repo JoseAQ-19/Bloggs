@@ -1,16 +1,19 @@
 ---
-title: "YouTube TV Just Made a Shocking Move That’s Leaving Roku Users Fuming"
-date: 2026-06-18T21:13:18
+title: YouTube TV Just Made a Shocking Move That’s Leaving Roku Users Fuming
+date: 2026-06-18 21:13:18
 draft: false
-description: "YouTube TV's latest decision has left Roku users outraged. Discover the shocking move that’s shaking up the streaming landscape and what it means for you."
-featured_image: "/images/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en.jpg"
-slug: "youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en"
-canonical: "https://novumworld.com/youtube/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "fa800149-9d96-951b-d7f3-4a61064e369b"
+description: YouTube TV's latest decision has left Roku users outraged. Discover the
+  shocking move that’s shaking up the streaming landscape and what it means for you.
+featured_image: /images/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en.jpg
+slug: youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en
+canonical: https://novumworld.com/youtube/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: fa800149-9d96-951b-d7f3-4a61064e369b
 ---
 
 ![YouTube TV Just Made a Shocking Move That’s Leaving Roku Users Fuming](/images/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en.jpg)
@@ -68,22 +71,7 @@ As streaming services grapple with the realities of their business models, consu
 - [YouTube Just Surged to $9.88 Billion in Ad Revenue and Creators Are Struggling](/youtube/youtubes-ad-revenue-soars-what-988-billion-means-for-creators-en/)
 - [The Secret Behind YouTube's $60B Revenue Explosion That Advertisers Don’t Want You To Know](/youtube/youtubes-60b-revenue-surge-whats-driving-ad-spend-growth-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube TV Just Made a Shocking Move That’s Leaving Roku Users Fuming",
-  "description": "YouTube TV's latest decision has left Roku users outraged. Discover the shocking move that’s shaking up the streaming landscape and what it means for you.",
-  "image": "https://novumworld.com/images/youtube-tvs-silent-shift-why-roku-users-are-feeling-the-heat-en.jpg",
-  "datePublished": "2026-06-18T21:13:18",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +81,3 @@ As streaming services grapple with the realities of their business models, consu
     }
   }
 }
-</script>

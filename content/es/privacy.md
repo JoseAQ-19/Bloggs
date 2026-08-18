@@ -19,8 +19,6 @@ Esta Política de Privacidad cumple con los requisitos de Google AdSense y el Re
 
 ---
 
-
-
 {{< adsterra_native >}}
 
 ## 1. Información que recopilamos

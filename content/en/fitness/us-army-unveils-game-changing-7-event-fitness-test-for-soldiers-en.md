@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test"
-date: 2026-04-23T06:14:58
+title: 'The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness
+  Test'
+date: 2026-04-23 06:14:58
 draft: false
-description: "Discover the startling statistics revealing a 20% increase in injuries among soldiers who fail the new combat fitness test. Uncover the implications today."
-featured_image: "/images/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en.jpg"
-slug: "us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en"
-canonical: "https://novumworld.com/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "915ce3a6-071e-dfae-935e-e3ad9d65fc2e"
+description: Discover the startling statistics revealing a 20% increase in injuries
+  among soldiers who fail the new combat fitness test. Uncover the implications today.
+featured_image: /images/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en.jpg
+slug: us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en
+canonical: https://novumworld.com/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 915ce3a6-071e-dfae-935e-e3ad9d65fc2e
 ---
 
 ![The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/images/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en.jpg)
@@ -88,28 +92,12 @@ To survive the ACFT without becoming a statistic, soldiers must abandon the
 - [news.google.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGpFUm5COFZGMkFvaGxFTHlSSm15VFg2ZmhldEtPakRocmdIQ01ON180bDNOdE9vTUwtaWtqT1JKV1NQY09DMm5CenFxVThZRGVtS1M1aWxvY2tQN0N6dEszT2dqLUtzVzVudzh4Ym1TZTYzM0ZybDdMV3JTS2k0YWFlZ2hmR0o3Skh5UVBaZEtOdw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOelNmUFdfaE1GX1ZEa0lQUUI3eGxQVlZIR3RKNGhBSFJpUHI5RkpLTGNaZDV6YkRuaDNPRHdCVXFSanZyWHRKS3JwSmhTLW1oQnF3bzBoYXlLN2U2MWswdFg3eVpTcXBuaUV0MjJXZDZqWEZMWWx5am96QU5JcndidHA1S3Z3ZkJ6Rm9UV3NpdFBGbUxMWlpF0gGcAUFVX3lxTE9STFNNclk0dThtZGJzb09nRXZGVllKVnRSUzFEOVZGOXNvX0ljb1hIZjdHSnFkYUQtc1JXMks5MUNMcHBtWVhQOUdjdHhGaVdnajhpTk9ERGk2M3ZkOTFNdFJmRmo0MGtZLW1oYU5zWjNHdG01RDFldTVOZ3NKOHAxbVYwZHpaQ1YwWlZjWkJUU1FDay1BUU8zekQxcA?oc=5)
 
-
 ## Related Articles
 - [Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially](/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/)
 - [Unlock $100 Off Fitness Trackers: The Spring Sale That Could Save Your Health](/fitness/unlock-fitness-savings-dont-miss-100-off-top-trackers-in-the-amazon-spring-sale-en/)
 - [Bodybuilding Shocker: St](/fitness/stephanie-buttermore-death-investigation-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test",
-  "description": "Discover the startling statistics revealing a 20% increase in injuries among soldiers who fail the new combat fitness test. Uncover the implications today.",
-  "image": "https://novumworld.com/images/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en.jpg",
-  "datePublished": "2026-04-23T06:14:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +107,3 @@ To survive the ACFT without becoming a statistic, soldiers must abandon the
     }
   }
 }
-</script>

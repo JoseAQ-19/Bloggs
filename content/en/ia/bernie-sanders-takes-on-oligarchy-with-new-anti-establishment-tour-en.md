@@ -1,16 +1,20 @@
 ---
-title: "Bernie Sanders Unleashes 98% Surge in Grassroots Donations Against Oligarchy's Dark Money"
-date: 2026-05-03T11:46:30
+title: Bernie Sanders Unleashes 98% Surge in Grassroots Donations Against Oligarchy's
+  Dark Money
+date: 2026-05-03 11:46:30
 draft: false
-description: "Discover how Bernie Sanders mobilized a stunning 98% increase in grassroots donations, challenging the oligarchy's dark money influence on politics."
-featured_image: "/images/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en.jpg"
-slug: "bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en"
-canonical: "https://novumworld.com/ia/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "a2b8e3f1-a909-13f3-defd-848c0ad9ed04"
+description: Discover how Bernie Sanders mobilized a stunning 98% increase in grassroots
+  donations, challenging the oligarchy's dark money influence on politics.
+featured_image: /images/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en.jpg
+slug: bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en
+canonical: https://novumworld.com/ia/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: a2b8e3f1-a909-13f3-defd-848c0ad9ed04
 ---
 
 ![Bernie Sanders Unleashes 98% Surge in Grassroots Donations Against Oligarchy's Dark Money](/images/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en.jpg)
@@ -86,28 +90,12 @@ In a world of dark money, grassroots light is the only beacon of hope for democr
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWV9oQmlEcVNqUVlMRkg4MmIwWmRIRWFoejJNUGhuMG1oeXZqZ3MyMGtFTVJBdk5jM2FRdjRfemJ0dFoyb0Ftd2ZNTkJjOVd3SllmYVdaUEpDNUpnMFlPb2VheXdYQTBybHpsWVNPbmxjb3JwLU9Ea1duUkRLcnlOUmR5d3AtTy1GVFItMWptSjM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVlwd0dYN2lDVUJ1bTNWOWsza2tzdmZnYnQ3bmVKY01vbXFMeUFjaXVQbUpRUVhZbzFBeWRiZVFYaGthbXBNaS1PTHpjckhTLUVfVzdONWxxZmIycEptNFJCTTRHbkNvSk5VSFNOMTB4TnJGelA0N1E2MUZoX2FHTjE2UHZuMVp6ODVOeDY5UUdJNDhScHBEMDY3andwa19XYnk2aTNJTDBjYlF6ZFhrY0JublNuZ1I2RFhTZW1JTVpNUQ?oc=5)
 
-
 ## Related Articles
 - [Uncorking Fun: 2026 Le Mars Wine & Roses Festival Is a Must-Attend Event](/ia/uncorking-fun-what-to-expect-at-le-mars-wine-roses-event-en/)
 - [Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated Streak Alive](/ia/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en/)
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bernie Sanders Unleashes 98% Surge in Grassroots Donations Against Oligarchy's Dark Money",
-  "description": "Discover how Bernie Sanders mobilized a stunning 98% increase in grassroots donations, challenging the oligarchy's dark money influence on politics.",
-  "image": "https://novumworld.com/images/bernie-sanders-takes-on-oligarchy-with-new-anti-establishment-tour-en.jpg",
-  "datePublished": "2026-05-03T11:46:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +105,3 @@ In a world of dark money, grassroots light is the only beacon of hope for democr
     }
   }
 }
-</script>

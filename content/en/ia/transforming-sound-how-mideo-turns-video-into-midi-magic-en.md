@@ -1,16 +1,19 @@
 ---
-title: "Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation"
-date: 2026-05-10T11:51:39
+title: 'Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation'
+date: 2026-05-10 11:51:39
 draft: false
-description: "Discover how Mideo's AI technology is revolutionizing sound creation by transforming videos into MIDI, unlocking new possibilities for musicians and."
-featured_image: "/images/transforming-sound-how-mideo-turns-video-into-midi-magic-en.jpg"
-slug: "transforming-sound-how-mideo-turns-video-into-midi-magic-en"
-canonical: "https://novumworld.com/ia/transforming-sound-how-mideo-turns-video-into-midi-magic-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "fb00b398-4a8f-e00b-aa91-376e9e42420c"
+description: Discover how Mideo's AI technology is revolutionizing sound creation
+  by transforming videos into MIDI, unlocking new possibilities for musicians and.
+featured_image: /images/transforming-sound-how-mideo-turns-video-into-midi-magic-en.jpg
+slug: transforming-sound-how-mideo-turns-video-into-midi-magic-en
+canonical: https://novumworld.com/ia/transforming-sound-how-mideo-turns-video-into-midi-magic-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: fb00b398-4a8f-e00b-aa91-376e9e42420c
 ---
 
 ![Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation](/images/transforming-sound-how-mideo-turns-video-into-midi-magic-en.jpg)
@@ -77,22 +80,7 @@ The rise of AI in music presents both exciting opportunities and significant cha
 - [The Unexpected Philanthropy of George Michael: 10 Secret Acts That Shocked His Fans](/ia/remembering-george-martin-the-legacy-of-a-musical-legend-en/)
 - [The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm](/ia/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation",
-  "description": "Discover how Mideo's AI technology is revolutionizing sound creation by transforming videos into MIDI, unlocking new possibilities for musicians and.",
-  "image": "https://novumworld.com/images/transforming-sound-how-mideo-turns-video-into-midi-magic-en.jpg",
-  "datePublished": "2026-05-10T11:51:39",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ The rise of AI in music presents both exciting opportunities and significant cha
     }
   }
 }
-</script>

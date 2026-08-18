@@ -1,16 +1,19 @@
 ---
-title: "Outrage Erupts as CCU Tries to Justify Shocking Racial Slur Video Analysis"
-date: 2026-04-28T23:45:02
+title: Outrage Erupts as CCU Tries to Justify Shocking Racial Slur Video Analysis
+date: 2026-04-28 23:45:02
 draft: false
-description: "Outrage brews as CCU defends its controversial video analysis featuring racial slurs. Explore the fallout and community reactions in this heated."
-featured_image: "/images/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en.jpg"
-slug: "outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en"
-canonical: "https://novumworld.com/viral/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "4e8e7bc3-f598-99cf-1bb1-df8bf13be487"
+description: Outrage brews as CCU defends its controversial video analysis featuring
+  racial slurs. Explore the fallout and community reactions in this heated.
+featured_image: /images/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en.jpg
+slug: outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en
+canonical: https://novumworld.com/viral/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 4e8e7bc3-f598-99cf-1bb1-df8bf13be487
 ---
 
 ![Outrage Erupts as CCU Tries to Justify Shocking Racial Slur Video Analysis](/images/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en.jpg)
@@ -71,22 +74,7 @@ In a climate where accountability and social justice are paramount, CCU must rec
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 - [EVEscape’s 90% Accuracy Uncovers Hidden Threats in Emerging SARS-CoV-2 Variants](/viral/unpacking-the-buzz-what-you-need-to-know-about-the-new-flu-and-sars-cov-2-variants-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Outrage Erupts as CCU Tries to Justify Shocking Racial Slur Video Analysis",
-  "description": "Outrage brews as CCU defends its controversial video analysis featuring racial slurs. Explore the fallout and community reactions in this heated.",
-  "image": "https://novumworld.com/images/outrage-erupts-as-ccu-responds-to-shocking-racial-slur-video-en.jpg",
-  "datePublished": "2026-04-28T23:45:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +84,3 @@ In a climate where accountability and social justice are paramount, CCU must rec
     }
   }
 }
-</script>

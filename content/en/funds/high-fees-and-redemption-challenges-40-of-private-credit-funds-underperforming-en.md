@@ -1,14 +1,17 @@
 ---
-title: "High Fees and Redemption Challenges: 40% of Private Credit Funds Underperforming"
-date: 2026-04-29T07:45:38
+title: 'High Fees and Redemption Challenges: 40% of Private Credit Funds Underperforming'
+date: 2026-04-29 07:45:38
 draft: false
-description: "Discover why 40% of private credit funds struggle to outperform, focusing on high fees and redemption challenges that impact investor returns."
-featured_image: "/images/high-fees-and-redemption-challenges-40-of-private-credit-funds-underperforming-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e8db11ca-5d92-b3e9-0f6f-9a45b72dbd84"
+description: Discover why 40% of private credit funds struggle to outperform, focusing
+  on high fees and redemption challenges that impact investor returns.
+featured_image: /images/high-fees-and-redemption-challenges-40-of-private-credit-funds-underperforming-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: e8db11ca-5d92-b3e9-0f6f-9a45b72dbd84
 ---
 
 ![High Fees and Redemption Challenges: 40% of Private Credit Funds Underperforming](/images/high-fees-and-redemption-challenges-40-of-private-credit-funds-underperforming-en.jpg)
@@ -20,8 +23,6 @@ Forty percent of private credit funds are currently underperforming their benchm
 * [Management fees for private credit funds average 1.5% to 2% — source CNMV]
 
 The rapid ascent of private credit funds, which offer investors access to debt financing for private companies, has come with notable risks. While these funds can provide attractive yields, the high management fees—averaging between 1.5% to 2%—diminish net returns for investors. This situation is compounded by redemption challenges, as many funds impose lock-up periods that restrict liquidity, particularly during periods of market volatility. 
-
-
 
 {{< adsterra_native >}}
 
@@ -79,6 +80,4 @@ In our analysis, the challenges facing private credit funds—from high fees to 
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 - [Morningstar Award](/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -1,16 +1,20 @@
 ---
-title: "Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated Streak Alive"
-date: 2026-04-26T11:40:00
+title: Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated
+  Streak Alive
+date: 2026-04-26 11:40:00
 draft: false
-description: "Peoria Notre Dame's thrilling last-minute goal stuns Bettendorf, preserving their unbeaten streak. Discover the highlights of this unforgettable match!."
-featured_image: "/images/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en.jpg"
-slug: "peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en"
-canonical: "https://novumworld.com/ia/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "0b960080-a797-5e3d-ff6b-e19da958167d"
+description: Peoria Notre Dame's thrilling last-minute goal stuns Bettendorf, preserving
+  their unbeaten streak. Discover the highlights of this unforgettable match!.
+featured_image: /images/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en.jpg
+slug: peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en
+canonical: https://novumworld.com/ia/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 0b960080-a797-5e3d-ff6b-e19da958167d
 ---
 
 ![Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated Streak Alive](/images/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en.jpg)
@@ -80,22 +84,7 @@ The myth of straightforward recruitment success is unraveling, replaced by a rea
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated Streak Alive",
-  "description": "Peoria Notre Dame's thrilling last-minute goal stuns Bettendorf, preserving their unbeaten streak. Discover the highlights of this unforgettable match!.",
-  "image": "https://novumworld.com/images/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en.jpg",
-  "datePublished": "2026-04-26T11:40:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +94,3 @@ The myth of straightforward recruitment success is unraveling, replaced by a rea
     }
   }
 }
-</script>

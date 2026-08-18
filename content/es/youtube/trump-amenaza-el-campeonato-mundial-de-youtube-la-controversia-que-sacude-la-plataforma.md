@@ -1,16 +1,19 @@
 ---
-title: "Trump Desata La Controversia: 5 Motivos Por Los Que YouTube Está Temblando"
-date: 2026-06-12T19:19:04
+title: 'Trump Desata La Controversia: 5 Motivos Por Los Que YouTube Está Temblando'
+date: 2026-06-12 19:19:04
 draft: false
-description: "Descubre los 5 motivos que hacen temblar a YouTube tras las declaraciones de Trump. ¡No te pierdas este análisis de la controversia actual!."
-featured_image: "/images/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma.jpg"
-slug: "trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma"
-canonical: "https://novumworld.com/es/youtube/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "66561dac-3d78-bbb3-90e2-105a21a87691"
+description: Descubre los 5 motivos que hacen temblar a YouTube tras las declaraciones
+  de Trump. ¡No te pierdas este análisis de la controversia actual!.
+featured_image: /images/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma.jpg
+slug: trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma
+canonical: https://novumworld.com/es/youtube/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 66561dac-3d78-bbb3-90e2-105a21a87691
 ---
 
 ![Trump Desata La Controversia: 5 Motivos Por Los Que YouTube Está Temblando](/images/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma.jpg)
@@ -52,22 +55,7 @@ Tomando en cuenta la situación actual, es crucial que YouTube refuerce sus pol�
 - [YouTube Desata Una IA Que Puede Desenmascarar 90% De Los Deepfakes En Celebridades](/es/youtube/youtube-lanza-ia-para-combatir-deepfakes-y-proteger-a-las-celebridades/)
 - [La Verdad Oculta: YouTube Reduce Ingresos De Creadores Mientras Elimina Anuncios Durante Directos](/es/youtube/youtube-sorprende-al-eliminar-anuncios-en-picos-de-interaccion-en-directo/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump Desata La Controversia: 5 Motivos Por Los Que YouTube Está Temblando",
-  "description": "Descubre los 5 motivos que hacen temblar a YouTube tras las declaraciones de Trump. ¡No te pierdas este análisis de la controversia actual!.",
-  "image": "https://novumworld.com/images/trump-amenaza-el-campeonato-mundial-de-youtube-la-controversia-que-sacude-la-plataforma.jpg",
-  "datePublished": "2026-06-12T19:19:04",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -77,4 +65,3 @@ Tomando en cuenta la situación actual, es crucial que YouTube refuerce sus pol�
     }
   }
 }
-</script>

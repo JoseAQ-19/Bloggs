@@ -1,16 +1,19 @@
 ---
-title: "Shocking 40% Death Rate: Andes Virus Outbreak Exposes Cruise Ship Vulnerabilities"
-date: 2026-05-07T22:35:55
+title: 'Shocking 40% Death Rate: Andes Virus Outbreak Exposes Cruise Ship Vulnerabilities'
+date: 2026-05-07 22:35:55
 draft: false
-description: "Explore the alarming 40% death rate from the Andes virus outbreak, revealing critical vulnerabilities in cruise ship health protocols and safety measures."
-featured_image: "/images/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en.jpg"
-slug: "the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en"
-canonical: "https://novumworld.com/viral/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "c2665eee-102c-6ec1-6fbb-8a34f9bb1668"
+description: Explore the alarming 40% death rate from the Andes virus outbreak, revealing
+  critical vulnerabilities in cruise ship health protocols and safety measures.
+featured_image: /images/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en.jpg
+slug: the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en
+canonical: https://novumworld.com/viral/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: c2665eee-102c-6ec1-6fbb-8a34f9bb1668
 ---
 
 ![Shocking 40% Death Rate: Andes Virus Outbreak Exposes Cruise Ship Vulnerabilities](/images/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en.jpg)
@@ -83,28 +86,12 @@ If the Andes virus has shown us anything, it’s that complacency on the high se
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZElNSENoMmxrQk1pYXV3bGhqTW90UmpnUFhHSlhULTU2VzZSSjFFNUp1ZUg1OWZPMGZpaXVQcmNaajZNSlAxQ2NxVWloX0wwcmNvSURVY25vZHktTDNhZVRoNEdPSHpWajJkV2NScEFmeVZXX2pTaFhaTmtENTlGV3lsVlBKcVhtZlBPVUtDeXdYTkdLa1FKR3N1NkZpQW8zNkh4eHc3SjltNUdCenNvY1ZPekbSAbQBQVVfeXFMTmF6M1MxLWx6Y2YxTUpDcjRoVGZXVkpxRmxzc09yWXNSYmhYX1g2NV9ERzVRWEY3d1NwYk1tSEdYTno4TFY2STZZaDJqRjA2X2dadzhZSktJcG5YbTRKRF9KNERCWFlYOGE5SUx0VFl6U0JLek96QU5QTWkyWFBHNW85X0hscDVrOTFreFo3d2VqV3dwZ1lVSUI5ZGJfY0JyVW5oOHNrc3VIQmxGM2JobHVSZjct?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb1VCYXRxYkg1Yjc1ZkkxNlFKc0VLdmI2bTRfU21PSHRWbzFLWk0wLUo3blBMUjY1SllxcEJNZUtDQ2JQa0Y0a1BYYmxOaXNlMkJyclhJdWF2ZDkxR1lsRWJOeExGcjlqTlBDZzF4LVY5U1FYLUh4QldCY2xTY2o5YlpuMmpwZ2JibWNxMEVhUndXcnVWUzdsNW5QbGlvNVYxbFBKZ0tTM1FNMURkVXlkVlRFdUM0ZXVYMUpDLUl3ajlzeXFsZ0k2N2RSTDVNeGpRUW00cG5MTU5adXNWLVJJ?oc=5)
 
-
 ## Related Articles
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [2.5 Million Deaths Annually: The Shocking Reality of Future Viral Epidemics](/viral/revolutionary-drug-development-tackling-multiple-viruses-at-once-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking 40% Death Rate: Andes Virus Outbreak Exposes Cruise Ship Vulnerabilities",
-  "description": "Explore the alarming 40% death rate from the Andes virus outbreak, revealing critical vulnerabilities in cruise ship health protocols and safety measures.",
-  "image": "https://novumworld.com/images/the-andes-virus-the-deadly-hantavirus-behind-a-cruise-ship-crisis-en.jpg",
-  "datePublished": "2026-05-07T22:35:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +101,3 @@ If the Andes virus has shown us anything, it’s that complacency on the high se
     }
   }
 }
-</script>

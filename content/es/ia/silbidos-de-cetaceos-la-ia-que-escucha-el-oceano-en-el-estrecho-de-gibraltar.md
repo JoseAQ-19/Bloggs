@@ -1,16 +1,19 @@
 ---
-title: "La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar"
-date: 2026-04-06T10:17:45
+title: 'La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar'
+date: 2026-04-06 10:17:45
 draft: false
-description: "Descubre cómo la inteligencia artificial está revolucionando el estudio de cetáceos en Gibraltar, identificando silbidos con un 88% de precisión."
-featured_image: "/images/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar.jpg"
-slug: "silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar"
-canonical: "https://novumworld.com/es/ia/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "72b53906-02d6-3a67-7d65-26dd59b9e9d4"
+description: Descubre cómo la inteligencia artificial está revolucionando el estudio
+  de cetáceos en Gibraltar, identificando silbidos con un 88% de precisión.
+featured_image: /images/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar.jpg
+slug: silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar
+canonical: https://novumworld.com/es/ia/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 72b53906-02d6-3a67-7d65-26dd59b9e9d4
 ---
 
 ![La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar](/images/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar.jpg)
@@ -87,28 +90,12 @@ El sistema de la Universidad de Cádiz es una demostración de ingeniería impre
 - [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXR4Z0FrOVpJM0M3aFRnaXFrTGNuS21XSVBJakhjWmx1VzRHNnVwcFB1ZG96ZHZsNE5uZXdwMDA3eGxrRzdjMU0yenA0UGJlU1F4eENDSGV0ZnZ1c2YxUE9BMHMtMmhjdDlfcXM3d2lTZkRHaWpxOFR3YW83Qy1vUjEzRUs4RlU0X3I2TU1qcjI3LWliYkVILXhBaWg1QjJuUGlWUE52NlpWUXZLQ0RmZNIBsAFBVV95cUxNMXR4Z0FrOVpJM0M3aFRnaXFrTGNuS21XSVBJakhjWmx1VzRHNnVwcFB1ZG96ZHZsNE5uZXdwMDA3eGxrRzdjMU0yenA0UGJlU1F4eENDSGV0ZnZ1c2YxUE9BMHMtMmhjdDlfcXM3d2lTZkRHaWpxOFR3YW83Qy1vUjEzRUs4RlU0X3I2TU1qcjI3LWliYkVILXhBaWg1QjJuUGlWUE52NlpWUXZLQ0RmZA?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSGFocWxXTEFSd0VjM0lLWTBUeDZSaWQ4N3o4cHZ5U1BYM0VGdWt0TTBKaXRSZmFTcXhzNGVIQkJqSHliNjdWMHk4SDZpVGJiMTQ2T1RndUFYSFF2c2RJaDFGMl9hSlJjYzBQVXdTQ3Jsd2Nvd09ncnVUMEdoVFZIS2dLTFlNTHV4RTBicVMySndpMDdnSEVhZldrZHEwSUk2V1lTeDBLbWxwTGxodndmTms0SlUyZ09xVTBqUk9FeFJGMkFIcGx1ckdzanFMU0lqS3Nra3BwWFZBUFdWdm5GcEJ3MThWd2hHc2xFc0R3OEhXYTlf0gGIAkFVX3lxTFBmcEFWOXRVbGoxYXdpXzNGY3NLcUh1X2szSS1fU0NtalE4RWRDQjVITWs1Rl83eFI3Y1ZrenZFUkR0VmdVSjJCdE5kN0pmaFJVOTBHRzBDSmVIY29SOGJ1djZsMXpDR3VEQkI5SVZrRm54MEUydXgxcjA1bEFMS3NmNW1TbjFUa0Y5cVZGTndUTkJ1MG5VOEpfTS1ybVhONy1selZaQnlBblRnRXNqemJSNmxWQW90NzlCNVdhV2NNNVVIdGktYXZHVmQtTzR4UW5UYmFLLXlZUklCSnhqU1pNaDVHZE5MNkJjcEVsUTg5eHd1aW92aGdVYWYyeWliTEl0a0JNZ2xwcg?oc=5)
 
-
 ## Artículos relacionados
 - [Aiper Scuba S1: La Revolución De L](/es/ia/la-ia-transforma-hasta-la-limpieza-de-piscinas-que-mas-nos-espera/)
 - [Stox](/es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 - [NOVUMWORLD: La Farsa del Periodismo](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Que Escucha el Océano: 88% de Precisión en Silbidos de Cetáceos en Gibraltar",
-  "description": "Descubre cómo la inteligencia artificial está revolucionando el estudio de cetáceos en Gibraltar, identificando silbidos con un 88% de precisión.",
-  "image": "https://novumworld.com/images/silbidos-de-cetaceos-la-ia-que-escucha-el-oceano-en-el-estrecho-de-gibraltar.jpg",
-  "datePublished": "2026-04-06T10:17:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -118,4 +105,3 @@ El sistema de la Universidad de Cádiz es una demostración de ingeniería impre
     }
   }
 }
-</script>

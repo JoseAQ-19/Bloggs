@@ -1,16 +1,19 @@
 ---
-title: "Craftsman Just Slashed Prices By 41% But Hidden Defects Are Raising Red Flags"
-date: 2026-04-14T15:06:24
+title: Craftsman Just Slashed Prices By 41% But Hidden Defects Are Raising Red Flags
+date: 2026-04-14 15:06:24
 draft: false
-description: "Discover how Craftsman's recent 41% price cut raises concerns about hidden defects. Uncover the risks before you buy!."
-featured_image: "/images/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en.jpg"
-slug: "score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en"
-canonical: "https://novumworld.com/tools/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "cbeb8090-4d0f-6c0f-e174-5f5cb858d76a"
+description: Discover how Craftsman's recent 41% price cut raises concerns about hidden
+  defects. Uncover the risks before you buy!.
+featured_image: /images/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en.jpg
+slug: score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en
+canonical: https://novumworld.com/tools/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: cbeb8090-4d0f-6c0f-e174-5f5cb858d76a
 ---
 
 ![Craftsman Just Slashed Prices By 41% But Hidden Defects Are Raising Red Flags](/images/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en.jpg)
@@ -77,28 +80,12 @@ In the world of power tools, sometimes a bargain is just a red flag in disguise.
 - [cpsc.gov](https://www.cpsc.gov/recalls/2025/tti-consumer-power-tools-recalls-ridgid-framing-nailers-due-to-laceration-hazard)
 - [news.google.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE82TENZbFZHRW1CcFA3NVp0YUZ1UndxdDVvdHFQYXVNYjA5c3Y4dnlKUUFQR0NXTDNXZG5mU2dGX2VqVC1VVldLM2pQWlI1X0Qwb0JxLVh0Y2UyVm0wcUNCaFFxVnJDQQ?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth About Leatherman Free P4's Durability](/tools/leatherman-free-p4-teardown-en/)
 - [Make.com Masterc](/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition/)
 - [$40,000 Per Claim: The Hidden Cost Of Your Cra](/tools/diamondback-tool-belt-ergonomics-review-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Craftsman Just Slashed Prices By 41% But Hidden Defects Are Raising Red Flags",
-  "description": "Discover how Craftsman's recent 41% price cut raises concerns about hidden defects. Uncover the risks before you buy!.",
-  "image": "https://novumworld.com/images/score-big-savings-amazon-slashes-prices-on-craftsman-power-tools-by-up-to-41-en.jpg",
-  "datePublished": "2026-04-14T15:06:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +95,3 @@ In the world of power tools, sometimes a bargain is just a red flag in disguise.
     }
   }
 }
-</script>

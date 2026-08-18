@@ -23,8 +23,6 @@ type: ia
 
 El ecnocinismo define la instrumentalización de la innovación tecnológica por parte de grandes corporaciones para la manipulación, el acaparamiento de poder y la elusión de responsabilidades, manifestándose en la ex...
 
-
-
 {{< adsterra_native >}}
 
 ## Ecnocinismo: La Instrumentalización de la Innovación para el Control Corporativo
@@ -84,6 +82,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/es/ia/ia-arma-armagedon-algoritmico-ceguera-militar/)
 - [Amazon Destruirá 160.000 Empleos: El Apocalipsis Laboral Se Acerca a España](/es/ia/amazon-automatizacion-empleo-espana/)
 - [93% de Consultas Laborales Resueltas por IA: ¿El Futuro de la Justicia en](/es/ia/la-ia-que-transforma-la-revision-juridica-eficiencia-y-precision-al-alcance-de-todos/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

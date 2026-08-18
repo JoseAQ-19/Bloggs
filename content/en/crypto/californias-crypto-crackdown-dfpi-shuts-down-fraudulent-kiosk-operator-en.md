@@ -1,16 +1,20 @@
 ---
-title: "Shocking $675,000 Fine: California Exposes Crypto Kiosk Scammers With Ruthless Enforcement"
-date: 2026-05-18T18:16:12
+title: 'Shocking $675,000 Fine: California Exposes Crypto Kiosk Scammers With Ruthless
+  Enforcement'
+date: 2026-05-18 18:16:12
 draft: false
-description: "California cracks down on crypto kiosk scammers with a staggering $675,000 fine, revealing the state's relentless commitment to consumer protection and."
-featured_image: "/images/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en.jpg"
-slug: "californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en"
-canonical: "https://novumworld.com/crypto/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3ad8682d-be2b-e962-3499-d43a48661571"
+description: California cracks down on crypto kiosk scammers with a staggering $675,000
+  fine, revealing the state's relentless commitment to consumer protection and.
+featured_image: /images/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en.jpg
+slug: californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en
+canonical: https://novumworld.com/crypto/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3ad8682d-be2b-e962-3499-d43a48661571
 ---
 
 ![Shocking $675,000 Fine: California Exposes Crypto Kiosk Scammers With Ruthless Enforcement](/images/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en.jpg)
@@ -96,12 +100,10 @@ California's aggressive enforcement against crypto kiosks signals a broader regu
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxOR1RWQnV0bm94T2FQcV93bkhaRExuUFVudk1TWEJwel8wcmVlUzVEOGNGMHBVbXBRREFwUTdWZEtoZHBjVWM5QmtCQWRlQW03Q0VVaEJxMmJKN09yajlvUHJzQTd5WmloeDVRT0puVDg3NFFnN2FBWTlfdTdDb1llRHN3RUdEVDd4ZG10eTVn?oc=5)
 
-
 ## Related Articles
 - [US-Iran's Crypto Battle: Five Key Strategies Behind Their Sanctions Warfare](/crypto/us-irans-crypto-showdown-a-high-stakes-game-of-sanctions-and-strategy-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
 - [Senate’s Groundbreaking Crypto Bill Could Unlock $1 Trillion Stablecoin Market By 2026](/crypto/senate-set-to-vote-on-groundbreaking-crypto-bill-what-it-means-for-the-future-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -111,18 +113,7 @@ California's aggressive enforcement against crypto kiosks signals a broader regu
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking $675,000 Fine: California Exposes Crypto Kiosk Scammers With Ruthless Enforcement",
-  "description": "California cracks down on crypto kiosk scammers with a staggering $675,000 fine, revealing the state's relentless commitment to consumer protection and.",
-  "image": "https://novumworld.com/images/californias-crypto-crackdown-dfpi-shuts-down-fraudulent-kiosk-operator-en.jpg",
-  "datePublished": "2026-05-18T18:16:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -132,4 +123,3 @@ California's aggressive enforcement against crypto kiosks signals a broader regu
     }
   }
 }
-</script>

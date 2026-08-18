@@ -1,16 +1,19 @@
 ---
-title: "La Controversia De Marc Giró: 727,000 Espectadores Y Críticas Desgarradoras"
-date: 2026-05-04T19:21:42
+title: 'La Controversia De Marc Giró: 727,000 Espectadores Y Críticas Desgarradoras'
+date: 2026-05-04 19:21:42
 draft: false
-description: "Descubre la polémica que rodea a Marc Giró, con 727,000 espectadores y críticas que no dejan a nadie indiferente. ¡No te lo pierdas!."
-featured_image: "/images/la-polemica-de-marc-giro-que-paso-en-youtube.jpg"
-slug: "la-polemica-de-marc-giro-que-paso-en-youtube"
-canonical: "https://novumworld.com/es/youtube/la-polemica-de-marc-giro-que-paso-en-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "81a4ab04-89a1-36f9-66ba-25a9dfc70bee"
+description: Descubre la polémica que rodea a Marc Giró, con 727,000 espectadores
+  y críticas que no dejan a nadie indiferente. ¡No te lo pierdas!.
+featured_image: /images/la-polemica-de-marc-giro-que-paso-en-youtube.jpg
+slug: la-polemica-de-marc-giro-que-paso-en-youtube
+canonical: https://novumworld.com/es/youtube/la-polemica-de-marc-giro-que-paso-en-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 81a4ab04-89a1-36f9-66ba-25a9dfc70bee
 ---
 
 ![La Controversia De Marc Giró: 727,000 Espectadores Y Críticas Desgarradoras](/images/la-polemica-de-marc-giro-que-paso-en-youtube.jpg)
@@ -91,28 +94,12 @@ Marc Giró es el producto final de una industria mediática que ha decidido vend
 - [news.google.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUkl6dkFWRXdQNzIyQmY5UnVDY3c1alZqMVM1SW9lUU52WXFIanZBUHpPMjlDcFp3U21HYktwaHlxOC1xOU40WWlnUnlBV0VZeUhMYVdWclBBTVpTbTM3MVY1c0M0ZC1lUlFQWG9EdkJCN0ZGNEM5dk1GTkNzYmhhZE1GYVZsT2hsUmhQVlZGaHRZUzREOG1WeHF4UHpsb0lvN21Eb25XRHZaUzd1NFItYmlxYk8zem1mSDh6cXhOb25KVzdFM3dSandhdkp0enlKWUVwandlc9IB3AFBVV95cUxOY0U5bXpMWjRPOFhVQUZyZnJ5elRVWmNBRWQ3cWRldnJnN0YyTXgxYU5xa1VFS2EtcFZna3IyeTZkNUZycElUb1EzTjJuMkJjRGRqTmp0YWJrczNUQVNIa1IxSnNhUkN1dDNMb0FRUFE1NC1TZzlvaTdPZy1lbnZPNjBXOUtab3AzNnlXUjlUWm1VMlFJQm9idmVjaGpWM1Zwd3RjaXo1ZzVwcHNzRnlxY1E2Rk9CdmJ6TVh0bGxYOHlmbDZTUXI0VERzQXBvb3dXVjFFTHlXQ2Fkb1VE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQWZ3aU4tX3RoeDhLUlF6UU43Z3FhcWQwS1JrZVl1UlRaU2lWYjlKUlBFejJQYzhKVHNkRVBETmYwT1ppR3hKWGo4WEo1amowTVZWZDItdUpLcXNPSU5EUnowaHY4c2dUMHJLX0xYbFdOZGY0YkNaR1M2YXI4aklpQURHTlMxZWpBVkZuOE5tZjF4UzBNc1NQUy0wYXpwYWQtWkRNdGhKb1lqdGN6ZVJTSjNrYzJBeG11U295dGlNS1pkQ0puZzJsU0dqUVhvSzdGNFh5RHJiVWxJUGxl0gHiAUFVX3lxTFBqcklqUmw3Y3p3dUtDSUpvUERiREhacjQ2MTFtRjdISWdDbGFpUUlCOGZKSmhmMVZTS0pHVHQ1bEpPenpYVi1WOElmV29Fc05SV0s4b0c3MmdvZHpjM1JCWDZKNDJZYS1UeGtDQnMtdS1Hekc1LTZ2QnVGRzFMRW9VNUdubV9BV3BURVAycXRzd0VRSlpVaXlab2NNYnVhWmk4RF9YRjFUMFlucVhmZXRuUDEzYlRXdVc3U0xCMXZsMHBEb2pwUklZRWwxLVV6dXZxLVVHR1h5cXM5UEV4UzNFWVE?oc=5)
 
-
 ## Artículos relacionados
 - [YouTube Revoluciona La Publicidad: Anuncios Pausados En Momentos Clave Durante Los Directos](/es/youtube/youtube-revoluciona-la-publicidad-anuncios-sin-interrupciones-en-los-directos/)
 - [La Verdad Oculta: YouTube Reduce Ingresos De Creadores Mientras Elimina Anuncios Durante Directos](/es/youtube/youtube-sorprende-al-eliminar-anuncios-en-picos-de-interaccion-en-directo/)
 - [YouTube Revela Datos Ocultos: Marcas Ahora Pueden Acceder a Información de Creadores](/es/youtube/youtube-da-un-gran-paso-marcas-ahora-pueden-acceder-a-datos-de-consumo-de-creadores/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Controversia De Marc Giró: 727,000 Espectadores Y Críticas Desgarradoras",
-  "description": "Descubre la polémica que rodea a Marc Giró, con 727,000 espectadores y críticas que no dejan a nadie indiferente. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/la-polemica-de-marc-giro-que-paso-en-youtube.jpg",
-  "datePublished": "2026-05-04T19:21:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +109,3 @@ Marc Giró es el producto final de una industria mediática que ha decidido vend
     }
   }
 }
-</script>

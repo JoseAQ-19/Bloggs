@@ -1,16 +1,19 @@
 ---
-title: "La Broma De Ibai Llanos Que Hizo Reír A 9 Millones De Españoles Sin Piedad"
-date: 2026-05-12T22:13:33
+title: La Broma De Ibai Llanos Que Hizo Reír A 9 Millones De Españoles Sin Piedad
+date: 2026-05-12 22:13:33
 draft: false
-description: "Descubre cómo Ibai Llanos hizo reír a 9 millones de españoles con una broma inolvidable. ¡No te pierdas los detalles de este divertido momento!."
-featured_image: "/images/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez.jpg"
-slug: "la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez"
-canonical: "https://novumworld.com/es/viral/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "6806c326-34ae-931f-6361-3c659cf918e7"
+description: Descubre cómo Ibai Llanos hizo reír a 9 millones de españoles con una
+  broma inolvidable. ¡No te pierdas los detalles de este divertido momento!.
+featured_image: /images/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez.jpg
+slug: la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez
+canonical: https://novumworld.com/es/viral/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 6806c326-34ae-931f-6361-3c659cf918e7
 ---
 
 ![La Broma De Ibai Llanos Que Hizo Reír A 9 Millones De Españoles Sin Piedad](/images/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez.jpg)
@@ -73,22 +76,7 @@ La popularidad de Ibai Llanos no es solo un fenómeno pasajero; es un reflejo de
 - [Masterchef En Dubái: Hacienda Sospecha](/es/viral/masterchef-dubai-polemica-fiscal/)
 - [La Impactante Charla De Nadja Manjón: 7 Verdades Que Cambian La Perspectiva De La Derrota](/es/viral/la-emotiva-charla-de-nadja-manjon-que-impacto-a-miles-no-ganaras-wimbledon/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Broma De Ibai Llanos Que Hizo Reír A 9 Millones De Españoles Sin Piedad",
-  "description": "Descubre cómo Ibai Llanos hizo reír a 9 millones de españoles con una broma inolvidable. ¡No te pierdas los detalles de este divertido momento!.",
-  "image": "https://novumworld.com/images/la-broma-de-ibai-llanos-que-ha-dejado-a-todos-riendo-tras-el-anuncio-de-florentino-perez.jpg",
-  "datePublished": "2026-05-12T22:13:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +86,3 @@ La popularidad de Ibai Llanos no es solo un fenómeno pasajero; es un reflejo de
     }
   }
 }
-</script>

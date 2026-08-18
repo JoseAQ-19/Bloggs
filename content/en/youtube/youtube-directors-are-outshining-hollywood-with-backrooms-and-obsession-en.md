@@ -1,16 +1,20 @@
 ---
-title: "YouTube Directors Are Crushing Hollywood: The $50 Million 'Backrooms' Phenomenon Uncovered"
-date: 2026-05-29T21:10:30
+title: 'YouTube Directors Are Crushing Hollywood: The $50 Million ''Backrooms'' Phenomenon
+  Uncovered'
+date: 2026-05-29 21:10:30
 draft: false
-description: "Discover how YouTube directors are redefining Hollywood with the $50 million 'Backrooms' phenomenon, reshaping the future of film and storytelling."
-featured_image: "/images/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en.jpg"
-slug: "youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en"
-canonical: "https://novumworld.com/youtube/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "b2a12d2c-ee20-8225-2d8e-b41f8d19c942"
+description: Discover how YouTube directors are redefining Hollywood with the $50
+  million 'Backrooms' phenomenon, reshaping the future of film and storytelling.
+featured_image: /images/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en.jpg
+slug: youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en
+canonical: https://novumworld.com/youtube/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: b2a12d2c-ee20-8225-2d8e-b41f8d19c942
 ---
 
 ![YouTube Directors Are Crushing Hollywood: The $50 Million 'Backrooms' Phenomenon Uncovered](/images/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en.jpg)
@@ -133,22 +137,7 @@ YouTube filmmakers like Kane Parsons aren't just disrupting Hollywood—they're 
 - [YouTube’s New Likeness Detection Tech Is A Game Changer For Celebrity Rights Protection](/youtube/youtubes-game-changer-likeness-detection-tech-now-available-for-celebs-en/)
 - [YouTube's New AI Tool: 71% of Regrettable Videos Still Get Recommended](/youtube/youtubes-new-ai-tool-customize-your-video-feed-like-never-before-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Directors Are Crushing Hollywood: The $50 Million 'Backrooms' Phenomenon Uncovered",
-  "description": "Discover how YouTube directors are redefining Hollywood with the $50 million 'Backrooms' phenomenon, reshaping the future of film and storytelling.",
-  "image": "https://novumworld.com/images/youtube-directors-are-outshining-hollywood-with-backrooms-and-obsession-en.jpg",
-  "datePublished": "2026-05-29T21:10:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -158,4 +147,3 @@ YouTube filmmakers like Kane Parsons aren't just disrupting Hollywood—they're 
     }
   }
 }
-</script>

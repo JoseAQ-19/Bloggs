@@ -31,8 +31,6 @@ type: funds
 
 La gestora Magallanes Value Investors ha demostrado su capacidad para generar rentabilidades atractivas en un entorno de incertidumbre geopolítica. A pesar de la tensión en el Medio Oriente y la guerra en Irán, el fondo ha logrado una rentabilidad anualizada del 10,3% en los últimos 5 años, superando la media de su categoría.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis comparativo de fondos
@@ -81,18 +79,7 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 * [La Alianza YouTube-FIFA: 5 Mil Millones de Espectadores En El Mundial 2026](/es/youtube/youtube-y-fifa-un-acuerdo-que-cambiara-la-forma-de-ver-el-mundial-2026/)
 * [YouTube Se Lleva el Oscar: La Revolución del Entretenimiento Digital Ya Está Aquí](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 
-### Schema Markup
-
-{
-"@context": "https://schema.org",
-"@type": "NewsArticle",
-"headline": "Invertir en guerra: Rentabilidad del 10% en 'Magallanes Value' pese a Irán",
-"description": "Magallanes Value ha demostrado su capacidad para generar rentabilidades sostenidas a largo plazo en un entorno de incertidumbre geopolítica.",
-"datePublished": "2026-03-25",
-"author": {
-"@type": "Person",
-"name": "NovumWorld"
-},
+,
 "publisher": {
 "@type": "Organization",
 "name": "NovumWorld",
@@ -102,22 +89,8 @@ Magallanes Value invierte en acciones de alta calidad con un enfoque de valor. E
 }
 },
 "mainEntityOfPage": {
-"@type": "WebPage",
-"@id": "https://novumworld.com/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran"
-}
 }
 
-{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"mainEntity": [
-{
-"@type": "Question",
-"name": "¿Qué es Magallanes Value y cómo funciona?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Magallanes Value es un fondo de inversión que se enfoca en la selección de acciones de alta calidad con un enfoque de valor. El fondo busca generar rentabilidades sostenidas a largo plazo mediante la selección de acciones que tengan un potencial de crecimiento a largo plazo."
-}
 },
 {
 "@type": "Question",
@@ -147,6 +120,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Magallanes gana su tercer premio consecutivo y consolida su liderazgo en gestión](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 - [Bestinver Bolsa FI lidera el mercado español con un 49,05% de rentabilidad](/es/funds/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026/)
 - [Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

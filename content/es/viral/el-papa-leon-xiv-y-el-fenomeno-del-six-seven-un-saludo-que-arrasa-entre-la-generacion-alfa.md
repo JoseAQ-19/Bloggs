@@ -1,16 +1,19 @@
 ---
-title: "La Generación Alfa en Riesgo: 600% Más Búsquedas del 'Six Seven' y sus Consecuencias"
-date: 2026-05-17T22:11:28
+title: 'La Generación Alfa en Riesgo: 600% Más Búsquedas del ''Six Seven'' y sus Consecuencias'
+date: 2026-05-17 22:11:28
 draft: false
-description: "Descubre cómo el aumento del 600% en búsquedas del 'Six Seven' afecta a la Generación Alfa y las consecuencias que esto trae para su futuro."
-featured_image: "/images/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa.jpg"
-slug: "el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa"
-canonical: "https://novumworld.com/es/viral/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "1bc6b0d8-a9ed-4cd3-ad75-e1fc43ea4178"
+description: Descubre cómo el aumento del 600% en búsquedas del 'Six Seven' afecta
+  a la Generación Alfa y las consecuencias que esto trae para su futuro.
+featured_image: /images/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa.jpg
+slug: el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa
+canonical: https://novumworld.com/es/viral/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 1bc6b0d8-a9ed-4cd3-ad75-e1fc43ea4178
 ---
 
 ![La Generación Alfa en Riesgo: 600% Más Búsquedas del 'Six Seven' y sus Consecuencias](/images/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa.jpg)
@@ -91,22 +94,7 @@ La Generación Alfa ya navega con redes de depredadores que se adaptan más ráp
 - [¡Alerta Roja! 20 Gramos de Paracetamol: La](/es/viral/reto-paracetamol-tiktok-peligro-viral/)
 - [El Impacto Ambiental de un Robot Humanoide Cazador en Polonia que Arrasa en Redes](/es/viral/un-robot-humanoide-persigue-jabalies-en-polonia-y-arrasa-en-las-redes-sociales/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Generación Alfa en Riesgo: 600% Más Búsquedas del 'Six Seven' y sus Consecuencias",
-  "description": "Descubre cómo el aumento del 600% en búsquedas del 'Six Seven' afecta a la Generación Alfa y las consecuencias que esto trae para su futuro.",
-  "image": "https://novumworld.com/images/el-papa-leon-xiv-y-el-fenomeno-del-six-seven-un-saludo-que-arrasa-entre-la-generacion-alfa.jpg",
-  "datePublished": "2026-05-17T22:11:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -116,4 +104,3 @@ La Generación Alfa ya navega con redes de depredadores que se adaptan más ráp
     }
   }
 }
-</script>

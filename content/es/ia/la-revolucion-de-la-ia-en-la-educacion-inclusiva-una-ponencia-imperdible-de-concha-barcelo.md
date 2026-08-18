@@ -32,8 +32,6 @@ La inteligencia artificial (IA) se ha infiltrado en el sistema educativo españo
 
 * Sin una regulación y formación adecuada, la implementación de IA podría perpetuar desigualdades y sesgos en el sistema educativo.
 
-
-
 {{< adsterra_native >}}
 
 ## El Dilema de la Inclusión en la Educación con IA
@@ -83,6 +81,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Deuda Global 2026: El Subprime que Nadie Vio Venir](/es/ia/deuda-global-2026-el-subprime-que-nadie-vio-venir/)
 - [De Blade Runner a Glovo: La Distopía Ya Está Aquí (Y Pide a Domicilio)](/es/ia/de-blade-runner-a-glovo-la-distopia-ya-esta-aqui-y/)
 - [¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos](/es/ia/fine-tuning-transformers-datos-escasos-estafa/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

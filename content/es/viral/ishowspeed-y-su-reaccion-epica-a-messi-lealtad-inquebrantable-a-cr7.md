@@ -1,16 +1,20 @@
 ---
-title: "IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7 Desatada"
-date: 2026-06-23T22:12:33
+title: 'IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7
+  Desatada'
+date: 2026-06-23 22:12:33
 draft: false
-description: "IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7 Desatada."
-featured_image: "/images/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7.jpg"
-slug: "ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7"
-canonical: "https://novumworld.com/es/viral/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "6ad20742-f5f1-69a2-eccb-be136028e968"
+description: 'IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad
+  a CR7 Desatada.'
+featured_image: /images/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7.jpg
+slug: ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7
+canonical: https://novumworld.com/es/viral/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 6ad20742-f5f1-69a2-eccb-be136028e968
 ---
 
 ![IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7 Desatada](/images/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7.jpg)
@@ -55,22 +59,7 @@ La lealtad de IShowSpeed hacia CR7 y su reacción a Messi son un reflejo de la p
 - [Odio 24/7: Violeta Mangriñán y La Salud Mental](/es/viral/violeta-mangrinan-hate-online-fama/)
 - [Ser Una Serpiente Y Estar Feliz: La Bomba Theria](/es/viral/therians-identidad-online-legal/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7 Desatada",
-  "description": "IShowSpeed Rompe Internet Con Su Reacción Épica a Messi: La Lealtad a CR7 Desatada.",
-  "image": "https://novumworld.com/images/ishowspeed-y-su-reaccion-epica-a-messi-lealtad-inquebrantable-a-cr7.jpg",
-  "datePublished": "2026-06-23T22:12:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -80,4 +69,3 @@ La lealtad de IShowSpeed hacia CR7 y su reacción a Messi son un reflejo de la p
     }
   }
 }
-</script>

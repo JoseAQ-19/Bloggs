@@ -1,16 +1,20 @@
 ---
-title: "Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District"
-date: 2026-05-08T11:54:48
+title: 'Reproductive Rights Under Fire: Nunn and Garriott''s Epic Showdown in Iowa''s
+  3rd District'
+date: 2026-05-08 11:54:48
 draft: false
-description: "Explore the intense debate over reproductive rights as Nunn and Garriott face off in Iowa's 3rd District, shaping the future of women's health."
-featured_image: "/images/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en.jpg"
-slug: "reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en"
-canonical: "https://novumworld.com/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "6a10caef-8d75-57b1-1996-5851da8f9a34"
+description: Explore the intense debate over reproductive rights as Nunn and Garriott
+  face off in Iowa's 3rd District, shaping the future of women's health.
+featured_image: /images/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en.jpg
+slug: reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en
+canonical: https://novumworld.com/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 6a10caef-8d75-57b1-1996-5851da8f9a34
 ---
 
 ![Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/images/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en.jpg)
@@ -74,22 +78,7 @@ As the stakes rise, every vote becomes increasingly pivotal in determining the d
 - [Uncorking Fun: 2026 Le Mars Wine & Roses Festival Is a Must-Attend Event](/ia/uncorking-fun-what-to-expect-at-le-mars-wine-roses-event-en/)
 - [Black Box Data Exposed: Shocking Truth Behind Calhoun County Fatal Crash](/ia/tragic-crash-in-calhoun-county-claims-one-life-leaves-another-injured-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District",
-  "description": "Explore the intense debate over reproductive rights as Nunn and Garriott face off in Iowa's 3rd District, shaping the future of women's health.",
-  "image": "https://novumworld.com/images/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en.jpg",
-  "datePublished": "2026-05-08T11:54:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +88,3 @@ As the stakes rise, every vote becomes increasingly pivotal in determining the d
     }
   }
 }
-</script>

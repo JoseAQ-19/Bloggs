@@ -1,16 +1,19 @@
 ---
-title: "Bryson DeChambeau's Shocking YouTube Earnings: $800,000 If LIV Golf Collapses"
-date: 2026-05-06T19:38:48
+title: 'Bryson DeChambeau''s Shocking YouTube Earnings: $800,000 If LIV Golf Collapses'
+date: 2026-05-06 19:38:48
 draft: false
-description: "Discover how Bryson DeChambeau could earn $800,000 from YouTube if LIV Golf faces collapse. Explore the surprising intersection of sports and media."
-featured_image: "/images/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en.jpg"
-slug: "bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en"
-canonical: "https://novumworld.com/youtube/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "43b23f25-c608-3315-86e8-1ad2521806e0"
+description: Discover how Bryson DeChambeau could earn $800,000 from YouTube if LIV
+  Golf faces collapse. Explore the surprising intersection of sports and media.
+featured_image: /images/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en.jpg
+slug: bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en
+canonical: https://novumworld.com/youtube/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 43b23f25-c608-3315-86e8-1ad2521806e0
 ---
 
 ![Bryson DeChambeau's Shocking YouTube Earnings: $800,000 If LIV Golf Collapses](/images/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en.jpg)
@@ -84,28 +87,12 @@ In the world of professional golf, as the money shifts, so too must the strategi
 - [news.google.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPa2ZnZl9BemlEcDM3dFEwQ3BFMUJ5SlV3SEFIMmN5OVpWSlZ1cVRIclBjbVNocF8wekFNVVpzMUtjTGtjSzRyZnV3QkpqQTdESE5UU3c0d0VHaDdXQUhlMXBZb0VFbk1sR2x2eHhvVmxiRHVjOHdqSTB4Q05DNU5tZ2JzTmQ4SWt2LWhNVFQ5RQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMidkFVX3lxTFAyZFItRUdNUUR2TGFJREVIVVVLak5vYlhqd2tNNkFLNzVCQjYwU2l4NF9HeGhha293bzZRT3FhdGZ1d1pMOVc5V3N1Rml3dTJ6T3ZYTmUxSmxFSG9lYjdjTjh3N2RXM3hXV21RQ3hieklMd1NpeUE?oc=5)
 
-
 ## Related Articles
 - [YouTube’s New Likeness Detection Tech Is A Game Changer For Celebrity Rights Protection](/youtube/youtubes-game-changer-likeness-detection-tech-now-available-for-celebs-en/)
 - [YouTube's Classroom Revolution: 7 Shocking Ways Video Learning Is Transforming Education Forever](/youtube/youtubes-classroom-revolution-how-video-learning-is-redefining-education-en/)
 - [The Hidden Dangers of YouTube's Algorithm: How 70% of Views Are Manipulated](/youtube/youtubes-sneaky-trick-how-to-keep-your-watch-history-private-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bryson DeChambeau's Shocking YouTube Earnings: $800,000 If LIV Golf Collapses",
-  "description": "Discover how Bryson DeChambeau could earn $800,000 from YouTube if LIV Golf faces collapse. Explore the surprising intersection of sports and media.",
-  "image": "https://novumworld.com/images/bryson-dechambeaus-bold-move-going-full-time-on-youtube-if-liv-golf-folds-en.jpg",
-  "datePublished": "2026-05-06T19:38:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +102,3 @@ In the world of professional golf, as the money shifts, so too must the strategi
     }
   }
 }
-</script>

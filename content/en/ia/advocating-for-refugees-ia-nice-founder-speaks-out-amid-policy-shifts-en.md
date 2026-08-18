@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Struggles of Refugees: IA NICE's Angela Boelens Speaks Out"
-date: 2026-06-10T12:37:20
+title: 'The Hidden Struggles of Refugees: IA NICE''s Angela Boelens Speaks Out'
+date: 2026-06-10 12:37:20
 draft: false
-description: "Discover the untold challenges refugees face as Angela Boelens from IA NICE shares her insights on resilience, hope, and the path to rebuilding lives."
-featured_image: "/images/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en.jpg"
-slug: "advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en"
-canonical: "https://novumworld.com/ia/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "4b9e1c7f-0490-83cf-20fa-95c268a310b9"
+description: Discover the untold challenges refugees face as Angela Boelens from IA
+  NICE shares her insights on resilience, hope, and the path to rebuilding lives.
+featured_image: /images/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en.jpg
+slug: advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en
+canonical: https://novumworld.com/ia/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 4b9e1c7f-0490-83cf-20fa-95c268a310b9
 ---
 
 ![The Hidden Struggles of Refugees: IA NICE's Angela Boelens Speaks Out](/images/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en.jpg)
@@ -74,28 +77,12 @@ Every story of struggle serves as a reminder of the resilience and strength of r
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXk3NXZWYm13dzhPT2ppVjFBMk5zRjhrbFVMb1BmaUhzN0U3QXQ3OERNeVlZWmY1UWlFbjM4RGhOWFNwbkZUNVg3S0QweWcwVktnc0RNQnBTUWZON051TjNUMENuSlJUNFAwUUZuNnFLV2lWQ2hvOTlQZUx5TFZqRHB5OVZHVkI0X1d6clV6UmNKck4wenBmcF9ycWRGM2YtWTRNRFFXS29SbTFNN2lGZnBDNUw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9TeGl0QWUzZ3hmclFxMDRDYmxzYlBtSHNFZ0J4LWd4SUxYdWVaOHptSHFpTzRCbkZzb20zLWUxV3VlcG9oSHdNSWR3YUdrM3oxei1NY2pUUThvQ0xOa3otZVI5SHBWNlhhdlVDS2Q1cERQTXZ0Smdfa3BxMVB1Zw?oc=5)
 
-
 ## Related Articles
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Struggles of Refugees: IA NICE's Angela Boelens Speaks Out",
-  "description": "Discover the untold challenges refugees face as Angela Boelens from IA NICE shares her insights on resilience, hope, and the path to rebuilding lives.",
-  "image": "https://novumworld.com/images/advocating-for-refugees-ia-nice-founder-speaks-out-amid-policy-shifts-en.jpg",
-  "datePublished": "2026-06-10T12:37:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +92,3 @@ Every story of struggle serves as a reminder of the resilience and strength of r
     }
   }
 }
-</script>

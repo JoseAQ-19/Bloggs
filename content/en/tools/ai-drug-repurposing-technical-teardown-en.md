@@ -1,16 +1,20 @@
 ---
-title: "The 80% Success Rate of AI-Repurposed Drugs Is Changing Everything—And Nobody’s Talking."
-date: 2026-04-09T15:21:15
+title: The 80% Success Rate of AI-Repurposed Drugs Is Changing Everything—And Nobody’s
+  Talking.
+date: 2026-04-09 15:21:15
 draft: false
-description: "Discover how AI-repurposed drugs are achieving an 80% success rate, revolutionizing medicine and going unnoticed in the health care conversation."
-featured_image: "/images/ai-drug-repurposing-technical-teardown-en.jpg"
-slug: "ai-drug-repurposing-technical-teardown-en"
-canonical: "https://novumworld.com/tools/ai-drug-repurposing-technical-teardown-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "d30692a7-4857-6de7-5c42-4ea1e89bbbd8"
+description: Discover how AI-repurposed drugs are achieving an 80% success rate, revolutionizing
+  medicine and going unnoticed in the health care conversation.
+featured_image: /images/ai-drug-repurposing-technical-teardown-en.jpg
+slug: ai-drug-repurposing-technical-teardown-en
+canonical: https://novumworld.com/tools/ai-drug-repurposing-technical-teardown-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: d30692a7-4857-6de7-5c42-4ea1e89bbbd8
 ---
 
 ![The 80% Success Rate of AI-Repurposed Drugs Is Changing Everything—And Nobody’s Talking.](/images/ai-drug-repurposing-technical-teardown-en.jpg)
@@ -80,28 +84,12 @@ The AI-driven drug repurposing landscape is a high-stakes gamble where the house
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXFYQkxpblZpRXJVcU83UUxHVUlzeWs1Mld2dDM1TUFJWHVpcnB0YUNHcW1heWZlUTNBdlNwVVNPR09uUkhfRWVWYzhiNF9pUExVdjRZRy1DcVhsZlpBUThZSTM2NVZqNkZUMVZVdm13MlUzWnFiSVRLZTFJUy1kLTBkWUU1bGd5cHJHVTA0N2twSEVBZnRnOWh5Tkhoc28wb2xpX2ZkcmU5VlBIZWtCZGN3?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDZBblBpMHpHTVZ5MjIyR0ZyVmZENGNtS2FJWGtZV1F4LUwxOHV2RXRTRzFabHF5a0pLejNzdlpWOVlzN0RHdGdZTVQza0lRV0VnSnpON1poeE5MTnl5U0hld2FaYl9IdUFULWZfdUxjMjFlMUFVdHZ4b1dyVjZLV09ZLVBmTHpFWVFVY0FiVVhRdw?oc=5)
 
-
 ## Related Articles
 - [Make.com Masterc](/tools/makecom-masterclass-go-from-zero-to-hero-in-2-hours-2025-edition/)
 - [South Carolina''s S.28](/tools/south-carolina-child-protection-ai-law-enforcement-en/)
 - [Excel Apocalypse: This Tiny Tool Saves You From Remote Cod](/tools/csv-injection-prevention-tool-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The 80% Success Rate of AI-Repurposed Drugs Is Changing Everything—And Nobody’s Talking.",
-  "description": "Discover how AI-repurposed drugs are achieving an 80% success rate, revolutionizing medicine and going unnoticed in the health care conversation.",
-  "image": "https://novumworld.com/images/ai-drug-repurposing-technical-teardown-en.jpg",
-  "datePublished": "2026-04-09T15:21:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ The AI-driven drug repurposing landscape is a high-stakes gamble where the house
     }
   }
 }
-</script>

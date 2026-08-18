@@ -28,8 +28,6 @@ type: funds
 
 This year's Morningstar Awards have cast a spotlight on the fierce competition among FPA, PIMCO, and Vanguard, with each fund showcasing unique strategies and market resilience. The backdrop of a financial landscape dominated by record retirement assets and persistently low expense ratios sets the stage for a compelling analysis. 
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Analysis of Funds
@@ -99,6 +97,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en/)
 - [Morningstar''s 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en/)
 - [Fluent Financial LLC Invests $10 Million in Morningstar, Inc. $MORN](/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

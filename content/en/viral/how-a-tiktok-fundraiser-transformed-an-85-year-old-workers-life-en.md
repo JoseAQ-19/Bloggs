@@ -1,16 +1,19 @@
 ---
-title: "How A Simple TikTok Video Helped An 85-Year-Old Retire With $146,000"
-date: 2026-06-08T23:48:43
+title: How A Simple TikTok Video Helped An 85-Year-Old Retire With $146,000
+date: 2026-06-08 23:48:43
 draft: false
-description: "Discover how an 85-year-old turned a simple TikTok video into a retirement plan, amassing $146,000 and inspiring others to chase their dreams!."
-featured_image: "/images/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en.jpg"
-slug: "how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en"
-canonical: "https://novumworld.com/viral/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "3bc75b73-3fcc-ae83-5fce-c550ba2cfa8e"
+description: Discover how an 85-year-old turned a simple TikTok video into a retirement
+  plan, amassing $146,000 and inspiring others to chase their dreams!.
+featured_image: /images/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en.jpg
+slug: how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en
+canonical: https://novumworld.com/viral/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 3bc75b73-3fcc-ae83-5fce-c550ba2cfa8e
 ---
 
 ![How A Simple TikTok Video Helped An 85-Year-Old Retire With $146,000](/images/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en.jpg)
@@ -74,28 +77,12 @@ The digital age has provided unprecedented opportunities for connection and empa
 - [errors.edgesuite.net](https://errors.edgesuite.net/18.afce4917.1780962869.13ae3968)
 - [news.google.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE1vS0tDWDBCQkF6TnRmQkdIQWVzNUM2S3UxSE13VWd2MGNwR2RfNF9iZ2xRekRlME94SWNSbjB6cE14QV8tTWRxYVlPbnFuOUpSa2U1ZGoyNl9UNWljSlJ6S1F6eFUtUW9iR0RRaQ?oc=5)
 
-
 ## Related Articles
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [Dangerous Virus Detected in Boise: 5 Alarming Facts Every Parent Must Know](/viral/warning-dangerous-virus-detected-in-boise-keep-your-kids-safe-en/)
 - [The Dot Cake Craze Is Taking Over TikTok And You Won't Believe Why](/viral/the-dot-cake-craze-why-everyones-sprinkling-their-desserts-on-tiktok-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How A Simple TikTok Video Helped An 85-Year-Old Retire With $146,000",
-  "description": "Discover how an 85-year-old turned a simple TikTok video into a retirement plan, amassing $146,000 and inspiring others to chase their dreams!.",
-  "image": "https://novumworld.com/images/how-a-tiktok-fundraiser-transformed-an-85-year-old-workers-life-en.jpg",
-  "datePublished": "2026-06-08T23:48:43",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +92,3 @@ The digital age has provided unprecedented opportunities for connection and empa
     }
   }
 }
-</script>

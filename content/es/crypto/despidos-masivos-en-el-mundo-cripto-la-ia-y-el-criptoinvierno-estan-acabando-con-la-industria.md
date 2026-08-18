@@ -1,16 +1,20 @@
 ---
-title: "Masivos Despidos En Cripto: La IA Y El Criptoinvierno Destruyen 78,000 Puestos De Trabajo Globalmente"
-date: 2026-05-07T16:18:44
+title: 'Masivos Despidos En Cripto: La IA Y El Criptoinvierno Destruyen 78,000 Puestos
+  De Trabajo Globalmente'
+date: 2026-05-07 16:18:44
 draft: false
-description: "Los recientes despidos masivos en el sector cripto afectan a 78,000 empleos. Descubre cómo la IA y el criptoinvierno están transformando el mercado."
-featured_image: "/images/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria.jpg"
-slug: "despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria"
-canonical: "https://novumworld.com/es/crypto/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "83c48d46-33bf-f7e7-afc3-aaff643fde4b"
+description: Los recientes despidos masivos en el sector cripto afectan a 78,000 empleos.
+  Descubre cómo la IA y el criptoinvierno están transformando el mercado.
+featured_image: /images/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria.jpg
+slug: despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria
+canonical: https://novumworld.com/es/crypto/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 83c48d46-33bf-f7e7-afc3-aaff643fde4b
 ---
 
 ![Masivos Despidos En Cripto: La IA Y El Criptoinvierno Destruyen 78,000 Puestos De Trabajo Globalmente](/images/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria.jpg)
@@ -76,12 +80,10 @@ Es evidente que la IA y el criptoinvierno están remodelando el mercado laboral,
 ## Metodología y Fuentes
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/)
 - [La Sorprendente Inversión de $1.4 Mil Millones en Cripto Que Nadie Esperaba](/es/crypto/inversion-masiva-de-14-mil-millones-en-cripto-que-esta-impulsando-esta-ola/)
 - [Las Instituciones Pierden Fe en Bitcoin: 72% De Inversores Cambian Su Estrategia](/es/crypto/las-instituciones-han-perdido-la-fe-en-bitcoin-ipc-e-iran-podrian-cambiar-el-juego/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -91,18 +93,7 @@ Es evidente que la IA y el criptoinvierno están remodelando el mercado laboral,
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Masivos Despidos En Cripto: La IA Y El Criptoinvierno Destruyen 78,000 Puestos De Trabajo Globalmente",
-  "description": "Los recientes despidos masivos en el sector cripto afectan a 78,000 empleos. Descubre cómo la IA y el criptoinvierno están transformando el mercado.",
-  "image": "https://novumworld.com/images/despidos-masivos-en-el-mundo-cripto-la-ia-y-el-criptoinvierno-estan-acabando-con-la-industria.jpg",
-  "datePublished": "2026-05-07T16:18:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +103,3 @@ Es evidente que la IA y el criptoinvierno están remodelando el mercado laboral,
     }
   }
 }
-</script>

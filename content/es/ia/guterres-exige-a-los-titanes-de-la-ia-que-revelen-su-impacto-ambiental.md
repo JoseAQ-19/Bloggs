@@ -1,16 +1,20 @@
 ---
-title: "Guterres Revela: Los Titanes de La IA Son Responsables de 100 Millones de Toneladas de CO2"
-date: 2026-06-23T10:52:29
+title: 'Guterres Revela: Los Titanes de La IA Son Responsables de 100 Millones de
+  Toneladas de CO2'
+date: 2026-06-23 10:52:29
 draft: false
-description: "Guterres revela cómo los titanes de la IA generan 100 millones de toneladas de CO2. Descubre el impacto ambiental de la tecnología en este artículo."
-featured_image: "/images/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental.jpg"
-slug: "guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental"
-canonical: "https://novumworld.com/es/ia/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "cb420cb9-da83-3f1f-5a74-9dacf964e561"
+description: Guterres revela cómo los titanes de la IA generan 100 millones de toneladas
+  de CO2. Descubre el impacto ambiental de la tecnología en este artículo.
+featured_image: /images/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental.jpg
+slug: guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental
+canonical: https://novumworld.com/es/ia/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: cb420cb9-da83-3f1f-5a74-9dacf964e561
 ---
 
 ![Guterres Revela: Los Titanes de La IA Son Responsables de 100 Millones de Toneladas de CO2](/images/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental.jpg)
@@ -74,22 +78,7 @@ La inteligencia artificial no debería costar nuestro planeta. La innovación de
 - [WisdomTree Revoluciona el Mercado: Su Fondo de IA, Humanoides y Drones Promete un 20% de Rentabilidad](/es/ia/wisdomtree-revoluciona-el-mercado-con-su-nuevo-fondo-de-inversion-en-ia-humanoides-y-drones/)
 - [Tim Ferriss Revela Cómo ChatGPT Está Despojando a Los Autores de Su Valor Real](/es/ia/tim-ferriss-vs-chatgpt-esta-la-ia-despojando-a-los-autores-de-su-valor/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Guterres Revela: Los Titanes de La IA Son Responsables de 100 Millones de Toneladas de CO2",
-  "description": "Guterres revela cómo los titanes de la IA generan 100 millones de toneladas de CO2. Descubre el impacto ambiental de la tecnología en este artículo.",
-  "image": "https://novumworld.com/images/guterres-exige-a-los-titanes-de-la-ia-que-revelen-su-impacto-ambiental.jpg",
-  "datePublished": "2026-06-23T10:52:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +88,3 @@ La inteligencia artificial no debería costar nuestro planeta. La innovación de
     }
   }
 }
-</script>

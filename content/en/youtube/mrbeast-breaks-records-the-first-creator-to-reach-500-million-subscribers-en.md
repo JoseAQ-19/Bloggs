@@ -1,16 +1,20 @@
 ---
-title: "MrBeast Just Made History: First Creator to Hit 500 Million Subscribers on YouTube"
-date: 2026-06-12T19:55:24
+title: 'MrBeast Just Made History: First Creator to Hit 500 Million Subscribers on
+  YouTube'
+date: 2026-06-12 19:55:24
 draft: false
-description: "MrBeast achieves a groundbreaking milestone as the first creator to reach 500 million subscribers on YouTube. Discover his journey and impact in this."
-featured_image: "/images/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en.jpg"
-slug: "mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en"
-canonical: "https://novumworld.com/youtube/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "d7e73fd4-a677-ca19-1489-e060f65c7e2f"
+description: MrBeast achieves a groundbreaking milestone as the first creator to reach
+  500 million subscribers on YouTube. Discover his journey and impact in this.
+featured_image: /images/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en.jpg
+slug: mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en
+canonical: https://novumworld.com/youtube/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: d7e73fd4-a677-ca19-1489-e060f65c7e2f
 ---
 
 ![MrBeast Just Made History: First Creator to Hit 500 Million Subscribers on YouTube](/images/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en.jpg)
@@ -73,28 +77,12 @@ En conclusión, el éxito de MrBeast es un testimonio de la perseverancia y la d
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQczZFZzZROFZGa216WFZsNXVkU2dNNmZlUnUwazc3enJJTjlHTUJqd3FtclNnQVRLclJMUWVVZW1abFp6ZkxLeXBEVUFlSldZbkJaT3RoQndyWHp0VS13VndrbHFLQ3F2TXU4b1Z1RXNBWVVobUJmMm11NERiU1lRMmRkcFpyNjdZVmxvb2lGQm8?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNMHlrYi1PbE5rbllKX2U3NTR5RXVCNThZelRSOFlGYVBhMUdLYzQ2OXdHX2t2aXVHelhWRzQ3dnZzdVZKUnBCd3BTM0l1a25HelVXZWNydS1jNUhwTkJMTHlkUlk1aHRNZnNwby1YaEJFaUVLalNXajBiQ21CS2xtT3BRQQ?oc=5)
 
-
 ## Related Articles
 - [YouTube’s New Likeness Detection Tech Is A Game Changer For Celebrity Rights Protection](/youtube/youtubes-game-changer-likeness-detection-tech-now-available-for-celebs-en/)
 - [YouTube Murder Alibi: Professor Fari](/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [YouTube's Shocking New AI Tool Could Save 62% of Creators from Burnout](/youtube/youtubes-game-changer-ai-powered-video-insertion-for-creators-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "MrBeast Just Made History: First Creator to Hit 500 Million Subscribers on YouTube",
-  "description": "MrBeast achieves a groundbreaking milestone as the first creator to reach 500 million subscribers on YouTube. Discover his journey and impact in this.",
-  "image": "https://novumworld.com/images/mrbeast-breaks-records-the-first-creator-to-reach-500-million-subscribers-en.jpg",
-  "datePublished": "2026-06-12T19:55:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +92,3 @@ En conclusión, el éxito de MrBeast es un testimonio de la perseverancia y la d
     }
   }
 }
-</script>

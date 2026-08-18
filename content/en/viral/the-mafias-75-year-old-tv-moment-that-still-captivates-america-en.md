@@ -31,8 +31,6 @@ The 1951 Kefauver hearings marked a pivotal moment in American history, fundamen
 * A 2016 study by Kathleen Donovan revealed that viewers of crime dramas are more likely to believe that police misconduct is not a significant problem, altering public attitudes towards law enforcement.
 * Understanding the media's influence on crime perception can lead readers to critically assess how television shapes societal views on crime and justice.
 
-
-
 {{< adsterra_native >}}
 
 ## The Kefauver Hearings: America’s First Reality TV Show
@@ -102,6 +100,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [The Plasticity of Truth: How AI Lego Satire Weaponizes Geopolitical Failure](/en/viral/how-ai-lego-style-videos-are-mocking-trumps-war-in-iran-en/)
 - [Chuck Norris Didn''t Die, But Trust Did: Blame The $200 Million Deepfakes](/en/viral/chuck-norris-death-hoax-deepfakes-trust-en/)
 - [McDonald''s CEO''s $26.9 Billion Lie: Here''s Who Pays The Price.](/en/viral/fast-food-ceo-wars-distraction-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

@@ -1,16 +1,19 @@
 ---
-title: "7,000 Empleados en Meta: La IA Desata una Ola de Despidos en España"
-date: 2026-05-19T10:48:56
+title: '7,000 Empleados en Meta: La IA Desata una Ola de Despidos en España'
+date: 2026-05-19 10:48:56
 draft: false
-description: "La inteligencia artificial provoca despidos masivos en España. Descubre cómo 7,000 empleados de Meta enfrentan esta nueva realidad laboral."
-featured_image: "/images/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia.jpg"
-slug: "meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia"
-canonical: "https://novumworld.com/es/ia/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "912555e3-171e-24c5-8542-583f652f6eab"
+description: La inteligencia artificial provoca despidos masivos en España. Descubre
+  cómo 7,000 empleados de Meta enfrentan esta nueva realidad laboral.
+featured_image: /images/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia.jpg
+slug: meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia
+canonical: https://novumworld.com/es/ia/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 912555e3-171e-24c5-8542-583f652f6eab
 ---
 
 ![7,000 Empleados en Meta: La IA Desata una Ola de Despidos en España](/images/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia.jpg)
@@ -59,22 +62,7 @@ El veredicto es implacable: España está perdiendo la batalla por el talento en
 - [¿Tu nevera te espía? El futuro orwelliano que ya pa](/es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag/)
 - [Stox](/es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "7,000 Empleados en Meta: La IA Desata una Ola de Despidos en España",
-  "description": "La inteligencia artificial provoca despidos masivos en España. Descubre cómo 7,000 empleados de Meta enfrentan esta nueva realidad laboral.",
-  "image": "https://novumworld.com/images/meta-reestructura-su-plantilla-7000-empleados-en-la-cuerda-floja-por-la-ia.jpg",
-  "datePublished": "2026-05-19T10:48:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +72,3 @@ El veredicto es implacable: España está perdiendo la batalla por el talento en
     }
   }
 }
-</script>

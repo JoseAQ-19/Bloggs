@@ -1,16 +1,20 @@
 ---
-title: "La Selectividad 2026 Inicia Guerra Contra la Trampa: 10 Medidas Innovadoras Contra la IA"
-date: 2026-05-11T10:50:04
+title: 'La Selectividad 2026 Inicia Guerra Contra la Trampa: 10 Medidas Innovadoras
+  Contra la IA'
+date: 2026-05-11 10:50:04
 draft: false
-description: "Descubre las 10 medidas innovadoras que la Selectividad 2026 implementará para combatir la trampa y el uso indebido de la IA en los exámenes."
-featured_image: "/images/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia.jpg"
-slug: "la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia"
-canonical: "https://novumworld.com/es/ia/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "982ec509-12fc-547b-6814-3443361440fe"
+description: Descubre las 10 medidas innovadoras que la Selectividad 2026 implementará
+  para combatir la trampa y el uso indebido de la IA en los exámenes.
+featured_image: /images/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia.jpg
+slug: la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia
+canonical: https://novumworld.com/es/ia/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 982ec509-12fc-547b-6814-3443361440fe
 ---
 
 ![La Selectividad 2026 Inicia Guerra Contra la Trampa: 10 Medidas Innovadoras Contra la IA](/images/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia.jpg)
@@ -75,22 +79,7 @@ Cuatro comunidades autónomas han comenzado a utilizar detectores de frecuencia 
 - [Stox](/es/ia/stoxx-600-sube-un-15-tras-la-crisis-en-asia-pero-la-volatilidad-persiste/)
 - [Suscripciones Fant](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Selectividad 2026 Inicia Guerra Contra la Trampa: 10 Medidas Innovadoras Contra la IA",
-  "description": "Descubre las 10 medidas innovadoras que la Selectividad 2026 implementará para combatir la trampa y el uso indebido de la IA en los exámenes.",
-  "image": "https://novumworld.com/images/la-selectividad-2026-se-fortalece-medidas-innovadoras-contra-la-trampa-con-ia.jpg",
-  "datePublished": "2026-05-11T10:50:04",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +89,3 @@ Cuatro comunidades autónomas han comenzado a utilizar detectores de frecuencia 
     }
   }
 }
-</script>

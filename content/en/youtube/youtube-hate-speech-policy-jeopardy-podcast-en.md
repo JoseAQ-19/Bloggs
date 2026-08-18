@@ -30,8 +30,6 @@ YouTube's $36.1 billion ad revenue in 2024 masks a growing free speech crisis fo
 * CEO Neal Mohan's crackdown on "AI slop" risks demonetizing legitimate content, raising creator anxiety.
 * Creators are exploring diversified revenue streams and alternative platforms due to YouTube's unpredictable content control.
 
-
-
 {{< adsterra_native >}}
 
 ## Ken Jennings' $36 Billion Headache: The "Omnibus" Podcast Suspension Exposes YouTube's Flaws
@@ -92,6 +90,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Hank Green''s YouTube Nightmare: 170 Million Dollar COPPA Fine Haunts All](/en/youtube/hank-green-youtube-ethics-impact-over-income-en/)
 - [Cord-Cutting 2.0: YouTube TV''s Sports Plan To Hit $64.99, Industry Panics](/en/youtube/youtube-sports-subscription-live-streaming-en/)
 - [Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization](/en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

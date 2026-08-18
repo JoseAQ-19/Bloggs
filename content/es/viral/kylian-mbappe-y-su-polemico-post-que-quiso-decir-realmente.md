@@ -1,16 +1,19 @@
 ---
-title: "Mbappé REVIENTA las Redes: El Mensaje Oculto Que Enfurece a Florentino Pérez"
-date: 2026-05-10T21:59:50
+title: 'Mbappé REVIENTA las Redes: El Mensaje Oculto Que Enfurece a Florentino Pérez'
+date: 2026-05-10 21:59:50
 draft: false
-description: "Mbappé causa revuelo en las redes con un mensaje inesperado que enfurece a Florentino Pérez. Descubre todos los detalles en nuestro artículo."
-featured_image: "/images/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente.jpg"
-slug: "kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente"
-canonical: "https://novumworld.com/es/viral/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e38a4a94-ebd3-6e75-a260-7d1ff2095e49"
+description: Mbappé causa revuelo en las redes con un mensaje inesperado que enfurece
+  a Florentino Pérez. Descubre todos los detalles en nuestro artículo.
+featured_image: /images/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente.jpg
+slug: kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente
+canonical: https://novumworld.com/es/viral/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e38a4a94-ebd3-6e75-a260-7d1ff2095e49
 ---
 
 ![Mbappé REVIENTA las Redes: El Mensaje Oculto Que Enfurece a Florentino Pérez](/images/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente.jpg)
@@ -67,28 +70,12 @@ Silenciar a los críticos en el campo es el único lenguaje que Florentino y el 
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMG1SeWc3VGdhdUpZZ1VaOFFPMmo0djBjaTgtRVNrS094WVZ5cGlZVGpoS182UGczZlo2dkxUYUM5ZEk2bF9leG80STRycWhya3lfS3dVcFFHRnZETzRoaklyOFlTbEE3SHkyZ3V0OGtsTGNiRlhCUU4wdWJVVHBmR25YUVU2RERlNUVKb3ZfMUNCampyeHcxX1M5cV9zendWREZ1LXRUeVJyUHBXMDVVcEJkenpVV2NfNEwzY0VHRGhqbDdwMktUNldldy1jOWl5NUNmd01zbmZXa3FVZUhOX2dqaHRhUkstVzVYbGFfYklEMDNtVUNMVV9NenZlZm9LbmlOdTRDeE5vVEnSAaYCQVVfeXFMTXVYeGZuUFdUNmN1OUhLaGlfU1J1Z1VYLWNXZk0zOW8wVlpTemlDMTUxUkpUZ051SUM4ZC1JbUZSSTZtcWtUM1ZuQll2eTZ4MWxhLW1JTWFSY3hqbFJkQnZaTUQ0NlE3UGhCLUlNQ2tIUHQydVJWd3o0ZGd1NllUZndlM0JuTVhrNTkwOXhaRDhlNS1Pc3B5NTZXTGdGLUhkSk9ZQkVrbmFiVmw1MTZGd09KUFg5S3IyTjdpRXVwcGVTWTlhM2xOZFZ3X01kTFVYTGMyVkNaRUc0bjFlaWNjZnNYcG85TGlnWFlPdjZ4RkExU0I0Z2FyMjJwNFFpWXFoSXNlbTJxeUhTendweGlRUm85eWt0VnZMOUxmMTF2a1ZBOWl1Y3RR?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRlBUOTBpTHdPc0hWWlhVREYzWHlpS2lSR3V3UHNPWEdrTmtmZDdWMGItWVY4M1dMNS0wNS0yRlVURGlfRFZ1MHNoUXdna0dLZlpHcEJqWlVuRkFwQ1dvTWhLSHQ2TlR5WXpBNmN5X0dJT1FpMl9CeGNGNGlPVlgybE5zay0zOXZLZGxRVjVpT0p4Z2VpM0FXVUZ2V041Z2xWSnBjTmRDTTl4aUw1OW9qaWZ1M1hicEVCbF9jRXB6elR1ZlUxZ3l5VVUtLTN1X2dyeDl2ONIB7wFBVV95cUxPbVZmWWJFNmlUdnljdzFtN1BqT0NUbDJaUEJKbERTeUZ6c1FWekxXMTlhOEhVUUo2RnJnSER4MWtKZ25vQkloRENaenlaSDFtWkxaQ2FRRTZFT2JvampMaXJMRUxEQldTVXl3NVUycjIyNDlHNVFrbkMyRFFlemxZTzFTLTBYVkUza1pWQUY1OV9JSWVLb0Z1Y1pSd1hHMnN2V3oyVjNQcVlvVVJsYWFYRXg4QVdnX05YSS1WQUY2Yk91UGk4aGNDS1hXcVdtZG1BUjJ6N21fVjlIY3VSR1plVE9XSlRCMTZYZ21DLXBiTQ?oc=5)
 
-
 ## Artículos relacionados
 - [La Broma Con Plátanos Que Cuesta 4 Euros: El Grito De Auxilio De Los Agricultores Canarios](/es/viral/la-broma-con-platanos-que-desata-risas-y-polemica-4-euros-por-unos-pelados/)
 - [La Terraza Que Conquistó Madrid Se Despide: Un Impacto De 5 Millones De Euros](/es/viral/la-terraza-que-conquisto-la-capital-se-despide-entra-en-concurso-de-acreedores/)
 - [Aída Nízar Lo Confirma: El Horror Psicológico Detrás De Gran](/es/viral/realities-espana-polemica/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Mbappé REVIENTA las Redes: El Mensaje Oculto Que Enfurece a Florentino Pérez",
-  "description": "Mbappé causa revuelo en las redes con un mensaje inesperado que enfurece a Florentino Pérez. Descubre todos los detalles en nuestro artículo.",
-  "image": "https://novumworld.com/images/kylian-mbappe-y-su-polemico-post-que-quiso-decir-realmente.jpg",
-  "datePublished": "2026-05-10T21:59:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +85,3 @@ Silenciar a los críticos en el campo es el único lenguaje que Florentino y el 
     }
   }
 }
-</script>

@@ -30,8 +30,6 @@ Si creías que el paraíso fiscal era solo cosa de *influencers* y futbolistas, 
 * Según la EU Tax Observatory, aproximadamente 12 billones de dólares, el 15% del PIB mundial, están escondidos en paraísos fiscales.
 * Los españoles deben declarar sus bienes en el extranjero a través del Modelo 720, evitando así posibles multas por incumplimiento.
 
-
-
 {{< adsterra_native >}}
 
 ## La Brecha Fiscal de Dubái: Hacienda Apunta a Españoles Con 140.000 Millones Ocultos
@@ -75,6 +73,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Shakira gratis en cdmx: ¿10 muertos más como advertencia para el gobierno?](/es/viral/shakira-concierto-gratis-cdmx-riesgos/)
 - [La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/es/viral/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas/)
 - [Pique ÉPICO: Portero Enciende la Grada Con Su Impactante Frase Sobre España](/es/viral/pique-epico-portero-incendia-la-grada-con-frase-sobre-espana-y-lo-que-va-a-pasar/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

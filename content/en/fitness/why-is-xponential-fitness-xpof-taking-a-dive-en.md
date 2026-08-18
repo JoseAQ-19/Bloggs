@@ -1,16 +1,20 @@
 ---
-title: "Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline"
-date: 2026-05-13T06:31:47
+title: 'Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their
+  Decline'
+date: 2026-05-13 06:31:47
 draft: false
-description: "Discover the startling reasons behind Xponential Fitness's $60 million loss and what it means for the future of the fitness industry. Read more now!."
-featured_image: "/images/why-is-xponential-fitness-xpof-taking-a-dive-en.jpg"
-slug: "why-is-xponential-fitness-xpof-taking-a-dive-en"
-canonical: "https://novumworld.com/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "1b932101-b9ab-50ce-953c-8458479d2311"
+description: Discover the startling reasons behind Xponential Fitness's $60 million
+  loss and what it means for the future of the fitness industry. Read more now!.
+featured_image: /images/why-is-xponential-fitness-xpof-taking-a-dive-en.jpg
+slug: why-is-xponential-fitness-xpof-taking-a-dive-en
+canonical: https://novumworld.com/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 1b932101-b9ab-50ce-953c-8458479d2311
 ---
 
 ![Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/images/why-is-xponential-fitness-xpof-taking-a-dive-en.jpg)
@@ -67,28 +71,12 @@ Xponential Fitness is a case study in the dangers of prioritizing growth over un
 - [news.google.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxORXg2MnI4MGo4N2NzdE5oUEZibkdmZ2dfR25IVVN3VEFJMVZNb0RvVUNMQmY2RVlVY2JsN012Z1VnT1JyVWtEUW9GU3dqVzZrUHRUS0lIanA4U1VVdmgwTXFxUVUxVm9pRlBSYnJsRHpKZ0E2VTlOTXlidXVxck5scU91b1I3T3pfYTBQdWMzcGJxc1pmOW8tX2dHTkVnX0VQYjdiek1OWklYb19mdnR1WXU5Yw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPNEdDM3FOdk5FNmoxdnJQcDBMY3ROM3FFd1U5QmNBLUtTbmdZNDRLdDNBMWVmQWtscjFyOEhmTVFPYldIbUpEWHBBMjFoZ244anlsRmdEN3NGSmFTc3ZRMFdVMVh5bHR6U2EwN1dyMVNyR0dmWDVBU0M4SUlJUlF5ZDVocWRqZ3J1aTJiOWxvTVg5SXdNQ3M3cUNHZTI1MTh5d1ZvUHgzT2VNcFFkdjBidy1MVUpSMU5Mdko0UUdjcWFMYzFYcVlHVGQzRFQ?oc=5)
 
-
 ## Related Articles
 - [Unlocking Longevity: 13% Lower Mortality Risk for Every 1-MET Improvement in VO2max](/fitness/unlocking-longevity-how-staying-fit-after-40-can-transform-your-life-en/)
 - [Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before](/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/)
 - [The Shocking Truth: Why Fitness Experts Say BMEA Pilates Ring Is Essential After 40](/fitness/unlock-your-potential-why-the-bmea-pilates-ring-is-a-game-changer-for-your-fitness-routine-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline",
-  "description": "Discover the startling reasons behind Xponential Fitness's $60 million loss and what it means for the future of the fitness industry. Read more now!.",
-  "image": "https://novumworld.com/images/why-is-xponential-fitness-xpof-taking-a-dive-en.jpg",
-  "datePublished": "2026-05-13T06:31:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +86,3 @@ Xponential Fitness is a case study in the dangers of prioritizing growth over un
     }
   }
 }
-</script>

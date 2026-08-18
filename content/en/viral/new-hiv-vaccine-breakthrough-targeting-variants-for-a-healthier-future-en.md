@@ -1,16 +1,19 @@
 ---
-title: "New HIV Vaccine Breakthrough Targets 8 Variants For A Healthier Future"
-date: 2026-04-29T22:24:44
+title: New HIV Vaccine Breakthrough Targets 8 Variants For A Healthier Future
+date: 2026-04-29 22:24:44
 draft: false
-description: "Discover the groundbreaking HIV vaccine that targets 8 variants, paving the way for a healthier future and renewed hope in the fight against the virus."
-featured_image: "/images/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en.jpg"
-slug: "new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en"
-canonical: "https://novumworld.com/viral/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "787221af-ea07-2836-2d1c-48c07797a704"
+description: Discover the groundbreaking HIV vaccine that targets 8 variants, paving
+  the way for a healthier future and renewed hope in the fight against the virus.
+featured_image: /images/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en.jpg
+slug: new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en
+canonical: https://novumworld.com/viral/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 787221af-ea07-2836-2d1c-48c07797a704
 ---
 
 ![New HIV Vaccine Breakthrough Targets 8 Variants For A Healthier Future](/images/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en.jpg)
@@ -78,28 +81,12 @@ As we stand on the brink of a potential breakthrough, it is imperative that stak
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUtxVHpOM1NnUVJsUVVManpaaDk1SGg3NG5sQ1NkdWNRQkJsSUZ1SncxNHhMUExMek5xYTk3c291M3BoMUpWaXQ5c19UQ3NISktEdGROUHlUVERjM3ZMWUp3ZmpUVjZJVkNMaWNiNUtEMjcyT04wUWhmV0EyMl9uQ3lkbFJBa1kwcUY0?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oR1lwcnQtOC1kTDBHNDFjX2VtN0c5Mks1Wm1xdUE2MFRuaktLZ25sLVV1Ym0tNEdwSkxfRlJqUU40d01MWm9ueUx4WTRaY3l6azJldnNKaW9DZXVFV3pn?oc=5)
 
-
 ## Related Articles
 - [Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/)
 - [27 Knot Winds Nearly Killed a Skydiver at Virginia Tech: The Untold Story](/viral/thrilling-parachute-crash-jumpers-wild-story-behind-the-virginia-tech-scoreboard-incident-en/)
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "New HIV Vaccine Breakthrough Targets 8 Variants For A Healthier Future",
-  "description": "Discover the groundbreaking HIV vaccine that targets 8 variants, paving the way for a healthier future and renewed hope in the fight against the virus.",
-  "image": "https://novumworld.com/images/new-hiv-vaccine-breakthrough-targeting-variants-for-a-healthier-future-en.jpg",
-  "datePublished": "2026-04-29T22:24:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ As we stand on the brink of a potential breakthrough, it is imperative that stak
     }
   }
 }
-</script>

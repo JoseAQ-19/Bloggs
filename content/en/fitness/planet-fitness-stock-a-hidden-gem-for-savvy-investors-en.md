@@ -90,22 +90,7 @@ In a world filled with high-cost alternatives, Planet Fitness demonstrates that 
 - [The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/)
 - [Unlock $100 Off Fitness Trackers: The Spring Sale That Could Save Your Health](/fitness/unlock-fitness-savings-dont-miss-100-off-top-trackers-in-the-amazon-spring-sale-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Planet Fitness Stock Surges 25%: The Hidden Gem Investors Are Ignoring",
-  "description": "Discover why Planet Fitness stock has surged 25% and learn about the potential it holds for savvy investors looking for hidden gems in the market.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-21T07:39:16",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +100,3 @@ In a world filled with high-cost alternatives, Planet Fitness demonstrates that 
     }
   }
 }
-</script>

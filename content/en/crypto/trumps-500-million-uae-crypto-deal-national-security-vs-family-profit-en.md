@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals"
-date: 2026-05-08T16:46:36
+title: The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals
+date: 2026-05-08 16:46:36
 draft: false
-description: "Uncover the surprising details of Trump's $500 million crypto investment backed by UAE royals. Explore the implications and secrets behind this bold move."
-featured_image: "/images/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en.jpg"
-slug: "trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en"
-canonical: "https://novumworld.com/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "252794ff-75a8-ae7d-c88f-94faddc6727b"
+description: Uncover the surprising details of Trump's $500 million crypto investment
+  backed by UAE royals. Explore the implications and secrets behind this bold move.
+featured_image: /images/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en.jpg
+slug: trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en
+canonical: https://novumworld.com/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 252794ff-75a8-ae7d-c88f-94faddc6727b
 ---
 
 ![The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/images/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en.jpg)
@@ -109,12 +112,10 @@ The Trump-UAE crypto deal is a trap, conflating the mandate of the state with th
 - [news.google.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmQ2NWMyakgwZUhUZTZrZ1I0WGpKM3lkSU9DWTNTV3huREdoUDVacGRKOVJOY1NkcWZLTm9jdW9QZUNxTEVzUXp5VVRzSFFrVmFlVVpDY3E0cGVSMFhSU0NBdHZRQ1NKaWxxTXVydGhwRk5nZVFUQ0NIM05mYjFBdVdQeE4wNk1fWnVUQXkzcXZRMWhPQTNjdDhRd191UkxrUmlnT1N4cGhkenhMWWJzc3RYY3JsbWRxd1lRMTh1dEdzWXpfa0E?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU1ZHRFdZQlhQa3FtY0ZZQkViNXRVb2UtdFY3LXl3dVZyRnpBdmZNZndnSXhyaGFoalo1MkpHQXg1RUNBVUFndWVfbi12UElpU1VBdWVwTzE4ZjZsdko3em9IUFByU3NTRjM2T0ItZ3NmeUFTdy1pekVfMUVPQUctbnRzSUFpeUJfcUpZcC1qRGxvWkxnSkN6bjhRY3FKbFIzTHNjZUhleVNSNFFMdjAtcC10aUxkRmlDZEY1ZVpKMDBkSGdCYlN6VGhtTG44R2FEMXd3MVh4RUZBVmp2?oc=5)
 
-
 ## Related Articles
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -124,18 +125,7 @@ The Trump-UAE crypto deal is a trap, conflating the mandate of the state with th
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals",
-  "description": "Uncover the surprising details of Trump's $500 million crypto investment backed by UAE royals. Explore the implications and secrets behind this bold move.",
-  "image": "https://novumworld.com/images/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en.jpg",
-  "datePublished": "2026-05-08T16:46:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -145,4 +135,3 @@ The Trump-UAE crypto deal is a trap, conflating the mandate of the state with th
     }
   }
 }
-</script>

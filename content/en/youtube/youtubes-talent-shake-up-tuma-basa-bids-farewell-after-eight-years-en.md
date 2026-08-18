@@ -1,16 +1,20 @@
 ---
-title: "Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic Bias Crisis"
-date: 2026-04-05T20:40:29
+title: Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic
+  Bias Crisis
+date: 2026-04-05 20:40:29
 draft: false
-description: "Tuma Basa's exit ignites fury as YouTube faces a talent exodus and mounting concerns over algorithmic bias. Discover the implications for creators."
-featured_image: "/images/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en.jpg"
-slug: "youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en"
-canonical: "https://novumworld.com/youtube/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "e0440734-a919-7f72-0b24-1abf0d265905"
+description: Tuma Basa's exit ignites fury as YouTube faces a talent exodus and mounting
+  concerns over algorithmic bias. Discover the implications for creators.
+featured_image: /images/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en.jpg
+slug: youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en
+canonical: https://novumworld.com/youtube/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: e0440734-a919-7f72-0b24-1abf0d265905
 ---
 
 ![Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic Bias Crisis](/images/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en.jpg)
@@ -93,28 +97,12 @@ If YouTube doesn't listen, the platform risks losing its most vibrant creatorsâ€
 - [par.nsf.gov](https://par.nsf.gov/biblio/10337609-how-advertiser-friendly-my-video-youtuber-socioeconomic-interactions-algorithmic-content-moderation)
 - [par.nsf.gov](https://par.nsf.gov/servlets/purl/10341498)
 
-
 ## Related Articles
 - [Y](/youtube/youtube-shuts-down-ai-generated-movie-trailers-what-it-means-for-creators-en/)
 - [YouTube TV In 2026: Comcast''s Worst Nightmare Or](/youtube/youtube-tv-2026-worth-it-en/)
 - [YouTube''s $46.2 Billion Ad Revenue Disas](/youtube/youtube-golden-age-creator-economics-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic Bias Crisis",
-  "description": "Tuma Basa's exit ignites fury as YouTube faces a talent exodus and mounting concerns over algorithmic bias. Discover the implications for creators.",
-  "image": "https://novumworld.com/images/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en.jpg",
-  "datePublished": "2026-04-05T20:40:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +112,3 @@ If YouTube doesn't listen, the platform risks losing its most vibrant creatorsâ€
     }
   }
 }
-</script>

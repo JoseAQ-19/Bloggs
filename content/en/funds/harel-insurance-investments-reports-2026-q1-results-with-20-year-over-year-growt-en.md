@@ -1,14 +1,18 @@
 ---
-title: "Harel Insurance Investments Reports 2026 Q1 Results with 20% Year-over-Year Growth"
-date: 2026-05-27T09:44:03
+title: Harel Insurance Investments Reports 2026 Q1 Results with 20% Year-over-Year
+  Growth
+date: 2026-05-27 09:44:03
 draft: false
-description: "Discover Harel Insurance Investments' impressive 20% year-over-year growth in Q1 2026. Uncover insights and trends driving their mutual fund success."
-featured_image: "/images/harel-insurance-investments-reports-2026-q1-results-with-20-year-over-year-growt-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "eb3721eb-f278-8bd6-01cc-14e47b2c4249"
+description: Discover Harel Insurance Investments' impressive 20% year-over-year growth
+  in Q1 2026. Uncover insights and trends driving their mutual fund success.
+featured_image: /images/harel-insurance-investments-reports-2026-q1-results-with-20-year-over-year-growt-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: eb3721eb-f278-8bd6-01cc-14e47b2c4249
 ---
 
 ![Harel Insurance Investments Reports 2026 Q1 Results with 20% Year-over-Year Growth](/images/harel-insurance-investments-reports-2026-q1-results-with-20-year-over-year-growt-en.jpg)
@@ -20,8 +24,6 @@ Harel Insurance Investments and Financial Services reported a remarkable 20% yea
 * [Operating profit reached NIS 300 million — source CNMV]
 
 This impressive growth trajectory positions Harel as a formidable player in the insurance and financial services market. The company has demonstrated resilience in a challenging economic environment, with a strong focus on diversifying its product offerings and improving operational efficiencies. 
-
-
 
 {{< adsterra_native >}}
 
@@ -84,6 +86,4 @@ Harel maintains a total expense ratio of 1.0%, which is on par with the industry
 - [Vanguard Sl](/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 - [PGIM Real Estate Fund Marks $260M with 10th Property Acquisition Completed](/funds/pgim-real-estate-fund-marks-260m-with-10th-property-acquisition-completed-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

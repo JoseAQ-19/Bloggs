@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Costs Behind Marshalltown's HMA Rehab Project That Nobody Is Discussing"
-date: 2026-06-17T12:47:32
+title: The Hidden Costs Behind Marshalltown's HMA Rehab Project That Nobody Is Discussing
+date: 2026-06-17 12:47:32
 draft: false
-description: "Discover the overlooked expenses of Marshalltown's HMA rehab project, exploring financial impacts and implications that remain largely unaddressed."
-featured_image: "/images/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en.jpg"
-slug: "marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en"
-canonical: "https://novumworld.com/ia/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "5cc323b6-6a67-213a-878e-c516e36dac74"
+description: Discover the overlooked expenses of Marshalltown's HMA rehab project,
+  exploring financial impacts and implications that remain largely unaddressed.
+featured_image: /images/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en.jpg
+slug: marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en
+canonical: https://novumworld.com/ia/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 5cc323b6-6a67-213a-878e-c516e36dac74
 ---
 
 ![The Hidden Costs Behind Marshalltown's HMA Rehab Project That Nobody Is Discussing](/images/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en.jpg)
@@ -47,22 +50,7 @@ The Marshalltown HMA Rehab Project serves as a cautionary tale of mismanagement 
 - [University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire Genuine Connection](/ia/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en/)
 - [Mideo Transforms Video Into MIDI Magic: The AI Revolutionizing Sound Creation](/ia/transforming-sound-how-mideo-turns-video-into-midi-magic-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Costs Behind Marshalltown's HMA Rehab Project That Nobody Is Discussing",
-  "description": "Discover the overlooked expenses of Marshalltown's HMA rehab project, exploring financial impacts and implications that remain largely unaddressed.",
-  "image": "https://novumworld.com/images/marshalltowns-streets-get-a-makeover-the-hma-rehab-project-unfolds-en.jpg",
-  "datePublished": "2026-06-17T12:47:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -72,4 +60,3 @@ The Marshalltown HMA Rehab Project serves as a cautionary tale of mismanagement 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "Parents Sound Off: 19.7% Of Kids Face Obesity While Screen Time Skyrockets"
-date: 2026-04-20T06:14:28
+title: 'Parents Sound Off: 19.7% Of Kids Face Obesity While Screen Time Skyrockets'
+date: 2026-04-20 06:14:28
 draft: false
-description: "Discover how rising screen time contributes to the alarming 19.7% obesity rate among kids. Parents share insights and solutions for a healthier future."
-featured_image: "/images/parents-speak-out-the-real-reasons-kids-arent-staying-active-en.jpg"
-slug: "parents-speak-out-the-real-reasons-kids-arent-staying-active-en"
-canonical: "https://novumworld.com/fitness/parents-speak-out-the-real-reasons-kids-arent-staying-active-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "1b8f8e72-85d8-c458-461a-0e3f924c1b42"
+description: Discover how rising screen time contributes to the alarming 19.7% obesity
+  rate among kids. Parents share insights and solutions for a healthier future.
+featured_image: /images/parents-speak-out-the-real-reasons-kids-arent-staying-active-en.jpg
+slug: parents-speak-out-the-real-reasons-kids-arent-staying-active-en
+canonical: https://novumworld.com/fitness/parents-speak-out-the-real-reasons-kids-arent-staying-active-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 1b8f8e72-85d8-c458-461a-0e3f924c1b42
 ---
 
 ![Parents Sound Off: 19.7% Of Kids Face Obesity While Screen Time Skyrockets](/images/parents-speak-out-the-real-reasons-kids-arent-staying-active-en.jpg)
@@ -69,28 +72,12 @@ Parents must implement a strict "Digital Sunset" protocol combined with a mandat
 - [news.google.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeEhIVVhnd1hDZGJJU2tWeHVMRXBITTkxSjJINmlVUXE0UmxJcWxjUDdTejlJUmlqNnB1WkhzZk1oWjBpb2dINW5hXzRnTjEtU21CU1F0MVNZMC1CSmgzOUtIV09yUEtMQW84WGgySlhwNEFxdDNKbldvaElBWDl0OHI4VUIxM1pDYm1HTGJ1dGJrRFZNdE04dU5RMGlEcUpWQWgwSDM5X1JnXzEzQVcyVENCVEM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMUNfSDhyU1BHYkpsWlJoRXF0Y2Z0LTdtQ2RReV95M2dfWU9iczNZdTQ4eUlNWFMtMVowZ0h0TlhJZktfQWV6SlNPa3ZIZHZFRTZkM0F2RThqZzZNOV8tOXpmV3lkTzZSZllYa2hINHRBT3dyakxsVm5qa01sYU1xeUlQai1SR09yNVUxYXhvbV8?oc=5)
 
-
 ## Related Articles
 - [Planet Fitness Exposed: The Bear C](/fitness/planet-fitness-growth-strategy-en/)
 - [Bodybuilding''s Deadly](/fitness/natural-bodybuilding-contest-prep-dangers-en/)
 - [Unlock $100 Off Fitness Trackers: The Spring Sale That Could Save Your Health](/fitness/unlock-fitness-savings-dont-miss-100-off-top-trackers-in-the-amazon-spring-sale-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Parents Sound Off: 19.7% Of Kids Face Obesity While Screen Time Skyrockets",
-  "description": "Discover how rising screen time contributes to the alarming 19.7% obesity rate among kids. Parents share insights and solutions for a healthier future.",
-  "image": "https://novumworld.com/images/parents-speak-out-the-real-reasons-kids-arent-staying-active-en.jpg",
-  "datePublished": "2026-04-20T06:14:28",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +87,3 @@ Parents must implement a strict "Digital Sunset" protocol combined with a mandat
     }
   }
 }
-</script>

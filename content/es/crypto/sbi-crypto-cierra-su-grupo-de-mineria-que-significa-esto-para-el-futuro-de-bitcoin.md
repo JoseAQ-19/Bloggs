@@ -78,7 +78,6 @@ La recomendación para los inversores y actores del ecosistema es apoyar proyect
 - [30.2% de Bitcoin Es Vulnerable: Las Monedas de Privacidad Enfrentan un Futuro Oscuro](/es/crypto/las-monedas-de-privacidad-y-la-resistencia-cuantica-el-futuro-del-cripto-ante-la-estabilidad-de-bitc/)
 - [Prosegur Crypto Y Sus Aliados: 5 Claves Que Están Revolucionando Los Pagos Digitales](/es/crypto/prosegur-crypto-y-aliados-revolucionando-los-pagos-digitales-con-stablecoins/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -87,18 +86,7 @@ La recomendación para los inversores y actores del ecosistema es apoyar proyect
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "SBI Crypto Cierra Su Grupo De Minería: Un Golpe Mortal Para Bitcoin",
-  "description": "SBI Crypto cierra su grupo de minería, marcando un duro golpe para Bitcoin. Descubre las implicaciones y el futuro de las criptomonedas en este artículo.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-02T16:18:38",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ La recomendación para los inversores y actores del ecosistema es apoyar proyect
     }
   }
 }
-</script>

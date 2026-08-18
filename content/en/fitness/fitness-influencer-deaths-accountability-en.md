@@ -29,8 +29,6 @@ Fitness influencer Dmitry Nuyanzin died after attempting a 10,000-calorie challe
 * Tech investors and Wall Street analysts must scrutinize the regulatory and ethical risks associated with influencer marketing before allocating capital to related ventures.
 * The smart fitness market is projected to reach $60.4 billion by 2036, growing at a CAGR of 12.4% from a valuation of USD 18.8 billion in 2026.
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithmic Accountability Gap
@@ -94,6 +92,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [The Hidden Risks of Jay Blahnik’s Departure: Fitness Tech Could Never Be the](/en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en/)
 - [Wearable Fitness Data To Explode To $703 Billion: But There''s A Catch](/en/fitness/data-integration-wearable-fitness-en/)
 - [Off-Duty Bloodshed: Why Black Men Are 39% Of Off-Duty Police Killings](/en/fitness/silicon-valley-off-duty-police-altercations-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

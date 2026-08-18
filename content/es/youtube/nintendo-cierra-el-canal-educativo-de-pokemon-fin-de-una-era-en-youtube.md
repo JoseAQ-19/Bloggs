@@ -1,16 +1,19 @@
 ---
-title: "Fin De Una Era: Nintendo Elimina Su Querido Canal Educativo De 'Pokémon"
-date: 2026-04-29T19:07:37
+title: 'Fin De Una Era: Nintendo Elimina Su Querido Canal Educativo De ''Pokémon'
+date: 2026-04-29 19:07:37
 draft: false
-description: "Nintendo cierra su icónico canal educativo de 'Pokémon'. Descubre cómo esta decisión marca el fin de una era y lo que significa para los fans."
-featured_image: "/images/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube.jpg"
-slug: "nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube"
-canonical: "https://novumworld.com/es/youtube/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "667d06c3-cb60-00b6-aa0f-4da950f0df6d"
+description: Nintendo cierra su icónico canal educativo de 'Pokémon'. Descubre cómo
+  esta decisión marca el fin de una era y lo que significa para los fans.
+featured_image: /images/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube.jpg
+slug: nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube
+canonical: https://novumworld.com/es/youtube/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 667d06c3-cb60-00b6-aa0f-4da950f0df6d
 ---
 
 ![Fin De Una Era: Nintendo Elimina Su Querido Canal Educativo De 'Pokémon](/images/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube.jpg)
@@ -66,22 +69,7 @@ La decisión de Nintendo es un recordatorio de que, en la búsqueda de maximizar
 - [YouTube Revoluciona La Publicidad: Anuncios Pausados En Momentos Clave Durante Los Directos](/es/youtube/youtube-revoluciona-la-publicidad-anuncios-sin-interrupciones-en-los-directos/)
 - [YouTube, Se Acabó: Obligan a](/es/youtube/youtube-anuncios-30-segundos-enfado-usuarios/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fin De Una Era: Nintendo Elimina Su Querido Canal Educativo De 'Pokémon",
-  "description": "Nintendo cierra su icónico canal educativo de 'Pokémon'. Descubre cómo esta decisión marca el fin de una era y lo que significa para los fans.",
-  "image": "https://novumworld.com/images/nintendo-cierra-el-canal-educativo-de-pokemon-fin-de-una-era-en-youtube.jpg",
-  "datePublished": "2026-04-29T19:07:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ La decisión de Nintendo es un recordatorio de que, en la búsqueda de maximizar
     }
   }
 }
-</script>

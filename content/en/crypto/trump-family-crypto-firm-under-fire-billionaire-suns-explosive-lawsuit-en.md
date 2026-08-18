@@ -1,16 +1,20 @@
 ---
-title: "Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens"
-date: 2026-04-22T17:52:23
+title: Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth
+  of Tokens
+date: 2026-04-22 17:52:23
 draft: false
-description: "Justin Sun alleges the Trump family's crypto firm illegally siphoned $320 million in tokens. Discover the details of this explosive claim and its."
-featured_image: "/images/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en.jpg"
-slug: "trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en"
-canonical: "https://novumworld.com/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "11390b16-ca5d-fdbd-f687-d17ecd546557"
+description: Justin Sun alleges the Trump family's crypto firm illegally siphoned
+  $320 million in tokens. Discover the details of this explosive claim and its.
+featured_image: /images/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en.jpg
+slug: trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en
+canonical: https://novumworld.com/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 11390b16-ca5d-fdbd-f687-d17ecd546557
 ---
 
 ![Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/images/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en.jpg)
@@ -113,12 +117,10 @@ The $320 million frozen by World Liberty is a stark reminder that "not your keys
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTNNTWRyZlhJaUJQeXlNTWNybHpYZEo3cEtBU3BaMFZFQjJwbmpxWFVVYUV0d29PcTJ2bW1ucW05SWkweWpXYjRyZ0NfZEJ4dUhJVGJLeGZjRlJRVnRBbHpHaDQ3U3dpNUhxTThvVk5Oc200Vlc1ZllfeWl5X3hDRXMwYUc4TTlXZllqRmRtbVJaMUJZdzJQQ0ViaGU3c2dpdEE4MHVtUm9tT29lbzBYZUsyUWZwcGPSAbcBQVVfeXFMT00zTU1kcmZYSWlCUHl5TU1jcmx6WGRKN3BLQVNwWjBWRUIycG5qcVhVVWFFdHdvT3Eydm1tbnFtOUlpMHlqV2I0cmdDX2RCeHVISVRiS3hmY0ZSUVZ0QWx6R2g0N1N3aTVIcU04b1ZOTnNtNFZXNWZZX3lpeV94Q0VzMGFHOE05V2ZZakZkbW1SWjFCWXcyUENFYmhlN3NnaXRBODB1bVJvbU9vZW8wWGVLMlFmcHBj?oc=5)
 
-
 ## Related Articles
 - [Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk](/crypto/plymouth-man-crypto-scam-en/)
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -128,18 +130,7 @@ The $320 million frozen by World Liberty is a stark reminder that "not your keys
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens",
-  "description": "Justin Sun alleges the Trump family's crypto firm illegally siphoned $320 million in tokens. Discover the details of this explosive claim and its.",
-  "image": "https://novumworld.com/images/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en.jpg",
-  "datePublished": "2026-04-22T17:52:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -149,4 +140,3 @@ The $320 million frozen by World Liberty is a stark reminder that "not your keys
     }
   }
 }
-</script>

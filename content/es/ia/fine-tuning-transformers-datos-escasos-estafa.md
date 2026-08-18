@@ -26,8 +26,6 @@ Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando 
 
 Estás alimentando a las bestias de silicio con migajas. Y te estás arruinando en el intento. La optimización fina de los modelos Transformer con conjuntos de datos del tamaño de un tuit se ha convertido en la nueva fiebre del oro para las empresas desesperadas por exprimir el jugo de la IA sin el presupuesto de Google. Pero, ¿es realmente oro lo que están desenterrando, o solo pirita digital que quemará sus GPUs y sus bolsillos?
 
-
-
 {{< adsterra_native >}}
 
 ## El espejismo del Transformer domesticado
@@ -67,6 +65,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Suscripciones Fantasma: La Estafa del Siglo XXI](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 - [¿Sueñan los Borregos con Ciber-Ovejas? El Futuro No Es Lo Que Crees](/es/ia/suenan-los-borregos-con-ciber-ovejas-el-futuro-no/)
 - [¿Tu nevera te espía? El futuro orwelliano que ya pagas](/es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

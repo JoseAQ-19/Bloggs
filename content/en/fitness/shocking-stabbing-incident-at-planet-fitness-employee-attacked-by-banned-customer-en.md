@@ -37,8 +37,6 @@ Without question, the recent stabbing of a Planet Fitness employee by a banned c
 
 * This incident emphasizes the need for enhanced safety protocols and employee training to prevent future violence in fitness environments.
 
-
-
 {{< adsterra_native >}}
 
 ## The Surveillance Dilemma: Why 15 Cameras Didn’t Stop Violence
@@ -98,6 +96,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [The Hidden Risks of Jay Blahnik’s Departure: Fitness Tech Could Never Be the](/en/fitness/apple-fitness-chief-jay-blahnik-steps-down-what-this-means-for-the-future-of-fitness-tech-en/)
 - [UTMB Coach Drops Truth Bomb: VO2 Max Is the WORST Predictor for Runners](/en/fitness/beyond-vo2-max-better-biomarkers-en/)
 - [Orangetheory''s $1 Billion Gamble: Will MLS Partnership Lead To Data Breach?](/en/fitness/orangetheory-mls-data-privacy-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

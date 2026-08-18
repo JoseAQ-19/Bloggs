@@ -24,8 +24,6 @@ Con un **16,04%** de rentabilidad a 5 años, el Hamco Global Value Fund R FI se 
 
 Desde su lanzamiento, el Hamco Global Value Fund R FI ha demostrado ser un vehículo atractivo para aquellos que buscan maximizar su inversión a largo plazo. Este fondo, gestionado por Hamco, se basa en una estrategia de inversión centrada en identificar acciones subvaluadas, lo que ha permitido a los inversores beneficiarse de una recuperación en los mercados.
 
-
-
 {{< adsterra_native >}}
 
 ## Análisis Comparativo de Fondos
@@ -88,33 +86,12 @@ Sí, diversificar es fundamental para mitigar riesgos potenciales. Se recomienda
 
 El ratio de gastos del Hamco Global Value Fund es competitivo, pero es importante comparar con otros fondos para evaluar el impacto en la rentabilidad neta.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Con un 16,04%, Hamco Global Value Fund R FI lidera entre los fondos en España",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntityOfPage": "https://example.com",
   "articleBody": "Con un 16,04% de rentabilidad a 5 años, el Hamco Global Value Fund R FI se posiciona como el líder indiscutible entre los fondos de inversión en España..."
 }
-</script>
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cuál es la rentabilidad esperada del Hamco Global Value Fund R FI en el futuro?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La rentabilidad futura es incierta y dependerá de las condiciones del mercado."
-      }
-    },
+
+},
     {
       "@type": "Question",
       "name": "¿Qué riesgos debería considerar un inversor antes de invertir en este fondo?",
@@ -149,9 +126,8 @@ El ratio de gastos del Hamco Global Value Fund es competitivo, pero es important
     }
   ]
 }
-</script>
-*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
+*Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
 
 ## Metodología y Fuentes
 Este artículo fue analizado y validado por el equipo de investigadores de NovumWorld. Los datos provienen estrictamente de métricas actualizadas, regulaciones institucionales y canales de análisis autorizados para asegurar que el contenido cumpla con el estándar más alto de calidad y autoridad (E-E-A-T) de la industria.

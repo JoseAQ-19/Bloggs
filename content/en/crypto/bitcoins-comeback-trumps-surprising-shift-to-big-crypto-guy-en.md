@@ -78,12 +78,10 @@ Trump's turn towards crypto is emblematic of a larger trend where digital curren
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkJ5S1Zqb1V1b1pOSUlLeWV6SGNjcVZMYzRqVE94bC14dVBObFBtaS1HRVhfNmVBY0tDZ3FUdEEtVU80TXdWNWFuanhpY3hwZE5YX2U2b19ZUFRXVUkxQzFLeWRfUFVOUGFUTktkd2MwSjdTOWFMWW1NblRscWtyUDJqMjFHaldPdUZsVHgtT3FudU9iOC1uUVhoU000eFlUcjcwR2dTRTA?oc=5)
 
-
 ## Related Articles
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -93,18 +91,7 @@ Trump's turn towards crypto is emblematic of a larger trend where digital curren
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump’s Unexpected Shift: The 5 Reasons He’s Now a ‘Big Crypto Guy’",
-  "description": "Discover the surprising reasons behind Trump's embrace of cryptocurrency. Explore the five key factors driving his new identity as a 'big crypto guy.'.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-06T19:14:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +101,3 @@ Trump's turn towards crypto is emblematic of a larger trend where digital curren
     }
   }
 }
-</script>

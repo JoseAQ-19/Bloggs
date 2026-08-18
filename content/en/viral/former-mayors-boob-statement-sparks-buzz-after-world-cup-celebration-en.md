@@ -1,16 +1,19 @@
 ---
-title: "Former Mayor's Boob Statement Ignites Outrage After World Cup Celebration Analysis"
-date: 2026-06-21T22:28:49
+title: Former Mayor's Boob Statement Ignites Outrage After World Cup Celebration Analysis
+date: 2026-06-21 22:28:49
 draft: false
-description: "A former mayor's controversial comments spark backlash after a World Cup celebration analysis. Explore the outrage and implications of this statement."
-featured_image: "/images/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en.jpg"
-slug: "former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en"
-canonical: "https://novumworld.com/viral/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "43cfc31d-1499-7eaa-74b7-81edc45846e4"
+description: A former mayor's controversial comments spark backlash after a World
+  Cup celebration analysis. Explore the outrage and implications of this statement.
+featured_image: /images/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en.jpg
+slug: former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en
+canonical: https://novumworld.com/viral/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 43cfc31d-1499-7eaa-74b7-81edc45846e4
 ---
 
 ![Former Mayor's Boob Statement Ignites Outrage After World Cup Celebration Analysis](/images/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en.jpg)
@@ -88,22 +91,7 @@ It's time to level the playing field—not just on the field, but in our words a
 - [Therian Identity Faces $78 Billion Crisis: AI](/viral/therian-culture-ai-disinformation-en/)
 - [The Door-Kick Challenge Returns: 5 Reasons Fargo-Moorhead Is Outraged](/viral/the-door-kick-challenge-is-back-tiktok-trend-sparks-controversy-in-fargo-moorhead-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Former Mayor's Boob Statement Ignites Outrage After World Cup Celebration Analysis",
-  "description": "A former mayor's controversial comments spark backlash after a World Cup celebration analysis. Explore the outrage and implications of this statement.",
-  "image": "https://novumworld.com/images/former-mayors-boob-statement-sparks-buzz-after-world-cup-celebration-en.jpg",
-  "datePublished": "2026-06-21T22:28:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +101,3 @@ It's time to level the playing field—not just on the field, but in our words a
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "57 Million Bushels Lost: Iowa's Tornadoes Reveal Shocking Infrastructure Weaknesses"
-date: 2026-05-19T12:30:00
+title: '57 Million Bushels Lost: Iowa''s Tornadoes Reveal Shocking Infrastructure
+  Weaknesses'
+date: 2026-05-19 12:30:00
 draft: false
-description: "Discover how Iowa's recent tornadoes led to the loss of 57 million bushels, exposing critical infrastructure weaknesses and urgent need for improvements."
-featured_image: "/images/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en.jpg"
-slug: "devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en"
-canonical: "https://novumworld.com/ia/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "a1186f4b-3d55-d755-6292-b018d4c169ac"
+description: Discover how Iowa's recent tornadoes led to the loss of 57 million bushels,
+  exposing critical infrastructure weaknesses and urgent need for improvements.
+featured_image: /images/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en.jpg
+slug: devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en
+canonical: https://novumworld.com/ia/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: a1186f4b-3d55-d755-6292-b018d4c169ac
 ---
 
 ![57 Million Bushels Lost: Iowa's Tornadoes Reveal Shocking Infrastructure Weaknesses](/images/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en.jpg)
@@ -77,22 +81,7 @@ Iowa's experience with the 2020 derecho reveals critical infrastructure vulnerab
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "57 Million Bushels Lost: Iowa's Tornadoes Reveal Shocking Infrastructure Weaknesses",
-  "description": "Discover how Iowa's recent tornadoes led to the loss of 57 million bushels, exposing critical infrastructure weaknesses and urgent need for improvements.",
-  "image": "https://novumworld.com/images/devastation-in-kingsley-tornadoes-leave-a-mark-on-iowa-en.jpg",
-  "datePublished": "2026-05-19T12:30:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +91,3 @@ Iowa's experience with the 2020 derecho reveals critical infrastructure vulnerab
     }
   }
 }
-</script>

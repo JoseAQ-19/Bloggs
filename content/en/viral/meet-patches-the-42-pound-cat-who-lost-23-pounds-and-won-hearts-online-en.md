@@ -1,16 +1,20 @@
 ---
-title: "Patches Lost 23 Pounds: The Heartwarming Transformation That Exposes Cat Owner Ignorance"
-date: 2026-04-24T23:46:21
+title: 'Patches Lost 23 Pounds: The Heartwarming Transformation That Exposes Cat Owner
+  Ignorance'
+date: 2026-04-24 23:46:21
 draft: false
-description: "Discover the inspiring journey of Patches, a cat who lost 23 pounds, revealing the crucial lessons about pet care that every cat owner must learn."
-featured_image: "/images/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en.jpg"
-slug: "meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en"
-canonical: "https://novumworld.com/viral/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "07bb1c9b-7fdc-99b6-843f-0de9cc8d916b"
+description: Discover the inspiring journey of Patches, a cat who lost 23 pounds,
+  revealing the crucial lessons about pet care that every cat owner must learn.
+featured_image: /images/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en.jpg
+slug: meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en
+canonical: https://novumworld.com/viral/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 07bb1c9b-7fdc-99b6-843f-0de9cc8d916b
 ---
 
 ![Patches Lost 23 Pounds: The Heartwarming Transformation That Exposes Cat Owner Ignorance](/images/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en.jpg)
@@ -69,28 +73,12 @@ Ignoring the obesity epidemic in cats is not an option; it is time to take actio
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1abXNyUTd3WEZjSkNFQWdtckphNHVVUTJQWWxGTFdLUkF6Vk1MWW5GS3M3WU1qV2J1STA5TW5LUHgwUmRGMEVLMkRQSEtMWGJ1WXJpODg3OVRiSXN6SXM3OHhZSFo5dGhaaVU5aHFDM0pkSFFaU2FhdU5pYXRYZw?oc=5)
 
-
 ## Related Articles
 - [Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/)
 - [Trump''s Cuba Coup: How 1.6 Million Worke](/viral/trump-cuba-privatization-paradox-en/)
 - [Spurs Blunder: 60% Of Latino Fans On Faceboo](/viral/spurs-tiktok-diversity-backfire-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Patches Lost 23 Pounds: The Heartwarming Transformation That Exposes Cat Owner Ignorance",
-  "description": "Discover the inspiring journey of Patches, a cat who lost 23 pounds, revealing the crucial lessons about pet care that every cat owner must learn.",
-  "image": "https://novumworld.com/images/meet-patches-the-42-pound-cat-who-lost-23-pounds-and-won-hearts-online-en.jpg",
-  "datePublished": "2026-04-24T23:46:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +88,3 @@ Ignoring the obesity epidemic in cats is not an option; it is time to take actio
     }
   }
 }
-</script>

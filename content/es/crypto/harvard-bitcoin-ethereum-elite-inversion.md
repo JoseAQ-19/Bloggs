@@ -26,8 +26,6 @@ type: crypto
 - **Desafíos de Ethereum:** La escalabilidad y las altas tarifas de gas son factores críticos que limitan su adopción masiva.
 - **Impacto general:** La decisión de Harvard podría influir en las estrategias de inversión de otros actores institucionales, acelerando el cambio hacia criptomonedas alternativas.
 
-
-
 {{< adsterra_native >}}
 
 ## Harvard Abandona Bitcoin: Apuesta 86 Millones por Ethereum y Desata la Locura
@@ -75,6 +73,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Bitcoin Se Desangra: El Error Fatal Que Ignoran Los Analistas Españoles](/es/crypto/bitcoin-caida-soporte-analisis-espanol/)
 - [Bitcoin: El Despertar Brutal de la Estafa Digital](/es/crypto/bitcoin-el-despertar-brutal-de-la-estafa-digital/)
 - [Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?](/es/crypto/bitcoin-en-caida-libre-el-fin-de-la-era-dorada/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

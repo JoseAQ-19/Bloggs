@@ -1,16 +1,19 @@
 ---
-title: "IRS Is Coming for Your Crypto: Why $9.36 Billion in Gains Cannot Be Ignored"
-date: 2026-05-22T16:59:33
+title: 'IRS Is Coming for Your Crypto: Why $9.36 Billion in Gains Cannot Be Ignored'
+date: 2026-05-22 16:59:33
 draft: false
-description: "Discover why the IRS is targeting $9.36 billion in cryptocurrency gains and what it means for your investments. Stay informed and compliant today!."
-featured_image: "/images/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en.jpg"
-slug: "congress-vs-crypto-time-to-overhaul-the-taxing-framework-en"
-canonical: "https://novumworld.com/crypto/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "50d30e8a-30af-9273-a78b-6b150e98b720"
+description: Discover why the IRS is targeting $9.36 billion in cryptocurrency gains
+  and what it means for your investments. Stay informed and compliant today!.
+featured_image: /images/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en.jpg
+slug: congress-vs-crypto-time-to-overhaul-the-taxing-framework-en
+canonical: https://novumworld.com/crypto/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 50d30e8a-30af-9273-a78b-6b150e98b720
 ---
 
 ![IRS Is Coming for Your Crypto: Why $9.36 Billion in Gains Cannot Be Ignored](/images/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en.jpg)
@@ -72,12 +75,10 @@ The IRS's systematic targeting of unrealized crypto gains represents an inflecti
 - [news.google.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGgtMWFTRklYT2ZGN0t6Rk5jc2NxODl2aWJWNFNaeWJRSERmOWlodjlqeUJPNUV2T3NiNXRBbTlMM21UemVlVFF2QVVfZjBhRUw1WS1seUtmTW5ieVd1czBENlZhZDAwX1labDRxQzJPcnJndDE5aEpoVVRjc1libzVUSU9Qa1p5SEdvNw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qVVRwZ1NHTUgycDhaMXRhWEVlNnF0LVJhRGZMdHMyTUdZZzdidGxSbk1HU2ZYNDZkdDFfQTdWbmJEa0x6RU12YVN4NUpFcnBtX093clZhVzhTY005?oc=5)
 
-
 ## Related Articles
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -87,18 +88,7 @@ The IRS's systematic targeting of unrealized crypto gains represents an inflecti
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "IRS Is Coming for Your Crypto: Why $9.36 Billion in Gains Cannot Be Ignored",
-  "description": "Discover why the IRS is targeting $9.36 billion in cryptocurrency gains and what it means for your investments. Stay informed and compliant today!.",
-  "image": "https://novumworld.com/images/congress-vs-crypto-time-to-overhaul-the-taxing-framework-en.jpg",
-  "datePublished": "2026-05-22T16:59:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +98,3 @@ The IRS's systematic targeting of unrealized crypto gains represents an inflecti
     }
   }
 }
-</script>

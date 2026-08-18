@@ -29,8 +29,6 @@ Without question, the narrative around aging often paints a bleak picture of ine
 * According to a study published in the Journal of the American Geriatrics Society, adults over 65 with greater muscle mass have a lower risk of premature death, emphasizing the importance of maintaining strength as we age ([PubMed](https://pubmed.ncbi.nlm.nih.gov/38458181/)).
 * This story serves as a call to action for older adults to engage in resistance training and prioritize protein intake to enhance longevity and quality of life.
 
-
-
 {{< adsterra_native >}}
 
 ## The Aging Athlete's Revolution: How One Man Defies the Odds
@@ -86,6 +84,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist](/en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en/)
 - [Forget Weights: Xponential Fitness Doesn''t Want You To Know This Hypertrophy](/en/fitness/bodyweight-isometrics-hypertrophy-en/)
 - [Lancaster Gyms Just Solved Fitness's 60% Problem; Big Gyms Should Be Terrified](/en/fitness/lancaster-gyms-women-of-color-fitness-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

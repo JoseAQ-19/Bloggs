@@ -31,8 +31,6 @@ Fluent Financial LLC recently made headlines by investing $10 million in Morning
 
 This influx of capital into Morningstar, which specializes in providing investment research, data, and analytics, signals a pivotal moment in the investment landscape. As the demand for data-driven insights continues to surge, Morningstar's position as a leader in this space is further solidified. Fluent Financial’s decision reflects a broader trend where firms are recognizing the value of comprehensive financial analytics to drive investment strategies.
 
-
-
 {{< adsterra_native >}}
 
 ## Investment Performance Overview
@@ -89,6 +87,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [5 Handpicked Asia Funds by Morningstar Projected to Outperform by 15% in 2026](/en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en/)
 - [Morningstar Awards Thailand 2026: Funds Surpassing Benchmarks by 15%](/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
 - [Morningstar''s 2026 Picks: 5 Asia Funds with 15% Projected Annual Returns](/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

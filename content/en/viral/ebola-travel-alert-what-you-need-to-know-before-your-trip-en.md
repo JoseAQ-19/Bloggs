@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: 7 Ebola Travel Risks You Can't Afford to Ignore"
-date: 2026-06-09T22:43:20
+title: 'The Shocking Truth: 7 Ebola Travel Risks You Can''t Afford to Ignore'
+date: 2026-06-09 22:43:20
 draft: false
-description: "Discover critical insights on the 7 Ebola travel risks you must know to protect yourself. Stay informed and travel safely with our expert guide."
-featured_image: "/images/ebola-travel-alert-what-you-need-to-know-before-your-trip-en.jpg"
-slug: "ebola-travel-alert-what-you-need-to-know-before-your-trip-en"
-canonical: "https://novumworld.com/viral/ebola-travel-alert-what-you-need-to-know-before-your-trip-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "10702625-be3d-511d-bd90-f557ea5e2aeb"
+description: Discover critical insights on the 7 Ebola travel risks you must know
+  to protect yourself. Stay informed and travel safely with our expert guide.
+featured_image: /images/ebola-travel-alert-what-you-need-to-know-before-your-trip-en.jpg
+slug: ebola-travel-alert-what-you-need-to-know-before-your-trip-en
+canonical: https://novumworld.com/viral/ebola-travel-alert-what-you-need-to-know-before-your-trip-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 10702625-be3d-511d-bd90-f557ea5e2aeb
 ---
 
 ![The Shocking Truth: 7 Ebola Travel Risks You Can't Afford to Ignore](/images/ebola-travel-alert-what-you-need-to-know-before-your-trip-en.jpg)
@@ -92,28 +95,12 @@ Note: The article does not include the following sections as per the instruction
 - [news.google.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmdtMWRjaXZTbDlRSWZ1VTl1ZFFNd2VXR3kzZURrNnNmWVo5aGFZLWJ1OTREeXYwR0RRTU41YlBRZlJYamtrWl8zdXJqdDRpRHAtT1duUmVMajJNWmxFWGJmWDZrS1RIMnBkSElVQnRxT0RybHQxNUxMaW9oRk0yajg2ZWV1TjZqMktsTkhJdjJQOW9qSGpLRUw2OGlxNzhBc0JwTl82SUpBNTRRU3JoMmVpVlNXOGtuR3ZvQWdRbFZFRXoyUk9BT2JGdHd4Wi1uUDJnMmFaVF9yTWc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3B3SmpReW9Uc3JJdGRhZXBmaWcwUEZza2Y0U094eHlHWTNRYnRXNTdmUVg0VUxQVng0UC1SWUhWMm5ncDdMaFFiaXJqc2pfdG5wQVBpSmlvMDNGczdNdDgzcTg2LUExb3g4ME9IWGpLTkxhVEx0ejAzZmphSWxQR0VuR3NibUV3Q0wwVWFZdy10XzFCOGhtRzg1N3BYWVo3dFBFZVJqMm0xOTlXMklZX1V1QWtFbG1LZVFYa1N2d3MxUGpoSXpF?oc=5)
 
-
 ## Related Articles
 - [The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed](/viral/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en/)
 - [UPS Driver's Shocking Paycheck Reveals Dark Truths About Gig Economy Earnings](/viral/ups-drivers-paycheck-revelation-goes-viral-a-look-at-the-gig-economy-en/)
 - [The Mafia's](/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: 7 Ebola Travel Risks You Can't Afford to Ignore",
-  "description": "Discover critical insights on the 7 Ebola travel risks you must know to protect yourself. Stay informed and travel safely with our expert guide.",
-  "image": "https://novumworld.com/images/ebola-travel-alert-what-you-need-to-know-before-your-trip-en.jpg",
-  "datePublished": "2026-06-09T22:43:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -123,4 +110,3 @@ Note: The article does not include the following sections as per the instruction
     }
   }
 }
-</script>

@@ -29,8 +29,6 @@ SunnyV2's troubles reveal a harsh reality: the influencer "bubble" is bursting a
 * Italian influencer Chiara Ferragni was fined over €1 million for misleading promotion of a charity initiative, leading to the creation of the "Ferragni Law" in Italy.
 * Influencers must prioritize transparency and ethical conduct to avoid financial penalties, reputational damage, and long-term career consequences, including increased scrutiny from regulatory bodies and the rise of watchdog forums.
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithm's Reckoning: How SunnyV2's Missteps Led to a Subscriber Exodus
@@ -88,6 +86,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [MrBeast's Empire Crumbles? Views Plunge 50% As Controversy Swirls](/en/youtube/mrbeast-controversy-business-impact-en/)
 - [K-Pop Fandom Generates $1,200+ Per Superfan While YouTube Profits From Fancams](/en/youtube/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en/)
 - [Jeopardy!''s YouTube Gamble: Why Engagement Plunged 37% Despite View Surge](/en/youtube/jeopardy-youtube-monetization-engagement-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

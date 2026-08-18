@@ -1,16 +1,19 @@
 ---
-title: "600-Lb Life Star’s Transformation Shocks Fans: 77% Weight Loss and Counting"
-date: 2026-04-19T22:16:40
+title: '600-Lb Life Star’s Transformation Shocks Fans: 77% Weight Loss and Counting'
+date: 2026-04-19 22:16:40
 draft: false
-description: "Discover the incredible journey of a 600-Lb Life star who achieved a stunning 77% weight loss. See how their transformation continues to inspire fans."
-featured_image: "/images/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en.jpg"
-slug: "600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en"
-canonical: "https://novumworld.com/viral/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "49588f40-46f7-f248-c2a9-ad541f270a49"
+description: Discover the incredible journey of a 600-Lb Life star who achieved a
+  stunning 77% weight loss. See how their transformation continues to inspire fans.
+featured_image: /images/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en.jpg
+slug: 600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en
+canonical: https://novumworld.com/viral/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 49588f40-46f7-f248-c2a9-ad541f270a49
 ---
 
 ![600-Lb Life Star’s Transformation Shocks Fans: 77% Weight Loss and Counting](/images/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en.jpg)
@@ -84,28 +87,12 @@ Bariatric surgery offers life-changing potential, but it comes with significant 
 - [news.google.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRFlrcFlWdnhVWm1JY0h2OFVabzZTWUx0OHQ4Yzd2VVNQTkptMk5YVVgtdGkyUW5QcjhTZkxaQjdUUEQ5ZTdiU2JYLUN3Tk1oUmFDUEg4MWRLZVlWRzNFOGJXMFZGZnl6bFZVUl9CYklGRTFHc3lhV1h2T2l2Y3BFc1V6V240c05tLU9TZHpVeVNNbzFIQTZYVXk2dVppbnNmZjBxQlBLalhEVjVK0gGyAUFVX3lxTFB1eGJYWG1vQ1ExWXJXMnowampWRnpOVG5OVndYV0p1ZGk0SEwyeURqMjMwdjBHcDZyVmhnWDN3VkFlVExCN183dEZJcmtuVVdnTkFvY2loQ0Znc0pIaHRoc09ybnU3M29RclRJLUVrTzJCRXFuRzduN2xMaVdKbjl3QWxyb0Q5eldnaW5mTGhNLTF6T0tpSEQtVkxlQjJkY2hSSElvYkVESTlHZ3h4MDJxWWc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSWpoMU52ZTJVVjdXTXNhTS0zdzZJTHRKZHN2V2dzMXoxQUFxRUtXeXVtLWZXODBfRzVDeDVZOE9qT3l1ZW82eFg0QVJ4c09sVkltWUNfYmRQTXJzcnRYZWdVNEN5NjdJdlZYc05lbzduY2dZYm12clFtSHRVeGE0Wlg5SnNxYjYzZkhyQW80aEpUeTlnak55V1NfVGZSSm9DVDFZdlYxbV91aDN5T1oyWEZaWEEwclJBb3BFcF91ckJyVjRBVlNtS081WnpWM2pXbU9TSXNhZURtQ3ZHZXBGcEpCUFdrd2ozYXFqMVFNbw?oc=5)
 
-
 ## Related Articles
 - [The Mafia's](/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 - [The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed](/viral/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "600-Lb Life Star’s Transformation Shocks Fans: 77% Weight Loss and Counting",
-  "description": "Discover the incredible journey of a 600-Lb Life star who achieved a stunning 77% weight loss. See how their transformation continues to inspire fans.",
-  "image": "https://novumworld.com/images/600-lb-life-stars-stunning-transformation-leaves-fans-speechless-en.jpg",
-  "datePublished": "2026-04-19T22:16:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +102,3 @@ Bariatric surgery offers life-changing potential, but it comes with significant 
     }
   }
 }
-</script>

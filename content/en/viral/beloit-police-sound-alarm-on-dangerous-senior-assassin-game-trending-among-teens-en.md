@@ -1,16 +1,20 @@
 ---
-title: "Beloit Police Issue Urgent Warning About Deadly 'Senior Assassin' Game Among Teens"
-date: 2026-05-05T22:29:37
+title: Beloit Police Issue Urgent Warning About Deadly 'Senior Assassin' Game Among
+  Teens
+date: 2026-05-05 22:29:37
 draft: false
-description: "Beloit Police alert parents about the dangerous 'Senior Assassin' game spreading among teens, urging vigilance to ensure community safety."
-featured_image: "/images/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en.jpg"
-slug: "beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en"
-canonical: "https://novumworld.com/viral/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "90ea018a-6257-e586-13fd-80d698f32497"
+description: Beloit Police alert parents about the dangerous 'Senior Assassin' game
+  spreading among teens, urging vigilance to ensure community safety.
+featured_image: /images/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en.jpg
+slug: beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en
+canonical: https://novumworld.com/viral/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 90ea018a-6257-e586-13fd-80d698f32497
 ---
 
 ![Beloit Police Issue Urgent Warning About Deadly 'Senior Assassin' Game Among Teens](/images/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en.jpg)
@@ -69,22 +73,7 @@ This urgent call to action should not fall on deaf ears. The stakes are too high
 - [Shocking El Paso Officer Assault Footage Reveals 700 Complaints Ignored By Authorities](/viral/shocking-footage-el-paso-officers-assault-caught-on-camera-en/)
 - [Ugly Sonic Didn''t Die: His VFX Secr](/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Beloit Police Issue Urgent Warning About Deadly 'Senior Assassin' Game Among Teens",
-  "description": "Beloit Police alert parents about the dangerous 'Senior Assassin' game spreading among teens, urging vigilance to ensure community safety.",
-  "image": "https://novumworld.com/images/beloit-police-sound-alarm-on-dangerous-senior-assassin-game-trending-among-teens-en.jpg",
-  "datePublished": "2026-05-05T22:29:37",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +83,3 @@ This urgent call to action should not fall on deaf ears. The stakes are too high
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open"
-date: 2026-05-24T06:42:02
+title: '92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes
+  At French Open'
+date: 2026-05-24 06:42:02
 draft: false
-description: "Discover the surprising accuracy of injury predictions for top athletes at the French Open, revealing how data shapes the future of sports performance."
-featured_image: "/images/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en.jpg"
-slug: "top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en"
-canonical: "https://novumworld.com/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "345f3ce9-a96d-c3f2-edea-14c19e214cae"
+description: Discover the surprising accuracy of injury predictions for top athletes
+  at the French Open, revealing how data shapes the future of sports performance.
+featured_image: /images/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en.jpg
+slug: top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en
+canonical: https://novumworld.com/fitness/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 345f3ce9-a96d-c3f2-edea-14c19e214cae
 ---
 
 ![92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open](/images/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en.jpg)
@@ -65,28 +69,12 @@ The potential of AI in sports injury prediction is undeniable, yet it must be ap
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0RNdVFYdko5OEp2cjBSZ2VxWVQxaFRqc254S0RRZFpMcFJSajdNdXdka0gxdWZtbFMwUkxNYS1LODdLSkE0dEhjRkF5dDFNeEpoY1dqVVNOLUk0bExqX3JfVjYydnZzRy00bzVoMDJlUmJ0SHRwTXBrZGJHakM4WkY0ZE1iZl9xZlRibWRRR1dzTURfOHo1SmIwSEdFTmZ5R1g3UVZublIxUzJYNEJHVGx3?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JbTh4RGU4bUJHd2VlbmJnMkVHSHMtZjFoWnRhZnhYNWxPdm03Y2tDUDRDd0w3aDJpNWtMMEZhOFppcnpBTGRUSzFn?oc=5)
 
-
 ## Related Articles
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 - [Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese](/fitness/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "92% Accuracy: The Shocking Truth Behind Injury Predictions For Top Athletes At French Open",
-  "description": "Discover the surprising accuracy of injury predictions for top athletes at the French Open, revealing how data shapes the future of sports performance.",
-  "image": "https://novumworld.com/images/top-athletes-on-high-alert-injury-and-fitness-concerns-before-the-french-open-en.jpg",
-  "datePublished": "2026-05-24T06:42:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +84,3 @@ The potential of AI in sports injury prediction is undeniable, yet it must be ap
     }
   }
 }
-</script>

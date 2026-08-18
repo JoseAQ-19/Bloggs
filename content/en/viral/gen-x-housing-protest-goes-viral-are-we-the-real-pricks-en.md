@@ -1,16 +1,20 @@
 ---
-title: "Gen X Holds $43.7 Trillion in Real Estate Wealth While Millennials Struggle to Buy Homes"
-date: 2026-05-12T23:47:53
+title: Gen X Holds $43.7 Trillion in Real Estate Wealth While Millennials Struggle
+  to Buy Homes
+date: 2026-05-12 23:47:53
 draft: false
-description: "Explore how Gen X's $43.7 trillion real estate wealth contrasts with Millennials' housing struggles, revealing insights into generational financial."
-featured_image: "/images/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en.jpg"
-slug: "gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en"
-canonical: "https://novumworld.com/viral/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "2b24f83b-3e94-c2f7-5bcd-106000556552"
+description: Explore how Gen X's $43.7 trillion real estate wealth contrasts with
+  Millennials' housing struggles, revealing insights into generational financial.
+featured_image: /images/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en.jpg
+slug: gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en
+canonical: https://novumworld.com/viral/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 2b24f83b-3e94-c2f7-5bcd-106000556552
 ---
 
 ![Gen X Holds $43.7 Trillion in Real Estate Wealth While Millennials Struggle to Buy Homes](/images/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en.jpg)
@@ -95,22 +99,7 @@ As wealth accumulates in the hands of one generation, the urgency for change has
 - [50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/)
 - [X''s SRE Neglect: Why Dmytro Sirant Says Musk](/viral/x-creator-monetization-failure-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Gen X Holds $43.7 Trillion in Real Estate Wealth While Millennials Struggle to Buy Homes",
-  "description": "Explore how Gen X's $43.7 trillion real estate wealth contrasts with Millennials' housing struggles, revealing insights into generational financial.",
-  "image": "https://novumworld.com/images/gen-x-housing-protest-goes-viral-are-we-the-real-pricks-en.jpg",
-  "datePublished": "2026-05-12T23:47:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +109,3 @@ As wealth accumulates in the hands of one generation, the urgency for change has
     }
   }
 }
-</script>

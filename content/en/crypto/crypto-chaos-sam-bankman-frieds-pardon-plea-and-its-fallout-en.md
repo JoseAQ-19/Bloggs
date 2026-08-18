@@ -1,16 +1,19 @@
 ---
-title: "Sam Bankman-Fried's Pardon Plea Sparks Outrage Among 1.5 Million Crypto Investors"
-date: 2026-06-08T18:16:06
+title: Sam Bankman-Fried's Pardon Plea Sparks Outrage Among 1.5 Million Crypto Investors
+date: 2026-06-08 18:16:06
 draft: false
-description: "Sam Bankman-Fried's pardon plea ignites fury among 1.5 million crypto investors, raising questions about justice and accountability in the digital."
-featured_image: "/images/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en.jpg"
-slug: "crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en"
-canonical: "https://novumworld.com/crypto/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "7f021274-bafe-ebcd-18b9-35420aa00e86"
+description: Sam Bankman-Fried's pardon plea ignites fury among 1.5 million crypto
+  investors, raising questions about justice and accountability in the digital.
+featured_image: /images/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en.jpg
+slug: crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en
+canonical: https://novumworld.com/crypto/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 7f021274-bafe-ebcd-18b9-35420aa00e86
 ---
 
 ![Sam Bankman-Fried's Pardon Plea Sparks Outrage Among 1.5 Million Crypto Investors](/images/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en.jpg)
@@ -78,7 +81,6 @@ The path ahead is fraught with uncertainty, but one thing is clear: the cryptocu
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -87,18 +89,7 @@ The path ahead is fraught with uncertainty, but one thing is clear: the cryptocu
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Sam Bankman-Fried's Pardon Plea Sparks Outrage Among 1.5 Million Crypto Investors",
-  "description": "Sam Bankman-Fried's pardon plea ignites fury among 1.5 million crypto investors, raising questions about justice and accountability in the digital.",
-  "image": "https://novumworld.com/images/crypto-chaos-sam-bankman-frieds-pardon-plea-and-its-fallout-en.jpg",
-  "datePublished": "2026-06-08T18:16:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +99,3 @@ The path ahead is fraught with uncertainty, but one thing is clear: the cryptocu
     }
   }
 }
-</script>

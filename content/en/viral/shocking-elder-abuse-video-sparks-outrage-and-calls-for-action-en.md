@@ -1,16 +1,20 @@
 ---
-title: "Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action"
-date: 2026-04-10T23:47:41
+title: Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands
+  for Action
+date: 2026-04-10 23:47:41
 draft: false
-description: "Discover the shocking $2.4 billion elder abuse epidemic sparking nationwide outrage and urgent calls for action to protect our vulnerable seniors."
-featured_image: "/images/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en.jpg"
-slug: "shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en"
-canonical: "https://novumworld.com/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "d99fd3bc-a1f6-7e26-cd15-67d5f9021e85"
+description: Discover the shocking $2.4 billion elder abuse epidemic sparking nationwide
+  outrage and urgent calls for action to protect our vulnerable seniors.
+featured_image: /images/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en.jpg
+slug: shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en
+canonical: https://novumworld.com/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: d99fd3bc-a1f6-7e26-cd15-67d5f9021e85
 ---
 
 ![Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/images/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en.jpg)
@@ -79,28 +83,12 @@ It’s imperative to prioritize the protection of older adults from financial ex
 - [news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxONnRaUUFfbFE3Vzk3N1RiOXZvelpFdlBvWXRJR3pBbG1SM3ZoZ0hwMWZJUGU4dFotWFVMa0JVbEYtOWVSWklFdTFBNHd2LVlocmNZSUZmQ2E2X1ZqeTVoaE9RRDR2UllpSTRpc3kybFlKTnFRclZJRmdCNHdCYkNYZkM0S1d5VGVCX0Nqam5sR1ctQnBNaURoY1N4SnpsN0E0NnhkeWtiZ0h1dHVsSTlpa2RWN1U3S0hpcGZjQmZFdFZFVjlPZ3hqMWp6Tkc5OXJXYUhMMUh1a2jSAd4BQVVfeXFMTS1lMUNNSTVkUHFyemQzSG1paEhxV3NFZGlUdXhCZlE5S3pMS1JvMlFmb00wUHlNMnZnOUhWc1NBZDBuYUJKeVJjVjdEaTRLbTczQ21YQzJxNTRnYmM0YVBmcHlzdTMzMzYyYkFaMnNTdFJlQTdJOW9pc1RZMHZyV2dTd1hWZnhsMkY2RUhhcnYyY0ZsS1F3bEhrUEdEQTF4MnB0V2o5ZDNzZktxbG40R0JqU2VJbEdaU2l6bkNFcG1yMXYxREx6eENRREpnX1hBajhCVldnU1lmY1UtNmtB?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMilwJBVV95cUxPZnU4bmFzSHFMY3I1NTVjMHY3ZU5Ta0xhWnRsNVVNRWJZSGtFRWg5WXRDSkt4NmZNS3R3SWlvMzdTSVZ0VXFqdHBzb0dTZk5TR1NtRU1WMXU1cmsySGhVOGhJT2pVSmdXWEdxTUpiMWtpQVBLc0xEc1VIZ2RGVFhlVWktMHYyMlVuYzZWb21wVkJ0YTJDam1IVTJHNGxTMUxSU1JQVU5WVFlIZjUtNjk4eGNnZHBsLUVZS2gtRFo0cDdGdnFvcGxkWW1UYjJMb3R5ZmktdnI2czE5eTVBcENmVHYxeG5FMW5YbTh2eVdkZG9HWG9YLXlNQldSdTNpZEdPVUlwWlZVc3BnaUtsbVI4MlZjeDkzU03SAZwCQVVfeXFMTi1ONTNtOGxPUVZzSndHQ2J1NWJ6eUVMbm9BUERNdk1tUXBlRXUwcGNzT3ZBYVFMZHp4dGxLNkNvandfMGpHX2R3WWVxOFNNdXE4UTBOS0N4Vlh4UnRMVmxzaFQ2NlN6MFQ4RmdtNWNjRUJJb2JzbUxnUThhT1ZVUndLb1J2U1J4Ynptc1phSFoxQ3Jmc0x3YS1fUHZBQWpZWlZWcUozX3JaYUpWUUpxSXQ1Ql9nZHMtQnFnTHV4Z2w4WHFHYXJ0Um52UDE5Z0o1U3B3OS1XNXNURS04TUotQkw3RWZoaW91NElOcFczREZlNWNRTVdfeFJmcEdBUkRLdExQU2tBemFOdXhyeHQ2ZnhWVTV3Njl2QkVlbnM?oc=5)
 
-
 ## Related Articles
 - [Lake Of The Woods: 269 Ice Fatalities](/viral/lake-of-the-woods-truck-submersion-risk-en/)
 - [PopSockets'' $315 Million Mirage: Are Sales Figu](/viral/popsockets-market-saturation-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action",
-  "description": "Discover the shocking $2.4 billion elder abuse epidemic sparking nationwide outrage and urgent calls for action to protect our vulnerable seniors.",
-  "image": "https://novumworld.com/images/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en.jpg",
-  "datePublished": "2026-04-10T23:47:41",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ It’s imperative to prioritize the protection of older adults from financial ex
     }
   }
 }
-</script>

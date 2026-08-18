@@ -29,8 +29,6 @@ En España, la línea entre la justicia y el privilegio a menudo se desdibuja co
 * El Portal de Transparencia reveló que, a pesar de las instancias de oficiales de policía que no muestran identificación, no se han reportado sanciones en los últimos 7 años.
 * Este escándalo resalta una potencial falta de rendición de cuentas y transparencia dentro de las instituciones públicas, levantando preocupaciones sobre la aplicación equitativa de la justicia para todos los ciudadanos.
 
-
-
 {{< adsterra_native >}}
 
 ## Indignación Ciudadana: ¿Privilegios Injustos Para Un Acusado?
@@ -126,6 +124,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [La Obsesión Bélica de Un Padre: 10 Bombonas y Riesgos Ocultos Que Ignoramos](/es/viral/el-padre-de-fran-y-su-obsesion-belica-que-hay-detras-de-comprar-10-bombonas/)
 - [60% De Los Aclarantes De Piel Contienen Ingredientes Prohibidos: Lo Que No](/es/viral/el-producto-de-belleza-que-arrasa-lo-que-necesitas-en-tu-neceser-esta-semana-santa/)
 - [¡Alerta Roja! 20 Gramos de Paracetamol: La Nueva Tendencia Mortal en TikTok](/es/viral/reto-paracetamol-tiktok-peligro-viral/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

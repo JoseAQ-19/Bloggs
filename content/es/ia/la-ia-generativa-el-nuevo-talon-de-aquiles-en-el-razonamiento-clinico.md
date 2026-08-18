@@ -1,16 +1,19 @@
 ---
-title: "La IA Generativa Puede Aumentar Errores Diagnósticos Hasta Un 94% En España"
-date: 2026-04-23T10:13:32
+title: La IA Generativa Puede Aumentar Errores Diagnósticos Hasta Un 94% En España
+date: 2026-04-23 10:13:32
 draft: false
-description: "Descubre cómo la IA generativa podría elevar los errores diagnósticos en España hasta un 94%, poniendo en riesgo la salud de los pacientes."
-featured_image: "/images/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico.jpg"
-slug: "la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico"
-canonical: "https://novumworld.com/es/ia/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "83a71ce4-435b-9e9d-4260-2233209b99ce"
+description: Descubre cómo la IA generativa podría elevar los errores diagnósticos
+  en España hasta un 94%, poniendo en riesgo la salud de los pacientes.
+featured_image: /images/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico.jpg
+slug: la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico
+canonical: https://novumworld.com/es/ia/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 83a71ce4-435b-9e9d-4260-2233209b99ce
 ---
 
 ![La IA Generativa Puede Aumentar Errores Diagnósticos Hasta Un 94% En España](/images/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico.jpg)
@@ -63,28 +66,12 @@ El debate sobre el uso de la IA en la medicina es complejo y multifacético, y e
 ## Metodología y Fuentes
 - [news.google.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0hMbi1jdTNNTl9pQnEzY0JobDZZamYzeGpIY0VQTlJyU3lwVGY1TWZQV1dRVzc2ZklrOE1QMEQ5X0ZLejc4VHhLXzZ3Z2VjQ1FNWU44QjZDMjA2b0x6RkJLOXJyWnFvMmN2T2xlVXQ0MkVSQTJ6bDZxLXJmbjJJaUZvVU1Ua3NabFR0OEhuSnQzM0NCYTNLbzc2dzZTMEtvNU44aFV4Unoxa01GMU9qeld3?oc=5)
 
-
 ## Artículos relacionados
 - [NOVUMWORLD: La Farsa del Periodismo](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
 - [ChatGPT contra tu SaaS: en 2026 solo sobrevivirán los que hagan E](/es/ia/saas-apocalipsis-ia-2026/)
 - [¿Sueñan los Borregos con Ciber-Ovej](/es/ia/suenan-los-borregos-con-ciber-ovejas-el-futuro-no/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA Generativa Puede Aumentar Errores Diagnósticos Hasta Un 94% En España",
-  "description": "Descubre cómo la IA generativa podría elevar los errores diagnósticos en España hasta un 94%, poniendo en riesgo la salud de los pacientes.",
-  "image": "https://novumworld.com/images/la-ia-generativa-el-nuevo-talon-de-aquiles-en-el-razonamiento-clinico.jpg",
-  "datePublished": "2026-04-23T10:13:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +81,3 @@ El debate sobre el uso de la IA en la medicina es complejo y multifacético, y e
     }
   }
 }
-</script>

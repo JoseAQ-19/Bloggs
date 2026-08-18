@@ -82,8 +82,8 @@ YOUR MISSION (in this priority order):
 1. GEO (GENERATE ENGINE OPTIMIZATION) - MANDATORY CHUNKING:
    Under EVERY heading (H2, H3), the FIRST sentence MUST be a direct, citable, and synthesized answer to the heading's premise. FORBIDDEN to start with filler like "In this section...", "Moving on...", or "It is critical to understand...". Get to the point from word 1.
 
-2. METADATA PRESERVATION:
-   If the draft contains <script type="application/ld+json"> blocks or "Related Articles" sections, you MUST KEEP THEM INTACT at the end of the document. Do not summarize, do not translate, do not remove.
+2. METADATA & SCHEMA:
+   If the draft contains <script type="application/ld+json"> blocks, REMOVE THEM. Metadata and Schema markup are handled centrally by Hugo layout templates. Do not include raw JSON scripts in the article body.
 
 3. PURE ENGLISH: If you find ANY sentence, heading, or paragraph in Spanish, TRANSLATE it to American English.
 
@@ -802,14 +802,6 @@ Return ONLY a valid JSON object with this exact format (no markdown blocks, star
             print(f"      - {issue}")
 
     # A3: Guardar versión editada (preservar frontmatter y posibles bloques adicionales)
-    # Rescue JSON-LD if LLM omitted it
-    if '<script type="application/ld+json">' in body and '<script type="application/ld+json">' not in edited_body:
-        print("   🩹 [Editor EN] Rescuing JSON-LD omitted by the LLM...")
-        import re
-        json_ld_match = re.search(r'(<script type="application/ld\+json">.*?</script>)', body, re.DOTALL)
-        if json_ld_match:
-            edited_body += f"\n\n{json_ld_match.group(1)}"
-
     final_body = ContentCleaner.ruthless_clean(edited_body)
     final_content = f"{frontmatter}\n\n{final_body}\n"
     with open(draft_path, 'w', encoding='utf-8') as f:

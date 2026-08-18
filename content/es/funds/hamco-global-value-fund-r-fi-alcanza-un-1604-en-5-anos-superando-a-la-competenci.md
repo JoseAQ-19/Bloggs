@@ -1,14 +1,17 @@
 ---
-title: "Hamco Global Value Fund R FI alcanza un 16,04% en 5 años, superando a la competencia"
-date: 2026-04-17T07:16:24
+title: Hamco Global Value Fund R FI alcanza un 16,04% en 5 años, superando a la competencia
+date: 2026-04-17 07:16:24
 draft: false
-description: "Descubre cómo el Hamco Global Value Fund R FI logró un impresionante 16,04% en 5 años, superando a sus competidores en el mercado."
-featured_image: "/images/hamco-global-value-fund-r-fi-alcanza-un-1604-en-5-anos-superando-a-la-competenci.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "37e28718-a94f-e885-ab00-abceb24a4492"
+description: Descubre cómo el Hamco Global Value Fund R FI logró un impresionante
+  16,04% en 5 años, superando a sus competidores en el mercado.
+featured_image: /images/hamco-global-value-fund-r-fi-alcanza-un-1604-en-5-anos-superando-a-la-competenci.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 37e28718-a94f-e885-ab00-abceb24a4492
 ---
 
 ![Hamco Global Value Fund R FI alcanza un 16,04% en 5 años, superando a la competencia](/images/hamco-global-value-fund-r-fi-alcanza-un-1604-en-5-anos-superando-a-la-competenci.jpg)
@@ -20,8 +23,6 @@ La rentabilidad del **Hamco Global Value Fund R FI** ha alcanzado un notable **1
 * [Volatilidad del mercado en 2023: 22% — CNMV]  
 
 Desde su lanzamiento, el Hamco Global Value Fund ha demostrado su capacidad para navegar en un entorno financiero incierto, destacándose no solo por su rendimiento, sino también por su enfoque estratégico en la selección de activos. Este fondo, que se autodenomina como un "fondo de valor global", busca identificar empresas infravaloradas en mercados emergentes y desarrollados, utilizando un enfoque basado en análisis fundamental.
-
-
 
 {{< adsterra_native >}}
 
@@ -84,6 +85,4 @@ Creemos que el **Hamco Global Value Fund R FI** representa una opción atractiva
 - [Fondos premiad](/es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento/)
 - [Dividend](/es/funds/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

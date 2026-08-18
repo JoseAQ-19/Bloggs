@@ -21,8 +21,6 @@ type: funds
 ## Executive Summary
 The Morningstar Awards for Investing Excellence Thailand 2026 highlighted that 15.6% of Thai mutual funds have outperformed their benchmarks by 15% or more over the past year, with the top fund achieving an impressive 34.6% return. While the average return for Thai mutual funds stood at 10.2%, the best performers have displayed remarkable consistency and risk-adjusted returns. However, potential investors should be cautious of the concentration risk within the industry and the economic vulnerabilities tied to external factors. This analysis delves into the performance metrics, expert opinions, and considerations for investing in Thai mutual funds.
 
-
-
 {{< adsterra_native >}}
 
 ## Performance Analysis
@@ -94,6 +92,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [BlackRock Fund Halts Withdrawals After 9% Redemptions; BLK Shares Drop.](/en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en/)
 - [Morningstar Thailand Awards 2026: Recognizing Investing Excellence, Key Winners](/en/funds/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en/)
 - [Morningstar Awards 2026: PIMCO vs Vanguard Dominates Thai Fund Landscape](/en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

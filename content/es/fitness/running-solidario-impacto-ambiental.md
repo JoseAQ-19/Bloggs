@@ -30,8 +30,6 @@ La industria de las carreras de montaña vende una fantasía de conexión con la
 * La Maratón de Valencia 2025 logró recuperar 9.900 kg de residuos plásticos y 4.700 kg de papel y cartón, sumando más de 14 toneladas de material reciclado en una sola jornada.
 * Las demandas por "lavado verde" o greenwashing han aumentado un 21% en los últimos años, según el análisis legal de la consultora EY, señalando un mayor escrutinio regulatorio sobre las falsas promesas ambientales.
 
-
-
 {{< adsterra_native >}}
 
 ## Ultra Pirineu Bajo la Lupa: ¿Compromiso Genuino o Marketing Verde?
@@ -57,6 +55,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Sarcopenia a los 50: El Peligro Oculto que Ignoran el 70% de Españoles](/es/fitness/entrenamiento-fuerza-2026-verdad-oculta/)
 - [Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/es/fitness/transformacion-fisica-despues-de-los-60/)
 - [Intrusismo Al 40%: La ''Ley Anti-Intrusismo'' Es Una Farsa Para COLEF.](/es/fitness/ley-anti-intrusismo-fitness-cadenas-gimnasios/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

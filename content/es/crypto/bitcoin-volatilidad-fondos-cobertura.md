@@ -30,8 +30,6 @@ La propuesta de Sumar de gravar las criptomonedas con un IRPF de hasta el 47% es
 * Una encuesta de Finder proyecta que Bitcoin alcanzará los 77.636 dólares a finales de 2024, destacando el potencial de ganancias de capital sustanciales y, por lo tanto, importantes implicaciones fiscales.
 * Los españoles que tengan más de 50.000€ en criptomonedas en exchanges extranjeros deben declararlo a través del Modelo 721, enfatizando el creciente escrutinio regulatorio y la carga de cumplimiento.
 
-
-
 {{< adsterra_native >}}
 
 ## La Propuesta Impositiva de Sumar: ¿Ignorancia o Exceso Fiscal?
@@ -109,6 +107,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Bitcoin en Caída Libre: ¿El Fin de la Era Dorada?](/es/crypto/bitcoin-en-caida-libre-el-fin-de-la-era-dorada/)
 - [Worldcoin Escaneó a 360.000 Españoles: La AEPD Reacciona Tarde](/es/crypto/bitcoin-vancouver-adios-criptomonedas/)
 - [Cuidado Inversores: Toribio Predice Bitcoin a $2,000 Tras El Halving.](/es/crypto/bitcoin-inflacion-eeuu-2024/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

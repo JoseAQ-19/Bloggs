@@ -1,16 +1,19 @@
 ---
-title: "La IA de Horizonte de Topia Revela Un Sesgo Algorítmico Que Podría Costar Vidas"
-date: 2026-04-14T13:22:11
+title: La IA de Horizonte de Topia Revela Un Sesgo Algorítmico Que Podría Costar Vidas
+date: 2026-04-14 13:22:11
 draft: false
-description: "Descubre cómo la inteligencia artificial de Horizonte de Topia revela un sesgo algorítmico alarmante que podría poner en riesgo vidas. Infórmate aquí."
-featured_image: "/images/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global.jpg"
-slug: "horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global"
-canonical: "https://novumworld.com/es/tools/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "4c4b79d2-da33-54b6-deec-18fe3ab49097"
+description: Descubre cómo la inteligencia artificial de Horizonte de Topia revela
+  un sesgo algorítmico alarmante que podría poner en riesgo vidas. Infórmate aquí.
+featured_image: /images/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global.jpg
+slug: horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global
+canonical: https://novumworld.com/es/tools/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 4c4b79d2-da33-54b6-deec-18fe3ab49097
 ---
 
 ![La IA de Horizonte de Topia Revela Un Sesgo Algorítmico Que Podría Costar Vidas](/images/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global.jpg)
@@ -64,28 +67,12 @@ Es fundamental priorizar la ética y la seguridad en el desarrollo de tecnologí
 - [transportation.gov](https://www.transportation.gov/sites/dot.gov/files/2024-12/ARPA-I%20Summary%20Report%20on%20AI%20RFI%202024-12%20%28Final%29_1.pdf)
 - [rosap.ntl.bts.gov](https://rosap.ntl.bts.gov/view/dot/36751)
 
-
 ## Artículos relacionados
 - [1.5 Millones de Empleos Perdidos: Cómo la IA Redefinirá el Trabajo en 2026](/es/tools/como-la-ia-redefinira-el-mundo-laboral-en-2026-tendencias-que-no-puedes-ignorar/)
 - [DCK Desafía la Obs](/es/tools/dck-expande-su-dominio-en-herramientas-profesionales-en-eisenwarenmesse-2026/)
 - [Tig ATF100: El Alimentador Que Podría Ser Un Engaño Costoso Para Soldadores](/es/tools/el-innovador-alimentador-tig-atf100-que-todo-amante-de-las-herramientas-necesita/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La IA de Horizonte de Topia Revela Un Sesgo Algorítmico Que Podría Costar Vidas",
-  "description": "Descubre cómo la inteligencia artificial de Horizonte de Topia revela un sesgo algorítmico alarmante que podría poner en riesgo vidas. Infórmate aquí.",
-  "image": "https://novumworld.com/images/horizon-de-topia-la-plataforma-de-ia-que-revoluciona-la-movilidad-global.jpg",
-  "datePublished": "2026-04-14T13:22:11",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +82,3 @@ Es fundamental priorizar la ética y la seguridad en el desarrollo de tecnologí
     }
   }
 }
-</script>

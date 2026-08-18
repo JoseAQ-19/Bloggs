@@ -1,16 +1,20 @@
 ---
-title: "Euskadi Impulsa la Productividad Industrial: La IA Podría Aumentar la Eficiencia en 60%"
-date: 2026-05-13T10:40:53
+title: 'Euskadi Impulsa la Productividad Industrial: La IA Podría Aumentar la Eficiencia
+  en 60%'
+date: 2026-05-13 10:40:53
 draft: false
-description: "Descubre cómo Euskadi está revolucionando la productividad industrial con la IA, aumentando la eficiencia hasta un 60% y transformando el sector."
-featured_image: "/images/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada.jpg"
-slug: "euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada"
-canonical: "https://novumworld.com/es/ia/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "1376cf3c-5c85-2ac9-8723-98a04c8f8ac4"
+description: Descubre cómo Euskadi está revolucionando la productividad industrial
+  con la IA, aumentando la eficiencia hasta un 60% y transformando el sector.
+featured_image: /images/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada.jpg
+slug: euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada
+canonical: https://novumworld.com/es/ia/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 1376cf3c-5c85-2ac9-8723-98a04c8f8ac4
 ---
 
 ![Euskadi Impulsa la Productividad Industrial: La IA Podría Aumentar la Eficiencia en 60%](/images/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada.jpg)
@@ -75,28 +79,12 @@ Euskadi está cayendo en la trampa de confesar la fe en la IA sin pagar el preci
 ## Metodología y Fuentes
 - [news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbTI4UWlDYXhJZWYtWV9oSHVsajdKWTBXZEtzUVYzNkc1NWRWcDFwVnhqMnBweVozd0ZXZFVPYXpjSUl2NTN6Vk5xRzUwak9PejBTMDVrejZZSk5ONFkxaTM4cFhNMVN5TGRCZUttY2NIazZNbGY5Ny1tN0xlMFJ3WHdlTjdxalZlVVFiUk9jWVB5bmNEQlVJZ09ORXF1MS1QS3RiNXFoak5lbDY3SzAwck1mN1dBUFZCS2M4VV85MXFRcG53a3FJTXpBTDhpcTVqZ0s3aDFES1k?oc=5)
 
-
 ## Artículos relacionados
 - [NOVUMWORLD: La Farsa del Periodismo](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
 - [Silicon Valley Está Muerto: El F](/es/ia/silicon-valley-esta-muerto-el-futuro-es-descentral/)
 - [Suscripciones Fant](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Euskadi Impulsa la Productividad Industrial: La IA Podría Aumentar la Eficiencia en 60%",
-  "description": "Descubre cómo Euskadi está revolucionando la productividad industrial con la IA, aumentando la eficiencia hasta un 60% y transformando el sector.",
-  "image": "https://novumworld.com/images/euskadi-impulsa-la-productividad-industrial-con-su-congreso-de-ia-aplicada.jpg",
-  "datePublished": "2026-05-13T10:40:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ Euskadi está cayendo en la trampa de confesar la fe en la IA sin pagar el preci
     }
   }
 }
-</script>

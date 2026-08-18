@@ -1,16 +1,20 @@
 ---
-title: "Chandler Rivers' Draft Night Video Shatters Expectations and Sparks Controversy Among Analysts"
-date: 2026-05-01T23:41:29
+title: Chandler Rivers' Draft Night Video Shatters Expectations and Sparks Controversy
+  Among Analysts
+date: 2026-05-01 23:41:29
 draft: false
-description: "Chandler Rivers' draft night video stirs debate among analysts, exceeding expectations and igniting passionate discussions about his future in the league."
-featured_image: "/images/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en.jpg"
-slug: "chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en"
-canonical: "https://novumworld.com/viral/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "260f5258-aa4f-c9ac-a73c-7b68f822dbe3"
+description: Chandler Rivers' draft night video stirs debate among analysts, exceeding
+  expectations and igniting passionate discussions about his future in the league.
+featured_image: /images/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en.jpg
+slug: chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en
+canonical: https://novumworld.com/viral/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 260f5258-aa4f-c9ac-a73c-7b68f822dbe3
 ---
 
 ![Chandler Rivers' Draft Night Video Shatters Expectations and Sparks Controversy Among Analysts](/images/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en.jpg)
@@ -76,22 +80,7 @@ The landscape of the NBA Draft is shifting, and the influence of social media is
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 - [The Shocking Truth About NeeDoh: 65% Of Parents Are Ignoring Hidden Risks](/viral/the-needoh-craze-why-this-must-have-toy-is-flying-off-shelves-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Chandler Rivers' Draft Night Video Shatters Expectations and Sparks Controversy Among Analysts",
-  "description": "Chandler Rivers' draft night video stirs debate among analysts, exceeding expectations and igniting passionate discussions about his future in the league.",
-  "image": "https://novumworld.com/images/chandler-rivers-epic-draft-night-video-the-story-behind-the-buzz-en.jpg",
-  "datePublished": "2026-05-01T23:41:29",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +90,3 @@ The landscape of the NBA Draft is shifting, and the influence of social media is
     }
   }
 }
-</script>

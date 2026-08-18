@@ -1,16 +1,20 @@
 ---
-title: "48.5% Of National Guard Members Face PTSD: The Shocking Truth Behind Their Return Home"
-date: 2026-05-31T11:58:46
+title: '48.5% Of National Guard Members Face PTSD: The Shocking Truth Behind Their
+  Return Home'
+date: 2026-05-31 11:58:46
 draft: false
-description: "Explore the startling reality of PTSD among National Guard members, revealing how nearly half struggle with mental health upon returning home."
-featured_image: "/images/local-heroes-national-guard-members-celebrate-their-return-home-en.jpg"
-slug: "local-heroes-national-guard-members-celebrate-their-return-home-en"
-canonical: "https://novumworld.com/ia/local-heroes-national-guard-members-celebrate-their-return-home-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "d6b0765d-b4ff-c856-949b-93c60e67dc00"
+description: Explore the startling reality of PTSD among National Guard members, revealing
+  how nearly half struggle with mental health upon returning home.
+featured_image: /images/local-heroes-national-guard-members-celebrate-their-return-home-en.jpg
+slug: local-heroes-national-guard-members-celebrate-their-return-home-en
+canonical: https://novumworld.com/ia/local-heroes-national-guard-members-celebrate-their-return-home-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: d6b0765d-b4ff-c856-949b-93c60e67dc00
 ---
 
 ![48.5% Of National Guard Members Face PTSD: The Shocking Truth Behind Their Return Home](/images/local-heroes-national-guard-members-celebrate-their-return-home-en.jpg)
@@ -105,28 +109,12 @@ The mental health crisis among National Guard members represents a systemic fail
 - [news.google.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE5iNHUtcExPWlRxN1MxUXBKYmdqYUxCQV9zakduQTlvNXpJOURCN3hPc3NlRWRpU2oxVzM1WUk1NndRU0FnNGQ5MWxNcVk1VmR2SDdsQzJZT2toUFU2YmRBczlJbzlNa0M1eWNybmhkTUNPQUlfY29VbHBIMmxIems?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQjZnNXNoUmxqMjIzQzhSUWFtZl9hMFAxN3FtamdsbHJ2WEMxczAwOUNrdDVDU1NaUElGNkRYOGQxOTRmQnZ1bHdHMGNKWl8tbC13VmhBSkJZOXJyVVBLbnBhZXM3aXl2RmJ1WW54MTBtRVphR25tUnhGVTNmUGsxbllTdHEtY0JvTnJBckU4UnBmS1Q4SDZhV2prX3JrTVJKSFFqSkRaTXQydjYxcmxlc3haTVVIVXBTbVpJNEJsd1RmcVRHQWJHVHlCeXdMQzlFTHZv?oc=5)
 
-
 ## Related Articles
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 - [University Graduates Are Outraged: AI Commencement Speeches Fail to Inspire Genuine Connection](/ia/university-graduates-voice-discontent-over-ai-speeches-a-closer-look-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "48.5% Of National Guard Members Face PTSD: The Shocking Truth Behind Their Return Home",
-  "description": "Explore the startling reality of PTSD among National Guard members, revealing how nearly half struggle with mental health upon returning home.",
-  "image": "https://novumworld.com/images/local-heroes-national-guard-members-celebrate-their-return-home-en.jpg",
-  "datePublished": "2026-05-31T11:58:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -136,4 +124,3 @@ The mental health crisis among National Guard members represents a systemic fail
     }
   }
 }
-</script>

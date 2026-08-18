@@ -1,16 +1,19 @@
 ---
-title: "Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum"
-date: 2026-04-25T16:09:27
+title: 'Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum'
+date: 2026-04-25 16:09:27
 draft: false
-description: "Descubre cómo el colapso de traders en Bitcoin y Ethereum resultó en más de $137 millones en pérdidas y qué lecciones podemos aprender."
-featured_image: "/images/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu.jpg"
-slug: "liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu"
-canonical: "https://novumworld.com/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "84cf1aaa-024d-91df-69a0-b9a155e1bff9"
+description: Descubre cómo el colapso de traders en Bitcoin y Ethereum resultó en
+  más de $137 millones en pérdidas y qué lecciones podemos aprender.
+featured_image: /images/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu.jpg
+slug: liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu
+canonical: https://novumworld.com/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 84cf1aaa-024d-91df-69a0-b9a155e1bff9
 ---
 
 ![Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/images/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu.jpg)
@@ -64,12 +67,10 @@ El futuro del cripto es incierto y está lleno de riesgos, pero una adecuada ges
 ## Metodología y Fuentes
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [¡Alerta Roja! Guerra Irán-EEUU Infla](/es/crypto/guerra-iran-eeuu-apuestas-crypto-polymarket/)
 - [Prosegur Crypto Y Sus Aliados: 5 Claves Que Están Revolucionando Los Pagos Digitales](/es/crypto/prosegur-crypto-y-aliados-revolucionando-los-pagos-digitales-con-stablecoins/)
 - [La Verdad Oculta: 450 BTC Producidos Diariamente y el Futuro de la Minería en España](/es/crypto/crisis-cripto-invierno-2026-halving/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -79,18 +80,7 @@ El futuro del cripto es incierto y está lleno de riesgos, pero una adecuada ges
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum",
-  "description": "Descubre cómo el colapso de traders en Bitcoin y Ethereum resultó en más de $137 millones en pérdidas y qué lecciones podemos aprender.",
-  "image": "https://novumworld.com/images/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu.jpg",
-  "datePublished": "2026-04-25T16:09:27",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +90,3 @@ El futuro del cripto es incierto y está lleno de riesgos, pero una adecuada ges
     }
   }
 }
-</script>

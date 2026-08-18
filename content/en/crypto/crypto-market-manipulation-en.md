@@ -27,8 +27,6 @@ type: crypto
 * Solidus Labs found that 67% of liquidity pools on Ethereum DEXs were manipulated by wash traders, accounting for at least $2 billion since September 2020.
 * Retail investors need to be extremely cautious and skeptical of advertised trading volumes on exchanges and the hype surrounding new crypto projects, as these are often manipulated to create artificial demand.
 
-
-
 {{< adsterra_native >}}
 
 ## The $4.5 Trillion Illusion
@@ -97,6 +95,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [8% Surge: Kazakhstan''s Crypto Obsession Risks $350M Sovereign Wealth Bet.](/en/crypto/kazakhstan-sovereign-wealth-crypto-en/)
 - [SEC Power Grab: Crypto Could Face Total Securities Reclassification Without](/en/crypto/sec-vs-crypto-will-regulatory-chaos-crush-the-industry-if-the-clarity-bill-fails-en/)
 - [Aave Liquidation Cascade: Oracle Misconfiguration and the MEV Economy](/en/crypto/aave-whale-50m-wipeout-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind Brandin Podziemski's Viral 30-Point Game Performance"
-date: 2026-04-11T22:13:41
+title: The Shocking Truth Behind Brandin Podziemski's Viral 30-Point Game Performance
+date: 2026-04-11 22:13:41
 draft: false
-description: "Discover the surprising factors behind Brandin Podziemski's viral 30-point game performance and what it means for his future in basketball."
-featured_image: "/images/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en.jpg"
-slug: "brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en"
-canonical: "https://novumworld.com/viral/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "26dcdb3f-5364-3e12-34de-091aa38f5d9f"
+description: Discover the surprising factors behind Brandin Podziemski's viral 30-point
+  game performance and what it means for his future in basketball.
+featured_image: /images/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en.jpg
+slug: brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en
+canonical: https://novumworld.com/viral/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 26dcdb3f-5364-3e12-34de-091aa38f5d9f
 ---
 
 ![The Shocking Truth Behind Brandin Podziemski's Viral 30-Point Game Performance](/images/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en.jpg)
@@ -61,28 +64,12 @@ In the end, "empty stats" may not fill the Warriors' championship aspirations. A
 - [news.google.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlg2SWZkTmtHZUFZYUV5cW5kazBoaU9EVTRUWGM3eUYtSE1tYmJFeTJIeUJ6aDNLYnJLRzRUVnN1VmE5bkxOVDlGNEdLVDVxTkVORjJiM0FvME9ndkJhdjF2UjQ4RHh1elhFcnR0eTMyYkxPcUg0WFpOUlhadnAzbmNDS2dmdEZMX0U4VlFEeDhFalFsbG9WWnBCQUpnbFJCVWp1YnI0dXlzVlFsTEItNHhORUFUekVJTVpSeHZURk_SAcgBQVVfeXFMUERVdGxnVEpoVU1salFsdTNxOS15ZW1qVG42akZUUlRLR3pMOE1wVDNOMms4RGxMeEI4cWNQd0xydUVrdE1rdEJQejZXTVA4NExmVHNYR01CSUExUHB0TFpsMkx6TFphYmE0U0tRVFN2blRxVGl4cUVrdWFFSzk0Z3ZhY3dUbTdoRzNpUWZTcmc0eXpYLUlESmJUN3B2UHMzMTZ0c0hrYVc0VWNNQTEweGdYbHRiS0FkT2JBRmZBSFVyeEN6a1V4VDg?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxObS00WEtqa19ESUFJc1ltMGZleUp6QTJxX3RKM3VqYnNtbG5hdFdIb2k1ZUUwNVc1LXlCanhzVnA4SkIyMUNyQjU4OU5QM2xRMWZTcEVsZENwZEdndlZ2MGstNzhnOWlQR1p5LTFLWTFTTmFXTkFheG5uem1wSkprUXhLS2V1NmxIQnAxdUVVVHVsQWJ4V2JDeExqWkY5WGJSQmh6clFIVVByMU1DMm5JM0tCLVYydWpsQkhaQmRn?oc=5)
 
-
 ## Related Articles
 - [$140 Billion Weight Loss Lie: Is ''Plas](/viral/plastic-eating-weight-loss-china-trend-en/)
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [The Mafia's](/viral/the-mafias-75-year-old-tv-moment-that-still-captivates-america-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Brandin Podziemski's Viral 30-Point Game Performance",
-  "description": "Discover the surprising factors behind Brandin Podziemski's viral 30-point game performance and what it means for his future in basketball.",
-  "image": "https://novumworld.com/images/brandin-podziemskis-30-point-game-a-night-to-remember-goes-viral-en.jpg",
-  "datePublished": "2026-04-11T22:13:41",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +79,3 @@ In the end, "empty stats" may not fill the Warriors' championship aspirations. A
     }
   }
 }
-</script>

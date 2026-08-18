@@ -1,16 +1,19 @@
 ---
-title: "Glenwood, IA Storm Leaves 500 Homes Destroyed: Community Struggles to Rebuild"
-date: 2026-06-09T12:19:19
+title: 'Glenwood, IA Storm Leaves 500 Homes Destroyed: Community Struggles to Rebuild'
+date: 2026-06-09 12:19:19
 draft: false
-description: "A devastating storm in Glenwood, IA, has destroyed 500 homes. Discover how the community is coming together to rebuild and support one another."
-featured_image: "/images/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en.jpg"
-slug: "devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en"
-canonical: "https://novumworld.com/ia/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "253be57c-d134-395b-da3e-ce7c6a97e228"
+description: A devastating storm in Glenwood, IA, has destroyed 500 homes. Discover
+  how the community is coming together to rebuild and support one another.
+featured_image: /images/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en.jpg
+slug: devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en
+canonical: https://novumworld.com/ia/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 253be57c-d134-395b-da3e-ce7c6a97e228
 ---
 
 ![Glenwood, IA Storm Leaves 500 Homes Destroyed: Community Struggles to Rebuild](/images/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en.jpg)
@@ -65,22 +68,7 @@ As Glenwood looks to rebuild, solidarity and support will be crucial for its rev
 - [Pope Calls For Urgent AI Regulation: 170 Million Jobs At Risk By 2030](/ia/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en/)
 - [Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks](/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Glenwood, IA Storm Leaves 500 Homes Destroyed: Community Struggles to Rebuild",
-  "description": "A devastating storm in Glenwood, IA, has destroyed 500 homes. Discover how the community is coming together to rebuild and support one another.",
-  "image": "https://novumworld.com/images/devastating-storm-wreaks-havoc-in-glenwood-ia-community-faces-extensive-damage-en.jpg",
-  "datePublished": "2026-06-09T12:19:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -90,4 +78,3 @@ As Glenwood looks to rebuild, solidarity and support will be crucial for its rev
     }
   }
 }
-</script>

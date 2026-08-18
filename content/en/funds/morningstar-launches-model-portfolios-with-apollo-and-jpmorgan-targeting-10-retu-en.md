@@ -1,14 +1,18 @@
 ---
-title: "Morningstar Launches Model Portfolios with Apollo and JPMorgan, Targeting 10% Returns"
-date: 2026-06-20T08:06:26
+title: Morningstar Launches Model Portfolios with Apollo and JPMorgan, Targeting 10%
+  Returns
+date: 2026-06-20 08:06:26
 draft: false
-description: "Discover how Morningstar's new model portfolios with Apollo and JPMorgan aim for impressive 10% returns. Explore investment strategies today!."
-featured_image: "/images/morningstar-launches-model-portfolios-with-apollo-and-jpmorgan-targeting-10-retu-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "243279cc-fcc9-0167-c92e-14a62c77d485"
+description: Discover how Morningstar's new model portfolios with Apollo and JPMorgan
+  aim for impressive 10% returns. Explore investment strategies today!.
+featured_image: /images/morningstar-launches-model-portfolios-with-apollo-and-jpmorgan-targeting-10-retu-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 243279cc-fcc9-0167-c92e-14a62c77d485
 ---
 
 ![Morningstar Launches Model Portfolios with Apollo and JPMorgan, Targeting 10% Returns](/images/morningstar-launches-model-portfolios-with-apollo-and-jpmorgan-targeting-10-retu-en.jpg)
@@ -20,8 +24,6 @@ Morningstar has launched model portfolios aiming for a targeted return of 10%, a
 * 15% — Allocated to alternative investments, aiming to enhance returns and diversify risk [Source](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjE1VmJWTEN4d3liVjM0VUhaS3pMU2hfMXRxVlM2Z3RaX001cnQ2SEg2empIU0d0UWNjODlWSHhzdHMzblg0X0p1Ty1XUEhsdzgtd1VjcnpjU3ZWZ3NTZU92TXhteDg0cWZXak9wV2RXNGtKVV9LaGhxcmhNYzY2b1VSRGUzbGxXMlRndUtpeHN4V0F1VklJd1F3NFRaN3NNbHNQcUVGSjR1cjVMdnR0NnNfSlk?oc=5)
 
 This initiative aligns with Morningstar's ongoing commitment to enhance investor access to sophisticated investment strategies. By collaborating with well-established institutions such as Apollo and JPMorgan, Morningstar is positioning itself as a pivotal player in the public-private model portfolio market. The portfolios are designed for a diverse range of investors, including both individual and institutional clients, and they are structured to navigate the complexities of modern financial markets. 
-
-
 
 {{< adsterra_native >}}
 
@@ -88,6 +90,4 @@ Consider your investment goals, risk tolerance, and the fee structure. Additiona
 - [Vanguard](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 - [Tencent Reports Steady Growth as AI Investments Yield Positive Returns](/funds/tencent-reports-steady-growth-as-ai-investments-yield-positive-returns-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

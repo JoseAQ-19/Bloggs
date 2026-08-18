@@ -30,8 +30,6 @@ The business model of social media relies on maximizing retention, and a new fed
 * A 2025 Pew Research Center study found nearly half of teens say social media harms people their age.
 * The average US teen spends nearly five hours per day on social media, creating a massive addiction liability exposure.
 
-
-
 {{< adsterra_native >}}
 
 ## "Addicted by Design?" The YouTube Trial Exposing Algorithmic Manipulation
@@ -95,6 +93,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [YouTube''s $46.2 Billion Ad Revenue Disaster: Is This The End For Creators?](/en/youtube/youtube-golden-age-creator-economics-en/)
 - [The $6M Verdict That Just Sent Shockwaves Through YouTube and Meta’s Empire](/en/youtube/the-6m-wake-up-call-how-a-jury-held-youtube-and-meta-accountable-en/)
 - [YouTube TV Dodged Fox: Will 77.2 Million Cord-Cutters Pay The Price?](/en/youtube/youtube-tv-fox-deal-extension-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

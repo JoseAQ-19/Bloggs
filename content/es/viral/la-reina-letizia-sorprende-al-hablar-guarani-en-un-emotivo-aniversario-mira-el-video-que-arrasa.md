@@ -1,16 +1,19 @@
 ---
-title: "La Reina Letizia Sorprende Hablando Guaraní: El Mensaje Que Conmovió a Paraguay"
-date: 2026-04-23T22:05:44
+title: 'La Reina Letizia Sorprende Hablando Guaraní: El Mensaje Que Conmovió a Paraguay'
+date: 2026-04-23 22:05:44
 draft: false
-description: "La Reina Letizia impacta a Paraguay al hablar guaraní, enviando un emotivo mensaje que celebra la cultura y la identidad del país. ¡Descubre más!."
-featured_image: "/images/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa.jpg"
-slug: "la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa"
-canonical: "https://novumworld.com/es/viral/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "d7e68963-9209-b253-a197-42a8027dddbe"
+description: La Reina Letizia impacta a Paraguay al hablar guaraní, enviando un emotivo
+  mensaje que celebra la cultura y la identidad del país. ¡Descubre más!.
+featured_image: /images/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa.jpg
+slug: la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa
+canonical: https://novumworld.com/es/viral/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: d7e68963-9209-b253-a197-42a8027dddbe
 ---
 
 ![La Reina Letizia Sorprende Hablando Guaraní: El Mensaje Que Conmovió a Paraguay](/images/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa.jpg)
@@ -71,22 +74,7 @@ La Reina Letizia ha dado un paso significativo hacia la conexión cultural entre
 - [Carriedo Desata la Ira Médica: ¿Pel](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Reina Letizia Sorprende Hablando Guaraní: El Mensaje Que Conmovió a Paraguay",
-  "description": "La Reina Letizia impacta a Paraguay al hablar guaraní, enviando un emotivo mensaje que celebra la cultura y la identidad del país. ¡Descubre más!.",
-  "image": "https://novumworld.com/images/la-reina-letizia-sorprende-al-hablar-guarani-en-un-emotivo-aniversario-mira-el-video-que-arrasa.jpg",
-  "datePublished": "2026-04-23T22:05:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +84,3 @@ La Reina Letizia ha dado un paso significativo hacia la conexión cultural entre
     }
   }
 }
-</script>

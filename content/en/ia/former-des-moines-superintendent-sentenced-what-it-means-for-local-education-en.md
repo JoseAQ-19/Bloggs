@@ -1,16 +1,20 @@
 ---
-title: "Des Moines Education Faces Crisis: 2,900 Students Transferred Amid Leadership Turmoil"
-date: 2026-05-30T12:00:23
+title: 'Des Moines Education Faces Crisis: 2,900 Students Transferred Amid Leadership
+  Turmoil'
+date: 2026-05-30 12:00:23
 draft: false
-description: "Des Moines education is in crisis as 2,900 students transfer amid leadership turmoil. Explore the challenges and implications for the community."
-featured_image: "/images/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en.jpg"
-slug: "former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en"
-canonical: "https://novumworld.com/ia/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "00bab49f-4e7b-7e4f-6aee-6b30184f18cd"
+description: Des Moines education is in crisis as 2,900 students transfer amid leadership
+  turmoil. Explore the challenges and implications for the community.
+featured_image: /images/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en.jpg
+slug: former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en
+canonical: https://novumworld.com/ia/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 00bab49f-4e7b-7e4f-6aee-6b30184f18cd
 ---
 
 ![Des Moines Education Faces Crisis: 2,900 Students Transferred Amid Leadership Turmoil](/images/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en.jpg)
@@ -54,28 +58,12 @@ Recovery requires radical transparency. DMPS must publish superintendent selecti
 - [news.google.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXM5dXlOYnIwS1l5U1J5dzROVmg3bUdrS0tpOHY3ZW9vb3RpUjkwRkljZ2FxWW9peUpFeDBqdG9qODJLdXVOWjRsZnFRbFlwUWtCRFltaTdPZ1BPaVJUQUZOZ2gxeF94ZnRBbWFxUnV6YTNLV2RHMmlqdUlnem03VFRNVEVZX2NfTWxwSUQ2S0g5eFVoS0w1a3Mwc9IBmwFBVV95cUxOSXM5dXlOYnIwS1l5U1J5dzROVmg3bUdrS0tpOHY3ZW9vb3RpUjkwRkljZ2FxWW9peUpFeDBqdG9qODJLdXVOWjRsZnFRbFlwUWtCRFltaTdPZ1BPaVJUQUZOZ2gxeF94ZnRBbWFxUnV6YTNLV2RHMmlqdUlnem03VFRNVEVZX2NfTWxwSUQ2S0g5eFVoS0w1a3Mwcw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxON0Ywa2ZMdGpyWlZseFkya0IwbXRjTUpXbjg4bkpxQV92czZsYndEcGJrOFdsQURHMjctTkcxMkpPOV9YeE8wZ0tERTBfRFVKZ1lDaXp0NXpVOU0tT1pPSDlQNWhqN3ctbGliUmtiN0JyMzlkSUdTSENnbFNlTVpXdFdBYjdoZUQ5dDBhVXZRNFNaTllIcDNnLTRhRDlqZFFZb3hTdXhyMEtCOTlDdGptc2lvamJiOHFCYlhqTlJUTmE1TXc?oc=5)
 
-
 ## Related Articles
 - [Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks](/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/)
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 - [Remembering Brent Allen Butler: The Heartfelt Legacy That Will Not Be Forgotten](/ia/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Des Moines Education Faces Crisis: 2,900 Students Transferred Amid Leadership Turmoil",
-  "description": "Des Moines education is in crisis as 2,900 students transfer amid leadership turmoil. Explore the challenges and implications for the community.",
-  "image": "https://novumworld.com/images/former-des-moines-superintendent-sentenced-what-it-means-for-local-education-en.jpg",
-  "datePublished": "2026-05-30T12:00:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -85,4 +73,3 @@ Recovery requires radical transparency. DMPS must publish superintendent selecti
     }
   }
 }
-</script>

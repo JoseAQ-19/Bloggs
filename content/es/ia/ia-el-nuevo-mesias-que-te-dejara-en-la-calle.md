@@ -24,8 +24,6 @@ type: ia
 
 La Inteligencia Artificial (IA) es el último opio del pueblo, una fantasía tecnológica inflada por intereses corporativos. Nos prometieron una utopía de eficiencia y abundancia, pero lo que realmente están cocinando es una distopía de desigualdad y desempleo masivo. El problema no es la tecnología en sí, sino la manera irresponsable y egoísta en que las grandes tecnológicas la están desplegando.
 
-
-
 {{< adsterra_native >}}
 
 ## La Gran Estafa de la IA: Promesas Vacías y Bolsillos Llenos
@@ -71,6 +69,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [El Fin de la Tibieza: Por Qué la Neutralidad es el Mayor...](/es/ia/el-fin-de-la-tibieza-por-que-la-neutralidad-es-el/)
 - [Telecoms Españolas Al Borde Del Colapso: La IA Promete Salvación… O Ruina](/es/ia/ia-teleco-espana-crecimiento/)
 - [NOVUMWORLD: La Farsa del Periodismo de Élite (Y Por Qué Deberías Ignorarlo)](/es/ia/novumworld-la-farsa-del-periodismo-de-elite-y-por/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

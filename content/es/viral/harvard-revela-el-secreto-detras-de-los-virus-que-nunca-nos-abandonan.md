@@ -35,8 +35,6 @@ La idea de que el genoma humano es un diseño inteligente o un código limpio es
 * Investigadores del IRB Barcelona han identificado 3.300 puntos en el genoma humano donde la edición con CRISPR provoca efectos tóxicos graves, cuestionando la seguridad de la tecnología.
 * El Comité de Bioética de España rechaza la edición genética con fines de mejora, calificándola de programa eugenésico inaceptable, lo que frena la inversión en líneas germinales.
 
-
-
 {{< adsterra_native >}}
 
 ## El mito del ADN puro y la realidad viral
@@ -88,6 +86,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [La Novia de Vinicius Desata La Locura: 4 Datos Impactantes Sobre Su Forma](/es/viral/la-novia-de-vinicius-desata-la-locura-en-redes-con-su-impresionante-forma-fisica/)
 - [Terianos: La Revolución Silenciosa Que Está Reconfigurando La Cultura Cubana](/es/viral/terianos-cuba-polemica-redes/)
 - [Masterchef En Dubái: Hacienda Sospecha Que Ocultan 140.000 Millones De Euros](/es/viral/masterchef-dubai-polemica-fiscal/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

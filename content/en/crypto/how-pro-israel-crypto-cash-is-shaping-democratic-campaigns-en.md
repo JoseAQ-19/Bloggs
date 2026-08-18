@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: Pro-Israel Crypto Cash Is Changing the Game for Democrats"
-date: 2026-06-21T16:40:51
+title: 'The Shocking Truth: Pro-Israel Crypto Cash Is Changing the Game for Democrats'
+date: 2026-06-21 16:40:51
 draft: false
-description: "Discover how pro-Israel cryptocurrency is reshaping Democratic strategies, influencing funding, and altering the political landscape in unexpected ways."
-featured_image: "/images/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en.jpg"
-slug: "how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en"
-canonical: "https://novumworld.com/crypto/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c734e623-85c7-83aa-8ead-2409fa3caeaa"
+description: Discover how pro-Israel cryptocurrency is reshaping Democratic strategies,
+  influencing funding, and altering the political landscape in unexpected ways.
+featured_image: /images/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en.jpg
+slug: how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en
+canonical: https://novumworld.com/crypto/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: c734e623-85c7-83aa-8ead-2409fa3caeaa
 ---
 
 ![The Shocking Truth: Pro-Israel Crypto Cash Is Changing the Game for Democrats](/images/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en.jpg)
@@ -77,12 +80,10 @@ Ignoring this reality risks catastrophic electoral outcomes, as seen in the tigh
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9ndHNHMW5Ual9LNDl1WDUtM1NjMVYwYmtwbTI1eVk3VUxVekppa0JvOFEyRmdMS0FlQ0xWMm5YUUI3bHMtem1qZ2phUE9GTnlvc3luaGVPODVEcVZrZm5obGlMcjRIQmxCUnBfTXhqdnhxWFh1WTRab1RLLXBXcHl6X2RlbWl2TjZhYkpmVk1pd1VNaUVmR0dMT2JNcWlLanhPR1BLbGE4bW9WR05Tc01Ta2p4Wl9STnNuby1RUQ?oc=5)
 
-
 ## Related Articles
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [US Senate’s Crypto Bill Could Propel Bitcoin To $200,000 By 2025](/crypto/us-senates-crypto-bill-a-game-changer-for-digital-assets-en/)
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -92,18 +93,7 @@ Ignoring this reality risks catastrophic electoral outcomes, as seen in the tigh
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Pro-Israel Crypto Cash Is Changing the Game for Democrats",
-  "description": "Discover how pro-Israel cryptocurrency is reshaping Democratic strategies, influencing funding, and altering the political landscape in unexpected ways.",
-  "image": "https://novumworld.com/images/how-pro-israel-crypto-cash-is-shaping-democratic-campaigns-en.jpg",
-  "datePublished": "2026-06-21T16:40:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +103,3 @@ Ignoring this reality risks catastrophic electoral outcomes, as seen in the tigh
     }
   }
 }
-</script>

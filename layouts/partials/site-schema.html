@@ -1,140 +1,78 @@
 {{- $featured_image := partial "func/GetFeaturedImage.html" . -}}
 {{- if .IsPage -}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "{{ if or (in (slice "crypto" "funds" "youtube" "viral") .Section) (in (slice "crypto" "funds" "youtube" "viral") .Type) }}NewsArticle{{ else if eq .Type "tools" }}TechArticle{{ else }}Article{{ end }}",
-  "headline": {{ .Title | jsonify }},
-  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | truncate 160 | jsonify }}{{ end }},
-  "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-  "author": {
-    {{- if .Params.author }}
-    "@type": "Person",
-    "name": {{ .Params.author | jsonify }}
-    {{- else }}
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team",
-    "url": "https://novumworld.com/about/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo-tech.jpg"
-    }
-    {{- end }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "url": "https://novumworld.com/",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo-tech.jpg"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ .Permalink | jsonify }}
-  }
+  {{- $articleType := "Article" -}}
+  {{- if or (in (slice "crypto" "funds" "youtube" "viral") .Section) (in (slice "crypto" "funds" "youtube" "viral") .Type) -}}
+    {{- $articleType = "NewsArticle" -}}
+  {{- else if eq .Type "tools" -}}
+    {{- $articleType = "TechArticle" -}}
+  {{- end -}}
+
+  {{- $author := dict "@type" "Organization" "name" "NovumWorld Editorial Team" "url" "https://novumworld.com/about/" "logo" (dict "@type" "ImageObject" "url" "https://novumworld.com/images/logo-tech.jpg") -}}
+  {{- with .Params.author -}}
+    {{- $author = dict "@type" "Person" "name" . -}}
+  {{- end -}}
+
+  {{- $publisher := dict "@type" "Organization" "name" "NovumWorld" "url" "https://novumworld.com/" "logo" (dict "@type" "ImageObject" "url" "https://novumworld.com/images/logo-tech.jpg") -}}
+
+  {{- $desc := "" -}}
+  {{- with .Description -}}
+    {{- $desc = . -}}
+  {{- else -}}
+    {{- $desc = (.Summary | plainify | truncate 160) -}}
+  {{- end -}}
+
+  {{- $schemaData := dict "@context" "https://schema.org" "@type" $articleType "headline" .Title "description" $desc "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00") "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink) "author" $author "publisher" $publisher "inLanguage" .Lang "wordCount" .WordCount -}}
+
   {{- with $featured_image -}}
-  ,"image": {{ . | jsonify }}
+    {{- $schemaData = merge $schemaData (dict "image" .) -}}
   {{- end -}}
-  ,"inLanguage": {{ .Lang | jsonify }}
-  ,"wordCount": {{ .WordCount }}
+
   {{- with .Params.categories -}}
-  ,"articleSection": {{ index . 0 | jsonify }}
+    {{- if gt (len .) 0 -}}
+      {{- $schemaData = merge $schemaData (dict "articleSection" (index . 0)) -}}
+    {{- end -}}
   {{- end -}}
+
   {{- with .Params.tags -}}
-  ,"keywords": {{ delimit . ", " | jsonify }}
+    {{- if gt (len .) 0 -}}
+      {{- $schemaData = merge $schemaData (dict "keywords" (delimit . ", ")) -}}
+    {{- end -}}
   {{- end -}}
-}
-</script>
-
-{{- with .Params.faq -}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {{- range $i, $e := . -}}
-    {{- if $i }},{{ end -}}
-    {
-      "@type": "Question",
-      "name": {{ $e.question | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ $e.answer | jsonify }}
-      }
-    }
-    {{- end -}}
-  ]
-}
-</script>
-{{- end -}}
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": {{ .Site.BaseURL | jsonify }}
-    }
-    {{- if .Section -}}
-    ,{
-      "@type": "ListItem",
-      "position": 2,
-      "name": {{ .CurrentSection.Title | jsonify }},
-      "item": {{ .CurrentSection.Permalink | jsonify }}
-    }
-    ,{
-      "@type": "ListItem",
-      "position": 3,
-      "name": {{ .Title | jsonify }},
-      "item": {{ .Permalink | jsonify }}
-    }
-    {{- else -}}
-    ,{
-      "@type": "ListItem",
-      "position": 2,
-      "name": {{ .Title | jsonify }},
-      "item": {{ .Permalink | jsonify }}
-    }
+{{ $schemaData | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+
+  {{- with .Params.faq -}}
+    {{- $faqEntities := slice -}}
+    {{- range . -}}
+      {{- $faqEntities = $faqEntities | append (dict "@type" "Question" "name" .question "acceptedAnswer" (dict "@type" "Answer" "text" .answer)) -}}
     {{- end -}}
-  ]
-}
+    {{- if gt (len $faqEntities) 0 -}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $faqEntities | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+    {{- end -}}
+  {{- end -}}
+
+  {{- $breadcrumbItems := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.BaseURL) -}}
+  {{- if .Section -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" .CurrentSection.Title "item" .CurrentSection.Permalink) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink) -}}
+  {{- else -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+  {{- end -}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $breadcrumbItems | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 
 {{- else -}}
 {{- /* Non-page: basic WebSite and Global Organization schema */ -}}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "{{ .Site.Title }}",
-  "url": "{{ .Site.BaseURL }}",
-  "description": "{{ .Site.Params.description }}"
-}
+{{ dict "@context" "https://schema.org" "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL "description" (default "" .Site.Params.description) | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "NovumWorld",
-  "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ .Site.BaseURL }}images/logo-tech.jpg",
-  "sameAs": [
-    "https://twitter.com/novumworld",
-    "https://www.linkedin.com/company/novumworld"
-  ],
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "contactType": "editorial",
-    "email": "editorial@novumworld.com"
-  }
-}
+{{ dict "@context" "https://schema.org" "@type" "Organization" "name" "NovumWorld" "url" .Site.BaseURL "logo" (printf "%simages/logo-tech.jpg" .Site.BaseURL) "sameAs" (slice "https://twitter.com/novumworld" "https://www.linkedin.com/company/novumworld") "contactPoint" (dict "@type" "ContactPoint" "contactType" "editorial" "email" "editorial@novumworld.com") | jsonify (dict "indent" "  ") | safeJS }}
 </script>
 {{- end -}}

@@ -1,16 +1,19 @@
 ---
-title: "YouTube Stars Are The New Hollywood Elite: 7 Shocking Facts You Didn't Know"
-date: 2026-06-22T21:22:46
+title: 'YouTube Stars Are The New Hollywood Elite: 7 Shocking Facts You Didn''t Know'
+date: 2026-06-22 21:22:46
 draft: false
-description: "Discover how YouTube stars are reshaping fame and fortune in Hollywood with 7 surprising facts that will change your perspective on celebrity culture."
-featured_image: "/images/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en.jpg"
-slug: "youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en"
-canonical: "https://novumworld.com/youtube/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "25ddb1b2-9cb9-c386-a58a-7b7917bb8c4d"
+description: Discover how YouTube stars are reshaping fame and fortune in Hollywood
+  with 7 surprising facts that will change your perspective on celebrity culture.
+featured_image: /images/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en.jpg
+slug: youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en
+canonical: https://novumworld.com/youtube/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 25ddb1b2-9cb9-c386-a58a-7b7917bb8c4d
 ---
 
 ![YouTube Stars Are The New Hollywood Elite: 7 Shocking Facts You Didn't Know](/images/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en.jpg)
@@ -76,28 +79,12 @@ As we continue to witness this evolution, it becomes apparent that the days of t
 - [news.google.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRl91UG5vLUtXTXRWVlNIUUJDSjd5Qk5TMzFnMVNyT3BCWHptZjJvbVNxVDB2eWFCTUpyMHlxXzI5aGo4R0YzdzFpY09VaU1nVFVSaTZiY0M3LW5YX3hoMFF4Y3RVOF9ScF9HbE45TUFfcWVhMUFnWmdpRVFfSHlWRG5VaW9QU05IbF9YTy1PTjR1VXJQTDZndC1zWW9QVVc2c0ZlMWVTVnpPdXJ4RUZhTDV2WdIBuAFBVV95cUxPN2VNUDFGdFhOTGpOMm51Sm16Ni1iYWxJOEQzOGJOakVpSVhYQ1lzZXF1R2RJOHpXYlNEUFNRT3BUb3dmMnN2T2lDZFp0emEwdTBzTjBCWnl2ZWtOXzN4WlRBY1N6ZjhWS3pVNkZnNmUwS1N2MlpRZks3Q3p1aVZpc3hZSFlkaDVQeWxQVG9LajBjZ1d0cDVCck5WdzNGYmIzNk9kVFFMNnAwa3JSdVNETEs2S3NLLXRH?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE45RThzVnAtTVpjQ1NxSVA2aXNyLXJtMWR0VW1rYTVqTWZxVG81YzREUUttS3hkLUFOczBXVy1ERWU0ZV90cVBPTkwxRmxOVGJJV3NwTWlqU0lMeEgtZ0xGMUdGMFJHbWNKYmFySVFOSE5HNVYteE0wVE45blo?oc=5)
 
-
 ## Related Articles
 - [YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions](/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/)
 - [YouTube Just Launched Two Channels That Are Set to Revolutionize Content](/youtube/youtubes-game-changer-two-new-channels-you-didnt-know-about-en/)
 - [The Hidden Truth About YouTube's Secret Channels That Will Blow Your Mind](/youtube/youtubes-secret-channels-what-you-need-to-know-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Stars Are The New Hollywood Elite: 7 Shocking Facts You Didn't Know",
-  "description": "Discover how YouTube stars are reshaping fame and fortune in Hollywood with 7 surprising facts that will change your perspective on celebrity culture.",
-  "image": "https://novumworld.com/images/youtube-stars-the-new-hollywood-elite-taking-over-the-spotlight-en.jpg",
-  "datePublished": "2026-06-22T21:22:46",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +94,3 @@ As we continue to witness this evolution, it becomes apparent that the days of t
     }
   }
 }
-</script>

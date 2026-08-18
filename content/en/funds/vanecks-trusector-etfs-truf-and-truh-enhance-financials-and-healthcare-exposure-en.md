@@ -24,8 +24,6 @@ In the ever-evolving landscape of sector-specific investments, VanEck's TruSecto
 
 The recent launch of these two ETFs, focusing on the financial and healthcare sectors respectively, is timely, especially as both sectors continue to show resilience amidst market volatility. The TruSector ETFs aim to provide investors with targeted exposure, strategically capitalizing on sector-specific trends. The financial sector's rebound post-pandemic and the healthcare sector's ongoing innovations present opportunities that TRUF and TRUH seek to exploit.
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Analysis of TRUF and TRUH
@@ -83,22 +81,12 @@ We believe the TruSector ETFs represent a strategic addition to a diversified in
 
 Investors looking to enhance their portfolios should consider these funds, especially in times of economic recovery. The key is to stay informed and aware of the inherent risks associated with sector-specific investments.
 
-<script type="application/ld+json"></script>
-{  
-  "@context": "http://schema.org",  
-  "@type": "NewsArticle",  
-  "headline": "VanEck's TruSector ETFs TRUF and TRUH Enhance Financials and Healthcare Exposure",  
-  "datePublished": "2023-10-01",  
-  "author": {  
-    "@type": "Person",  
-    "name": "Financial Analyst"  
-  },  
+,  
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3JIVWdGSnFDN2dXcU4tNWgzY1Y3UXNWWTM3X09oX0UzSWw5TEMzd2dqMzl5Y1NDcWVlUmxQY2NMalIwR2ZHVnhua29ESU1uNFcyb3VnUnBwZDVhcUhtWjlqNHl3aV9SRnlJa1Y5MDFTUmJmNDRNRGk5QnBOSE56RVMtVGpYcU51SjBGMmwzS3I3eERRRGRoNk9oM3FIbkhSWkZONWswTHgwVDBYV3BURzBBQkd1VnIwZmpBRW5rS3cxV0xKZDdpdW82cDVnS3ln?oc=5",  
   "articleBody": "In the ever-evolving landscape of sector-specific investments, VanEck's TruSector ETFs, TRUF and TRUH, have emerged with a compelling proposition, boasting an average annual return of 15.8% since inception. TRUF’s 1-year return stands at 18%. TRUH’s 3-year volatility is recorded at 12.2%. The total expense ratio (TER) for TRUF is 0.40%."  
 }  
-</script>
-*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
+*YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
 
 ## Methodology and Sources
 This article was analyzed and validated by the NovumWorld research team. The data strictly originates from updated metrics, institutional regulations, and authoritative analytical channels to ensure the content meets the industry's highest quality and authority standard (E-E-A-T).

@@ -73,7 +73,6 @@ In a landscape marked by volatility and unpredictability, caution is paramount. 
 - [The Hidden Truth Behind Senate Chaos: Crypto Regulation Is on the Brink](/crypto/turbulent-senate-talks-is-crypto-regulation-on-the-brink-of-failure-en/)
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -82,18 +81,7 @@ In a landscape marked by volatility and unpredictability, caution is paramount. 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitcoin Plummets 30% Overnight: The Shocking Truth Behind This Crypto Collapse",
-  "description": "Bitcoin's dramatic 30% drop overnight has left investors reeling. Discover the shocking factors behind this crypto collapse and what it means for the.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-27T17:55:08",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ In a landscape marked by volatility and unpredictability, caution is paramount. 
     }
   }
 }
-</script>

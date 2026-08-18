@@ -1,16 +1,20 @@
 ---
-title: "Tiny Home DREAM CRUSHED: 73% Of Americans Will Be Devastated By This"
-date: 2026-04-05T19:28:58
+title: 'Tiny Home DREAM CRUSHED: 73% Of Americans Will Be Devastated By This'
+date: 2026-04-05 19:28:58
 draft: false
-description: "Thinking of tiny home living? 73% of Americans face a brutal reality they aren't prepared for. Discover the devastating truth behind the dream before you."
-featured_image: "/images/carpenters-tiny-house-empire-en.jpg"
-slug: "carpenters-tiny-house-empire-en"
-canonical: "https://novumworld.com/youtube/carpenters-tiny-house-empire-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "539c0c82-b295-7d03-e101-5efae03cab96"
+description: Thinking of tiny home living? 73% of Americans face a brutal reality
+  they aren't prepared for. Discover the devastating truth behind the dream before
+  you.
+featured_image: /images/carpenters-tiny-house-empire-en.jpg
+slug: carpenters-tiny-house-empire-en
+canonical: https://novumworld.com/youtube/carpenters-tiny-house-empire-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 539c0c82-b295-7d03-e101-5efae03cab96
 ---
 
 ![Tiny Home DREAM CRUSHED: 73% Of Americans Will Be Devastated By This](/images/carpenters-tiny-house-empire-en.jpg)
@@ -87,28 +91,12 @@ The tiny home movement is a speculative trap that exchanges long-term financial 
 - [huduser.gov](https://www.huduser.gov/portal/periodicals/cityscape/vol27num1/ch11.pdf)
 - [docs.nrel.gov](https://docs.nrel.gov/docs/fy25osti/89873.pdf)
 
-
 ## Related Articles
 - [Cord-Cutting 2.0: YouTube TV](/youtube/youtube-sports-subscription-live-streaming-en/)
 - [YouTube Studio''s $36 Billion Proble](/youtube/youtube-studio-meltdown-creator-revenue-en/)
 - [YouTube''s Dirty Se](/youtube/youtube-jeopardy-podcast-demonetization-hate-speech-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Tiny Home DREAM CRUSHED: 73% Of Americans Will Be Devastated By This",
-  "description": "Thinking of tiny home living? 73% of Americans face a brutal reality they aren't prepared for. Discover the devastating truth behind the dream before you.",
-  "image": "https://novumworld.com/images/carpenters-tiny-house-empire-en.jpg",
-  "datePublished": "2026-04-05T19:28:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -118,4 +106,3 @@ The tiny home movement is a speculative trap that exchanges long-term financial 
     }
   }
 }
-</script>

@@ -71,22 +71,7 @@ The world of social media can be alluring, but it is essential to remember that 
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially](/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fitness Influencer’s Shocking Guilty Plea Exposes Dark Side of Social Media Fame",
-  "description": "Discover how a fitness influencer's shocking guilty plea reveals the troubling realities behind social media fame and the pressure to maintain a perfect.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-03T08:29:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +81,3 @@ The world of social media can be alluring, but it is essential to remember that 
     }
   }
 }
-</script>

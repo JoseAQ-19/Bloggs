@@ -60,12 +60,10 @@ Riesgo: Medio. La criptomoneda es una industria en crecimiento, pero también es
 - [news.google.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTm9nTlFYVno0ZlJhSW5teld5anlyNXpsd2R1ZHZWb2VneDdHVzBsNXNRV1pfYm1HaDVQR3VUYktEMDRUTWJCVXZlWlkzUWRaTVpIdGtESWxES3pIVndlcGVPRzQ3ejNBd0tIWnF0cDdaemQ2eEU0WlJPZVhnSlBXNGhhVWZGbEZpVnVabWtPdkFRcF9OUWZoMGIxeUg4b1JqaDg2dEtCeVk2Qjd5VXN5dlFocmV3Nm51aG0xSTlkcllPRUUxQkwtcFZVM09qd1VBVEs5V3BlbmM5SGxqZ2VoSEExSTIxNnhTRFN3?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [Invest $100 in Crypto: Unlock Potential 100x Gains with These Micro-Cap Gems](/crypto/unlocking-crypto-how-to-invest-with-just-100-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -75,18 +73,7 @@ Riesgo: Medio. La criptomoneda es una industria en crecimiento, pero también es
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Trump’s $1.4 Billion Crypto Ventures Exposed",
-  "description": "Uncover the startling details of Trump's $1.4 billion crypto investments. Explore the implications and controversies behind his ventures in the digital.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-01T17:22:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +83,3 @@ Riesgo: Medio. La criptomoneda es una industria en crecimiento, pero también es
     }
   }
 }
-</script>

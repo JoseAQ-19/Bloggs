@@ -1,16 +1,19 @@
 ---
-title: "Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese"
-date: 2026-05-06T06:22:40
+title: 'Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese'
+date: 2026-05-06 06:22:40
 draft: false
-description: "Trump's revival of the Presidential Fitness Test highlights a growing crisis: 1 in 3 kids face obesity. Discover the implications for future generations."
-featured_image: "/images/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en.jpg"
-slug: "trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en"
-canonical: "https://novumworld.com/fitness/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "df89b31c-79ec-a0fe-e773-40c8c3df864e"
+description: 'Trump''s revival of the Presidential Fitness Test highlights a growing
+  crisis: 1 in 3 kids face obesity. Discover the implications for future generations.'
+featured_image: /images/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en.jpg
+slug: trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en
+canonical: https://novumworld.com/fitness/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: df89b31c-79ec-a0fe-e773-40c8c3df864e
 ---
 
 ![Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese](/images/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en.jpg)
@@ -93,28 +96,12 @@ The revival of the Presidential Fitness Test is a cynical policy move that prior
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUZOWjRZMUNZUUZDaHc4RXRNX2dyTlk5d2FoYzlGNUZJcFBnMXItVk9lclVDcVNpTUhqMzBPVm5Jd0l3YlBrbmVSdHRWTkZFLUtfdTNmZ0FsUnlCbXFpRGUwR1VqM3pFRXJNVVQzNXNtOFI5aDFrakJBRmJjdUJyTXg3cHlHMWFud3pLMWxXcTdLRmEwMWozU1ptNHFyX2VvVVZzMV9TZjdFdTdIN1HSAbMBQVVfeXFMT2pybk5LaHRjeGtlVmtmN2JGX2d0RDQzRDdaZGRhTnRET3VPeGVhamZMNnpxVHpNQVlqLXNQLXhjY1hJRjBmMmtfNDJhMEtIUEN0SEpUUEJNLVFjckZVeVZqdElpak5fQ1F6WGpCVkR6LXFPbTU5LUlwakJpZFkzQ3I4a2h4TVFkV2QzZHNSSFA0YnBXLUtaNWtfaDZxMm9hTUlackx3RGNobkxhVDRkeGphZGM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUp0T0cwZXpYamw5MV9uNzFFclluNUVxTXl4aGVZY21zY0d0R1YxaTNxTVh0YllNcG5SYXpjaW14aC1LQXJ6alk4azV3NDg0WTBoNGh2ZGh3ZjhLTDA1UjUyV25qZWoxelVVX2hGS3czU1V0MUtnS3BZeUJDbjhYeGw1NA?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth About Folding Treadmills: 61% of Remote Workers Are at Risk](/fitness/the-ultimate-guide-to-the-best-folding-treadmills-approved-by-runners-and-remote-workers-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 - [Forget Incline! 44 Degrees Is The](/fitness/upper-chest-hypertrophy-science-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump Revives The Presidential Fitness Test: 1 In 3 Kids Are Now Obese",
-  "description": "Trump's revival of the Presidential Fitness Test highlights a growing crisis: 1 in 3 kids face obesity. Discover the implications for future generations.",
-  "image": "https://novumworld.com/images/trump-revives-the-presidential-fitness-test-are-you-ready-to-take-the-challenge-en.jpg",
-  "datePublished": "2026-05-06T06:22:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -124,4 +111,3 @@ The revival of the Presidential Fitness Test is a cynical policy move that prior
     }
   }
 }
-</script>

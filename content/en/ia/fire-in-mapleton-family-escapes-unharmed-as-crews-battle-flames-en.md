@@ -1,16 +1,19 @@
 ---
-title: "Family Escapes Inferno in Mapleton: 10 Hours of Intense Firefighting Unfolds"
-date: 2026-06-18T12:36:00
+title: 'Family Escapes Inferno in Mapleton: 10 Hours of Intense Firefighting Unfolds'
+date: 2026-06-18 12:36:00
 draft: false
-description: "A family's harrowing escape from a raging inferno in Mapleton unfolds as firefighters battle for 10 hours to save lives and homes. Read their story."
-featured_image: "/images/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en.jpg"
-slug: "fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en"
-canonical: "https://novumworld.com/ia/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "af10d2ae-f927-e842-c122-89b093fe50a4"
+description: A family's harrowing escape from a raging inferno in Mapleton unfolds
+  as firefighters battle for 10 hours to save lives and homes. Read their story.
+featured_image: /images/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en.jpg
+slug: fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en
+canonical: https://novumworld.com/ia/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: af10d2ae-f927-e842-c122-89b093fe50a4
 ---
 
 ![Family Escapes Inferno in Mapleton: 10 Hours of Intense Firefighting Unfolds](/images/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en.jpg)
@@ -76,22 +79,7 @@ Engagement with local authorities to advocate for modernized fire safety measure
 - [Nvidia's $45.8 Billion Obligation Sparks 200% Earnings Growth in KOSPI Stocks](/ia/tech-stocks-soar-as-ai-revolution-drives-south-koreas-kospi-to-new-heights-en/)
 - [The Parenthood Happiness Paradox: 36% Of Parents Are Not Happier Than Childless Adults](/ia/the-surprising-truth-does-parenthood-really-make-us-happier-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Family Escapes Inferno in Mapleton: 10 Hours of Intense Firefighting Unfolds",
-  "description": "A family's harrowing escape from a raging inferno in Mapleton unfolds as firefighters battle for 10 hours to save lives and homes. Read their story.",
-  "image": "https://novumworld.com/images/fire-in-mapleton-family-escapes-unharmed-as-crews-battle-flames-en.jpg",
-  "datePublished": "2026-06-18T12:36:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ Engagement with local authorities to advocate for modernized fire safety measure
     }
   }
 }
-</script>

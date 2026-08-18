@@ -1,16 +1,20 @@
 ---
-title: "Parachute Jumper's 1-In-1,000 Crash Shocks Virginia Tech Community And Goes Viral"
-date: 2026-04-23T23:48:17
+title: Parachute Jumper's 1-In-1,000 Crash Shocks Virginia Tech Community And Goes
+  Viral
+date: 2026-04-23 23:48:17
 draft: false
-description: "A parachute jumper's rare crash stuns the Virginia Tech community, sparking viral discussions. Discover the incident's impact and the community's response."
-featured_image: "/images/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en.jpg"
-slug: "parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en"
-canonical: "https://novumworld.com/viral/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "69d20e5a-de7d-f683-acb5-7d727013912c"
+description: A parachute jumper's rare crash stuns the Virginia Tech community, sparking
+  viral discussions. Discover the incident's impact and the community's response.
+featured_image: /images/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en.jpg
+slug: parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en
+canonical: https://novumworld.com/viral/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 69d20e5a-de7d-f683-acb5-7d727013912c
 ---
 
 ![Parachute Jumper's 1-In-1,000 Crash Shocks Virginia Tech Community And Goes Viral](/images/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en.jpg)
@@ -107,28 +111,12 @@ The collision between a human body and a steel scoreboard was not an unpredictab
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZTRHMEpIOC1Bb2Y4ZTJNeHQ4MEdMVzJ4ZnRTQTBDbkQ4T1JzVlpaYkNhaWhmQWRMRWlfMFl2RFVmRGNBaTdZV1lzYi1VMVMxRUJPMThWSjk2S0FseVQ4Wnd1MmNydE1LRkNmX1hiRm5QbHBfYmpXTlVFdXJMTnEtZkhRZkNMOTBqZE94aEtuUTNMSnZjcnBZdEp3QjBCbHdGVm5mc9IBqgFBVV95cUxPZkdQNnE1Y01JYm1HSThCd0hPSnpOdFVoSUpwckJSQ210VVB5WVd5enZvcVBfSVdsTmd4T1VkOHdIZVA0c0hfMER6czFrZ3h3MlJmd1ZxYjBvbzMtVkU1T1VPQjBJbHNudXhjSW5meUU3Yy1MM2JSRXBjNnp6bS1kWFRKM3JmYWZDb1ZkQ3RoVWNjN21sOEJfV0s5MnZBSmxJdkpFaXVta0NMUQ?oc=5)
 
-
 ## Related Articles
 - [Ugly Sonic Didn''t Die: His VFX Secr](/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 - [77,000 Steam Accounts Hacked Monthly: Are YOU Next? Valve](/viral/steam-malware-threat-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Parachute Jumper's 1-In-1,000 Crash Shocks Virginia Tech Community And Goes Viral",
-  "description": "A parachute jumper's rare crash stuns the Virginia Tech community, sparking viral discussions. Discover the incident's impact and the community's response.",
-  "image": "https://novumworld.com/images/parachute-jumpers-harrowing-crash-at-virginia-tech-scores-big-on-social-media-en.jpg",
-  "datePublished": "2026-04-23T23:48:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -138,4 +126,3 @@ The collision between a human body and a steel scoreboard was not an unpredictab
     }
   }
 }
-</script>

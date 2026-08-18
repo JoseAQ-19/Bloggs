@@ -25,8 +25,6 @@ T. Rowe Price's $15.5 billion equity income fund has been placed under review by
 
 T. Rowe Price's $15.5 billion equity income fund has been placed under review by Morningstar, triggering heightened scrutiny from investors and analysts. The move comes as Morningstar evaluates changes to the fund's management team and the consistency of its investment strategy, according to the ratings agency's March 2026 regulatory filings. This is a significant event for one of the largest actively managed equity funds in the US market, with potential implications for the $1.1 trillion asset manager's reputation and investor confidence.
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Performance Analysis
@@ -113,6 +111,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Vanguard Slashes Fees: Investors to Save $250 Million, Boosting Returns by](/en/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en/)
 - [5 Energy Stocks Surpassing the S&P 500 by 12% in 2026](/en/funds/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en/)
 - [Morningstar Awards for Investing Excellence Thailand 2026: Evaluating the](/en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

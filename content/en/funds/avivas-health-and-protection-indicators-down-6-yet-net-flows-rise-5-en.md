@@ -1,14 +1,17 @@
 ---
-title: "Aviva's Health and Protection Indicators Down 6%, Yet Net Flows Rise 5%"
-date: 2026-05-17T09:03:43
+title: Aviva's Health and Protection Indicators Down 6%, Yet Net Flows Rise 5%
+date: 2026-05-17 09:03:43
 draft: false
-description: "Discover how Aviva's health and protection indicators dipped by 6%, yet net flows increased by 5%. Explore the implications for investors today."
-featured_image: "/images/avivas-health-and-protection-indicators-down-6-yet-net-flows-rise-5-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "d8197e52-d1c0-5bfa-6de5-7e2f80da90f4"
+description: Discover how Aviva's health and protection indicators dipped by 6%, yet
+  net flows increased by 5%. Explore the implications for investors today.
+featured_image: /images/avivas-health-and-protection-indicators-down-6-yet-net-flows-rise-5-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: d8197e52-d1c0-5bfa-6de5-7e2f80da90f4
 ---
 
 ![Aviva's Health and Protection Indicators Down 6%, Yet Net Flows Rise 5%](/images/avivas-health-and-protection-indicators-down-6-yet-net-flows-rise-5-en.jpg)
@@ -20,8 +23,6 @@ Aviva's Health and Protection indicators have decreased by 6%, yet its net flows
 * [Aviva's overall performance remains robust despite challenges — CNMV]
 
 The recent performance data from Aviva suggests an intriguing scenario where declining health metrics are counterbalanced by positive investor sentiment, evidenced by the increase in net flows. This paradox raises questions about the underlying factors driving these trends and their implications for the company's future strategy.
-
-
 
 {{< adsterra_native >}}
 
@@ -77,6 +78,4 @@ In the evolving landscape of mutual funds, the interplay between performance met
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 - [VOO Surges 281% in](/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

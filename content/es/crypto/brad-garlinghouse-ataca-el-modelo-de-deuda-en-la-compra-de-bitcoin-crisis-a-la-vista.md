@@ -63,7 +63,6 @@ La industria de las criptomonedas se enfrenta a un momento crítico en el que la
 - [La Impactante Predicción de TRON: 21.6 Millones de Dólares en Ingresos y Su Futuro Inmediato](/es/crypto/que-nos-depara-el-futuro-predicciones-de-tron-trx-para-2026-2027-y-2028/)
 - [Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -72,18 +71,7 @@ La industria de las criptomonedas se enfrenta a un momento crítico en el que la
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Brad Garlinghouse Revela La Verdad Oculta Sobre La Deuda En La Compra De Bitcoin",
-  "description": "Brad Garlinghouse revela secretos impactantes sobre la deuda y su influencia en la compra de Bitcoin. Descubre la verdad que pocos conocen.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-30T16:30:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +81,3 @@ La industria de las criptomonedas se enfrenta a un momento crítico en el que la
     }
   }
 }
-</script>

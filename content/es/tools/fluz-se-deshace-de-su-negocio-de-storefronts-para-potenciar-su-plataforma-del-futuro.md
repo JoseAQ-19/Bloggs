@@ -1,16 +1,19 @@
 ---
-title: "Fluz Abandona Su Negocio de Storefronts: El Futuro de Su Plataforma en Riesgo"
-date: 2026-05-26T13:43:14
+title: 'Fluz Abandona Su Negocio de Storefronts: El Futuro de Su Plataforma en Riesgo'
+date: 2026-05-26 13:43:14
 draft: false
-description: "Fluz abandona su negocio de storefronts, generando incertidumbre sobre el futuro de su plataforma. Descubre las implicaciones y lo que viene a."
-featured_image: "/images/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro.jpg"
-slug: "fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro"
-canonical: "https://novumworld.com/es/tools/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "fdf7406a-d248-bbec-6012-81638b1e5624"
+description: Fluz abandona su negocio de storefronts, generando incertidumbre sobre
+  el futuro de su plataforma. Descubre las implicaciones y lo que viene a.
+featured_image: /images/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro.jpg
+slug: fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro
+canonical: https://novumworld.com/es/tools/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: fdf7406a-d248-bbec-6012-81638b1e5624
 ---
 
 ![Fluz Abandona Su Negocio de Storefronts: El Futuro de Su Plataforma en Riesgo](/images/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro.jpg)
@@ -57,22 +60,7 @@ La situación de Fluz pone de manifiesto las vulnerabilidades en el ecosistema d
 - [¡Make.com en 2 HORA](/es/tools/makecom-en-2-horas-domina-la-automatizacion-sin-ser-experto-guia-2025/)
 - [La Actualización de PAM TOOLS Analysis de Saint-Gobain PAM Que Nadie Esperaba](/es/tools/saint-gobain-pam-revoluciona-la-eficiencia-tecnica-con-su-actualizacion-de-pam-tools/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fluz Abandona Su Negocio de Storefronts: El Futuro de Su Plataforma en Riesgo",
-  "description": "Fluz abandona su negocio de storefronts, generando incertidumbre sobre el futuro de su plataforma. Descubre las implicaciones y lo que viene a.",
-  "image": "https://novumworld.com/images/fluz-se-deshace-de-su-negocio-de-storefronts-para-potenciar-su-plataforma-del-futuro.jpg",
-  "datePublished": "2026-05-26T13:43:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -82,4 +70,3 @@ La situación de Fluz pone de manifiesto las vulnerabilidades en el ecosistema d
     }
   }
 }
-</script>

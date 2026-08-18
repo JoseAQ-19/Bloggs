@@ -71,22 +71,7 @@ In an era where technology continuously shapes our health management strategies,
 - [The Hidden Truth Behind Planet Fitness's Price Adjustments That No One Saw Coming](/fitness/why-planet-fitness-is-hitting-the-brakes-on-price-hikes-and-guidance-en/)
 - [The Hidden Truth About Garmin and Coros: VO2 Max Accuracy That Will Shock You](/fitness/the-ultimate-smartwatch-showdown-which-one-survived-my-30-mile-test-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Ditch Google Health: 5 Fitness Apps That Are Crushing the Competition Right Now",
-  "description": "Discover top 5 fitness apps that outshine Google Health. Elevate your fitness journey with innovative features and superior user experiences today!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-26T07:52:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +81,3 @@ In an era where technology continuously shapes our health management strategies,
     }
   }
 }
-</script>

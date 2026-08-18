@@ -29,8 +29,6 @@ The projection that stablecoins will inject $800 billion into U.S. Treasury bill
 * Tether reported holding around 66% of its reserves in short-dated US Treasuries as of April 2025, linking the stability of the largest stablecoin directly to the liquidity of American government debt.
 * Total value locked (TVL) in DeFi protocols stands at approximately $98 billion as of March 2026, creating a systemic leverage risk that could spill over into traditional banking markets during a liquidity crisis.
 
-
-
 {{< adsterra_native >}}
 
 ## The $800 Billion Dilemma: Stablecoins and U.S. Treasury Bills
@@ -78,6 +76,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [$66K Dip? Whales Just Added 230,000 Bitcoin: Bears Are Officially WRONG](/en/crypto/bitcoin-on-chain-analysis-bull-run-en/)
 - [$33 Billion Mess: Did Kraken''s Fed Access Just Expose Crypto''s Dirty Secret?](/en/crypto/kraken-fed-access-crypto-implications-en/)
 - [Missed the Bull Run? 3 Cryptos Under $1 That Could Make You Rich](/en/crypto/on-chain-analysis-undervalued-cryptocurrencies-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

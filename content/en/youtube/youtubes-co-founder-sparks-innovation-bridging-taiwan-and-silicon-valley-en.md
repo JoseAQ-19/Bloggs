@@ -1,16 +1,19 @@
 ---
-title: "YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions"
-date: 2026-05-04T20:58:15
+title: YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions
+date: 2026-05-04 20:58:15
 draft: false
-description: "Discover the groundbreaking AI venture unveiled by YouTube co-founder Chad Hurley, poised to revolutionize the tech landscape and worth billions."
-featured_image: "/images/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en.jpg"
-slug: "youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en"
-canonical: "https://novumworld.com/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "8020a6e9-4c65-519d-da3c-1756099c4035"
+description: Discover the groundbreaking AI venture unveiled by YouTube co-founder
+  Chad Hurley, poised to revolutionize the tech landscape and worth billions.
+featured_image: /images/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en.jpg
+slug: youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en
+canonical: https://novumworld.com/youtube/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 8020a6e9-4c65-519d-da3c-1756099c4035
 ---
 
 ![YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions](/images/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en.jpg)
@@ -77,22 +80,7 @@ Chad Hurley's EyeTell is a classic example of a solution looking for a problem, 
 - [YouTube Murder Alibi: Professor Fari](/youtube/youtuber-livestream-alibi-murder-forensics-en/)
 - [Tuma Basa's Departure Sparks Outrage Amid YouTube's Talent Exodus and Algorithmic Bias Crisis](/youtube/youtubes-talent-shake-up-tuma-basa-bids-farewell-after-eight-years-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Co-Founder Chad Hurley Just Unveiled A Shocking AI Venture Worth Billions",
-  "description": "Discover the groundbreaking AI venture unveiled by YouTube co-founder Chad Hurley, poised to revolutionize the tech landscape and worth billions.",
-  "image": "https://novumworld.com/images/youtubes-co-founder-sparks-innovation-bridging-taiwan-and-silicon-valley-en.jpg",
-  "datePublished": "2026-05-04T20:58:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ Chad Hurley's EyeTell is a classic example of a solution looking for a problem, 
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind Planet Fitness's $10.5 Million Youth Initiative Exposed"
-date: 2026-04-25T06:02:52
+title: The Shocking Truth Behind Planet Fitness's $10.5 Million Youth Initiative Exposed
+date: 2026-04-25 06:02:52
 draft: false
-description: "Discover the surprising details of Planet Fitness's $10.5 million youth initiative and uncover the truth behind its impact on fitness and community."
-featured_image: "/images/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en.jpg"
-slug: "get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en"
-canonical: "https://novumworld.com/fitness/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "b076a341-29e1-4da5-76d3-249514bc6a53"
+description: Discover the surprising details of Planet Fitness's $10.5 million youth
+  initiative and uncover the truth behind its impact on fitness and community.
+featured_image: /images/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en.jpg
+slug: get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en
+canonical: https://novumworld.com/fitness/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: b076a341-29e1-4da5-76d3-249514bc6a53
 ---
 
 ![The Shocking Truth Behind Planet Fitness's $10.5 Million Youth Initiative Exposed](/images/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en.jpg)
@@ -78,28 +81,12 @@ Despite the lofty goals, the actual execution of these programs often fails to m
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQblc0MVRxZWJxQVZIQVRtRHNBZW56OTlDbThlNWZYbDZQdzFuZ3gxZkVpRzdLSkJTRFBhdzFLb0tudy04UDJLY0xTcVJ5ZHN4VXBBRmZpLXA2cFkxS0MySEdZS01NZm85ZW9hSGVRZEZqYzNxeXpfUE5kSjBJcHhiQTFDSW1TeS1nelVSVGZ5S05RRi0xcUxuM0NmRnFtZURYcTltQkZ6VUYwZFlDQXVSWkVVdTc1dXdvZFJQeg?oc=5)
 
-
 ## Related Articles
 - [Planet Fitness Exposed: The Bear C](/fitness/planet-fitness-growth-strategy-en/)
 - [Planet Fitness Kicks Out M](/fitness/planet-fitness-maui-offer-charity-marketing-en/)
 - [15% Faster Muscle Recovery? Ditch These Spri](/fitness/spring-fitness-fails-habits-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Planet Fitness's $10.5 Million Youth Initiative Exposed",
-  "description": "Discover the surprising details of Planet Fitness's $10.5 million youth initiative and uncover the truth behind its impact on fitness and community.",
-  "image": "https://novumworld.com/images/get-ready-to-run-planet-fitness-and-the-victory-project-team-up-for-a-5k-challenge-en.jpg",
-  "datePublished": "2026-04-25T06:02:52",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ Despite the lofty goals, the actual execution of these programs often fails to m
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "La Impactante Confesión de María Bueno: Soy Fan de Jesús Frente a León XIV"
-date: 2026-06-10T22:25:04
+title: 'La Impactante Confesión de María Bueno: Soy Fan de Jesús Frente a León XIV'
+date: 2026-06-10 22:25:04
 draft: false
-description: "Descubre la sorprendente confesión de María Bueno sobre su fe en Jesús y su encuentro con León XIV. Una historia que conmueve y inspira a todos."
-featured_image: "/images/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv.jpg"
-slug: "la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv"
-canonical: "https://novumworld.com/es/viral/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "e4324e7f-5eeb-457a-3b9b-e9c8dc37399f"
+description: Descubre la sorprendente confesión de María Bueno sobre su fe en Jesús
+  y su encuentro con León XIV. Una historia que conmueve y inspira a todos.
+featured_image: /images/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv.jpg
+slug: la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv
+canonical: https://novumworld.com/es/viral/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: e4324e7f-5eeb-457a-3b9b-e9c8dc37399f
 ---
 
 ![La Impactante Confesión de María Bueno: Soy Fan de Jesús Frente a León XIV](/images/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv.jpg)
@@ -83,22 +86,7 @@ La confesión de María Bueno es un recordatorio de que la fe no tiene por qué 
 - [La Tarjeta De Criptomonedas De Revolut: Ocultando Altas Comisiones A Sus Usuarios](/es/viral/revolut-y-su-misteriosa-tarjeta-de-criptomonedas-una-estrategia-que-marcara-tendencia/)
 - [Rosalía Desata La Locura: 1.3 Millones De Euros Por Dos Canciones En Sevilla](/es/viral/rosalia-desata-la-locura-en-sevilla-con-la-premiere-de-la-casa-de-papel/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Confesión de María Bueno: Soy Fan de Jesús Frente a León XIV",
-  "description": "Descubre la sorprendente confesión de María Bueno sobre su fe en Jesús y su encuentro con León XIV. Una historia que conmueve y inspira a todos.",
-  "image": "https://novumworld.com/images/la-emotiva-confesion-de-maria-bueno-soy-fan-de-jesus-frente-a-leon-xiv.jpg",
-  "datePublished": "2026-06-10T22:25:04",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ La confesión de María Bueno es un recordatorio de que la fe no tiene por qué 
     }
   }
 }
-</script>

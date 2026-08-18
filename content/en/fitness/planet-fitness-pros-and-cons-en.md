@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Downsides of Planet Fitness' $10 Membership That Everyone Overlooks"
-date: 2026-04-27T06:16:23
+title: The Hidden Downsides of Planet Fitness' $10 Membership That Everyone Overlooks
+date: 2026-04-27 06:16:23
 draft: false
-description: "Discover the overlooked pitfalls of Planet Fitness' $10 membership. Uncover hidden fees, limitations, and more that could impact your fitness journey."
-featured_image: "/images/planet-fitness-pros-and-cons-en.jpg"
-slug: "planet-fitness-pros-and-cons-en"
-canonical: "https://novumworld.com/fitness/planet-fitness-pros-and-cons-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "de97b7ed-948a-74da-fae8-079481e2ace7"
+description: Discover the overlooked pitfalls of Planet Fitness' $10 membership. Uncover
+  hidden fees, limitations, and more that could impact your fitness journey.
+featured_image: /images/planet-fitness-pros-and-cons-en.jpg
+slug: planet-fitness-pros-and-cons-en
+canonical: https://novumworld.com/fitness/planet-fitness-pros-and-cons-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: de97b7ed-948a-74da-fae8-079481e2ace7
 ---
 
 ![The Hidden Downsides of Planet Fitness' $10 Membership That Everyone Overlooks](/images/planet-fitness-pros-and-cons-en.jpg)
@@ -66,22 +69,7 @@ The reality is that a low price tag can cloud judgment. The true cost of a gym m
 - [75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE](/fitness/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en/)
 - [Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas Competition](/fitness/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Downsides of Planet Fitness' $10 Membership That Everyone Overlooks",
-  "description": "Discover the overlooked pitfalls of Planet Fitness' $10 membership. Uncover hidden fees, limitations, and more that could impact your fitness journey.",
-  "image": "https://novumworld.com/images/planet-fitness-pros-and-cons-en.jpg",
-  "datePublished": "2026-04-27T06:16:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ The reality is that a low price tag can cloud judgment. The true cost of a gym m
     }
   }
 }
-</script>

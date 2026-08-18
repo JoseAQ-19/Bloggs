@@ -1,16 +1,20 @@
 ---
-title: "La Hepatitis Viral Silenciosa Afecta a 13,000 Españoles Sin Diagnosticar y Nadie Habla de Esto"
-date: 2026-05-03T21:58:34
+title: La Hepatitis Viral Silenciosa Afecta a 13,000 Españoles Sin Diagnosticar y
+  Nadie Habla de Esto
+date: 2026-05-03 21:58:34
 draft: false
-description: "Descubre cómo la hepatitis viral silenciosa impacta a 13,000 españoles sin diagnóstico y la urgencia de crear conciencia sobre esta grave condición."
-featured_image: "/images/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer.jpg"
-slug: "hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer"
-canonical: "https://novumworld.com/es/viral/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "1805ede3-418a-1314-1f6b-475ff1a990d5"
+description: Descubre cómo la hepatitis viral silenciosa impacta a 13,000 españoles
+  sin diagnóstico y la urgencia de crear conciencia sobre esta grave condición.
+featured_image: /images/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer.jpg
+slug: hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer
+canonical: https://novumworld.com/es/viral/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 1805ede3-418a-1314-1f6b-475ff1a990d5
 ---
 
 ![La Hepatitis Viral Silenciosa Afecta a 13,000 Españoles Sin Diagnosticar y Nadie Habla de Esto](/images/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer.jpg)
@@ -95,28 +99,12 @@ España ha demostrado ser una potencia en la implementación de tratamientos far
 - [news.google.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbWpLd3NrUVRoX3hpTEZtdWZwRHljVHhxdWRCMDctdzZQV3JYREM5X29KbVg3RlFPNmZ6Mzd0NU0yYWUzRWx6ZGRrcC1ScUMweUpVT1N2UXIzczlQVnNtbmZqNWpwNE14RHlkRHFWVWgtaXVBX3FLaFFqaXUtT3lFZlNhS1ZMeVZzTW96UGVuN21CLWpEaGZsdVJ0Xy1CWnNKbVQ1ZFZ4dC1RLWRPdkhmQWVVNEpWM1M4eWZ1SjN6V3nSAcABQVVfeXFMUG1qS3dza1FUaF94aUxGbXVmcER5Y1R4cXVkQjA3LXc2UFdyWERDOV9vSm1YN0ZRTzZmejM3dDVNMmFlM0VsemRka3AtUnFDMHlKVU9TdlFyM3M5UFZzbW5majVqcDRNeER5ZERxVlVoLWl1QV9xS2hRaml1LU95RWZTYUtWTHlWc01velBlbjdtQi1qRGhmbHVSdF8tQlpzSm1UNWRWeHQtUS1kT3ZIZkFlVTRKVjNTOHlmdUozeld5?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVUJ6OG5zazJUWjZFQjhEdE5zcjA1ajZSR1pSTU9LYnJPTE1uY29fRFNWd3RNRUhWZV90LXdsMVBwTjJlTENsY25wY2F5YkUzdG9TUDR4Z3c3emlDblpJMnhram95Wl9UX0xsMHVndw?oc=5)
 
-
 ## Artículos relacionados
 - [El Meme “6-7” Q](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [Microexpresiones Del Terro](/es/viral/tetuan-microexpresiones-terror-maltrato-postpandemia/)
 - [Rodrygo Supera una Lesión Grave: Su Impactante Progreso Que Arrasa en Redes](/es/viral/la-impactante-recuperacion-de-rodrygo-que-arrasa-en-redes-mira-su-pierna/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Hepatitis Viral Silenciosa Afecta a 13,000 Españoles Sin Diagnosticar y Nadie Habla de Esto",
-  "description": "Descubre cómo la hepatitis viral silenciosa impacta a 13,000 españoles sin diagnóstico y la urgencia de crear conciencia sobre esta grave condición.",
-  "image": "https://novumworld.com/images/hepatitis-viral-la-infeccion-silenciosa-que-todos-deben-conocer.jpg",
-  "datePublished": "2026-05-03T21:58:34",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -126,4 +114,3 @@ España ha demostrado ser una potencia en la implementación de tratamientos far
     }
   }
 }
-</script>

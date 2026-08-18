@@ -18,8 +18,6 @@ type: ia
 
 ![Microsoft’s $80 Billion AI Bet: Are We Ready For The New Digital Species?](/images/microsoft-unveils-game-changing-ai-models-to-compete-in-the-tech-arena-en.jpg)
 
-
-
 {{< adsterra_native >}}
 
 ## Resumen Ejecutivo
@@ -94,28 +92,12 @@ The bubble of inflated expectations will burst when the electricity bill comes d
 - [news.google.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU5RMjlpZ0hnNXZycERvSXNKbWhoNy0wZ0JmWVBXTDNDYWJDUnkyWjVzT0l6NzZzOWh1UFlQdjAwbXlwcXU3eUctWjFIWllwLVVSRndIRWd3YmtiMjFBSFg4WnhjV05id18ybnVyYkIzX0ZTajVWRjFBLXBibmtVM1lqWmhuUGFOTnNUN0ptRW1fdGdNcnVxaHJVenZLdU1nZ2UtcVprWTVnQQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXpQTUdTR1NEelppenIwR0tUVmpkSUIxSmN3ZUxmY0l4OV8zVTlRaHhMcm9tcmlSLUNLMWhmekV4bkExVFJ0QktRcTVRRnZERlFWZ2Q2RW43eDZkblAwYnJFdFRLczFpRml2eVozYTNqdkZ5YUZCdDJSbk9HTFQ2R1JubUpaOUVLQmhQV3FMdnltRDhoLUVSRXUtV2c0VjJ2M3VydG1OMlZUaGJhSzRUTTBvOWJKbGZ3MC1ZaXgwZw?oc=5)
 
-
 ## Related Articles
 - [Hugging Face Embeddings: The $4.5 Billion L](/ia/hugging-face-embeddings-lobotomy-en/)
 - [39](/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en/)
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Microsoft’s $80 Billion AI Bet: Are We Ready For The New Digital Species?",
-  "description": "Explore Microsoft's $80 billion investment in AI and its implications. Are we prepared for a future with advanced digital beings reshaping our world?.",
-  "image": "https://novumworld.com/images/microsoft-unveils-game-changing-ai-models-to-compete-in-the-tech-arena-en.jpg",
-  "datePublished": "2026-04-05T11:38:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -125,4 +107,3 @@ The bubble of inflated expectations will burst when the electricity bill comes d
     }
   }
 }
-</script>

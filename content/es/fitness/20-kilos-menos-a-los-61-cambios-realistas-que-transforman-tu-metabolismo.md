@@ -1,16 +1,19 @@
 ---
-title: "61 Años y 20 Kilos Menos: Cómo Transformar Tu Metabolismo Realmente"
-date: 2026-04-05T04:42:49
+title: '61 Años y 20 Kilos Menos: Cómo Transformar Tu Metabolismo Realmente'
+date: 2026-04-05 04:42:49
 draft: false
-description: "Descubre cómo transformar tu metabolismo y perder peso de manera efectiva. ¡Inspírate con esta historia de éxito de 61 años y 20 kilos menos!."
-featured_image: "/images/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo.jpg"
-slug: "20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo"
-canonical: "https://novumworld.com/es/fitness/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "es"
-translationKey: "09ec6dde-29e6-6bdd-3655-d85d70078b96"
+description: Descubre cómo transformar tu metabolismo y perder peso de manera efectiva.
+  ¡Inspírate con esta historia de éxito de 61 años y 20 kilos menos!.
+featured_image: /images/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo.jpg
+slug: 20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo
+canonical: https://novumworld.com/es/fitness/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: es
+translationKey: 09ec6dde-29e6-6bdd-3655-d85d70078b96
 ---
 
 ![61 Años y 20 Kilos Menos: Cómo Transformar Tu Metabolismo Realmente](/images/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo.jpg)
@@ -83,26 +86,10 @@ La reprogramación metabólica no es una opción blanda, es una intervención m�
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11079448/)
 - [salud.nih.gov](https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-frenar-el-aumento-de-peso-de-la-mediana-edad)
 
-
 ## Artículos relacionados
 - [500 Euros Tirados: La Bo](/es/fitness/wfp-victor-hoffer-obsolescencia-programada-fitness/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "61 Años y 20 Kilos Menos: Cómo Transformar Tu Metabolismo Realmente",
-  "description": "Descubre cómo transformar tu metabolismo y perder peso de manera efectiva. ¡Inspírate con esta historia de éxito de 61 años y 20 kilos menos!.",
-  "image": "https://novumworld.com/images/20-kilos-menos-a-los-61-cambios-realistas-que-transforman-tu-metabolismo.jpg",
-  "datePublished": "2026-04-05T04:42:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +99,3 @@ La reprogramación metabólica no es una opción blanda, es una intervención m�
     }
   }
 }
-</script>

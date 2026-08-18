@@ -1012,37 +1012,6 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
     else:
         canonical_url = f"https://novumworld.com/{category}/{meta['slug']}/"
     
-    # Preparar FAQ Schema si existen elementos
-    faq_schema = ""
-    if faq_items:
-        faq_entities = "\n".join([f'{{"@type": "Question", "name": "{q["question"]}", "acceptedAnswer": {{"@type": "Answer", "text": "{q["answer"]}"}}}}' for q in faq_items])
-        faq_schema = f""",
-  "mainEntity": [{faq_entities}]"""
-
-    json_ld = f"""
-<script type="application/ld+json">
-{{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "{clean_title}",
-  "description": "{clean_desc}",
-  "image": "{abs_image}",
-  "datePublished": "{date_str}",
-  "author": {{
-    "@type": "Person",
-    "name": "{author_name}"
-  }},
-  "publisher": {{
-    "@type": "Organization",
-    "name": "NovumWorld",
-    "logo": {{
-      "@type": "ImageObject",
-      "url": "https://novumworld.com/images/logo.png"
-    }}
-  }}{faq_schema}
-}}
-</script>
-"""
     # ── PROGRAMMATIC E-E-A-T AUTHORSHIP & DISCLAIMERS ──
     # Caja de Autoría
     author_box = f"""
@@ -1059,8 +1028,12 @@ def guardar_post(meta, contenido, lang, category, forced_image=None, translation
 > **{("Aviso de Riesgo y Exención de Responsabilidad" if lang == 'es' else "Risk Warning & Disclaimer")}:** {("El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado." if lang == 'es' else "The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.")}
 """ if category in ['crypto', 'funds', 'stocks'] else ""
 
-    # Agregar Disclaimers, Cajas de Autor, Footer Links y JSON-LD al contenido en ORDEN ESTRATÉGICO
-    contenido_enrich = contenido.strip() + footer_block + "\n\n" + yml_disclaimer.strip() + "\n" + author_box.strip() + "\n\n" + json_ld.strip()
+    # Agregar Disclaimers, Cajas de Autor y Footer Links al contenido en ORDEN ESTRATÉGICO
+    # (Schema JSON-LD se gestiona de forma centralizada en layouts/partials/site-schema.html)
+    disclaimers_author = "\n\n" + yml_disclaimer.strip() if yml_disclaimer.strip() else ""
+    if author_box.strip():
+        disclaimers_author += "\n" + author_box.strip()
+    contenido_enrich = contenido.strip() + footer_block + disclaimers_author
 
     # Frontmatter YAML estructurado usando PyYAML para evitar cadenas corruptas
     import yaml

@@ -29,8 +29,6 @@ The commodification of childhood has reached a breaking point where a toddler's 
 * Northwestern University researchers found that skincare routines posted by teens and tweens on TikTok contained an average of 11 potentially irritating active ingredients per routine.
 * Top "kidfluencers" generate up to $26 million annually, yet they possess zero legal rights to the earnings derived from their image and labor.
 
-
-
 {{< adsterra_native >}}
 
 ## Ruby Franke's Fall: Unmasking The Dark Side of "Kidfluencer" Fame
@@ -72,6 +70,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [The Shocking Truth: Pro-Iran Memes Are Winning Hearts in Trump''s Propaganda](/en/viral/pro-iran-memes-go-viral-a-unique-counter-to-trumps-propaganda-en/)
 - [Barbara Han''s 90% Accurate Pandemic Model: Why You Should Fear The Midwest](/en/viral/predicting-next-pandemic-en/)
 - [Trader Joe's Mini Totes Reselling for Up to $1,700—The Shocking Truth Revealed](/en/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

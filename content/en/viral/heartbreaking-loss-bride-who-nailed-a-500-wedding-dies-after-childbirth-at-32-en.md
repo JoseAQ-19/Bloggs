@@ -1,16 +1,20 @@
 ---
-title: "Heartbreaking Loss: 32-Year-Old Bride Dies After Childbirth Following $500 Wedding Celebration"
-date: 2026-04-26T22:20:14
+title: 'Heartbreaking Loss: 32-Year-Old Bride Dies After Childbirth Following $500
+  Wedding Celebration'
+date: 2026-04-26 22:20:14
 draft: false
-description: "Discover the tragic story of a young bride who lost her life after childbirth, leaving behind a grieving family and a poignant reminder of life's."
-featured_image: "/images/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en.jpg"
-slug: "heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en"
-canonical: "https://novumworld.com/viral/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "fc78adc5-aa1b-4e44-6033-02fcd033d7d0"
+description: Discover the tragic story of a young bride who lost her life after childbirth,
+  leaving behind a grieving family and a poignant reminder of life's.
+featured_image: /images/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en.jpg
+slug: heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en
+canonical: https://novumworld.com/viral/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: fc78adc5-aa1b-4e44-6033-02fcd033d7d0
 ---
 
 ![Heartbreaking Loss: 32-Year-Old Bride Dies After Childbirth Following $500 Wedding Celebration](/images/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en.jpg)
@@ -59,22 +63,7 @@ This tragedy exposes the lie of the "self-made" safety net.
 - [Ugly Sonic Didn''t Die: His VFX Secr](/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 - [Spurs Blunder: 60% Of Latino Fans On Faceboo](/viral/spurs-tiktok-diversity-backfire-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Heartbreaking Loss: 32-Year-Old Bride Dies After Childbirth Following $500 Wedding Celebration",
-  "description": "Discover the tragic story of a young bride who lost her life after childbirth, leaving behind a grieving family and a poignant reminder of life's.",
-  "image": "https://novumworld.com/images/heartbreaking-loss-bride-who-nailed-a-500-wedding-dies-after-childbirth-at-32-en.jpg",
-  "datePublished": "2026-04-26T22:20:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -84,4 +73,3 @@ This tragedy exposes the lie of the "self-made" safety net.
     }
   }
 }
-</script>

@@ -29,8 +29,6 @@ The fitness industry's obsession with homogenous ideals has left a lucrative mar
 * In 2022, only 9.3% of fitness experts and personal trainers were Black, underscoring the severe underrepresentation within the industry.
 * Gym-goers should prioritize spaces with strong community aspects and DEI initiatives, and fitness businesses must embrace inclusivity to retain a diverse customer base.
 
-
-
 {{< adsterra_native >}}
 
 ## Planet Fitness's $400 Million Mistake: Missing the Inclusivity Mark
@@ -83,6 +81,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [AI Fitness Mirrors Spark 170% Injury Spike: Are They Worth The Risk?](/en/fitness/ai-fitness-form-correction-effectiveness-en/)
 - [Planet Fitness Lawsuit Exposes AED Access Failure After Fatal Incident in Shreveport](/en/fitness/tragedy-strikes-a-fatal-incident-shakes-the-shreveport-planet-fitness-community-en/)
 - [Shamrock Shake OUT, Abs IN: Waco''s Body Recomp Hack For St. Patrick''s Day](/en/fitness/st-patricks-day-fitness-waco-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

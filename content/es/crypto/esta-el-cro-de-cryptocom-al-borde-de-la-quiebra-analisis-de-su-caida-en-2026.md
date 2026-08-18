@@ -63,7 +63,6 @@ En el mundo cripto, la confianza es todo; sin ella, no queda más que incertidum
 - [Las Instituciones Pierden Fe en Bitcoin: 72% De Inversores Cambian Su Estrategia](/es/crypto/las-instituciones-han-perdido-la-fe-en-bitcoin-ipc-e-iran-podrian-cambiar-el-juego/)
 - [¿Gas Demasiado Caro en Metamask? Gu](/es/crypto/metamask-gas-fees-guia-completa/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -72,18 +71,7 @@ En el mundo cripto, la confianza es todo; sin ella, no queda más que incertidum
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto.com Al Borde de la Quiebra: Lo Que Nadie Se Atreve a Decir",
-  "description": "Crypto.com enfrenta una crisis financiera. Descubre la verdad oculta detrás de su posible quiebra y lo que significa para el futuro de las criptomonedas.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-29T16:45:57",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -93,4 +81,3 @@ En el mundo cripto, la confianza es todo; sin ella, no queda más que incertidum
     }
   }
 }
-</script>

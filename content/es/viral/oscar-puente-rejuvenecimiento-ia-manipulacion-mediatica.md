@@ -33,8 +33,6 @@ type: viral
 
 Un 1,400%. Este es el abismal aumento de fraudes relacionados con deepfakes que ha experimentado España en los últimos años. No es una exageración periodística, ni un pánico tecnológico, sino el dato crudo que revela la magnitud de una estafa masiva. Frente a este escenario, el ministro de Transportes y Movilidad Sostenible, Óscar Puente, se ha convertido en un símbolo involuntario de la vulnerabilidad institucional, no por ser víctima directa, sino por su encarnizado y público enfrentamiento con la inteligencia artificial Grok de la plataforma X. Su polémica decisión de bloquear al chatbot después de que este le contradiga abiertamente sobre la regulación de la IA no solo expone fragilidades en el debate político, sino que ilumina el trasfondo más oscuro de la era digital: una guerra de desinformación que ya cuesta 929 millones de euros anuales y amenaza con desestabilizar la confianza en las propias estructuras del poder. ¿Estamos ante una simple pelea de egos en Twitter, o el caso Puente es el síntoma más visible de una crisis sistémica de manipulación mediática?
 
-
-
 {{< adsterra_native >}}
 
 ## El dato económico de la estafa: 929 millones
@@ -92,6 +90,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Huelva Se Derrumba: El Plan Que Impide Viviendas y Dispara la Gentrificación](/es/viral/huelva-barrio-viral-gentrificacion/)
 - [El Meme “6-7” Que Tus Hijos Usan Y Nadie Entiende: La Oscura Verdad Detrás](/es/viral/que-significa-el-meme-6-7-o-six-seven-que-dicen-tus-hijos-si-es-que-significa-algo/)
 - [La Base De Maquillaje Viral Que Promete Piel Perfecta Y El Escándalo Detrás](/es/viral/la-base-de-maquillaje-viral-realmente-logra-la-piel-perfecta/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

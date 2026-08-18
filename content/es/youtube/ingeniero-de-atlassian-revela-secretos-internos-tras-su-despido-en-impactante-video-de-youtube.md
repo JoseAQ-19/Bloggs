@@ -1,16 +1,20 @@
 ---
-title: "1,600 Despedidos en Atlassian: La Verdadera Historia Detrás del Impactante Vídeo"
-date: 2026-05-24T19:16:56
+title: '1,600 Despedidos en Atlassian: La Verdadera Historia Detrás del Impactante
+  Vídeo'
+date: 2026-05-24 19:16:56
 draft: false
-description: "Descubre la impactante verdad tras el video de los 1,600 despidos en Atlassian. Conoce las razones y el impacto en la cultura de la empresa."
-featured_image: "/images/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube.jpg"
-slug: "ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube"
-canonical: "https://novumworld.com/es/youtube/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "d5be8bce-4f85-8cff-c8b5-9942db86fc4b"
+description: Descubre la impactante verdad tras el video de los 1,600 despidos en
+  Atlassian. Conoce las razones y el impacto en la cultura de la empresa.
+featured_image: /images/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube.jpg
+slug: ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube
+canonical: https://novumworld.com/es/youtube/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: d5be8bce-4f85-8cff-c8b5-9942db86fc4b
 ---
 
 ![1,600 Despedidos en Atlassian: La Verdadera Historia Detrás del Impactante Vídeo](/images/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube.jpg)
@@ -86,22 +90,7 @@ Atlassian está cometiendo un suicidio estratégico al sacrificar calidad y conf
 - [YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube](/es/youtube/youtube-la-revolucion-de-la-television-en-el-mundo-hispano/)
 - [YouTube Se Llev](/es/youtube/youtube-se-lleva-el-oscar-el-futuro-del-entretenimiento-digital/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "1,600 Despedidos en Atlassian: La Verdadera Historia Detrás del Impactante Vídeo",
-  "description": "Descubre la impactante verdad tras el video de los 1,600 despidos en Atlassian. Conoce las razones y el impacto en la cultura de la empresa.",
-  "image": "https://novumworld.com/images/ingeniero-de-atlassian-revela-secretos-internos-tras-su-despido-en-impactante-video-de-youtube.jpg",
-  "datePublished": "2026-05-24T19:16:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +100,3 @@ Atlassian está cometiendo un suicidio estratégico al sacrificar calidad y conf
     }
   }
 }
-</script>

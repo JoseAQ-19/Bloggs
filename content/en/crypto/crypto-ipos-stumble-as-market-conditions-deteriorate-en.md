@@ -80,7 +80,6 @@ Staying informed and considering strategies such as dollar-cost averaging could 
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
 - [Trump’s Secret Crypto Scheme: How He Cashed In Over $1 Billion in One Year](/crypto/trumps-crypto-bonanza-how-he-raked-in-over-1-billion-in-just-one-year-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -89,18 +88,7 @@ Staying informed and considering strategies such as dollar-cost averaging could 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto IPOs Plummet 40%: The Shocking Truth Behind Market Chaos",
-  "description": "Discover why crypto IPOs have dropped 40% in a volatile market. Uncover the shocking truths behind this turmoil and what it means for investors.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-11T18:29:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +98,3 @@ Staying informed and considering strategies such as dollar-cost averaging could 
     }
   }
 }
-</script>

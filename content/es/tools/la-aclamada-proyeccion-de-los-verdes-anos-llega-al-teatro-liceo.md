@@ -1,16 +1,20 @@
 ---
-title: "17 Millones De Euros En Juego: La Verdad Oculta De “Los Verdes Años” En El Liceo"
-date: 2026-05-12T13:20:07
+title: '17 Millones De Euros En Juego: La Verdad Oculta De “Los Verdes Años” En El
+  Liceo'
+date: 2026-05-12 13:20:07
 draft: false
-description: "Descubre la impactante verdad sobre “Los Verdes Años” en el Liceo y el misterio de los 17 millones de euros en juego que nadie quiere revelar."
-featured_image: "/images/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo.jpg"
-slug: "la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo"
-canonical: "https://novumworld.com/es/tools/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "5b29b737-11a2-d4ac-259e-520d98877e5a"
+description: Descubre la impactante verdad sobre “Los Verdes Años” en el Liceo y el
+  misterio de los 17 millones de euros en juego que nadie quiere revelar.
+featured_image: /images/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo.jpg
+slug: la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo
+canonical: https://novumworld.com/es/tools/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 5b29b737-11a2-d4ac-259e-520d98877e5a
 ---
 
 ![17 Millones De Euros En Juego: La Verdad Oculta De “Los Verdes Años” En El Liceo](/images/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo.jpg)
@@ -72,22 +76,7 @@ El modelo de financiación cultural en España es una arquitectura diseñada par
 - [Revoluciona Tus Productos: Laurel.Tools Y AI Analysis Transforman La Fotografía Profesional](/es/tools/revoluciona-tus-productos-fotografia-profesional-con-laureltools-y-ai/)
 - [La Verdadera Durabilidad Del Cortador De Asfalto IRWIN TOOLS En Climas Extremos](/es/tools/revoluciona-tu-obra-conoce-el-cortador-de-asfalto-irwin-tools-que-todos-estan-usando/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "17 Millones De Euros En Juego: La Verdad Oculta De “Los Verdes Años” En El Liceo",
-  "description": "Descubre la impactante verdad sobre “Los Verdes Años” en el Liceo y el misterio de los 17 millones de euros en juego que nadie quiere revelar.",
-  "image": "https://novumworld.com/images/la-aclamada-proyeccion-de-los-verdes-anos-llega-al-teatro-liceo.jpg",
-  "datePublished": "2026-05-12T13:20:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +86,3 @@ El modelo de financiación cultural en España es una arquitectura diseñada par
     }
   }
 }
-</script>

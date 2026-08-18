@@ -25,8 +25,6 @@ type: fitness
 
 **82% of Planet Fitness members believe the company has room for improvement**, a stark contrast to the brand's self-proclaimed "Judgment Free Zone" mantra. **A $13,110 donation to the Hawaiʻi Community Foundation**, though seemingly generous, raises questions about the true intentions behind such philanthropic efforts. **The Maui Family YMCA's decision to open its doors to displaced residents**, offering access to facilities at no cost, provides a compelling counterpoint to Planet Fitness's actions.
 
-
-
 {{< adsterra_native >}}
 
 ## The "Judgment Free Zone" Under Fire: Planet Fitness's $13K Maui Gambit
@@ -93,6 +91,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [71-Year-Old Grandmother Shatters Stereotypes as Fitness Competition Finalist](/en/fitness/71-year-old-grandmother-stuns-as-finalist-in-national-fitness-competition-en/)
 - [Bodybuilding''s Dark Secret: Natural Prep Sends Testosterone PLUMMETING, Experts](/en/fitness/natural-bodybuilding-testosterone-crash-en/)
 - [Dr. JES Warns: Your Gym Waiver Won''t Save You From Gross Negligence After](/en/fitness/fitness-center-homicide-security-liability-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

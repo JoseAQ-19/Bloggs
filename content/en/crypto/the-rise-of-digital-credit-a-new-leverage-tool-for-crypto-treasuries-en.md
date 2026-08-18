@@ -29,8 +29,6 @@ Corporate treasuries are blindly dumping billions into digital assets, ignoring 
 * Over 200 companies report holding more than $115 billion in digital assets as of September 2025, creating a concentrated systemic risk point for institutional capital — Research Brief.
 * Leveraged Bitcoin treasuries are a potential "time bomb" due to liquidation risks, warns Hayden Hughes of Nickel Digital Asset Management, highlighting the fragility of yield-bearing strategies — Nickel Digital.
 
-
-
 {{< adsterra_native >}}
 
 ## The $1.42 Billion Gamble: Corporate Treasuries and the Crypto Conundrum
@@ -68,6 +66,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [SEC Names Bitcoin, Ether, And Solana As Commodities: Market Shockwaves Ahead](/en/crypto/sec-declares-bitcoin-ether-and-solana-as-digital-commodities-what-it-means-for-the-crypto-landscape-en/)
 - [Willy Woo''s $45K Bitcoin Bottom DEBUNKED: Is Quantum Fear The REAL Threat?](/en/crypto/bitcoin-onchain-analysis-willy-woo-market-sentiment-en/)
 - [$90K Bitcoin Target: Options Traders Ignore $4.5B ETF Outflow Red Flags](/en/crypto/bitcoin-90k-options-rebound-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

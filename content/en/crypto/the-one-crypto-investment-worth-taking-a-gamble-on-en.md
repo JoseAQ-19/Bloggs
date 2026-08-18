@@ -84,12 +84,10 @@ As such, the estimated risk level for Bitmine's strategy is high, given the conc
 - [news.google.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDdELVZpWUF5bEZYdjNrdlhuV1E2Y2h6LWJrbHZ5SjFfMlNab2UtLXhaT3dXVWZNaHJGQjRia3dQVXFNd3Z0MVl2ZmoyQW5GWC15a0Z3cFdsVlR1RU9TNC0zOWRscDNHRG96MjJWU1dpNmF5T3VLVEt0MHF3WG1hSUw4ZXMwam5PN09lT9IBkgFBVV95cUxPSXVOQ2hMbVp6eVV3c2RCNEhkM2pRaVVmc2V0ZTQ2R05vMEdaMmRVemVPM3R3MkpHdTdXN0cwM1VydUdVR0prbmFsRnU2d1VBcEp4UzF5em1FVjhLMnJxdnlvdGRjMFh0aDB6MzlndWtTWVZPblpiR1pVTnVIZHN6MTRLY3VHNXJWajBZSzVleldqZw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU44MFZQUlNZc0tDYjF3ZnljSjRVMmhsUkIwMXN1MU1GOEh4V2FocmU5STNkd25qekdNT283UUltOGVOWEFnaFFWSXhtaVRwNEo1Q3JUSXZOYmFybXpSSzY2OHRweG8wbmZETFRjeU82cTBDZFpkcjI2NUU4cHV2U3ZEXzVTcmd2bEtDTzFJYjBfdkxudHFUMWlNM2I?oc=5)
 
-
 ## Related Articles
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 - [Wisconsin Crypto Staking WAR: Is Your 6.8% Yield](/crypto/wisconsin-crypto-staking-debate-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -99,18 +97,7 @@ As such, the estimated risk level for Bitmine's strategy is high, given the conc
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitmine’s $11 Billion Ethereum Bet: Why This Gamble Could Change Everything",
-  "description": "Discover how Bitmine's $11 billion investment in Ethereum could reshape the crypto landscape and redefine the future of digital currencies.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-05T17:18:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +107,3 @@ As such, the estimated risk level for Bitmine's strategy is high, given the conc
     }
   }
 }
-</script>

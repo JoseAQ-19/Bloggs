@@ -31,8 +31,6 @@ El periodismo español se encuentra inmerso en una crisis de confianza inducida 
 * PRISA Media ha impulsado SabIA, un espacio de datos centralizado que utiliza IA para gestionar y monetizar archivos de texto, video y audio de sus cabeceras.
 * El incumplimiento de la normativa de transparencia podría acarrear multas de hasta el 3% de los ingresos globales anuales con la entrada en vigor del Acta de IA de la UE en 2026.
 
-
-
 {{< adsterra_native >}}
 
 ## **BLUF** Resumen Ejecutivo Técnico
@@ -84,6 +82,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Halliburton y Schlumberger Ocultan Esto: El Riesgo Real en Perforación Direccional](/es/tools/analisis-tecnico-herramientas-perforacion-direccional-fusiones-2026/)
 - [Google TV Se Derrumba: El ''Efecto TikTok'' Cuesta Un 19% De Alcance.](/es/tools/google-tv-microseries-analisis-tecnico/)
 - [La Innovación Pedagógica de Thomas Hirschhorn: 95% de Niños Expresan Mejor Sus Sentimientos](/es/tools/dale-vida-a-la-creatividad-taller-de-arte-para-ninos-con-thomas-hirschhorn-en-caceres/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

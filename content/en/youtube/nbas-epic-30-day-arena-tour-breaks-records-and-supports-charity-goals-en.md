@@ -1,16 +1,20 @@
 ---
-title: "NBA's 30-Day Arena Tour Attracts 22.18 Million Fans While Raising Millions for Charity"
-date: 2026-05-18T20:54:14
+title: NBA's 30-Day Arena Tour Attracts 22.18 Million Fans While Raising Millions
+  for Charity
+date: 2026-05-18 20:54:14
 draft: false
-description: "Discover how the NBA's 30-day arena tour captivated 22.18 million fans and raised millions for charity, blending sports with a noble cause."
-featured_image: "/images/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en.jpg"
-slug: "nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en"
-canonical: "https://novumworld.com/youtube/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "4150c6b7-43e8-e7d5-851e-9e51a0c67962"
+description: Discover how the NBA's 30-day arena tour captivated 22.18 million fans
+  and raised millions for charity, blending sports with a noble cause.
+featured_image: /images/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en.jpg
+slug: nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en
+canonical: https://novumworld.com/youtube/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 4150c6b7-43e8-e7d5-851e-9e51a0c67962
 ---
 
 ![NBA's 30-Day Arena Tour Attracts 22.18 Million Fans While Raising Millions for Charity](/images/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en.jpg)
@@ -95,22 +99,7 @@ The league must fundamentally reimagine its relationship with communities and ta
 - [YouTube TV’s Subscriber Tsunami:](/youtube/youtube-tv-dish-sling-streaming-wars-en/)
 - [YouTube Just Surged to $9.88 Billion in Ad Revenue and Creators Are Struggling](/youtube/youtubes-ad-revenue-soars-what-988-billion-means-for-creators-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "NBA's 30-Day Arena Tour Attracts 22.18 Million Fans While Raising Millions for Charity",
-  "description": "Discover how the NBA's 30-day arena tour captivated 22.18 million fans and raised millions for charity, blending sports with a noble cause.",
-  "image": "https://novumworld.com/images/nbas-epic-30-day-arena-tour-breaks-records-and-supports-charity-goals-en.jpg",
-  "datePublished": "2026-05-18T20:54:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +109,3 @@ The league must fundamentally reimagine its relationship with communities and ta
     }
   }
 }
-</script>

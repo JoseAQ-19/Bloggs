@@ -30,8 +30,6 @@ Without question, creatine is the gold standard by which all strength-related su
 * Research from the University of Pittsburgh School of Medicine indicates high leucine intake, especially from animal protein, activates mTOR pathway in macrophages to accelerate atherosclerosis risk.
 * Individuals consuming very high protein diets (≥ 1.4 g per kg per day) should be aware of potential cardiovascular risks and consider a balanced approach with adequate plant-based proteins.
 
-
-
 {{< adsterra_native >}}
 
 ## Leucine's Dark Side: How Muscle Mania May Be Clogging Your Arteries
@@ -79,6 +77,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [FAU’s “March Into Fitness” Program: 50% Of Students Embrace Wearable Tech](/en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en/)
 - [Forget Incline! 44 Degrees Is The Upper Chest Hack Trainers Don't Want You](/en/fitness/upper-chest-hypertrophy-science-en/)
 - [The Alarming Truth Behind Mike Jeffries' Prison Tapes and Trial Fitness Controversy](/en/fitness/ex-abercrombie-ceos-prison-tapes-spark-controversy-over-trial-fitness-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

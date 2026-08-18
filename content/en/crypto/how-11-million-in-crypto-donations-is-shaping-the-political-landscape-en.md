@@ -1,16 +1,20 @@
 ---
-title: "$11 Million in Crypto Donations Is Reshaping Politics and Nobody Is Talking About It"
-date: 2026-06-21T18:09:03
+title: $11 Million in Crypto Donations Is Reshaping Politics and Nobody Is Talking
+  About It
+date: 2026-06-21 18:09:03
 draft: false
-description: "Discover how $11 million in crypto donations is transforming political landscapes and why this silent shift deserves more attention than ever."
-featured_image: "/images/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en.jpg"
-slug: "how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en"
-canonical: "https://novumworld.com/crypto/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "cde6f5ea-e3a9-a3d5-14a9-cf81345d4535"
+description: Discover how $11 million in crypto donations is transforming political
+  landscapes and why this silent shift deserves more attention than ever.
+featured_image: /images/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en.jpg
+slug: how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en
+canonical: https://novumworld.com/crypto/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: cde6f5ea-e3a9-a3d5-14a9-cf81345d4535
 ---
 
 ![$11 Million in Crypto Donations Is Reshaping Politics and Nobody Is Talking About It](/images/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en.jpg)
@@ -85,12 +89,10 @@ En conclusión, el aumento en las donaciones en criptomonedas ha generado un nue
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaW9ndHNHMW5Ual9LNDl1WDUtM1NjMVYwYmtwbTI1eVk3VUxVekppa0JvOFEyRmdMS0FlQ0xWMm5YUUI3bHMtem1qZ2phUE9GTnlvc3luaGVPODVEcVZrZm5obGlMcjRIQmxCUnBfTXhqdnhxWFh1WTRab1RLLXBXcHl6X2RlbWl2TjZhYkpmVk1pd1VNaUVmR0dMT2JNcWlLanhPR1BLbGE4bW9WR05Tc01Ta2p4Wl9STnNuby1RUQ?oc=5)
 
-
 ## Related Articles
 - [White House Declares War on Banks: The $311 Billion Stablecoin Profit Clash Unfolds](/crypto/white-house-vs-banks-the-battle-over-stablecoin-profits-heats-up-en/)
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -100,18 +102,7 @@ En conclusión, el aumento en las donaciones en criptomonedas ha generado un nue
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$11 Million in Crypto Donations Is Reshaping Politics and Nobody Is Talking About It",
-  "description": "Discover how $11 million in crypto donations is transforming political landscapes and why this silent shift deserves more attention than ever.",
-  "image": "https://novumworld.com/images/how-11-million-in-crypto-donations-is-shaping-the-political-landscape-en.jpg",
-  "datePublished": "2026-06-21T18:09:03",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -121,4 +112,3 @@ En conclusión, el aumento en las donaciones en criptomonedas ha generado un nue
     }
   }
 }
-</script>

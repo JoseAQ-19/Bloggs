@@ -1,16 +1,19 @@
 ---
-title: "Iowa's Cancer Crisis: 21,700 New Cases By 2026 and No Solutions in Sight"
-date: 2026-05-20T12:13:41
+title: 'Iowa''s Cancer Crisis: 21,700 New Cases By 2026 and No Solutions in Sight'
+date: 2026-05-20 12:13:41
 draft: false
-description: "Explore Iowa's alarming cancer crisis with 21,700 new cases projected by 2026. Discover the challenges and lack of solutions facing the state."
-featured_image: "/images/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en.jpg"
-slug: "ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en"
-canonical: "https://novumworld.com/ia/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "375966bd-0ae0-0649-4766-962ca7ee4209"
+description: Explore Iowa's alarming cancer crisis with 21,700 new cases projected
+  by 2026. Discover the challenges and lack of solutions facing the state.
+featured_image: /images/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en.jpg
+slug: ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en
+canonical: https://novumworld.com/ia/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 375966bd-0ae0-0649-4766-962ca7ee4209
 ---
 
 ![Iowa's Cancer Crisis: 21,700 New Cases By 2026 and No Solutions in Sight](/images/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en.jpg)
@@ -76,22 +79,7 @@ If Iowa's cancer crisis is to be tackled effectively, proactive solutions are ne
 - [Peoria Notre Dame's Last-Minute Equalizer Shocks Bettendorf And Keeps Undefeated Streak Alive](/ia/peoria-notre-dame-soccer-stays-undefeated-with-dramatic-last-minute-equalizer-against-bettendorf-en/)
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iowa's Cancer Crisis: 21,700 New Cases By 2026 and No Solutions in Sight",
-  "description": "Explore Iowa's alarming cancer crisis with 21,700 new cases projected by 2026. Discover the challenges and lack of solutions facing the state.",
-  "image": "https://novumworld.com/images/ia-golf-association-takes-bold-steps-to-enhance-cancer-care-en.jpg",
-  "datePublished": "2026-05-20T12:13:41",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ If Iowa's cancer crisis is to be tackled effectively, proactive solutions are ne
     }
   }
 }
-</script>

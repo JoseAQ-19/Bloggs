@@ -1,14 +1,17 @@
 ---
-title: "abrdn National Municipal Income Fund (VFL) Removes Policy on High-Yield Securities"
-date: 2026-04-16T07:33:54
+title: abrdn National Municipal Income Fund (VFL) Removes Policy on High-Yield Securities
+date: 2026-04-16 07:33:54
 draft: false
-description: "Discover how the abrdn National Municipal Income Fund (VFL) changes its strategy by removing the high-yield securities policy and what it means for."
-featured_image: "/images/abrdn-national-municipal-income-fund-vfl-removes-policy-on-high-yield-securities-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "73d58ac2-ab66-5c91-c221-243c464d711a"
+description: Discover how the abrdn National Municipal Income Fund (VFL) changes its
+  strategy by removing the high-yield securities policy and what it means for.
+featured_image: /images/abrdn-national-municipal-income-fund-vfl-removes-policy-on-high-yield-securities-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 73d58ac2-ab66-5c91-c221-243c464d711a
 ---
 
 ![abrdn National Municipal Income Fund (VFL) Removes Policy on High-Yield Securities](/images/abrdn-national-municipal-income-fund-vfl-removes-policy-on-high-yield-securities-en.jpg)
@@ -20,8 +23,6 @@ The abrdn National Municipal Income Fund (VFL) has announced the removal of its 
 * [Sharpe Ratio over 3 Years: 0.85 — Morningstar]  
 
 Investors should note that this modification allows VFL to diversify its portfolio, which has previously focused on investment-grade municipal bonds. Historically, the fund has remained conservative, primarily targeting lower-risk securities. However, the recent move indicates a strategic pivot towards capturing potentially higher yields in a challenging interest rate environment.
-
-
 
 {{< adsterra_native >}}
 
@@ -70,35 +71,11 @@ Yes, VFL's expense ratio of 0.75% is lower than the category average, which enha
 
 We believe the abrdn National Municipal Income Fund's decision to remove its policy on high-yield securities will provide both opportunities and challenges. The fund's historical performance suggests it can navigate higher-risk investments, but the inherent risks associated with high-yield bonds cannot be overlooked. Investors should carefully evaluate their risk appetite and consider the potential for both enhanced returns and increased volatility as VFL embarks on this new strategy. 
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "abrdn National Municipal Income Fund (VFL) Removes Policy on High-Yield Securities",
-  "datePublished": "2023-10-25",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com"
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does the removal of the high-yield policy mean for current investors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Current investors may experience increased volatility in their portfolios as VFL embraces higher-risk investments, but this could also lead to enhanced returns if managed effectively."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "Should I invest in VFL now?",
@@ -139,6 +116,4 @@ We believe the abrdn National Municipal Income Fund's decision to remove its pol
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 - [Vanguard](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

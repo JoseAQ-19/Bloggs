@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble"
-date: 2026-04-10T11:43:47
+title: The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble
+date: 2026-04-10 11:43:47
 draft: false
-description: "Uncover the hidden risks of Paramount Gold's ambitious $1 billion Sleeper Project gamble and what it means for investors and the gold market."
-featured_image: "/images/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en.jpg"
-slug: "paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en"
-canonical: "https://novumworld.com/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "193d65d5-393a-e8a4-7ece-28684e2c7d24"
+description: Uncover the hidden risks of Paramount Gold's ambitious $1 billion Sleeper
+  Project gamble and what it means for investors and the gold market.
+featured_image: /images/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en.jpg
+slug: paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en
+canonical: https://novumworld.com/ia/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 193d65d5-393a-e8a4-7ece-28684e2c7d24
 ---
 
 ![The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble](/images/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en.jpg)
@@ -58,28 +61,12 @@ Given the substantial financial risks and execution challenges, investors should
 - [sec.gov](https://www.sec.gov/Archives/edgar/data/1853962/000106299325003260/exhibit99-3.htm)
 - [news.google.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRTVmR1loNmx3Z2RFTW1nYm5oOHB0Tk10RDNZVkp4ck5LYm9Ld3BUdkxxSjRPNzBrQTlIcEFxdVdvNFlmcTA1UHV1cklQYVF4MV9LXzA4dWpWVDdrQkFscW9QSk8zLU5OUUJUMUhTaWljdUkwaTZJcUJKQk5KMkp0cm90aTZXZlpPMVZYNDJIVHB5eU5BSldRWUk5emE1OVR6QVRDZC1fQlhveDU1NjNYQzdSWEdfMGFMQW9mTFNR?oc=5)
 
-
 ## Related Articles
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [RTX 5090 Required? DLSS 5's Dirty Little Secret NVIDIA](/ia/nvidia-dlss-5-ai-graphics-leap-or-hype-en/)
 - [LearnWorlds Data: 80% Of AI Interactions Han](/ia/learnworlds-ai-adoption-paradox-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Risks Behind Paramount Gold's $1 Billion Sleeper Project Gamble",
-  "description": "Uncover the hidden risks of Paramount Gold's ambitious $1 billion Sleeper Project gamble and what it means for investors and the gold market.",
-  "image": "https://novumworld.com/images/paramounts-bold-move-unveiling-ia-at-nevadas-sleeper-gold-project-en.jpg",
-  "datePublished": "2026-04-10T11:43:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +76,3 @@ Given the substantial financial risks and execution challenges, investors should
     }
   }
 }
-</script>

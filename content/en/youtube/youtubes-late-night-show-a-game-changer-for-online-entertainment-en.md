@@ -1,16 +1,20 @@
 ---
-title: "YouTube's New Monetization Strategy: 55% Revenue Split Sparks Outrage Among Creators"
-date: 2026-05-30T20:54:05
+title: 'YouTube''s New Monetization Strategy: 55% Revenue Split Sparks Outrage Among
+  Creators'
+date: 2026-05-30 20:54:05
 draft: false
-description: "Explore the heated reactions to YouTube's new 55% revenue split, as creators voice their outrage over the platform's latest monetization strategy."
-featured_image: "/images/youtubes-late-night-show-a-game-changer-for-online-entertainment-en.jpg"
-slug: "youtubes-late-night-show-a-game-changer-for-online-entertainment-en"
-canonical: "https://novumworld.com/youtube/youtubes-late-night-show-a-game-changer-for-online-entertainment-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "48dd127f-cd99-78e6-108a-010ccf6718c2"
+description: Explore the heated reactions to YouTube's new 55% revenue split, as creators
+  voice their outrage over the platform's latest monetization strategy.
+featured_image: /images/youtubes-late-night-show-a-game-changer-for-online-entertainment-en.jpg
+slug: youtubes-late-night-show-a-game-changer-for-online-entertainment-en
+canonical: https://novumworld.com/youtube/youtubes-late-night-show-a-game-changer-for-online-entertainment-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 48dd127f-cd99-78e6-108a-010ccf6718c2
 ---
 
 ![YouTube's New Monetization Strategy: 55% Revenue Split Sparks Outrage Among Creators](/images/youtubes-late-night-show-a-game-changer-for-online-entertainment-en.jpg)
@@ -71,28 +75,12 @@ The Bottom Line: YouTube's monetization strategy represents not just a bad busin
 - [news.google.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0eEVELVFRWFRyVW1jS1lpcmhVRm5HQmlZb0pXcEZveFcyR2RKc2tFYnBQMkFtYTZFaFh2bVd6N1A3UXMtQ2R4U1MzcHpXYmRSbURlRjlUbjF4bGhqTk5YMEJ4OFM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1BnVEw5NW16bHlNS2FIX256cnJmTUdSQ2E0bjZ0WnZLNXljTUlWZzZNRkdHcUZPVFZ0bFlhZzczV2h3RlptbzBhRmItOFk4bC1QUWRITGl0TEtFajNJb0EzQlNIa1F4Z2xnZmlPblI3c29YSV9RUUp0VEpSZTdzTGdjWjhfeVMxQ3FCMGZHdGZuWWxiMnQ5YzVpYnpqdjVkb0tR?oc=5)
 
-
 ## Related Articles
 - [Nathanson''s Prediction: YouTube TV Will](/youtube/youtube-tv-subscriber-retention-en/)
 - [90% Of YouTube Creators Suffer From Burnout And Nobody Is Talking About It](/youtube/youtubes-original-stars-spill-secrets-what-they-wish-they-knew-en/)
 - [YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored](/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's New Monetization Strategy: 55% Revenue Split Sparks Outrage Among Creators",
-  "description": "Explore the heated reactions to YouTube's new 55% revenue split, as creators voice their outrage over the platform's latest monetization strategy.",
-  "image": "https://novumworld.com/images/youtubes-late-night-show-a-game-changer-for-online-entertainment-en.jpg",
-  "datePublished": "2026-05-30T20:54:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ The Bottom Line: YouTube's monetization strategy represents not just a bad busin
     }
   }
 }
-</script>

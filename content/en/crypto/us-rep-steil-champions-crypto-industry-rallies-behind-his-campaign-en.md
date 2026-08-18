@@ -1,16 +1,20 @@
 ---
-title: "U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support"
-date: 2026-05-26T18:22:50
+title: U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry
+  Support
+date: 2026-05-26 18:22:50
 draft: false
-description: "U.S. Rep. Steil has secured $119 million from crypto super PACs, fueling strong industry support and shaping the future of cryptocurrency legislation."
-featured_image: "/images/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en.jpg"
-slug: "us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en"
-canonical: "https://novumworld.com/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "9a926027-18e8-30ee-4fb7-01fdefd7e1ce"
+description: U.S. Rep. Steil has secured $119 million from crypto super PACs, fueling
+  strong industry support and shaping the future of cryptocurrency legislation.
+featured_image: /images/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en.jpg
+slug: us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en
+canonical: https://novumworld.com/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 9a926027-18e8-30ee-4fb7-01fdefd7e1ce
 ---
 
 ![U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/images/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en.jpg)
@@ -108,12 +112,10 @@ The current trajectory suggests that crypto political spending will intensify as
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2hqVkw5a2FxMVc4VUJrYmtKSkFwbmliYm55LXh3enQ0bnA2RzlWNXo2YkFKWWg4WmE0czRzcU9LeTFmQVRjTFpkeGgyWDZTQmdaajlXb0VTVkpCVTJUelRSQnZOQ1ZKSk13OWdtdjlHbFo3aFYzdDk3TldEX1FBNnNpZEVGeU1vTnlWeGxuNkMxR010SjgxR3A2eFA2UUhaRThDVVpmYVN2Vm1PY3c?oc=5)
 
-
 ## Related Articles
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
 - [Senate's Historic Crypto Bill Gains Bipartisan Support—What It Means for DeFi Regulation](/crypto/senate-takes-a-historic-step-crypto-bill-gains-traction-with-bipartisan-support-en/)
 - [The $285 Million Disaster: How Drift Protocol's Hack Imperils DeFi's Future](/crypto/the-defi-crisis-285-million-hack-and-plummeting-yields-threaten-the-future-of-decentralized-finance-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -123,18 +125,7 @@ The current trajectory suggests that crypto political spending will intensify as
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support",
-  "description": "U.S. Rep. Steil has secured $119 million from crypto super PACs, fueling strong industry support and shaping the future of cryptocurrency legislation.",
-  "image": "https://novumworld.com/images/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en.jpg",
-  "datePublished": "2026-05-26T18:22:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -144,4 +135,3 @@ The current trajectory suggests that crypto political spending will intensify as
     }
   }
 }
-</script>

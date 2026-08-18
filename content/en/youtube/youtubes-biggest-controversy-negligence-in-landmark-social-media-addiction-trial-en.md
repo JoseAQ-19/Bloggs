@@ -1,16 +1,20 @@
 ---
-title: "YouTube's Shocking $6 Million Negligence Ruling Exposes Hidden Dangers of Social Media Addiction"
-date: 2026-06-14T20:50:14
+title: YouTube's Shocking $6 Million Negligence Ruling Exposes Hidden Dangers of Social
+  Media Addiction
+date: 2026-06-14 20:50:14
 draft: false
-description: "Discover how YouTube's $6 million negligence ruling reveals the alarming risks of social media addiction and its impact on mental health. Read more now!."
-featured_image: "/images/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en.jpg"
-slug: "youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en"
-canonical: "https://novumworld.com/youtube/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "48fa4d6c-0776-41b3-a7ba-b1af93d35d45"
+description: Discover how YouTube's $6 million negligence ruling reveals the alarming
+  risks of social media addiction and its impact on mental health. Read more now!.
+featured_image: /images/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en.jpg
+slug: youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en
+canonical: https://novumworld.com/youtube/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 48fa4d6c-0776-41b3-a7ba-b1af93d35d45
 ---
 
 ![YouTube's Shocking $6 Million Negligence Ruling Exposes Hidden Dangers of Social Media Addiction](/images/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en.jpg)
@@ -77,28 +81,12 @@ As the landscape shifts against unchecked tech power, it is imperative for users
 - [news.google.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYVpmZHBMSW50OG5VcEkwNkpaSnBOV3kyeE12a3cyZ283Rk9zZzlDdU9pTzRXTlltbk9mSXMxYkEtdHBES0J2enp5ZjhWLTI4MjRtdGs2Rm9adw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNdkxPRkxKVzBTSzI4d3dKeE96dmFsb25qT091MVZnaTJKRXFyS29oUGFCY0praWlWelVVSHkzSkZrTjJ0elZvR0xXVnhkSGdmem5ITUVEX1FkV25xTXdRRFN3eFU5ZlVUS3JPYzNrSVBmT2l0U29iNkF6SGxiTnBQaFUydw?oc=5)
 
-
 ## Related Articles
 - [YouTube’s Hidden Data Reveals 57% of Creators Are Dormant and Ignored](/youtube/youtubes-hidden-data-a-deep-dive-into-tubecensus-reveals-channel-trends-en/)
 - [Nathanson''s Prediction: YouTube TV Will](/youtube/youtube-tv-subscriber-retention-en/)
 - [90% Of YouTube Creators Suffer From Burnout And Nobody Is Talking About It](/youtube/youtubes-original-stars-spill-secrets-what-they-wish-they-knew-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube's Shocking $6 Million Negligence Ruling Exposes Hidden Dangers of Social Media Addiction",
-  "description": "Discover how YouTube's $6 million negligence ruling reveals the alarming risks of social media addiction and its impact on mental health. Read more now!.",
-  "image": "https://novumworld.com/images/youtubes-biggest-controversy-negligence-in-landmark-social-media-addiction-trial-en.jpg",
-  "datePublished": "2026-06-14T20:50:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ As the landscape shifts against unchecked tech power, it is imperative for users
     }
   }
 }
-</script>

@@ -72,28 +72,12 @@ Military tributes like these reflect a profound commitment to remembering those 
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxQRXNCZTlaeHpzbEVaMHpzTS1acTdQeXdiZVRobmtia1pRWFVFREFtLVlHdW1DNUdPeVpsVFBPaDJpdnktdV84YjBpRlgxTHdkME1DSVV4M01ORmMtUU9EclpiN2tYQVlORlNVSl9naDR4QTRuOS1TTW1HWWJtYWF2VzV3aHNteGpEZlJjMXlyRThiYlIxWDR1REUySXV2VGN4YWlDeVJ1RzFCLS1iUjAtQWxhSVdZTGY0UHA3NjZOVFBaaUoweWdkTHBOX1fSAcwBQVVfeXFMUEVzQmU5Wnh6c2xFWjB6c00tWnE3UHl3YmVUaG5rYmtaUVhVRURBbS1ZR3VtQzVHT3labFRQT2gyaXZ5LXVfOGIwaUZYMUx3ZDBNQ0lVeDNNTkZjLVFPRHJaYjdrWEFZTkZTVUpfZ2g0eEE0bjktU01tR1libWFhdlc1d2hzbXhqRGZSYzF5ckU4YmJSMVg0dURFMkl1dlRjeGFpQ3lSdUcxQi0tYlIwLUFsYUlXWUxmNFBwNzY2TlRQWmlKMHlnZExwTl9X?oc=5)
 
-
 ## Related Articles
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before](/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/)
 - [Forget Incline! 44 Degrees Is The](/fitness/upper-chest-hypertrophy-science-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Garrison Wiesbaden Dedicates New Fitness Center to Honor Fallen Hero MSG Michael B. Riley",
-  "description": "Garrison Wiesbaden honors fallen hero MSG Michael B. Riley with a new fitness center, celebrating his legacy and inspiring community wellness and strength.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-06-28T06:41:31",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +87,3 @@ Military tributes like these reflect a profound commitment to remembering those 
     }
   }
 }
-</script>

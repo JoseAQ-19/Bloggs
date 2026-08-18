@@ -30,8 +30,6 @@ type: fitness
 
 Jo Dee Messina's publicized struggle after ceasing diet pills highlights a dangerous undercurrent in the GLP-1 weight loss phenomenon: the potential acceleration of sarcopenia through significant lean mass loss. As the $35 billion GLP-1 market skyrockets towards $150 billion by 2031, the science reveals a stark contrast between advertised benefits and hidden physiological costs, particularly for muscle health. 
 
-
-
 {{< adsterra_native >}}
 
 ## Jo Dee Messina's Post-Diet Pill Peril: The Sarcopenia Shadow Over GLP-1 Weight Loss 
@@ -65,6 +63,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [76 And Thriving: One Man''s Daily Muscle-Ups Defy Aging Myths](/en/fitness/76-and-thriving-how-one-man-defies-age-with-daily-muscle-ups-en/)
 - [Lukaku''s Absence: UEFA''s ACL Injury Warning Ignored By Belgium Management?](/en/fitness/lukaku-omitted-belgium-games-en/)
 - [FAU’s “March Into Fitness” Program: 50% Of Students Embrace Wearable Tech](/en/fitness/fau-students-unite-for-march-into-fitness-celebration-on-campus-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

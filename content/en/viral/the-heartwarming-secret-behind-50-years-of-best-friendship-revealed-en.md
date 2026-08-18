@@ -1,16 +1,20 @@
 ---
-title: "50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions"
-date: 2026-04-17T23:42:53
+title: '50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired
+  Millions'
+date: 2026-04-17 23:42:53
 draft: false
-description: "Discover the inspiring true story of two women who battled cancer together for 50 years, forging an unbreakable bond and motivating millions worldwide."
-featured_image: "/images/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en.jpg"
-slug: "the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en"
-canonical: "https://novumworld.com/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "785e2d47-6e20-cf94-c632-b157335bd8aa"
+description: Discover the inspiring true story of two women who battled cancer together
+  for 50 years, forging an unbreakable bond and motivating millions worldwide.
+featured_image: /images/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en.jpg
+slug: the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en
+canonical: https://novumworld.com/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 785e2d47-6e20-cf94-c632-b157335bd8aa
 ---
 
 ![50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/images/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en.jpg)
@@ -71,28 +75,12 @@ True friendship can be life’s greatest support system—never underestimate it
 - [news.google.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGQyT183QTlMa21ZNzJFQkZLTGM1N2djZ0hfcy1pSUo1blk0MU5QZEc1ckJGdFlRdHFsSjd4Nm1JTXpQbnFIMVhnaURKeHRjRnNQZGw0a3pSZHZ5UVIwVW5aYy1SODBRcVVSUzVoNXZIX2hmM3U3MGZmRlh0eFJEOVdRcEJndExJV0QyMjNrc1hjRzFXT0dHSC0yclp2MzIxUGdha3JCQVU?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHk0MndyaTd2cGxhVEtfNThuMURZT2QwZUdiR0lEQTI3ZnJtb3RDTzlTU1dBdGViYUN6TVBwUGJROERLcmdIZS1YY0t4QURoU2ZGS2RUV3VtS1pOeURlcXFqWlRsaDB4RlRCeWtrelVXTHEwZWR4VHBSSnhHVUhwZlZhc1Y?oc=5)
 
-
 ## Related Articles
 - [PopSockets'' $315 Million Mirage: Are Sales Figu](/viral/popsockets-market-saturation-en/)
 - [Bakery's Easter Cake Sparks Outrage After Heavy Metals Found In Edible Glitter](/viral/shocking-easter-cake-goes-viral-bakery-addresses-concerned-messages-en/)
 - [Shocking Truth: Teen Takeovers Are Putting Restaurant Workers at Risk and Parents Are Silent](/viral/restaurant-owners-bold-message-on-teen-takeovers-strikes-a-chord-with-parents-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions",
-  "description": "Discover the inspiring true story of two women who battled cancer together for 50 years, forging an unbreakable bond and motivating millions worldwide.",
-  "image": "https://novumworld.com/images/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en.jpg",
-  "datePublished": "2026-04-17T23:42:53",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -102,4 +90,3 @@ True friendship can be life’s greatest support system—never underestimate it
     }
   }
 }
-</script>

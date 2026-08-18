@@ -29,8 +29,6 @@ La industria de la nutrición deportiva a menudo promete resultados rápidos, pe
 * Los españoles gastan entre 200 y 500 euros anuales en nutrición deportiva, un gasto que a menudo se desperdicia debido a protocolos ineficaces o suplementos contaminados.
 * Expertos de la Agencia de Acreditación y Certificación Nutricional UCAM advierten sobre los riesgos para la salud del uso no supervisado de suplementos, incluyendo daño hepático y renal.
 
-
-
 {{< adsterra_native >}}
 
 ## El Mito del Cuerpo Perfecto: Cómo Victor Hoffer y la WFP Desafían la Obsolescencia Estética
@@ -74,6 +72,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [5.5 Lesiones por Cada 1000 Horas: La Verdad Oculta del Jiu Jitsu Para Treintañeros.](/es/fitness/jiu-jitsu-30-entrenamiento-antiedad/)
 - [¡Revolución Fitness! La Máquina Que Quema 30% Más Grasa Que El Running](/es/fitness/activa-tus-musculos-en-minutos-la-maquina-de-fitness-que-supera-al-running/)
 - [La Mujer de 100 Años Que Rompió Récords: Su Rutina de Fitness Inspira al Mundo](/es/fitness/la-inspiradora-rutina-de-fitness-de-una-mujer-de-100-anos-que-se-ha-vuelto-viral/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

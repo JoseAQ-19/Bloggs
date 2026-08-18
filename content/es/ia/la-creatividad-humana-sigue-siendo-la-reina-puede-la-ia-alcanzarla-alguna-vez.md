@@ -31,8 +31,6 @@ La IA generativa no es una herramienta creativa, es una máquina de desvalorizac
 * Según Cristina Perpiñá-Robert de la SGAE, la IA generativa representa un desafío grave para los derechos de autor en el sector artístico.
 * El mercado de contenido generado por IA se proyecta que crezca de 3 mil millones a 64 mil millones de euros para 2028.
 
-
-
 {{< adsterra_native >}}
 
 ## La Amenaza Silenciosa: El Futuro de los Ingresos Artísticos
@@ -88,6 +86,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe](/es/ia/el-mito-del-progreso-como-la-ia-nos-vende-un-futur/)
 - [Metaverso: La Estafa Piramidal Definitiva (Y Por Qué Deberías Ignorarla)](/es/ia/metaverso-estafa-piramidal-evitar/)
 - [La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/es/ia/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

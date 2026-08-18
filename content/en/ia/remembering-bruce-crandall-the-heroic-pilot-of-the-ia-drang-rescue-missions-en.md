@@ -1,16 +1,19 @@
 ---
-title: "The Untold Story of Bruce Crandall: Hero of The Ia Drang Rescue Missions"
-date: 2026-06-05T12:26:49
+title: 'The Untold Story of Bruce Crandall: Hero of The Ia Drang Rescue Missions'
+date: 2026-06-05 12:26:49
 draft: false
-description: "Discover the incredible bravery of Bruce Crandall during the Ia Drang Rescue Missions, showcasing his heroism and dedication in Vietnam's fiercest battles."
-featured_image: "/images/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en.jpg"
-slug: "remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en"
-canonical: "https://novumworld.com/ia/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "b77a7b04-64fa-e0ba-7a2c-80bc889eaeeb"
+description: Discover the incredible bravery of Bruce Crandall during the Ia Drang
+  Rescue Missions, showcasing his heroism and dedication in Vietnam's fiercest battles.
+featured_image: /images/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en.jpg
+slug: remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en
+canonical: https://novumworld.com/ia/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: b77a7b04-64fa-e0ba-7a2c-80bc889eaeeb
 ---
 
 ![The Untold Story of Bruce Crandall: Hero of The Ia Drang Rescue Missions](/images/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en.jpg)
@@ -78,28 +81,12 @@ In an era where the sacrifices of veterans can often be overlooked, it is crucia
 - [news.google.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXotYkF3ZkFxWU50WWlNZ3JLeC1FU0I3U1VTMUdoUEk1U1NyazBjd1VtdmxuSUoyQXZUUTJpaGN6amUyUUFsQTh0Sk45MVkwN01MZkhyZFNtanptZ1FxdnZqNDVvRjRjOHhZM0kxbTRxQmUwWkp2VGs2elBkRUwxQ0FoMGV0eVRTVFNGMkRPR0wzVFNCS2w2MjZqV3RiNnk3ODQ1aGxwclhrRFRyci1ra29MWUJRQTJoN29mVUE0SnBSMXdER1NSZEt4bi1PUzA0WlFIVk94SXZEX0ZlZG9TVVVWWmhUV184OWc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNSTdWMXJfeTMtamhyZGY1eTBwbE5sQ3VVdFM5cHFRRVRsR1VqYkVyMHJBMDdKUVRWZjNieV9GTEoxa1Z6dl94TWhESnZEN2hLMVJnYzJNeHUtTDBIM0hrVFdaN3dOVV9jQjNUZWNhdEllZE1VUlhKNlBwNHEtQi1EUEFseG15WTFmUXNLSzVETVZZdGt1YlhRMzVGdjl5UQ?oc=5)
 
-
 ## Related Articles
 - [Failed Technoutopia: The Digital Dream Becomes a](/ia/tecnoutopia-fallida-el-sueno-digital-se-convierte/)
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 - [Reproductive Rights Under Fire: Nunn and Garriott's Epic Showdown in Iowa's 3rd District](/ia/reproductive-freedom-takes-center-stage-trone-garriott-vs-nunn-in-ia-03-showdown-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Untold Story of Bruce Crandall: Hero of The Ia Drang Rescue Missions",
-  "description": "Discover the incredible bravery of Bruce Crandall during the Ia Drang Rescue Missions, showcasing his heroism and dedication in Vietnam's fiercest battles.",
-  "image": "https://novumworld.com/images/remembering-bruce-crandall-the-heroic-pilot-of-the-ia-drang-rescue-missions-en.jpg",
-  "datePublished": "2026-06-05T12:26:49",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ In an era where the sacrifices of veterans can often be overlooked, it is crucia
     }
   }
 }
-</script>

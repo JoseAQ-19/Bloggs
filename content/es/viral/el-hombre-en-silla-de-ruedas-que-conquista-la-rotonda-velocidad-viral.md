@@ -1,16 +1,19 @@
 ---
-title: "La Controversia Tras El Hombre En Silla De Ruedas Que Domina La Rotonda"
-date: 2026-04-12T21:53:45
+title: La Controversia Tras El Hombre En Silla De Ruedas Que Domina La Rotonda
+date: 2026-04-12 21:53:45
 draft: false
-description: "Descubre la historia del hombre en silla de ruedas que desafía normas en la rotonda, generando debate y reflexión sobre la inclusión y la diversidad."
-featured_image: "/images/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral.jpg"
-slug: "el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral"
-canonical: "https://novumworld.com/es/viral/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "9f7b1f9b-be97-7bad-232b-4d4c6791a048"
+description: Descubre la historia del hombre en silla de ruedas que desafía normas
+  en la rotonda, generando debate y reflexión sobre la inclusión y la diversidad.
+featured_image: /images/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral.jpg
+slug: el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral
+canonical: https://novumworld.com/es/viral/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 9f7b1f9b-be97-7bad-232b-4d4c6791a048
 ---
 
 ![La Controversia Tras El Hombre En Silla De Ruedas Que Domina La Rotonda](/images/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral.jpg)
@@ -107,28 +110,12 @@ La obsesión por la velocidad en las sillas de ruedas es un espejo de la obsesi�
 - [par.nsf.gov](https://par.nsf.gov/servlets/purl/10548365)
 - [par.nsf.gov](https://par.nsf.gov/biblio/10548365-driving-ballbot-wheelchair-hands-free-torso-control)
 
-
 ## Artículos relacionados
 - [¡Alerta Roja! 20 Gramos de Paracetamol: La](/es/viral/reto-paracetamol-tiktok-peligro-viral/)
 - [Sofía Contra Alcaraz: El Incómodo Encuentro](/es/viral/reina-sofia-alcaraz-polemica-miami/)
 - [Kings League En Caída Libre: ¿El Ci](/es/viral/kings-league-crisis-audiencia-gerard-romero/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Controversia Tras El Hombre En Silla De Ruedas Que Domina La Rotonda",
-  "description": "Descubre la historia del hombre en silla de ruedas que desafía normas en la rotonda, generando debate y reflexión sobre la inclusión y la diversidad.",
-  "image": "https://novumworld.com/images/el-hombre-en-silla-de-ruedas-que-conquista-la-rotonda-velocidad-viral.jpg",
-  "datePublished": "2026-04-12T21:53:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -138,4 +125,3 @@ La obsesión por la velocidad en las sillas de ruedas es un espejo de la obsesi�
     }
   }
 }
-</script>

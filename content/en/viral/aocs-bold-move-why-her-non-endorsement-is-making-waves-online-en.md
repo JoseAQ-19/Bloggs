@@ -1,16 +1,20 @@
 ---
-title: "AOC's Controversial Non-Endorsement Sparks Outrage Among Progressive Voters Online"
-date: 2026-04-17T22:17:42
+title: AOC's Controversial Non-Endorsement Sparks Outrage Among Progressive Voters
+  Online
+date: 2026-04-17 22:17:42
 draft: false
-description: "AOC's recent non-endorsement has triggered a wave of outrage among progressive voters. Discover the implications and reactions from the online community."
-featured_image: "/images/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en.jpg"
-slug: "aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en"
-canonical: "https://novumworld.com/viral/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "dc68d11c-a430-c347-d50a-68a55373fc4e"
+description: AOC's recent non-endorsement has triggered a wave of outrage among progressive
+  voters. Discover the implications and reactions from the online community.
+featured_image: /images/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en.jpg
+slug: aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en
+canonical: https://novumworld.com/viral/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: dc68d11c-a430-c347-d50a-68a55373fc4e
 ---
 
 ![AOC's Controversial Non-Endorsement Sparks Outrage Among Progressive Voters Online](/images/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en.jpg)
@@ -76,28 +80,12 @@ The future of progressive politics hangs in the balance. A fractured base can le
 - [ocasio-cortez.house.gov](https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-calls-out-pattern-corruption-behind-trump-and-republican-efforts)
 - [ocasio-cortez.house.gov](https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-delauro-craig-introduce-no-gouge-act-stop-corporate-abuse)
 
-
 ## Related Articles
 - [$140 Billion Weight Loss Lie: Is ''Plas](/viral/plastic-eating-weight-loss-china-trend-en/)
 - [Shocking $2.4 Billion Elder Abuse Epidemic Ignites Nationwide Outrage and Demands for Action](/viral/shocking-elder-abuse-video-sparks-outrage-and-calls-for-action-en/)
 - [Barbara Han''s 90% Accurate Pandemic Model: Why You Shoul](/viral/predicting-next-pandemic-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AOC's Controversial Non-Endorsement Sparks Outrage Among Progressive Voters Online",
-  "description": "AOC's recent non-endorsement has triggered a wave of outrage among progressive voters. Discover the implications and reactions from the online community.",
-  "image": "https://novumworld.com/images/aocs-bold-move-why-her-non-endorsement-is-making-waves-online-en.jpg",
-  "datePublished": "2026-04-17T22:17:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +95,3 @@ The future of progressive politics hangs in the balance. A fractured base can le
     }
   }
 }
-</script>

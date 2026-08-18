@@ -22,8 +22,6 @@ type: ia
 ## Resumen Ejecutivo
 La creciente obsesión por la cortesía hacia la inteligencia artificial (IA) refleja una decadencia intelectual alarmante. Este fenómeno no solo distrae de cuestiones más relevantes sobre el uso y la ética de la IA, sino que también presenta serias implicaciones ambientales y sociales. La cortesía hacia las máquinas puede conducir a una manipulación emocional que beneficia a corporaciones y crea expectativas irreales sobre la tecnología. Es fundamental adoptar un enfoque crítico y racional hacia la IA, reconociendo su naturaleza como herramienta y evitando la antropomorfización que distorsiona nuestra percepción de la realidad.
 
-
-
 {{< adsterra_native >}}
 
 ## El Delirio de la Amabilidad Digital: Un Despilfarro Energético y Cognitivo
@@ -69,6 +67,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Celular Te Espía. Y le Pagas por Ello](/es/ia/celular-te-espia-y-le-pagas-por-ello/)
 - [La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/es/ia/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto/)
 - [ChatGPT Suspende en España: La Mitad de los Alumnos Sacan Peores Notas Por](/es/ia/ia-estudiantes-polanco-polemica/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

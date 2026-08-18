@@ -1,16 +1,20 @@
 ---
-title: "JPMorgan Predicts $130 Billion Crypto Surge While DeFi Stagnates at $84.81 Billion"
-date: 2026-05-31T17:50:44
+title: JPMorgan Predicts $130 Billion Crypto Surge While DeFi Stagnates at $84.81
+  Billion
+date: 2026-05-31 17:50:44
 draft: false
-description: "JPMorgan forecasts a $130 billion surge in crypto, contrasting with DeFi's stagnation at $84.81 billion. Discover insights on market trends and future."
-featured_image: "/images/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en.jpg"
-slug: "jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en"
-canonical: "https://novumworld.com/crypto/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "c5805bfa-8006-6274-b0e4-20cabd59bde3"
+description: JPMorgan forecasts a $130 billion surge in crypto, contrasting with DeFi's
+  stagnation at $84.81 billion. Discover insights on market trends and future.
+featured_image: /images/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en.jpg
+slug: jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en
+canonical: https://novumworld.com/crypto/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: c5805bfa-8006-6274-b0e4-20cabd59bde3
 ---
 
 ![JPMorgan Predicts $130 Billion Crypto Surge While DeFi Stagnates at $84.81 Billion](/images/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en.jpg)
@@ -97,12 +101,10 @@ The crypto market is poised for significant growth driven by $130 billion in ins
 ## Methodology and Sources
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/crypto/trump-iran-crypto-network-en/)
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
 - [The Hidden Tactics Behind 45 Billion Dollars in UK Crypto Sanctions Evasion](/crypto/uk-intensifies-sanctions-targeting-russian-crypto-networks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -112,18 +114,7 @@ The crypto market is poised for significant growth driven by $130 billion in ins
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "JPMorgan Predicts $130 Billion Crypto Surge While DeFi Stagnates at $84.81 Billion",
-  "description": "JPMorgan forecasts a $130 billion surge in crypto, contrasting with DeFi's stagnation at $84.81 billion. Discover insights on market trends and future.",
-  "image": "https://novumworld.com/images/jpmorgans-bold-prediction-is-a-crypto-explosion-on-the-horizon-en.jpg",
-  "datePublished": "2026-05-31T17:50:44",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -133,4 +124,3 @@ The crypto market is poised for significant growth driven by $130 billion in ins
     }
   }
 }
-</script>

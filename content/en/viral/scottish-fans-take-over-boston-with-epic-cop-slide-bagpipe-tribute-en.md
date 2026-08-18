@@ -1,16 +1,20 @@
 ---
-title: "Scottish Fans Stunned Boston With 10-Minute Cop Slide Bagpipe Tribute That Went Viral"
-date: 2026-06-13T22:26:42
+title: Scottish Fans Stunned Boston With 10-Minute Cop Slide Bagpipe Tribute That
+  Went Viral
+date: 2026-06-13 22:26:42
 draft: false
-description: "Scottish fans wowed Boston with a stunning 10-minute 'Cop Slide' bagpipe tribute, captivating audiences and going viral. Discover the unforgettable."
-featured_image: "/images/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en.jpg"
-slug: "scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en"
-canonical: "https://novumworld.com/viral/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "31c246a2-a7e1-1b90-998b-8172761484e8"
+description: Scottish fans wowed Boston with a stunning 10-minute 'Cop Slide' bagpipe
+  tribute, captivating audiences and going viral. Discover the unforgettable.
+featured_image: /images/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en.jpg
+slug: scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en
+canonical: https://novumworld.com/viral/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 31c246a2-a7e1-1b90-998b-8172761484e8
 ---
 
 ![Scottish Fans Stunned Boston With 10-Minute Cop Slide Bagpipe Tribute That Went Viral](/images/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en.jpg)
@@ -70,22 +74,7 @@ In summary, the "Cop Slide" is more than just a viral moment; it represents a cu
 - [The Dark Side Of Dot Cakes: TikTok's Algorithm Manipulation Exposed](/viral/the-sweet-sensation-why-dot-cakes-are-taking-tiktok-by-storm-en/)
 - [TikTok Review Revives Sweet 220 Bakery: Thousands of Cupcakes Fly Off Shelves](/viral/tiktok-review-revives-struggling-livonia-bakery-with-unprecedented-customer-rush-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Scottish Fans Stunned Boston With 10-Minute Cop Slide Bagpipe Tribute That Went Viral",
-  "description": "Scottish fans wowed Boston with a stunning 10-minute 'Cop Slide' bagpipe tribute, captivating audiences and going viral. Discover the unforgettable.",
-  "image": "https://novumworld.com/images/scottish-fans-take-over-boston-with-epic-cop-slide-bagpipe-tribute-en.jpg",
-  "datePublished": "2026-06-13T22:26:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +84,3 @@ In summary, the "Cop Slide" is more than just a viral moment; it represents a cu
     }
   }
 }
-</script>

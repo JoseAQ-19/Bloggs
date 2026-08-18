@@ -1,16 +1,20 @@
 ---
-title: "NYC's Lego Street Art Surges: 71% Growth in Urban Investment Shakes Up Traditional Graffiti"
-date: 2026-05-20T23:51:23
+title: 'NYC''s Lego Street Art Surges: 71% Growth in Urban Investment Shakes Up Traditional
+  Graffiti'
+date: 2026-05-20 23:51:23
 draft: false
-description: "Discover how NYC's Lego street art is transforming urban landscapes, with a remarkable 71% investment growth challenging traditional graffiti norms."
-featured_image: "/images/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en.jpg"
-slug: "nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en"
-canonical: "https://novumworld.com/viral/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "6b1b7cd4-dbc4-7fc3-5c67-3d1937647c4d"
+description: Discover how NYC's Lego street art is transforming urban landscapes,
+  with a remarkable 71% investment growth challenging traditional graffiti norms.
+featured_image: /images/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en.jpg
+slug: nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en
+canonical: https://novumworld.com/viral/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 6b1b7cd4-dbc4-7fc3-5c67-3d1937647c4d
 ---
 
 ![NYC's Lego Street Art Surges: 71% Growth in Urban Investment Shakes Up Traditional Graffiti](/images/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en.jpg)
@@ -71,22 +75,7 @@ As the landscape of street art evolves, those who act quickly may reap the creat
 - [Therian Identity Faces $78 Billion Crisis: AI](/viral/therian-culture-ai-disinformation-en/)
 - [The Shocking Truth About Travel Pillows: 70% Fail To Provide Real Neck Support](/viral/this-travel-pillow-changed-the-game-a-frequent-flyers-review-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "NYC's Lego Street Art Surges: 71% Growth in Urban Investment Shakes Up Traditional Graffiti",
-  "description": "Discover how NYC's Lego street art is transforming urban landscapes, with a remarkable 71% investment growth challenging traditional graffiti norms.",
-  "image": "https://novumworld.com/images/nycs-mysterious-lego-street-art-takes-the-internet-by-storm-en.jpg",
-  "datePublished": "2026-05-20T23:51:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -96,4 +85,3 @@ As the landscape of street art evolves, those who act quickly may reap the creat
     }
   }
 }
-</script>

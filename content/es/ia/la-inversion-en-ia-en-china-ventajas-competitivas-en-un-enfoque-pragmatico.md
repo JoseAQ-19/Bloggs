@@ -1,16 +1,20 @@
 ---
-title: "China Genera 500 Millones de Dólares por Hora Con Exportaciones de IA y Nadie Lo Sabe"
-date: 2026-05-14T10:39:03
+title: China Genera 500 Millones de Dólares por Hora Con Exportaciones de IA y Nadie
+  Lo Sabe
+date: 2026-05-14 10:39:03
 draft: false
-description: "Descubre cómo China genera 500 millones de dólares por hora en exportaciones de inteligencia artificial, un fenómeno que pocos conocen y que impacta al."
-featured_image: "/images/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico.jpg"
-slug: "la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico"
-canonical: "https://novumworld.com/es/ia/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "e54e27c5-94c8-35c4-7c10-152459085fcb"
+description: Descubre cómo China genera 500 millones de dólares por hora en exportaciones
+  de inteligencia artificial, un fenómeno que pocos conocen y que impacta al.
+featured_image: /images/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico.jpg
+slug: la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico
+canonical: https://novumworld.com/es/ia/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: e54e27c5-94c8-35c4-7c10-152459085fcb
 ---
 
 ![China Genera 500 Millones de Dólares por Hora Con Exportaciones de IA y Nadie Lo Sabe](/images/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico.jpg)
@@ -47,28 +51,12 @@ La máquina de IA china genera $500 millones por hora, pero su verdadero costo s
 - [news.google.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3JZZ2VsNFJ0TDN4dm1ZUl84bm02eVpPN0F2M1IzY203ZTRjSWVYQWVULVBTa1k5ZGRCMTg2ZTdqS3ZmV1NDNE92VmxlSUNRXzRra2lPMjBTRjRKcVZvOU12eHRaaEJiZVAtdW5yeWlGM3NCWVFYWXB5c3B1dHVTRTVQeVhQaWV6TE93?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1FrUlNDdDl5X09MQWFjaHZjU3RjdFRrNWIyQ3c2SDdyeTVfV3BLN09qOHBOTjhPeXdYWEl0ekF0UUtZeWZvVjRVS0FMdl9xUVRncy0wYkpocG1uWGx0Q0cwSHZfTjNIRlotLXp1eGxFQTZ4S3NRWFpuQjNCanV5QzlIdk1NVTUtbW95Z0JrUlJ4aVplYzFVRk1FWlY0ckN6WXg5Ui02UGUyRU1IaE1v?oc=5)
 
-
 ## Artículos relacionados
 - [¿Tu nevera te espía? El futuro orwelliano que ya pa](/es/ia/tu-nevera-te-espia-el-futuro-orwelliano-que-ya-pag/)
 - [¿Nos Distrae la](/es/ia/nos-distrae-la-ia-mientras-el-mundo-se-derrumba/)
 - [Tecno-Apocali](/es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "China Genera 500 Millones de Dólares por Hora Con Exportaciones de IA y Nadie Lo Sabe",
-  "description": "Descubre cómo China genera 500 millones de dólares por hora en exportaciones de inteligencia artificial, un fenómeno que pocos conocen y que impacta al.",
-  "image": "https://novumworld.com/images/la-inversion-en-ia-en-china-ventajas-competitivas-en-un-enfoque-pragmatico.jpg",
-  "datePublished": "2026-05-14T10:39:03",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -78,4 +66,3 @@ La máquina de IA china genera $500 millones por hora, pero su verdadero costo s
     }
   }
 }
-</script>

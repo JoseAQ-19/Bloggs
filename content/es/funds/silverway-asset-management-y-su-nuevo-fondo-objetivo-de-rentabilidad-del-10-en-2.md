@@ -1,14 +1,18 @@
 ---
-title: "Silverway Asset Management y su nuevo fondo: objetivo de rentabilidad del 10% en 2026"
-date: 2026-05-19T07:49:15
+title: 'Silverway Asset Management y su nuevo fondo: objetivo de rentabilidad del
+  10% en 2026'
+date: 2026-05-19 07:49:15
 draft: false
-description: "Descubre el nuevo fondo de Silverway Asset Management, que busca una rentabilidad del 10% para 2026. Inversiones inteligentes para tu futuro."
-featured_image: "/images/silverway-asset-management-y-su-nuevo-fondo-objetivo-de-rentabilidad-del-10-en-2.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "cd8515e1-9cc7-0a16-52a0-0931744057c2"
+description: Descubre el nuevo fondo de Silverway Asset Management, que busca una
+  rentabilidad del 10% para 2026. Inversiones inteligentes para tu futuro.
+featured_image: /images/silverway-asset-management-y-su-nuevo-fondo-objetivo-de-rentabilidad-del-10-en-2.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: cd8515e1-9cc7-0a16-52a0-0931744057c2
 ---
 
 ![Silverway Asset Management y su nuevo fondo: objetivo de rentabilidad del 10% en 2026](/images/silverway-asset-management-y-su-nuevo-fondo-objetivo-de-rentabilidad-del-10-en-2.jpg)
@@ -20,8 +24,6 @@ El nuevo fondo de Silverway Asset Management busca alcanzar una rentabilidad del
 * [15% de volatilidad promedio en mercados globales en 2023 — fuente: SEC]
 
 La estrategia del fondo se fundamenta en una combinación de selección activa de activos y una diversificación geográfica que busca mitigar riesgos inherentes a los mercados emergentes y desarrollados. Silverway Asset Management está configurando un equipo "premium", destacando la importancia de tener un equipo con experiencia y conocimiento profundo del mercado para alcanzar sus ambiciosos objetivos.
-
-
 
 {{< adsterra_native >}}
 
@@ -79,35 +81,11 @@ El fondo se centrará en una combinación de acciones, bonos y activos alternati
 
 Creemos que la estrategia de Silverway Asset Management tiene el potencial de ofrecer rendimientos atractivos, pero es fundamental que la ejecución sea rigurosa y adaptativa. Con un enfoque proactivo y un equipo experimentado, el fondo podría posicionarse favorablemente en el competitivo panorama de inversión. Las condiciones del mercado en los próximos años serán determinantes para el éxito del fondo, y la capacidad de anticipar y reaccionar a estos cambios será clave.
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Silverway Asset Management y su nuevo fondo: objetivo de rentabilidad del 10% en 2026",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://example.com/silverway-fondo"
-  }
 }
 
-
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Qué tan realista es el objetivo de rentabilidad del 10%?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "El objetivo es ambicioso pero viable, siempre que se mantenga una gestión activa."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Qué diferencia a este fondo de otros en el mercado?",
@@ -148,6 +126,4 @@ Creemos que la estrategia de Silverway Asset Management tiene el potencial de of
 - [](/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion/)
 - [MyInvestor incorpora iShares de BlackRock en su cartera moderada con un rendimiento del 8%](/es/funds/myinvestor-incorpora-ishares-de-blackrock-en-su-cartera-moderada-con-un-rendimie/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

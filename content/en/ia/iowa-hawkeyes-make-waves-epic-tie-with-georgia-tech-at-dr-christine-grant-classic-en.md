@@ -1,16 +1,20 @@
 ---
-title: "Iowa Hawkeyes Shocked the System: 5.4 Million NIL Engagements and a Tie with Georgia Tech"
-date: 2026-04-12T11:42:32
+title: 'Iowa Hawkeyes Shocked the System: 5.4 Million NIL Engagements and a Tie with
+  Georgia Tech'
+date: 2026-04-12 11:42:32
 draft: false
-description: "Discover how the Iowa Hawkeyes achieved 5.4 million NIL engagements, tying with Georgia Tech. Explore the impact on college sports and fan engagement."
-featured_image: "/images/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en.jpg"
-slug: "iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en"
-canonical: "https://novumworld.com/ia/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "7449ce4d-2f00-a613-3ebb-3ab4f2bb94d4"
+description: Discover how the Iowa Hawkeyes achieved 5.4 million NIL engagements,
+  tying with Georgia Tech. Explore the impact on college sports and fan engagement.
+featured_image: /images/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en.jpg
+slug: iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en
+canonical: https://novumworld.com/ia/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 7449ce4d-2f00-a613-3ebb-3ab4f2bb94d4
 ---
 
 ![Iowa Hawkeyes Shocked the System: 5.4 Million NIL Engagements and a Tie with Georgia Tech](/images/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en.jpg)
@@ -60,28 +64,12 @@ The Iowa Hawkeyes' NIL success juxtaposed with potential limitations highlights 
 - [legis.iowa.gov](https://www.legis.iowa.gov/docs/publications/DF/1541811.pdf)
 - [grassley.senate.gov](https://www.grassley.senate.gov/news/remarks/grassley-statement-for-the-congressional-record-honoring-iowa-hawkeyes-womens-basketball)
 
-
 ## Related Articles
 - [39](/ia/unveiling-the-future-an-interview-with-ia-genberg-and-kira-josefsson-on-small-comfort-en/)
 - [Google Maps AI Hallucinations: Is That Road E](/ia/google-maps-ai-overhaul-hallucinations-en/)
 - [iA Financial: $23 Million Insider Sale,](/ia/ia-financial-director-algorithmic-trading-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Iowa Hawkeyes Shocked the System: 5.4 Million NIL Engagements and a Tie with Georgia Tech",
-  "description": "Discover how the Iowa Hawkeyes achieved 5.4 million NIL engagements, tying with Georgia Tech. Explore the impact on college sports and fan engagement.",
-  "image": "https://novumworld.com/images/iowa-hawkeyes-make-waves-epic-tie-with-georgia-tech-at-dr-christine-grant-classic-en.jpg",
-  "datePublished": "2026-04-12T11:42:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +79,3 @@ The Iowa Hawkeyes' NIL success juxtaposed with potential limitations highlights 
     }
   }
 }
-</script>

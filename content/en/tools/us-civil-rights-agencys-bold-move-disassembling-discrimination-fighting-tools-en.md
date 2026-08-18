@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: U.S. Civil Rights Agency Just Disassembled Essential Discrimination Tools"
-date: 2026-06-01T16:25:45
+title: 'The Shocking Truth: U.S. Civil Rights Agency Just Disassembled Essential Discrimination
+  Tools'
+date: 2026-06-01 16:25:45
 draft: false
-description: "Discover the unsettling revelation of how the U.S. Civil Rights Agency dismantled vital tools for combating discrimination, impacting equality efforts."
-featured_image: "/images/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en.jpg"
-slug: "us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en"
-canonical: "https://novumworld.com/tools/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "c3d2015d-e203-2e85-f713-2d83af1ef589"
+description: Discover the unsettling revelation of how the U.S. Civil Rights Agency
+  dismantled vital tools for combating discrimination, impacting equality efforts.
+featured_image: /images/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en.jpg
+slug: us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en
+canonical: https://novumworld.com/tools/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: c3d2015d-e203-2e85-f713-2d83af1ef589
 ---
 
 ![The Shocking Truth: U.S. Civil Rights Agency Just Disassembled Essential Discrimination Tools](/images/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en.jpg)
@@ -44,22 +48,7 @@ The decision to dismantle these discrimination data collection tools is not an e
 - [Byron Smith Revolutionizes Golf Education With 5 Game-Changing Teaching Tools](/tools/transforming-golf-education-byron-smiths-innovative-teaching-tools-en/)
 - [Legacy Systems Are Killing PropTech: 78% of Executives Admit Technology Adoption Is Failing](/tools/real-estate-tech-integration-challenges-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: U.S. Civil Rights Agency Just Disassembled Essential Discrimination Tools",
-  "description": "Discover the unsettling revelation of how the U.S. Civil Rights Agency dismantled vital tools for combating discrimination, impacting equality efforts.",
-  "image": "https://novumworld.com/images/us-civil-rights-agencys-bold-move-disassembling-discrimination-fighting-tools-en.jpg",
-  "datePublished": "2026-06-01T16:25:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -69,4 +58,3 @@ The decision to dismantle these discrimination data collection tools is not an e
     }
   }
 }
-</script>

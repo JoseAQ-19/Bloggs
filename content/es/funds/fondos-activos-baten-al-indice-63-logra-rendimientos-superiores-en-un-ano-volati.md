@@ -32,8 +32,6 @@ type: funds
 
 Este resultado reabre el debate sobre la efectividad de la gestión activa frente a la pasiva, especialmente en un contexto de alta incertidumbre como el que marcó 2023. Los gestores activos aprovecharon la dispersión del mercado y eventos como la guerra en Ucrania, las tensiones en Oriente Medio y las políticas monetarias restrictivas para generar alfa y superar a sus índices de referencia.
 
-
-
 {{< adsterra_native >}}
 
 ## Comparativa: Fondos activos frente a índices de referencia
@@ -103,6 +101,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [iShares Core EURO STOXX 50: ASML Debe Crecer para Mantener la Subida del 4,4%](/es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44/)
 - [Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 - [Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

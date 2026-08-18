@@ -1,16 +1,20 @@
 ---
-title: "Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially"
-date: 2026-04-22T06:08:50
+title: Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle
+  Financially
+date: 2026-04-22 06:08:50
 draft: false
-description: "Explore how Raleigh's pop-up fitness classes are thriving amidst a struggling industry, offering unique solutions and community engagement for fitness."
-featured_image: "/images/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en.jpg"
-slug: "transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en"
-canonical: "https://novumworld.com/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "e463ddd1-ab69-7625-30a2-f5c56c9f8644"
+description: Explore how Raleigh's pop-up fitness classes are thriving amidst a struggling
+  industry, offering unique solutions and community engagement for fitness.
+featured_image: /images/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en.jpg
+slug: transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en
+canonical: https://novumworld.com/fitness/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: e463ddd1-ab69-7625-30a2-f5c56c9f8644
 ---
 
 ![Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially](/images/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en.jpg)
@@ -102,28 +106,12 @@ For the fitness enthusiast or entrepreneur looking to replicate the pop-up succe
 - [jdsupra.com](https://www.jdsupra.com/legalnews/ftc-sues-la-fitness-operators-for-1773216/)
 - [news.google.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE94T0gtMklnREJJX0tBLUVneldhWFVNamJ3Uk5pRTV6RENSSlB6OWxFbmRrYWptb3V2Z0JZdTBaYmc3aU9FM1ZUd2xhdGU2ZHUwYXk5Wm5NTkFoNE8xVG96OHJ3?oc=5)
 
-
 ## Related Articles
 - [Bodybuilding''s Deadly](/fitness/natural-bodybuilding-contest-prep-dangers-en/)
 - [94% Adherence: The Shocking Truth About Digital Cardiac Rehabilitation's Success](/fitness/unlocking-heart-health-the-power-of-combined-training-for-heart-failure-patients-en/)
 - [Rashford''s Rehab Miracle: 42% Le](/fitness/rashford-injury-barcelona-performance-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Raleigh’s Pop-Up Fitness Classes Are Thriving While 91% Of Studios Struggle Financially",
-  "description": "Explore how Raleigh's pop-up fitness classes are thriving amidst a struggling industry, offering unique solutions and community engagement for fitness.",
-  "image": "https://novumworld.com/images/transform-your-workout-raleighs-health-and-wellness-pop-up-fitness-classes-en.jpg",
-  "datePublished": "2026-04-22T06:08:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -133,4 +121,3 @@ For the fitness enthusiast or entrepreneur looking to replicate the pop-up succe
     }
   }
 }
-</script>

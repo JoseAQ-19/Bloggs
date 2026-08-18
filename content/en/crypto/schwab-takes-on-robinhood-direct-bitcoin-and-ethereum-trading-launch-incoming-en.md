@@ -1,16 +1,19 @@
 ---
-title: "Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood"
-date: 2026-04-16T17:17:41
+title: 'Schwab''s Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood'
+date: 2026-04-16 17:17:41
 draft: false
-description: "Discover how Schwab's addition of 194,500 new crypto accounts could reshape the trading landscape and challenge Robinhood's dominance in the market."
-featured_image: "/images/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en.jpg"
-slug: "schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en"
-canonical: "https://novumworld.com/crypto/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "b2db4a3f-e572-b1a2-398f-922f5d1db334"
+description: Discover how Schwab's addition of 194,500 new crypto accounts could reshape
+  the trading landscape and challenge Robinhood's dominance in the market.
+featured_image: /images/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en.jpg
+slug: schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en
+canonical: https://novumworld.com/crypto/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: b2db4a3f-e572-b1a2-398f-922f5d1db334
 ---
 
 ![Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood](/images/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en.jpg)
@@ -87,12 +90,10 @@ For investors, the competitive landscape between Schwab and Robinhood presents b
 - [unchained.com](https://unchained.com/insights/crypto-order-books/)
 - [sec.gov](https://www.sec.gov/files/dera_wp_payment-order-flow-2501.pdf)
 
-
 ## Related Articles
 - [Chainalysis Warns: Russia''s 694% Crypto Su](/crypto/russia-crypto-exchange-sanctions-en/)
 - [Hyperliquid Fuels $991 Million Oil Futures Fren](/crypto/oil-futures-crypto-obsession-en/)
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -102,18 +103,7 @@ For investors, the competitive landscape between Schwab and Robinhood presents b
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Schwab's Bold Move: 194,500 New Crypto Accounts Set to Disrupt Robinhood",
-  "description": "Discover how Schwab's addition of 194,500 new crypto accounts could reshape the trading landscape and challenge Robinhood's dominance in the market.",
-  "image": "https://novumworld.com/images/schwab-takes-on-robinhood-direct-bitcoin-and-ethereum-trading-launch-incoming-en.jpg",
-  "datePublished": "2026-04-16T17:17:41",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -123,4 +113,3 @@ For investors, the competitive landscape between Schwab and Robinhood presents b
     }
   }
 }
-</script>

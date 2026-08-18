@@ -21,8 +21,6 @@ type: viral
 ## Executive Summary
 * ![Temu's Data Privacy Nightmare Expands: Now They Know What You Eat](/images/temu-grocery-expansion-en.jpg)
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithm Knows Your Appetite: Temu's Grocery Gambit and the Data Privacy Escalation...
@@ -85,6 +83,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [59% Asymptomatic: The Next Pandemic Is Already Spreading And Nobody''s Talking](/en/viral/invisible-pandemic-respiratory-threat-en/)
 - [96.88 Million Users Impacted: The Shocking Truth Behind DeepSeek AI''s Downtime](/en/viral/deepseek-ai-outage-analysis-en/)
 - [Sora Just Sparked Ethical Outrage: The Dark Side of AI Video Generation](/en/viral/sora-ai-deepfake-fears-ethical-debate-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

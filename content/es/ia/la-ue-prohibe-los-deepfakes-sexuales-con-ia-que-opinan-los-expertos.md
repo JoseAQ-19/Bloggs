@@ -32,8 +32,6 @@ La proliferación de los 'deepfakes' sexuales ha alcanzado niveles alarmantes en
 
 * Con la llegada del AI Act de la UE, las plataformas y usuarios enfrentarán nuevas sanciones y responsabilidades legales en la creación de contenido generado por IA.
 
-
-
 {{< adsterra_native >}}
 
 ## La Prohibición de los 'Deepfakes' Sexuales: Un Debate Caliente sobre la Privacidad y la Ética
@@ -83,6 +81,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Inteligencia Artificial: La Estafa del Siglo XXI](/es/ia/inteligencia-artificial-la-estafa-del-siglo-xxi/)
 - [El Tabú Tecnológico: Lo Que NO Quieren Que Sepas](/es/ia/el-tabu-tecnologico-lo-que-no-quieren-que-sepas/)
 - [OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

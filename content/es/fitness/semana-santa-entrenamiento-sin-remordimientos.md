@@ -27,8 +27,6 @@ type: fitness
 * El mercado español de suplementos deportivos crece 8,7% anual, con 2.000 millones en ventas y 64-92% de uso en deportistas de élite — [Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)](https://www.aesan.gob.es/) 
 * Los costaleros desarrollan microtraumatismos acumulativos equivalentes a levantar 200kg durante 8 horas seguidas — [Universidad de Sevilla](https://www.us.es) 
 
-
-
 {{< adsterra_native >}}
 
 ## El Dolor Silencioso Bajo el Paso: El Riesgo de Lesiones Lumbar en los Costaleros de Sevilla 
@@ -83,6 +81,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Marcos Vázquez Lo Advierte: Así Escapas De La Sarcopenia Después De Los 60](/es/fitness/transformacion-fisica-despues-de-los-60/)
 - [Salomon Ultra Pirineu: ¿Héroes Ecológicos o Contaminación Disfrazada? Los](/es/fitness/running-solidario-impacto-ambiental/)
 - [La Nueva Ley del Deporte: Un Paraíso Fiscal Para Gimnasios Que Aumenta la](/es/fitness/incentivos-fiscales-gimnasios-espana/)
-
 
 *Aviso Editorial: El contenido de este artículo es informativo y no sustituye el consejo, diagnóstico o tratamiento médico profesional. Consulte siempre a un especialista antes de tomar decisiones sobre su salud.*

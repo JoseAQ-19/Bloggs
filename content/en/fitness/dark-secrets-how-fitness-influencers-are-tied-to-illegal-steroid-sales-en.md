@@ -79,28 +79,12 @@ In the quest for fitness, the truth is often the first casualty.
 - [news.google.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0R1WHZwQk5PUnMzSGFQSTh0S2QtVnJTQ3NQcDNldS1fVjJ3VXZoWVk1eXBaQ05UZXRxS0lKMXJtUG9aMXhPa2lkcGE3WlpwQ0JLdWtWZWNJeFRWem9TX3dyQ04yVU5UX2ctZ2xFcjUtR2lETnNKR2p0NlpnTG5OLU9IYjdCOFNOUmJ5bzhTT0FZcVpyc0FxQw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxON3BiT1NyRkRFbjcwMVJTbU1HUHhhTDE4a2dReFFaTlgxN1pZTXY3Yko2cGlQMEhKUU1fSl9BZ2hrSWk3TC0zejhLRWZPVzhyU001VzdUUGU1MjR5ekloQWZFcFZCRUI2elBZUk9iZE9FdF84OG0yVlZ3UVEtMDV2eDI3WXRucndvZmc?oc=5)
 
-
 ## Related Articles
 - [How One Fitness Program Is Empowering 10,000 Lives of Those With Spinal Cord Injuries](/fitness/transforming-lives-how-a-fitness-program-is-empowering-those-with-spinal-cord-injuries-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 - [The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Dark Secrets Revealed: 12 Fitness Influencers Linked to Illegal Steroid Sales",
-  "description": "Uncover shocking truths about 12 fitness influencers allegedly involved in illegal steroid sales. Explore the dark side of the fitness industry today.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-13T08:23:06",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +94,3 @@ In the quest for fitness, the truth is often the first casualty.
     }
   }
 }
-</script>

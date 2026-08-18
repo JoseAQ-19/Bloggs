@@ -91,28 +91,12 @@ Elevating the standards of senior fitness is a shared responsibility that can le
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTRJajBidEJRdnNWc3F4cmtpZkMtZUNqQkwySjlnV05WWU5heTNfN3hIR3pFdHNzZ3duTWRHUVRGSmNJMTBDZ1JvSnl0MlVkNXcyNm5QTzVraHlhbWpidnZ1RE10ejNESFRLcDE3MnRPc3k2cmh4NlNkRXNxa1NtUFYxdnNsOXU0WTd5RnVoWmRuR0xjQlJJTm83YnNPYUd2ZVZOYkg5OXM2UEs0cUpjZkdXVWllWm9v0gG4AUFVX3lxTE0xNElqMGJ0QlF2c1ZzcXhya2lmQy1lQ2pCTDJKOWdXTlZZTmF5M183eEhHekV0c3Nnd25NZEdRVEZKY0kxMENnUm9KeXQyVWQ1dzI2blBPNWtoeWFtamJ2dnVETXR6M0RIVEtwMTcydE9zeTZyaHg2U2RFc3FrU21QVjF2c2w5dTRZN3lGdWhaZG5HTGNCUklObzdic09hR3ZlVk5iSDk5czZQSzRxSmNmR1dVaWVab28?oc=5)
 
-
 ## Related Articles
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [Unlocking Longevity: 13% Lower Mortality Risk for Every 1-MET Improvement in VO2max](/fitness/unlocking-longevity-how-staying-fit-after-40-can-transform-your-life-en/)
 - [Forget Incline! 44 Degrees Is The](/fitness/upper-chest-hypertrophy-science-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "80-Year-Old Woman Holds Plank for Two Minutes: Meet the Fitness Heroes of Oklahoma",
-  "description": "Discover the inspiring story of an 80-year-old woman who holds a two-minute plank. Meet Oklahoma's fitness heroes and their incredible journeys to health.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-25T07:27:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +106,3 @@ Elevating the standards of senior fitness is a shared responsibility that can le
     }
   }
 }
-</script>

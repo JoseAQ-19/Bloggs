@@ -1,16 +1,19 @@
 ---
-title: "How a 95-Year-Old Spurs Superfan Is Breaking Age Barriers and Inspiring Generations"
-date: 2026-05-04T22:22:56
+title: How a 95-Year-Old Spurs Superfan Is Breaking Age Barriers and Inspiring Generations
+date: 2026-05-04 22:22:56
 draft: false
-description: "Discover how a 95-year-old Spurs superfan is defying age norms and inspiring young fans by showcasing passion, resilience, and community spirit."
-featured_image: "/images/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en.jpg"
-slug: "meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en"
-canonical: "https://novumworld.com/viral/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "b0632d58-92ce-317d-9be7-d5400d604eea"
+description: Discover how a 95-year-old Spurs superfan is defying age norms and inspiring
+  young fans by showcasing passion, resilience, and community spirit.
+featured_image: /images/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en.jpg
+slug: meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en
+canonical: https://novumworld.com/viral/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: b0632d58-92ce-317d-9be7-d5400d604eea
 ---
 
 ![How a 95-Year-Old Spurs Superfan Is Breaking Age Barriers and Inspiring Generations](/images/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en.jpg)
@@ -76,22 +79,7 @@ The intersection of sports, community, and aging forms a powerful narrative that
 - [The Alarming Rise of Mouth Taping: 5 Shocking Reasons Why It’s Dangerous](/viral/the-alarming-rise-of-mouth-taping-why-the-ala-is-sounding-the-alarm-en/)
 - [50 Years of Friendship: How Two Women Conquered Cancer Together and Inspired Millions](/viral/the-heartwarming-secret-behind-50-years-of-best-friendship-revealed-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "How a 95-Year-Old Spurs Superfan Is Breaking Age Barriers and Inspiring Generations",
-  "description": "Discover how a 95-year-old Spurs superfan is defying age norms and inspiring young fans by showcasing passion, resilience, and community spirit.",
-  "image": "https://novumworld.com/images/meet-the-95-year-old-spurs-superfan-stealing-hearts-as-playoffs-heat-up-en.jpg",
-  "datePublished": "2026-05-04T22:22:56",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ The intersection of sports, community, and aging forms a powerful narrative that
     }
   }
 }
-</script>

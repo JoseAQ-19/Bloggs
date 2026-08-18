@@ -1,16 +1,20 @@
 ---
-title: "94% Of Small Businesses Face Cyberattacks: The Shocking Reality Behind Your Tech Stack"
-date: 2026-05-04T15:13:50
+title: '94% Of Small Businesses Face Cyberattacks: The Shocking Reality Behind Your
+  Tech Stack'
+date: 2026-05-04 15:13:50
 draft: false
-description: "Discover the alarming truth about cyberattacks on small businesses and learn how your tech stack may be vulnerable. Safeguard your digital assets today!."
-featured_image: "/images/small-business-tech-stack-2024-en.jpg"
-slug: "small-business-tech-stack-2024-en"
-canonical: "https://novumworld.com/tools/small-business-tech-stack-2024-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "a790b7ab-f632-5f17-11c8-409bf48fd6ef"
+description: Discover the alarming truth about cyberattacks on small businesses and
+  learn how your tech stack may be vulnerable. Safeguard your digital assets today!.
+featured_image: /images/small-business-tech-stack-2024-en.jpg
+slug: small-business-tech-stack-2024-en
+canonical: https://novumworld.com/tools/small-business-tech-stack-2024-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: a790b7ab-f632-5f17-11c8-409bf48fd6ef
 ---
 
 ![94% Of Small Businesses Face Cyberattacks: The Shocking Reality Behind Your Tech Stack](/images/small-business-tech-stack-2024-en.jpg)
@@ -92,28 +96,12 @@ The future of the small business tech stack must be defined by subtraction, not 
 - [news.google.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE9lSVhmRElUNDhnZEh6TGZ2SWl4TnBocDIwRWVMSl91NEQ0TkdYMFZYS2VnT1pkU0tMNXliQUhwTlFicEVYNjhtQ3AycGhpLVNoRi1URVdhRndUNkhxdHZ2Q3lLNGMzMDRnNDVxR0pFZTd2anJnQU5tNg?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFAweVd1eEIxT3ozTmlkajgxN1Z6aXJGM0RNb3hSMlRHS2dLNXZFeVpOWlQ3SDIwTDZkWmhHcVdXNmVQTm5sUG9lbHdoWGN3Rm5GRWVSOGVzdDJ5MTFQSGppWTRPVTZXV1R5VW9hZklKUDhVX2FZYmFiT2tpV2tsUQ?oc=5)
 
-
 ## Related Articles
 - [AI Scribe Tools Can’t Replace Human Clinicians: The Shocking Truth Revealed](/tools/why-ai-scribe-tools-are-no-match-for-human-clinicians-en/)
 - [Rethinking AI: 75% Of Firms Fail By Ignoring](/tools/rethinking-ai-architecture-vs-tools-en/)
 - [The Hidden Crisis: 1 In 200 Students Falsely Accuse](/tools/marquette-ai-guide-technical-analysis-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "94% Of Small Businesses Face Cyberattacks: The Shocking Reality Behind Your Tech Stack",
-  "description": "Discover the alarming truth about cyberattacks on small businesses and learn how your tech stack may be vulnerable. Safeguard your digital assets today!.",
-  "image": "https://novumworld.com/images/small-business-tech-stack-2024-en.jpg",
-  "datePublished": "2026-05-04T15:13:50",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -123,4 +111,3 @@ The future of the small business tech stack must be defined by subtraction, not 
     }
   }
 }
-</script>

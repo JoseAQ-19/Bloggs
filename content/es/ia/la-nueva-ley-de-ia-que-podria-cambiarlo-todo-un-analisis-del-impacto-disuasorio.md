@@ -1,16 +1,19 @@
 ---
-title: "La Nueva Ley de IA Desata Polémica: 1.7 Millones de Empleos en Peligro Inminente"
-date: 2026-05-27T11:07:55
+title: 'La Nueva Ley de IA Desata Polémica: 1.7 Millones de Empleos en Peligro Inminente'
+date: 2026-05-27 11:07:55
 draft: false
-description: "La nueva ley de inteligencia artificial genera controversia al poner en riesgo 1.7 millones de empleos. Descubre los detalles y sus implicaciones."
-featured_image: "/images/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio.jpg"
-slug: "la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio"
-canonical: "https://novumworld.com/es/ia/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "05067ed4-39ae-4991-c061-1bdc3d1b8549"
+description: La nueva ley de inteligencia artificial genera controversia al poner
+  en riesgo 1.7 millones de empleos. Descubre los detalles y sus implicaciones.
+featured_image: /images/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio.jpg
+slug: la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio
+canonical: https://novumworld.com/es/ia/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 05067ed4-39ae-4991-c061-1bdc3d1b8549
 ---
 
 ![La Nueva Ley de IA Desata Polémica: 1.7 Millones de Empleos en Peligro Inminente](/images/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio.jpg)
@@ -72,22 +75,7 @@ Se recomienda a los trabajadores y empresas invertir en formación y desarrollo 
 - [IA Fraudulenta: El 67% De Saas Ofrece Funciones Que No](/es/ia/retencion-saas-ia-blameware/)
 - [Tecno-Apocali](/es/ia/tecno-apocalipsis-asi-la-ia-revivio-la-bomba-atomi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Nueva Ley de IA Desata Polémica: 1.7 Millones de Empleos en Peligro Inminente",
-  "description": "La nueva ley de inteligencia artificial genera controversia al poner en riesgo 1.7 millones de empleos. Descubre los detalles y sus implicaciones.",
-  "image": "https://novumworld.com/images/la-nueva-ley-de-ia-que-podria-cambiarlo-todo-un-analisis-del-impacto-disuasorio.jpg",
-  "datePublished": "2026-05-27T11:07:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ Se recomienda a los trabajadores y empresas invertir en formación y desarrollo 
     }
   }
 }
-</script>

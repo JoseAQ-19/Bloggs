@@ -1,16 +1,20 @@
 ---
-title: "La Nueva Ley de Illinois Impone Un Impuesto del 10% a las Transacciones Cripto y Nadie Lo Vió Venir"
-date: 2026-06-17T16:45:13
+title: La Nueva Ley de Illinois Impone Un Impuesto del 10% a las Transacciones Cripto
+  y Nadie Lo Vió Venir
+date: 2026-06-17 16:45:13
 draft: false
-description: "Descubre cómo la nueva ley de Illinois impacta las transacciones cripto con un sorpresivo impuesto del 10%. ¡Infórmate sobre sus consecuencias!."
-featured_image: "/images/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l.jpg"
-slug: "la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l"
-canonical: "https://novumworld.com/es/crypto/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "59a2dc6d-398e-9882-bb8a-3c7f2c6a72b9"
+description: Descubre cómo la nueva ley de Illinois impacta las transacciones cripto
+  con un sorpresivo impuesto del 10%. ¡Infórmate sobre sus consecuencias!.
+featured_image: /images/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l.jpg
+slug: la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l
+canonical: https://novumworld.com/es/crypto/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 59a2dc6d-398e-9882-bb8a-3c7f2c6a72b9
 ---
 
 ![La Nueva Ley de Illinois Impone Un Impuesto del 10% a las Transacciones Cripto y Nadie Lo Vió Venir](/images/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l.jpg)
@@ -75,7 +79,6 @@ La situación en Illinois es un claro recordatorio de que la regulación puede t
 - [Las Instituciones Pierden Fe en Bitcoin: 72% De Inversores Cambian Su Estrategia](/es/crypto/las-instituciones-han-perdido-la-fe-en-bitcoin-ipc-e-iran-podrian-cambiar-el-juego/)
 - [El Adiós De Mark Cuban A Bitcoin: Un Desencanto Que Sacude El Mercado](/es/crypto/mark-cuban-se-despide-de-bitcoin-el-desencanto-detras-de-su-salida-del-cripto-mundo/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -84,18 +87,7 @@ La situación en Illinois es un claro recordatorio de que la regulación puede t
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Nueva Ley de Illinois Impone Un Impuesto del 10% a las Transacciones Cripto y Nadie Lo Vió Venir",
-  "description": "Descubre cómo la nueva ley de Illinois impacta las transacciones cripto con un sorpresivo impuesto del 10%. ¡Infórmate sobre sus consecuencias!.",
-  "image": "https://novumworld.com/images/la-controvertida-aprobacion-del-impuesto-a-las-transacciones-cripto-en-illinois-que-significa-para-l.jpg",
-  "datePublished": "2026-06-17T16:45:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +97,3 @@ La situación en Illinois es un claro recordatorio de que la regulación puede t
     }
   }
 }
-</script>

@@ -1,16 +1,20 @@
 ---
-title: "El Congreso Oculta Un Plan Secreto: Exenciones Fiscales Que Favorecen a Los Criptoinversores."
-date: 2026-06-05T16:44:25
+title: 'El Congreso Oculta Un Plan Secreto: Exenciones Fiscales Que Favorecen a Los
+  Criptoinversores.'
+date: 2026-06-05 16:44:25
 draft: false
-description: "Descubre cómo el Congreso oculta un plan secreto que otorga exenciones fiscales a los criptoinversores y qué significa para el futuro de las criptomonedas."
-featured_image: "/images/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas.jpg"
-slug: "el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas"
-canonical: "https://novumworld.com/es/crypto/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "d5709af1-8944-3445-2e01-7c5f9e2e34e9"
+description: Descubre cómo el Congreso oculta un plan secreto que otorga exenciones
+  fiscales a los criptoinversores y qué significa para el futuro de las criptomonedas.
+featured_image: /images/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas.jpg
+slug: el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas
+canonical: https://novumworld.com/es/crypto/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: d5709af1-8944-3445-2e01-7c5f9e2e34e9
 ---
 
 ![El Congreso Oculta Un Plan Secreto: Exenciones Fiscales Que Favorecen a Los Criptoinversores.](/images/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas.jpg)
@@ -58,7 +62,6 @@ La exención fiscal para criptoinversores es una medida que prioriza intereses c
 - [El 80% de Los Inversores Españoles en Criptomonedas Ignoran la Volatilidad de BTCUSD](/es/crypto/la-evolucion-del-mercado-analisis-de-btcusd-y-sus-implicaciones/)
 - [XRP En Caída: Bitcoin Podría Ser La Última Esperanza Para El Mercado Cripto](/es/crypto/xrp-en-caida-puede-bitcoin-salvar-al-resto-del-mercado-cripto/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -67,18 +70,7 @@ La exención fiscal para criptoinversores es una medida que prioriza intereses c
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Congreso Oculta Un Plan Secreto: Exenciones Fiscales Que Favorecen a Los Criptoinversores.",
-  "description": "Descubre cómo el Congreso oculta un plan secreto que otorga exenciones fiscales a los criptoinversores y qué significa para el futuro de las criptomonedas.",
-  "image": "https://novumworld.com/images/el-congreso-de-ee-uu-considera-exenciones-fiscales-para-pequenas-transacciones-en-criptomonedas.jpg",
-  "datePublished": "2026-06-05T16:44:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +80,3 @@ La exención fiscal para criptoinversores es una medida que prioriza intereses c
     }
   }
 }
-</script>

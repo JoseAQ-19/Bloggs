@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth: Cardiorespiratory Fitness Slashes Disease Risk by 12%"
-date: 2026-04-24T06:12:38
+title: 'The Shocking Truth: Cardiorespiratory Fitness Slashes Disease Risk by 12%'
+date: 2026-04-24 06:12:38
 draft: false
-description: "Discover how improving your cardiorespiratory fitness can reduce disease risk by 12%. Uncover the shocking truth behind this vital health factor."
-featured_image: "/images/how-cardiorespiratory-fitness-can-define-your-aging-journey-en.jpg"
-slug: "how-cardiorespiratory-fitness-can-define-your-aging-journey-en"
-canonical: "https://novumworld.com/fitness/how-cardiorespiratory-fitness-can-define-your-aging-journey-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "3c5b97a4-6810-b425-cfac-27849c8affe1"
+description: Discover how improving your cardiorespiratory fitness can reduce disease
+  risk by 12%. Uncover the shocking truth behind this vital health factor.
+featured_image: /images/how-cardiorespiratory-fitness-can-define-your-aging-journey-en.jpg
+slug: how-cardiorespiratory-fitness-can-define-your-aging-journey-en
+canonical: https://novumworld.com/fitness/how-cardiorespiratory-fitness-can-define-your-aging-journey-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 3c5b97a4-6810-b425-cfac-27849c8affe1
 ---
 
 ![The Shocking Truth: Cardiorespiratory Fitness Slashes Disease Risk by 12%](/images/how-cardiorespiratory-fitness-can-define-your-aging-journey-en.jpg)
@@ -68,28 +71,12 @@ Investing in cardiorespiratory fitness is essential for longevity and quality of
 - [news.google.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0Z4TGdfZklmbE9zMzFnYUhWN0k2UUhWMV9McmlhMHZGUnh4cVNlbEFpNVhzcU9Ic2xZWVg2dzY1VmRaUkQ0R1NHdko5blA0dUpyemRRZE5NVWt4SzdEa3ppQWRMS0hjNHJJS1RkRTA4N00wU1oxSEVUc3hpUlNORjNPaVYtQQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxNT3lPQ3dXSXNNY0QyT1dNTTB1Xy1XSUR0enhXVEZIajJZRFRIZ2lhN09PT3l0eXZnZndUcXpmNXZpZHRudmNxaGd5S1NuSWp0U0NRMVM2T0ptQkpIdjRyV3N1Rjl4aEU1MlotUzJ4VjhhVEtkQmJrR2hqTDgtZVd5N2NJZnY5cDZCa1J6QmZuc0U?oc=5)
 
-
 ## Related Articles
 - [Planet Fitness Exposed: The Bear C](/fitness/planet-fitness-growth-strategy-en/)
 - [70% Of Young Athletes Quit Sports: Manchester City's Hidden Fitness Challenge](/fitness/young-talent-on-the-rise-manchester-citys-fitness-challenges-amidst-competition-en/)
 - [75% Of US Youth Are Not Active Enough: The Shocking Truth Behind Compulsory PE](/fitness/should-fitness-classes-be-mandatory-a-deep-dive-into-the-debate-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Cardiorespiratory Fitness Slashes Disease Risk by 12%",
-  "description": "Discover how improving your cardiorespiratory fitness can reduce disease risk by 12%. Uncover the shocking truth behind this vital health factor.",
-  "image": "https://novumworld.com/images/how-cardiorespiratory-fitness-can-define-your-aging-journey-en.jpg",
-  "datePublished": "2026-04-24T06:12:38",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -99,4 +86,3 @@ Investing in cardiorespiratory fitness is essential for longevity and quality of
     }
   }
 }
-</script>

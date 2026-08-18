@@ -1,16 +1,19 @@
 ---
-title: "Tim Payne: El Futbolista Que Pasó De 5 Mil A Más De Un Millón De Seguidores"
-date: 2026-06-02T22:34:01
+title: 'Tim Payne: El Futbolista Que Pasó De 5 Mil A Más De Un Millón De Seguidores'
+date: 2026-06-02 22:34:01
 draft: false
-description: "Descubre la inspiradora historia de Tim Payne, el futbolista que conquistó las redes sociales y alcanzó más de un millón de seguidores. ¡No te lo pierdas!."
-featured_image: "/images/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber.jpg"
-slug: "tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber"
-canonical: "https://novumworld.com/es/viral/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "67c87cba-c8ed-12c3-77fb-c98cd182cfb6"
+description: Descubre la inspiradora historia de Tim Payne, el futbolista que conquistó
+  las redes sociales y alcanzó más de un millón de seguidores. ¡No te lo pierdas!.
+featured_image: /images/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber.jpg
+slug: tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber
+canonical: https://novumworld.com/es/viral/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 67c87cba-c8ed-12c3-77fb-c98cd182cfb6
 ---
 
 ![Tim Payne: El Futbolista Que Pasó De 5 Mil A Más De Un Millón De Seguidores](/images/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber.jpg)
@@ -63,28 +66,12 @@ El fenómeno de Tim Payne no solo es un caso aislado, sino que puede ser un indi
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOenl6WGY4UTV3WnB0MW5CbnRIeHc2MnBzSWZyN2RGeUFHRVVKcnBRbFpCVzl3VlpielNQbGJQSkRwU1J6blpxS3dwcW1peXdkZWZpOWVYOE01Y2NnN2JFQlo2QnI1b1hiTURveGFlMHpxSFF2UFhFLVNKV1B3NkZUWUY1MWRUWk1BTnRNZm5sbHRLazhCY2d6cG9NQkRkclBad3FMV2RBR1E2WXJwYVE?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQl94dnJCYUN3Z1QyS1hvWVVGOEZZa3pzbTYxOFFfdlZGdDNQZjF4dmlRX20tV0FvQmZSSkZvTk1mUmJLUE1kTlIzLXQ3ZmlGbXdvSmo4TTZrWEtudWJZb3dNbGo0R2Y5OFlBa3RlZUFGQVVoS1dPVUExR0wyM1pJSVhtMWkxaHJUUUk2WVZPaEZ5T3BLaVhGRzNvUGlGa3dOUnctSGxwTHJoNnV1MXpuTVVVZXpYLXlWT09nWXBaQktIbldnbjdkUExvcG3SAdIBQVVfeXFMTjdXODF5RGxfN2NrNzZJb0ZsWTJWQl8wMzdSX0xjWWZ2V3hkYVR0N0NXc3cwaGhvcFM5SlgxeEp1TkM4ZXBBVGFFOHdubU53NWwyTlRsN2p5eVg1RTBjSXRPYUJfblcySVZMZF9Wb0lGWHpDcDM3VnNZakhLRkJVSThiMGVTNWFFQm1qcm5nSXVBeC0xbUd0Nm1OVmY3cy1ZM2cxNldyd3ZWYjlCUVlXVldxZU56elJIM3NMZzR5SGxPVVM3eFdYR1Z2WlRtS3FmNVdn?oc=5)
 
-
 ## Artículos relacionados
 - [Adiós, Tama: El Desplome Turístico de Wak](/es/viral/tama-gata-jefa-estacion-wakayama/)
 - [Terianos: La Revolución Silenciosa Que Está Reconfi](/es/viral/terianos-cuba-polemica-redes/)
 - [La Reacción](/es/viral/no-te-pierdas-la-reaccion-epica-de-arbeloa-al-ver-a-mbappe-entrar-tarde-al-etihad/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Tim Payne: El Futbolista Que Pasó De 5 Mil A Más De Un Millón De Seguidores",
-  "description": "Descubre la inspiradora historia de Tim Payne, el futbolista que conquistó las redes sociales y alcanzó más de un millón de seguidores. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/tim-payne-el-futbolista-del-mundial-que-conquisto-las-redes-gracias-a-un-youtuber.jpg",
-  "datePublished": "2026-06-02T22:34:01",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -94,4 +81,3 @@ El fenómeno de Tim Payne no solo es un caso aislado, sino que puede ser un indi
     }
   }
 }
-</script>

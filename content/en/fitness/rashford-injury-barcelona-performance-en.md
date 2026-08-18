@@ -30,8 +30,6 @@ The global sports technology market is a financial bubble poised to burst, proje
 * In the 2024-2025 Premier League season, there were 593 time-loss injuries, amounting to over 21,000 combined days lost.
 * Sports tech like STATSports can help manage player load and potentially assist with injury risk assessment.
 
-
-
 {{< adsterra_native >}}
 
 ## "Hamstring Hack or Hype? STATSports' $35M Gamble on Rashford's Limp"
@@ -71,6 +69,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Shamrock Shake OUT, Abs IN: Waco''s Body Recomp Hack For St. Patrick''s Day](/en/fitness/st-patricks-day-fitness-waco-en/)
 - [Planet Fitness Employee Stabbed by Banned Customer Despite 15 Cameras Watching](/en/fitness/shocking-stabbing-incident-at-planet-fitness-employee-attacked-by-banned-customer-en/)
 - [Wearable Fitness Data To Explode To $703 Billion: But There''s A Catch](/en/fitness/data-integration-wearable-fitness-en/)
-
 
 *Editorial Disclosure: The content of this article is informational and does not replace professional medical advice, diagnosis, or treatment. Always consult a specialist before making health decisions.*

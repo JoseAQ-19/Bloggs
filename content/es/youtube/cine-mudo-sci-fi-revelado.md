@@ -29,8 +29,6 @@ El auge de los deepfakes en España no es una revolución creativa, sino una ame
 * La Agencia Española de Protección de Datos (AEPD) ya ha sancionado la creación y difusión de imágenes falsas de contenido sexual generadas por IA, dejando claro que los deepfakes constituyen un procesamiento ilícito de datos personales.
 * Ciudadanos y entidades legales españolas se enfrentan a riesgos crecientes de daños a su reputación y manipulación debido a los deepfakes, lo que exige una mayor vigilancia y conocimiento de las protecciones legales disponibles.
 
-
-
 {{< adsterra_native >}}
 
 ## Borja Adsuara Contra El Gobierno: ¿Medidas Reales o Un Simple Anuncio Contra Los Deepfakes?
@@ -90,6 +88,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [¿Comida Rápida? La Crítica DEVASTADORA Al Estilo MrBeast Que Sacude YouTube.](/es/youtube/mrbeast-formula-viral-youtube/)
 - [YouTube en Android Auto: 7 Métodos Reales, Sus Riesgos y Lo Que Google No](/es/youtube/youtube-android-auto-trucos-riesgos-alternativas/)
 - [YouTube Revela Su Impactante Resumen Personalizado de 2025 y Crea Expectativa](/es/youtube/youtube-unveils-personalized-year-end-recap-feature-top-overall-trends-and-creators-of-2025/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -83,28 +83,12 @@ For fans, closely following the upcoming match and supporting the team could amp
 - [news.google.com](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa3RrUUNaYXQ0SmRXZ1BTb3o4a1pjaUNlRUItZUF1QzVQWFpqQjRWVWZFYUZlaUoya2hmS1REUGtWbm4zQjhrNW4wS1pNSUItN01RTGRxN3VZR0tPYmNDZmxyamlyWHdMNkRnOHRhY0gwZ245RXA0SmhqczBYbTRkSS0xdE9qbjVyVFEwQXhQbC1sTUZJY2laNGxVUzIwSTNkdVlheFRVQUxvZzVCeUNwU3hKWVBrV214SmRScHUtcm41cDRQd29RUmRVaDBrU1l6Rmo0QVZnV2Rna1pXc2JLWGhiUm1YTGVWaUlMVjlyVWl4MjMwZW9xZWhVSQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE83LW04M1AzVU1zdHA4cHdQVlI0dmdDSlV5d25CTzF6dlBMUXhlY2YydTluaGhUOEFwa3U1VnpvX3I4MVRVeENqekI5TFVPWDh4Wk5QN0pHLTg1N3h3blNSUnhDZjVpbUpUWG1lVktxU3BVZmw4Q1Nr?oc=5)
 
-
 ## Related Articles
 - [Unlocking Brainpower: 150 Minutes of Exercise Boosts BDNF Levels Like Never Before](/fitness/unlocking-brilliance-how-a-single-workout-boosts-your-brainpower-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 - [The Shocking Partnership: Les Mills And HYROX Boost Gym Retention By 75%](/fitness/unleashing-potential-les-mills-and-hyrox-join-forces-to-energize-the-global-fitness-scene-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "England's Fitness Surge: 9 Reasons They Can Overcome Norway for World Cup Glory",
-  "description": "Discover how England's fitness edge can help them triumph over Norway in the World Cup. Explore 9 key reasons for their potential success today!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-07-11T07:20:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +98,3 @@ For fans, closely following the upcoming match and supporting the team could amp
     }
   }
 }
-</script>

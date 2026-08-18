@@ -1,16 +1,20 @@
 ---
-title: "Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina"
-date: 2026-06-17T07:26:30
+title: 'Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in
+  South Carolina'
+date: 2026-06-17 07:26:30
 draft: false
-description: "Explore the mysterious case of a personal trainer who vanished after leaving Planet Fitness in South Carolina. Uncover the details of this perplexing."
-featured_image: "/images/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en.jpg"
-slug: "vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en"
-canonical: "https://novumworld.com/fitness/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "d334267c-4c1b-62af-4e1d-fab86a476547"
+description: Explore the mysterious case of a personal trainer who vanished after
+  leaving Planet Fitness in South Carolina. Uncover the details of this perplexing.
+featured_image: /images/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en.jpg
+slug: vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en
+canonical: https://novumworld.com/fitness/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: d334267c-4c1b-62af-4e1d-fab86a476547
 ---
 
 ![Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina](/images/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en.jpg)
@@ -78,28 +82,12 @@ La desaparición de Moore es un recordatorio de la importancia de la vigilancia 
 - [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGZ5RHpvQ19nS1poTW91NEZ6MG1rVUlfdE54a1FEc1NjOFN6QVp5dlE5emNjUnhwLTdXcEtLODhXS0E1bTBxeXJaNFVoRmgtU0p0NklZaW9uQk9LcFpZUUFoenNINGQtU25Rak1fbHlXQmNQWW1mQnE2R3ZEdm5fYTRNb2Jmb1V3NUlvb245WkZiU1hMZmdXZXB4czZydWpSbERGQ1RIall5eFFDUTVoUtIBtgFBVV95cUxObGludjBId24ydjl1WkZqcTZBeUhmVlUzaWJSNzRNN2h0MXRVUjN0Z3VOSXRQVW85MDNWS05zVW5vV1B6ODgzNUJjZ1pIRTU0NWQ0Z3N1aHpzM2FqcWI3RTJBTzdaYWgxak1UdmRkYnJmN2g5cjFXVVN2YmZvRllOTzJzd3lhVUpHY1ZMX1h4NXoxa2djczJiWmRDcnNMZ0JqMzJwMThMc2sweDJ2MndWcC1oU1ZrUQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmdRREMyZnNlalJzQ1FqNGFYdXRHU0pkR28tYktjUGRhWDRUNm84ZWZVX21IaEo5NHNTNXNMcElJaE05T1ljelYtOG5pWHJaZ2dfSk5uOWlvUzRwUW9OQUpaM3R4d0ZWTWluVEdzWHExcFJQc3JoNXBjVmg0ZDRnT1FSMlJXMW9mV0JJTHhRWFBGTlByN28tTTVONHF0Z0g1OXByUGpPZEdkR2pkb1NwVHRzcFFCSnpuTzFacWxRdUh5UVJpNGdzQnhsb28zdU5u?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth: Why Fitness Experts Say BMEA Pilates Ring Is Essential After 40](/fitness/unlock-your-potential-why-the-bmea-pilates-ring-is-a-game-changer-for-your-fitness-routine-en/)
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Vanishing Act: Personal Trainer Disappears After Leaving Planet Fitness in South Carolina",
-  "description": "Explore the mysterious case of a personal trainer who vanished after leaving Planet Fitness in South Carolina. Uncover the details of this perplexing.",
-  "image": "https://novumworld.com/images/vanishing-act-woman-disappears-after-leaving-planet-fitness-in-south-carolina-en.jpg",
-  "datePublished": "2026-06-17T07:26:30",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +97,3 @@ La desaparición de Moore es un recordatorio de la importancia de la vigilancia 
     }
   }
 }
-</script>

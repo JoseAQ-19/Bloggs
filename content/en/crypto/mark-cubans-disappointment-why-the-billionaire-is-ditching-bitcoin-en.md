@@ -1,16 +1,19 @@
 ---
-title: "95.58 Terawatt-Hours: Why Mark Cuban Is Ditching Bitcoin Forever"
-date: 2026-05-29T17:25:45
+title: '95.58 Terawatt-Hours: Why Mark Cuban Is Ditching Bitcoin Forever'
+date: 2026-05-29 17:25:45
 draft: false
-description: "Discover why Mark Cuban is turning away from Bitcoin, as we explore the significance of 95.58 terawatt-hours on cryptocurrency's future."
-featured_image: "/images/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en.jpg"
-slug: "mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en"
-canonical: "https://novumworld.com/crypto/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "5435a14c-2926-1245-4d56-b249395c245c"
+description: Discover why Mark Cuban is turning away from Bitcoin, as we explore the
+  significance of 95.58 terawatt-hours on cryptocurrency's future.
+featured_image: /images/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en.jpg
+slug: mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en
+canonical: https://novumworld.com/crypto/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 5435a14c-2926-1245-4d56-b249395c245c
 ---
 
 ![95.58 Terawatt-Hours: Why Mark Cuban Is Ditching Bitcoin Forever](/images/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en.jpg)
@@ -78,12 +81,10 @@ The evolving landscape of cryptocurrency demands adaptability and vigilance from
 - [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGljU2Z5NnpOZC14X0I3OHpvYkI1NFk5WlJtOVU5akRkb2poM0VkcFR4MC01dXk0THdwSXp1RXV2dWczOHdxMFY4RnN4elNCdVlrVGxiYUtCbzhMa0R5aFhwcmZUamMwUU0tdFQydzdfdUtEaGxLa2VDRUdVSmRGeVBaZE5HSEV5ZmFOSHgxV0xCYU13ZVk0bXhR?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMirgJBVV95cUxPSTViaVE0WlIzaS11S2ttZXB3Tm9yekRoaFRMME1fM3VqRE9Nb2VaLVhEendMSmZnYUNVeDUwTVJfVWFKZGRHcDg3VDdCRXZHQjh5djRwMTZsVlM2NmdiNEhNZ0lVS29WSHBIWjF2dXJCQU0ydEpRWE1WZmxlSHNSMTBVZW5ZTS1BbW1PdUNpMlpwZWZYcXZnNzBEb1UxQ0FHeUxZRmx5R0QtYnFCRUtMYU82ODZoLVJjSU1nOEM2eC05eG02dkFaaEFBRlduRjlFUGJFZmJNNjF5TmpIcmRMVE9vUi1iQzF1bWRuM3ZEOFhkY05Mb29GMzRnY0x2WEd2dlM1ZDZoZ2pxcVNwUzcwYlp5TER4S2VzRHk4SS14R3RxeUtMNnU4SEZ3UF84UQ?oc=5)
 
-
 ## Related Articles
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
 - [Trump’s Shocking Call to Action: 65% of Millennials Choose Crypto Over Stocks](/crypto/trumps-call-to-action-will-crypto-firms-and-automakers-really-open-banks-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -93,18 +94,7 @@ The evolving landscape of cryptocurrency demands adaptability and vigilance from
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "95.58 Terawatt-Hours: Why Mark Cuban Is Ditching Bitcoin Forever",
-  "description": "Discover why Mark Cuban is turning away from Bitcoin, as we explore the significance of 95.58 terawatt-hours on cryptocurrency's future.",
-  "image": "https://novumworld.com/images/mark-cubans-disappointment-why-the-billionaire-is-ditching-bitcoin-en.jpg",
-  "datePublished": "2026-05-29T17:25:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +104,3 @@ The evolving landscape of cryptocurrency demands adaptability and vigilance from
     }
   }
 }
-</script>

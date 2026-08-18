@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Tale Of A Phillies Fan Who Stole Hearts With A Ball Swap"
-date: 2026-06-22T22:45:45
+title: The Shocking Tale Of A Phillies Fan Who Stole Hearts With A Ball Swap
+date: 2026-06-22 22:45:45
 draft: false
-description: "Discover the heartwarming story of a Phillies fan who captivated everyone with an unforgettable ball swap that stole hearts and showcased true."
-featured_image: "/images/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en.jpg"
-slug: "crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en"
-canonical: "https://novumworld.com/viral/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "c66731ac-f5be-483d-fea1-c0eb13fde0e8"
+description: Discover the heartwarming story of a Phillies fan who captivated everyone
+  with an unforgettable ball swap that stole hearts and showcased true.
+featured_image: /images/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en.jpg
+slug: crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en
+canonical: https://novumworld.com/viral/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: c66731ac-f5be-483d-fea1-c0eb13fde0e8
 ---
 
 ![The Shocking Tale Of A Phillies Fan Who Stole Hearts With A Ball Swap](/images/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en.jpg)
@@ -76,22 +79,7 @@ In a landscape often dominated by rivalry and competition, McCarthy's act stands
 - [Parents Outraged: Squishy Toy's Hidden Dangers Exposed By Consumer Reports](/viral/the-squishy-toy-everyones-talking-about-hits-east-longmeadow-shelves-en/)
 - [The Odyssey Reimagined: 5 Hollywood Heavyweights Transform Epic Into Musical Masterpiece](/viral/the-odyssey-reimagined-epic-musical-set-for-animated-adaptation-by-hollywood-heavyweights-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Tale Of A Phillies Fan Who Stole Hearts With A Ball Swap",
-  "description": "Discover the heartwarming story of a Phillies fan who captivated everyone with an unforgettable ball swap that stole hearts and showcased true.",
-  "image": "https://novumworld.com/images/crafty-phillies-fan-swaps-mets-home-run-ball-and-steals-hearts-online-en.jpg",
-  "datePublished": "2026-06-22T22:45:45",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ In a landscape often dominated by rivalry and competition, McCarthy's act stands
     }
   }
 }
-</script>

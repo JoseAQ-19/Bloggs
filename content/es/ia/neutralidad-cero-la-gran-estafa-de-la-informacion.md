@@ -28,8 +28,6 @@ La supuesta "neutralidad" periodística: una farsa peligrosa.
 
 En una época donde la información nos bombardea sin cesar, la insistencia en la "neutralidad" en el periodismo suena más a propaganda que a virtud. La idea de que un periodista puede ser un conducto impoluto de "hechos", sin sesgos ni agendas, es una mentira que perpetúa la desinformación y el conformismo. Es hora de incinerar esta noción de una vez por todas.
 
-
-
 {{< adsterra_native >}}
 
 ## La "objetividad": un mito fundacional conveniente
@@ -81,6 +79,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [La IA Manipula Votos: 70% de Españoles Temen la Desinformación Electoral](/es/ia/la-ia-como-arbitro-electoral-puede-influir-en-tu-voto/)
 - [¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos](/es/ia/fine-tuning-transformers-datos-escasos-estafa/)
 - [La IA Que Predice Respuestas a Inmunoterapia Con 91.66% de Precisión y Nadie](/es/ia/la-ia-que-podria-cambiar-el-futuro-del-diagnostico-del-cancer-estamos-listos-para-confiar-en-algorit/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

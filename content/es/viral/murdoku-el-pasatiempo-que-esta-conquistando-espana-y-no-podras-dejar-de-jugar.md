@@ -1,16 +1,19 @@
 ---
-title: "21.3% De Adolescentes Españoles Son Adictos A Murdoku Y Nadie Lo Sabe"
-date: 2026-05-21T22:08:13
+title: 21.3% De Adolescentes Españoles Son Adictos A Murdoku Y Nadie Lo Sabe
+date: 2026-05-21 22:08:13
 draft: false
-description: "Descubre cómo el 21.3% de los adolescentes españoles se enfrenta a la adicción al Murdoku y la falta de conciencia sobre este problema creciente."
-featured_image: "/images/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar.jpg"
-slug: "murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar"
-canonical: "https://novumworld.com/es/viral/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "es"
-translationKey: "5307a329-d1d9-a574-4209-97a6525008e8"
+description: Descubre cómo el 21.3% de los adolescentes españoles se enfrenta a la
+  adicción al Murdoku y la falta de conciencia sobre este problema creciente.
+featured_image: /images/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar.jpg
+slug: murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar
+canonical: https://novumworld.com/es/viral/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: es
+translationKey: 5307a329-d1d9-a574-4209-97a6525008e8
 ---
 
 ![21.3% De Adolescentes Españoles Son Adictos A Murdoku Y Nadie Lo Sabe](/images/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar.jpg)
@@ -67,22 +70,7 @@ La burbuja de la adicción a los videojuegos está en riesgo de estallar, y si n
 - [Sofía Contra Alcaraz: El Incómodo Encuentro](/es/viral/reina-sofia-alcaraz-polemica-miami/)
 - [Carriedo Desata la Ira Médica: ¿Pel](/es/viral/marta-carriedo-polemica-vacunas-infantiles/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "21.3% De Adolescentes Españoles Son Adictos A Murdoku Y Nadie Lo Sabe",
-  "description": "Descubre cómo el 21.3% de los adolescentes españoles se enfrenta a la adicción al Murdoku y la falta de conciencia sobre este problema creciente.",
-  "image": "https://novumworld.com/images/murdoku-el-pasatiempo-que-esta-conquistando-espana-y-no-podras-dejar-de-jugar.jpg",
-  "datePublished": "2026-05-21T22:08:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -92,4 +80,3 @@ La burbuja de la adicción a los videojuegos está en riesgo de estallar, y si n
     }
   }
 }
-</script>

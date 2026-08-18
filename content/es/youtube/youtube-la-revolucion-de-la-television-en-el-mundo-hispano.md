@@ -1,16 +1,20 @@
 ---
-title: "YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube"
-date: 2026-05-13T19:14:02
+title: 'YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo
+  Para YouTube'
+date: 2026-05-13 19:14:02
 draft: false
-description: "YouTube ha superado a Netflix en España, acaparando el 12.9% del tiempo de televisión. Descubre cómo y por qué en nuestro artículo."
-featured_image: "/images/youtube-la-revolucion-de-la-television-en-el-mundo-hispano.jpg"
-slug: "youtube-la-revolucion-de-la-television-en-el-mundo-hispano"
-canonical: "https://novumworld.com/es/youtube/youtube-la-revolucion-de-la-television-en-el-mundo-hispano/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "3d5f4226-0828-b973-e58e-07800e56494a"
+description: YouTube ha superado a Netflix en España, acaparando el 12.9% del tiempo
+  de televisión. Descubre cómo y por qué en nuestro artículo.
+featured_image: /images/youtube-la-revolucion-de-la-television-en-el-mundo-hispano.jpg
+slug: youtube-la-revolucion-de-la-television-en-el-mundo-hispano
+canonical: https://novumworld.com/es/youtube/youtube-la-revolucion-de-la-television-en-el-mundo-hispano/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 3d5f4226-0828-b973-e58e-07800e56494a
 ---
 
 ![YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube](/images/youtube-la-revolucion-de-la-television-en-el-mundo-hispano.jpg)
@@ -77,28 +81,12 @@ El auge de YouTube sobre Netflix en España destaca una transformación en el co
 - [news.google.com](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVBoaFZrMkU5NjFTQXBnRGswNi13RExBN0tWYWdfVEJ2OFNsYXV4WGpSbGs5OERYNGxsX05DM08yWHNEbzByWXNOV2g0MERGUmVQdGVwRTNPV29YNTg3U2R3amR0dTh0MzZ4cUZpSU9sSXhFdExvbkE4eXBQWHYzYXN3cW4zZmNIWWhySTVJZkNTSDJxX09IQWpTb3NZeG5RQUl4Tk9KWk5JM2lSZGhqXzNBS0t2TTBMY2pjU0ZNWkJPbExoNUtpSldGUHbSAdIBQVVfeXFMTTZ2LXFNSmYwVXFucVNkWWZieEdEYTV6dVlUY21MNVVwd3FGX3Y0V1ltU2dtdDRhaXo1ZUhMZG4xQzViNkFRUHRLZHlnMGpudENFTmZKenZlZTBENUJJcTQ3R0c2dHZVSHFVVW9wSnA1T1p3S19ITElSeHpoZXNlTWx6b2VJWXVQWWN5Y2xxRk84bTEzWVBSY1BEMEZrTU1DdG51bGtORE85LWhxOWI1SUEyNTE0S2Q3OVlRZ0NjT1o5Tmg0SFdiYXB3cFBTeEt6ZFR3?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0J0RndOODlBeDdPal96bkpJdDdna3V0QVJiNjhTQVZMY2locEFjMGVYWlh2Y04yWGxqU1VENkdVSnE2QmRfMVE4eUpNdnJOc210bUhqcVBCdThuT3RxZHJJVEk4RG82UW1WX2tRRzZPOVVQLUVOZEpOdHpFcEhpaUJKbnl0SXRBTkFXOE1ialB3cUkybUZsZnhSbDhJMmxjaHp6a0NqaXlmRzFqaGRXR2pLR1VhdHItc3lmSDRTVVlLQQ?oc=5)
 
-
 ## Artículos relacionados
 - [YouTube Revoluciona la Visualización: 20 Millones de Españoles Consumirán Resúmenes de IA](/es/youtube/youtube-revoluciona-la-experiencia-de-visualizacion-con-resumenes-de-videos-en-segundos-gracias-a-la/)
 - [YouTube, Se Acabó: Obligan a](/es/youtube/youtube-anuncios-30-segundos-enfado-usuarios/)
 - [YouTube Revive La Nost](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Supera a Netflix: 12.9% del Tiempo de Televisión en España es Solo Para YouTube",
-  "description": "YouTube ha superado a Netflix en España, acaparando el 12.9% del tiempo de televisión. Descubre cómo y por qué en nuestro artículo.",
-  "image": "https://novumworld.com/images/youtube-la-revolucion-de-la-television-en-el-mundo-hispano.jpg",
-  "datePublished": "2026-05-13T19:14:02",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ El auge de YouTube sobre Netflix en España destaca una transformación en el co
     }
   }
 }
-</script>

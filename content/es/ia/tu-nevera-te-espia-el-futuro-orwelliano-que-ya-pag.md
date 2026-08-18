@@ -21,8 +21,6 @@ type: ia
 
 Los televisores inteligentes (Smart TVs) activamente recopilan y transmiten datos sobre hábitos de visualización mediante Reconocimiento Automático de Contenido (ACR), una tecnología que actúa como un "Shazam ...
 
-
-
 {{< adsterra_native >}}
 
 ## El Gran Hermano en el Salón de Estar: La Vigilancia Doméstica que Ya Estás Financiando
@@ -68,6 +66,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [El Dossier Fantasma: Cuando la Opacidad es la Estrategia](/es/ia/el-dossier-fantasma-cuando-la-opacidad-es-la-estra/)
 - [El Mito del Progreso: Cómo la IA Nos Vende un Futuro que No Existe](/es/ia/el-mito-del-progreso-como-la-ia-nos-vende-un-futur/)
 - [Groenlandia: El Cisne Negro que Derrumbará el Imperio Digital de EEUU](/es/ia/groenlandia-el-cisne-negro-que-derrumbara-el-imper/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

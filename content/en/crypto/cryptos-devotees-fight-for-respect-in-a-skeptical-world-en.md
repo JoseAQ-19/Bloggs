@@ -31,8 +31,6 @@ Total Value Locked (TVL) in decentralized finance has collapsed by $72 billion s
 
 This capital flight is not merely a market correction; it is a repricing of risk triggered by a macroeconomic environment that no longer tolerates unaudited experimentation. The era of "degenerate" yield farming has effectively ended, replaced by a harsh Darwinian filter where only protocols with verifiable cash flows and institutional-grade security survive. Institutional investors, once seduced by the promise of passive income, are retreating to the safety of audited lending markets like **Aave** or **Morpho**, leaving high-leverage vaporware to rot.
 
-
-
 {{< adsterra_native >}}
 
 ## The $72 Billion Question: What Went Wrong in DeFi?
@@ -98,6 +96,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Next, Thanks To The SEC?](/en/crypto/sec-enforcement-crypto-regulation-en/)
 - [Hyperliquid's $47 Billion Volume Week Exposes Bitcoin's Fading Macro Hedge](/en/crypto/hyperliquid-volumes-bitcoin-weakness-en/)
 - [OpenClaw''s $120 Billion Seed Phrase Disaster: Is Your Crypto Next?](/en/crypto/openclaw-crypto-wallet-phishing-attack-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

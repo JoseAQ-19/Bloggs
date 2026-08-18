@@ -1,16 +1,20 @@
 ---
-title: "Gavin McKenna Revolutionizes NHL Scouting Combine With Unprecedented Fitness Testing Breakthrough"
-date: 2026-06-07T06:45:33
+title: Gavin McKenna Revolutionizes NHL Scouting Combine With Unprecedented Fitness
+  Testing Breakthrough
+date: 2026-06-07 06:45:33
 draft: false
-description: "Discover how Gavin McKenna is transforming NHL scouting combines with groundbreaking fitness tests that reshape athlete evaluations and scouting."
-featured_image: "/images/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en.jpg"
-slug: "gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en"
-canonical: "https://novumworld.com/fitness/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "3b4d9b40-d1c2-b40a-a8a2-d1e600b18111"
+description: Discover how Gavin McKenna is transforming NHL scouting combines with
+  groundbreaking fitness tests that reshape athlete evaluations and scouting.
+featured_image: /images/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en.jpg
+slug: gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en
+canonical: https://novumworld.com/fitness/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 3b4d9b40-d1c2-b40a-a8a2-d1e600b18111
 ---
 
 ![Gavin McKenna Revolutionizes NHL Scouting Combine With Unprecedented Fitness Testing Breakthrough](/images/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en.jpg)
@@ -78,22 +82,7 @@ The time for innovation is now, and teams that resist change may find themselves
 - [Tiny Influencers Are Generating Massive Change: Kids Driving Family Fitness Revolution](/fitness/tiny-influencers-big-impact-how-kids-are-revolutionizing-fitness-en/)
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Gavin McKenna Revolutionizes NHL Scouting Combine With Unprecedented Fitness Testing Breakthrough",
-  "description": "Discover how Gavin McKenna is transforming NHL scouting combines with groundbreaking fitness tests that reshape athlete evaluations and scouting.",
-  "image": "https://novumworld.com/images/gavin-mckenna-shines-at-nhl-scouting-combine-a-new-era-for-elite-fitness-testing-en.jpg",
-  "datePublished": "2026-06-07T06:45:33",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +92,3 @@ The time for innovation is now, and teams that resist change may find themselves
     }
   }
 }
-</script>

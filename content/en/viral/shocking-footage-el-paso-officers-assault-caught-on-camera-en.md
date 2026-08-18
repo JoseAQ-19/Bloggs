@@ -1,16 +1,20 @@
 ---
-title: "Shocking El Paso Officer Assault Footage Reveals 700 Complaints Ignored By Authorities"
-date: 2026-04-24T22:21:00
+title: Shocking El Paso Officer Assault Footage Reveals 700 Complaints Ignored By
+  Authorities
+date: 2026-04-24 22:21:00
 draft: false
-description: "Shocking footage exposes El Paso officers amidst 700 ignored complaints. Discover the truth behind the silence and the impact on community trust."
-featured_image: "/images/shocking-footage-el-paso-officers-assault-caught-on-camera-en.jpg"
-slug: "shocking-footage-el-paso-officers-assault-caught-on-camera-en"
-canonical: "https://novumworld.com/viral/shocking-footage-el-paso-officers-assault-caught-on-camera-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "c5e4795d-0355-1c06-3cd0-3f959f976062"
+description: Shocking footage exposes El Paso officers amidst 700 ignored complaints.
+  Discover the truth behind the silence and the impact on community trust.
+featured_image: /images/shocking-footage-el-paso-officers-assault-caught-on-camera-en.jpg
+slug: shocking-footage-el-paso-officers-assault-caught-on-camera-en
+canonical: https://novumworld.com/viral/shocking-footage-el-paso-officers-assault-caught-on-camera-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: c5e4795d-0355-1c06-3cd0-3f959f976062
 ---
 
 ![Shocking El Paso Officer Assault Footage Reveals 700 Complaints Ignored By Authorities](/images/shocking-footage-el-paso-officers-assault-caught-on-camera-en.jpg)
@@ -80,28 +84,12 @@ Without accountability, the badge becomes a shield for misconduct, not a symbol 
 - [news.google.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE8teGU4OF80NTJrN1YtTlJISzNMT1o5bXYzUGx6QVRwRFlFMGFZLTBDMGVBaEJDaVEzcG1iQW40Q1MwQVcwaDhTQzZzdHp1SnYyVS1mUG5pS3c1dzRfeGdRWll4ak14bEhnX3dYaHZ2V3BJeEk?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGllaE5MN0RJR0s2QUszZXVoSTNsY0Izb0txVTBwY1RsOTZYMWwyS3dzY0pJWTFSYVpuQU5BeHpxYldEVFJEbDlQY2ZlS0VPQXdhUG5uRlNaOVdmTG5rem41YW84MGs1TmNYTmhVRWt3bC1vNThrZC12MlR3N2pxeVpmbFJKaDVlYXJkUThaV3hWZEV1QWl1Nkg0dHFRWHZoeHfSAacBQVVfeXFMUF9nTXFhWEc0MlBvNXhaeGhQbkdDZ0gwTjQ1Y3Z4bzlZY1FUcjdwQXBwXy16YUdKQWJuU1o0bzZSZVlGa0tlWWJCcFFwUFE4TG1DdjlPVXBkM1RaSFFUV0tZakdLYjdQYmp0ck1YdlJRZm8xa3ZFbS1GOFg2VjQ3Mm5BMmpqUm9yVUZRZm5BaGh3bVRCS04wX1JRTGJjZ1BmWlpuUHBXNkk?oc=5)
 
-
 ## Related Articles
 - [Trump''s Cuba Coup: How 1.6 Million Worke](/viral/trump-cuba-privatization-paradox-en/)
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [The Shocking Truth About NeeDoh: 65% Of Parents Are Ignoring Hidden Risks](/viral/the-needoh-craze-why-this-must-have-toy-is-flying-off-shelves-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Shocking El Paso Officer Assault Footage Reveals 700 Complaints Ignored By Authorities",
-  "description": "Shocking footage exposes El Paso officers amidst 700 ignored complaints. Discover the truth behind the silence and the impact on community trust.",
-  "image": "https://novumworld.com/images/shocking-footage-el-paso-officers-assault-caught-on-camera-en.jpg",
-  "datePublished": "2026-04-24T22:21:00",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ Without accountability, the badge becomes a shield for misconduct, not a symbol 
     }
   }
 }
-</script>

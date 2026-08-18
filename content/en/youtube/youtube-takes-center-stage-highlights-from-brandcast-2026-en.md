@@ -35,8 +35,6 @@ YouTube's business model relies on a workforce that is statistically collapsing,
 * Mid-tier creators are losing up to $25,000 annually due to exhaustion-related output drops, directly linking mental health to revenue instability.
 * Low-effort AI content is seeing a 5.44x traffic decrease compared to human-led content, proving that "AI slop" is a financial dead end.
 
-
-
 {{< adsterra_native >}}
 
 ## The Hidden Cost of Content Creation: A 68% Burnout Rate
@@ -92,6 +90,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [K-Pop Fandom Generates $1,200+ Per Superfan While YouTube Profits From Fancams](/en/youtube/unpacking-the-rise-of-k-pop-how-youtube-creators-shaped-a-global-phenomenon-en/)
 - [$5 Million a Year, But At What Cost? Family Vlogging's Dark Secret](/en/youtube/family-travel-youtube-burnout-en/)
 - [The Hidden Truth About K-Pop YouTube Revenue: $650 Million Surge in 2021](/en/youtube/inside-the-global-k-pop-phenomenon-the-power-of-youtube-creators-and-fans-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

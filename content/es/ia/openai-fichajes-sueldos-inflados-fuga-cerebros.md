@@ -21,8 +21,6 @@ type: ia
 ## Resumen Ejecutivo
 La incursión de OpenAI en el mercado laboral español está generando un éxodo de talento en el sector de la inteligencia artificial (IA), con un impacto directo en el ecosistema tecnológico del país. La empresa está realizando un promedio de 12 fichajes diarios, lo que ha desestabilizado las expectativas salariales y ha creado una competencia desleal para las startups locales. Aunque las organizaciones en España están adoptando rápidamente la IA generativa, la inflación salarial impulsada por OpenAI está provocando una distorsión del mercado que amenaza la sostenibilidad del talento local. Este fenómeno no solo afecta a la economía, sino que también está deteriorando la calidad del talento emergente al promover a profesionales inexpertos a roles críticos. La guerra por el talento no es solo un desafío local, sino que también afecta a competidores globales como DeepMind.
 
-
-
 {{< adsterra_native >}}
 
 ## El Dilema de los 100.000 Euros: ¿Está Inflacionando OpenAI el Mercado Laboral Español de IA?
@@ -74,6 +72,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Claude Falló: 95% Apuesta Por Armas Nucleares. ¿Estamos Seguros?](/es/ia/claude-ai-crisis-error-fundadores-ia/)
 - [Groenlandia: El Iceberg que Hundirá el Imperio Digital de EE.UU.](/es/ia/groenlandia-el-iceberg-que-hundira-el-imperio-digi/)
 - [La IA Puede Amenazar Hasta 24% de los Ingresos de Artistas en 2028](/es/ia/la-creatividad-humana-sigue-siendo-la-reina-puede-la-ia-alcanzarla-alguna-vez/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

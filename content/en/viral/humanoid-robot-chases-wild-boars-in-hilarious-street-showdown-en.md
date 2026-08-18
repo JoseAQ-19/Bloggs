@@ -1,16 +1,19 @@
 ---
-title: "Humanoid Robot Shocks Crowd By Chasing Wild Boars In Hilarious Street Showdown"
-date: 2026-04-14T23:47:13
+title: Humanoid Robot Shocks Crowd By Chasing Wild Boars In Hilarious Street Showdown
+date: 2026-04-14 23:47:13
 draft: false
-description: "Watch as a humanoid robot hilariously chases wild boars in a street showdown, leaving the crowd in stitches and redefining entertainment!."
-featured_image: "/images/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en.jpg"
-slug: "humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en"
-canonical: "https://novumworld.com/viral/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "56aedbdc-37a6-6b4a-9d92-cb3edd30440c"
+description: Watch as a humanoid robot hilariously chases wild boars in a street showdown,
+  leaving the crowd in stitches and redefining entertainment!.
+featured_image: /images/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en.jpg
+slug: humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en
+canonical: https://novumworld.com/viral/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 56aedbdc-37a6-6b4a-9d92-cb3edd30440c
 ---
 
 ![Humanoid Robot Shocks Crowd By Chasing Wild Boars In Hilarious Street Showdown](/images/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en.jpg)
@@ -64,28 +67,12 @@ As we stand at the crossroads of technological advancement and ethical responsib
 - [ncbi.nlm.nih.gov](https://ncbi.nlm.nih.gov/pmc/articles/PMC6953143/)
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5634469/)
 
-
 ## Related Articles
 - [Tra](/viral/trader-joes-mini-totes-make-a-comebackplus-a-sneak-peek-at-the-new-bigger-bag-en/)
 - [Th](/viral/pricey-supplement-stacks-take-social-media-by-storm-what-you-need-to-know-en/)
 - [Therian Identity Faces $78 Billion Crisis: AI](/viral/therian-culture-ai-disinformation-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Humanoid Robot Shocks Crowd By Chasing Wild Boars In Hilarious Street Showdown",
-  "description": "Watch as a humanoid robot hilariously chases wild boars in a street showdown, leaving the crowd in stitches and redefining entertainment!.",
-  "image": "https://novumworld.com/images/humanoid-robot-chases-wild-boars-in-hilarious-street-showdown-en.jpg",
-  "datePublished": "2026-04-14T23:47:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -95,4 +82,3 @@ As we stand at the crossroads of technological advancement and ethical responsib
     }
   }
 }
-</script>

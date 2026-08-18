@@ -27,8 +27,6 @@ type: youtube
 - Una regulación excesiva podría empujar a los jóvenes hacia el mercado negro, complicando aún más el control del consumo de nicotina.
 - Es necesario un enfoque integral que combine regulación, educación y apoyo para los adultos que desean dejar de fumar.
 
-
-
 {{< adsterra_native >}}
 
 ## La Campaña "Rosalía, Déjalo" y su Contexto
@@ -74,6 +72,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [YouTube Revive La Nostalgia: 7 Programas Icónicos De Los 2000s Que Regresan](/es/youtube/youtube-revive-la-nostalgia-la-programacion-de-los-2000s-ha-vuelto/)
 - [YouTube Te Destroza: El Algoritmo Adictivo Que Engancha Como la Cocaína](/es/youtube/youtube-atracones-tele-peor/)
 - [¡Pánico Musical! La IA Robará 100 Millones A Artistas Españoles En Un Año](/es/youtube/10-temazos-electronicos-youtube/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -1,14 +1,17 @@
 ---
-title: "Fondos españoles pinchan un 5% en el primer trimestre de 2023 frente a 2022"
-date: 2026-04-13T07:23:58
+title: Fondos españoles pinchan un 5% en el primer trimestre de 2023 frente a 2022
+date: 2026-04-13 07:23:58
 draft: false
-description: "Descubre cómo los fondos españoles cayeron un 5% en el primer trimestre de 2023 en comparación con 2022 y qué significa para tus inversiones."
-featured_image: "/images/fondos-espanoles-pinchan-un-5-en-el-primer-trimestre-de-2023-frente-a-2022.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "b0f22cdd-e2a5-c25b-5c5e-a0a562039126"
+description: Descubre cómo los fondos españoles cayeron un 5% en el primer trimestre
+  de 2023 en comparación con 2022 y qué significa para tus inversiones.
+featured_image: /images/fondos-espanoles-pinchan-un-5-en-el-primer-trimestre-de-2023-frente-a-2022.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: b0f22cdd-e2a5-c25b-5c5e-a0a562039126
 ---
 
 ![Fondos españoles pinchan un 5% en el primer trimestre de 2023 frente a 2022](/images/fondos-espanoles-pinchan-un-5-en-el-primer-trimestre-de-2023-frente-a-2022.jpg)
@@ -20,8 +23,6 @@ El primer trimestre de 2023 ha sido un periodo complicado para los fondos de inv
 * [Promedio de tarifas de gestión en fondos de inversión en España: 1.2% — **CNMV**]
 
 Este desempeño se produce en un entorno de mercado caracterizado por la incertidumbre económica y la volatilidad de las tasas de interés. En este contexto, es esencial evaluar el rendimiento de distintos fondos de inversión y su capacidad para adaptarse a las condiciones cambiantes del mercado.
-
-
 
 {{< adsterra_native >}}
 
@@ -79,37 +80,14 @@ Las métricas clave incluyen la rentabilidad histórica, la volatilidad y las ta
 
 Creemos que, a pesar de la volatilidad reciente, hay oportunidades valiosas en el mercado español. La selección de fondos debe basarse en un enfoque analítico que contemple tanto el rendimiento histórico como la gestión activa. Además, es vital mantenerse informado sobre las tendencias macroeconómicas y ajustar las carteras en consecuencia.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Fondos españoles pinchan un 5% en el primer trimestre de 2023 frente a 2022",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Analista Financiero"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "Análisis Financiero"
   }
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Por qué los fondos de inversión han tenido un rendimiento negativo en este trimestre?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "El rendimiento negativo se debe a factores como la volatilidad del mercado, la inflación y las políticas monetarias restrictivas."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "¿Qué fondos han tenido un rendimiento superior a la media?",
@@ -152,13 +130,10 @@ Creemos que, a pesar de la volatilidad reciente, hay oportunidades valiosas en e
     }
   ]
 }
-</script>
 
 ## Artículos relacionados
 - [Guerra Irán: ¿Golp](/es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos/)
 - [Planes Prediseñados de Lightyear con BlackRock y Vanguard superarán al mercado en 2026](/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e/)
 - [Las 5 estrellas de los fondos de inversión con más del 10% de rentabilidad en 2025](/es/funds/las-5-estrellas-de-los-fondos-de-inversion-con-mas-del-10-de-rentabilidad-en-202/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

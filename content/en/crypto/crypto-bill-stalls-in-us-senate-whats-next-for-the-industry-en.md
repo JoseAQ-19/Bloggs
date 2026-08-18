@@ -64,12 +64,10 @@ The Clarity Act's delay has raised concerns about the bill's prospects and the p
 - [news.google.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ1EtSWJwTERNUmxISGZwVVJ4OFdqd2I1Y1dDWklUc2czUFczYTJYNXdrU1YxUkkyeTc4Z0UyX2ZqRGR5eXR0dy0tZHJ2eVM5aTZvQXZKcHdicklPbG9GNDUxZENSUFdfVlFoZnd6c0laSWpHdlA1Z3FVZExJZEtpa1VVZmd5bTVfMG5tLVNUd2c4aVpiSENxMnEyZDJRckdxajNVSklPbV9BOUx3ZnNxckc3aG1sWmM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBKU0pkWkprMm1nc1h6X0Q4NmdnZ195cEx1V0RVcVQ0cWZ6ajJUYmJpekw2UWVpbUdGQXJvUHFkNl9HblhpSGZ5Wm0xN2UxVWFxMUZKLUMtN21aRmJ0QjVTUzVhc3lCT19BT2duaEZZaFREQmo3dEFrYg?oc=5)
 
-
 ## Related Articles
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [US-Iran's Crypto Battle: Five Key Strategies Behind Their Sanctions Warfare](/crypto/us-irans-crypto-showdown-a-high-stakes-game-of-sanctions-and-strategy-en/)
 - [233 Million Reasons Why You Should Invest in Bitcoin Without Holding It Directly](/crypto/unlocking-crypto-exposure-invest-without-holding-coins-directly-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -79,18 +77,7 @@ The Clarity Act's delay has raised concerns about the bill's prospects and the p
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis",
-  "description": "Crypto Bill Stalls in US Senate: What's Next for the Industry? Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-08-08T18:03:48",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +87,3 @@ The Clarity Act's delay has raised concerns about the bill's prospects and the p
     }
   }
 }
-</script>

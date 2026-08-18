@@ -30,8 +30,6 @@ The quiet collapse of teenage body image is being engineered by TikTok's algorit
 * [23.8% of 626 respondents in a mental health survey reported having or having had an eating disorder](https://pubmed.ncbi.nlm.nih.gov/39504757) 
 * **TikTok's algorithm exposes users to harmful eating disorder content within 2.6 minutes, as reported by the Center for Countering Digital Hate** **Just 8 minutes of exposure to weight-centric TikTok videos decreases body satisfaction, according to a 2024 PLOS One study*
 
-
-
 {{< adsterra_native >}}
 
 ## The Algorithm That Knows Too Much: How TikTok Targets Vulnerable Teens 
@@ -124,6 +122,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Niklas Edin''s Fury: Is Curling''s Biggest Cheating Problem About to Explode?](/en/viral/algorithmic-curling-tech-en/)
 - [Ugly Sonic Didn''t Die: His VFX Secrets Still Haunt Our Need for Speed](/en/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 - [Chuck Norris Didn''t Die, But Trust Did: Blame The $200 Million Deepfakes](/en/viral/chuck-norris-death-hoax-deepfakes-trust-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

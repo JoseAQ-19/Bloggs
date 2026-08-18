@@ -1,16 +1,19 @@
 ---
-title: "89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming"
-date: 2026-05-05T06:18:32
+title: 89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming
+date: 2026-05-05 06:18:32
 draft: false
-description: "Discover the paradox of military fitness: 89.4% of soldiers stay active, yet PTSD rates soar. Explore the impact of mental health on physical readiness."
-featured_image: "/images/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en.jpg"
-slug: "usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en"
-canonical: "https://novumworld.com/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "568eee6d-0a4a-4020-63db-11e434e187a7"
+description: 'Discover the paradox of military fitness: 89.4% of soldiers stay active,
+  yet PTSD rates soar. Explore the impact of mental health on physical readiness.'
+featured_image: /images/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en.jpg
+slug: usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en
+canonical: https://novumworld.com/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 568eee6d-0a4a-4020-63db-11e434e187a7
 ---
 
 ![89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/images/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en.jpg)
@@ -81,22 +84,7 @@ To mitigate the risk of PTSD and optimize mental health outcomes, soldiers and t
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 - [Spotify And Peloton Unleash 1,400 Workouts: A Game Changer For Home Fitness](/fitness/spotify-and-peloton-join-forces-the-new-era-of-fitness-content-is-here-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming",
-  "description": "Discover the paradox of military fitness: 89.4% of soldiers stay active, yet PTSD rates soar. Explore the impact of mental health on physical readiness.",
-  "image": "https://novumworld.com/images/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en.jpg",
-  "datePublished": "2026-05-05T06:18:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ To mitigate the risk of PTSD and optimize mental health outcomes, soldiers and t
     }
   }
 }
-</script>

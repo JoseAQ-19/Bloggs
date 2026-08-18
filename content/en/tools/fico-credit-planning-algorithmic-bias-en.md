@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: Black Applicants Need 120 Points Higher Credit Scores for Mortgage Approval"
-date: 2026-05-27T15:45:15
+title: 'The Shocking Truth: Black Applicants Need 120 Points Higher Credit Scores
+  for Mortgage Approval'
+date: 2026-05-27 15:45:15
 draft: false
-description: "Discover the startling disparity in mortgage approval as Black applicants require 120 points higher credit scores. Uncover the truth behind this injustice."
-featured_image: "/images/fico-credit-planning-algorithmic-bias-en.jpg"
-slug: "fico-credit-planning-algorithmic-bias-en"
-canonical: "https://novumworld.com/tools/fico-credit-planning-algorithmic-bias-en/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "en"
-translationKey: "3ea21319-04c7-25ff-2c39-c04f983f5800"
+description: Discover the startling disparity in mortgage approval as Black applicants
+  require 120 points higher credit scores. Uncover the truth behind this injustice.
+featured_image: /images/fico-credit-planning-algorithmic-bias-en.jpg
+slug: fico-credit-planning-algorithmic-bias-en
+canonical: https://novumworld.com/tools/fico-credit-planning-algorithmic-bias-en/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: en
+translationKey: 3ea21319-04c7-25ff-2c39-c04f983f5800
 ---
 
 ![The Shocking Truth: Black Applicants Need 120 Points Higher Credit Scores for Mortgage Approval](/images/fico-credit-planning-algorithmic-bias-en.jpg)
@@ -73,22 +77,7 @@ Regulators must demand real-time bias audits with public scorecards. Lenders mus
 - [AI-Driven Protein Design Tools Cut Costs by 40% and Ignite Controversy](/tools/revolutionizing-biology-ai-driven-protein-design-tools-now-accessible-to-all-en/)
 - [The Shocking Reason I Threw](/tools/why-i-gave-up-certain-kitchen-tools-after-going-pro-in-baking-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Black Applicants Need 120 Points Higher Credit Scores for Mortgage Approval",
-  "description": "Discover the startling disparity in mortgage approval as Black applicants require 120 points higher credit scores. Uncover the truth behind this injustice.",
-  "image": "https://novumworld.com/images/fico-credit-planning-algorithmic-bias-en.jpg",
-  "datePublished": "2026-05-27T15:45:15",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -98,4 +87,3 @@ Regulators must demand real-time bias audits with public scorecards. Lenders mus
     }
   }
 }
-</script>

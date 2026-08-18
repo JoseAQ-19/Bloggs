@@ -53,12 +53,10 @@ La asociación entre BlackRock y Circle Internet Financial es un paso importante
 - [news.google.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFZ0aUhxWXhfaHZfUmRWT1NLaUk0Wlpud1BQaEFET01lQTlhUjFBRmlBc3c4SllFcDlpb21UanM4SjdzbW9lWVBmWG5rOVFQcmM1ZW5XNXVmdmNzaTZFSXZhZ1RPTTZmQzJnXzAtdmt3X3hxVTJrNUhXU2l2bXc2Szc3Rml2amlHdzd6bUs2NjdnMGZINWlMaEZJaUxLLTU4RUx3cnpSTzhDV3pYaS1TcTF3YnIzTTQzc1dhNmpFQXhrWkpIT1Z2M0F3?oc=5)
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Vanguard Just Shocked the World: From Crypto Skeptic to Digital Asset Pioneer](/crypto/vanguards-surprising-shift-from-crypto-skeptic-to-digital-asset-pioneer-en/)
 - [Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -68,18 +66,7 @@ La asociación entre BlackRock y Circle Internet Financial es un paso importante
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis",
-  "description": "Crypto Market Sees Green: How Circle Internet Stock Defied the Crypto Slump Analysis.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-08-05T19:15:23",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +76,3 @@ La asociación entre BlackRock y Circle Internet Financial es un paso importante
     }
   }
 }
-</script>

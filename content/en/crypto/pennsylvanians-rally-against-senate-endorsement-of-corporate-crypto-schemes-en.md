@@ -81,7 +81,6 @@ As the financial landscape continues to evolve, Pennsylvanians must advocate for
 - [Solana Processed 10.1 Billion Transactions in Q1 2026 and Nobody Noticed](/crypto/which-cryptocurrency-will-create-the-next-wave-of-millionaires-en/)
 - [The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/crypto/trump-iran-crypto-network-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -90,18 +89,7 @@ As the financial landscape continues to evolve, Pennsylvanians must advocate for
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Pennsylvania's Senate Backs Corporate Crypto Schemes Amid Public Outcry",
-  "description": "Discover the surprising support Pennsylvania's Senate shows for corporate crypto schemes, despite growing public backlash and concerns over transparency.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-30T18:06:32",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ As the financial landscape continues to evolve, Pennsylvanians must advocate for
     }
   }
 }
-</script>

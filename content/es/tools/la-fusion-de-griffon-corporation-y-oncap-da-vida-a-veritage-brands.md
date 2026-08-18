@@ -1,16 +1,19 @@
 ---
-title: "La Impactante Fusión de Griffon y ONCAP Que Nadie Vio Venir"
-date: 2026-06-11T14:02:51
+title: La Impactante Fusión de Griffon y ONCAP Que Nadie Vio Venir
+date: 2026-06-11 14:02:51
 draft: false
-description: "Descubre la sorprendente fusión de Griffon y ONCAP, un movimiento estratégico que cambiará el panorama del sector. ¡No te lo pierdas!."
-featured_image: "/images/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands.jpg"
-slug: "la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands"
-canonical: "https://novumworld.com/es/tools/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "9dc92ee6-de8a-f502-44c4-1621d649cea2"
+description: Descubre la sorprendente fusión de Griffon y ONCAP, un movimiento estratégico
+  que cambiará el panorama del sector. ¡No te lo pierdas!.
+featured_image: /images/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands.jpg
+slug: la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands
+canonical: https://novumworld.com/es/tools/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: 9dc92ee6-de8a-f502-44c4-1621d649cea2
 ---
 
 ![La Impactante Fusión de Griffon y ONCAP Que Nadie Vio Venir](/images/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands.jpg)
@@ -58,22 +61,7 @@ La fusión entre Griffon y ONCAP presenta un escenario arriesgado que podría ll
 - [La Verdadera Durabilidad Del Cortador De Asfalto IRWIN TOOLS En Climas Extremos](/es/tools/revoluciona-tu-obra-conoce-el-cortador-de-asfalto-irwin-tools-que-todos-estan-usando/)
 - [82% de Los Restaurantes Españoles Apostarán por IA en 2026 y Esto Cambiará Todo](/es/tools/puede-la-ia-revolucionar-la-eficiencia-en-los-restaurantes-de-darden/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "La Impactante Fusión de Griffon y ONCAP Que Nadie Vio Venir",
-  "description": "Descubre la sorprendente fusión de Griffon y ONCAP, un movimiento estratégico que cambiará el panorama del sector. ¡No te lo pierdas!.",
-  "image": "https://novumworld.com/images/la-fusion-de-griffon-corporation-y-oncap-da-vida-a-veritage-brands.jpg",
-  "datePublished": "2026-06-11T14:02:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -83,4 +71,3 @@ La fusión entre Griffon y ONCAP presenta un escenario arriesgado que podría ll
     }
   }
 }
-</script>

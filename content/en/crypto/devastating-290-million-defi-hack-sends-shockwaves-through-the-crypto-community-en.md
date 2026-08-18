@@ -1,16 +1,20 @@
 ---
-title: "$290 Million DeFi Hack Exposes Critical Flaws And Leaves Investors Reeling In Fear"
-date: 2026-04-19T17:41:19
+title: $290 Million DeFi Hack Exposes Critical Flaws And Leaves Investors Reeling
+  In Fear
+date: 2026-04-19 17:41:19
 draft: false
-description: "Discover how the shocking $290 million DeFi hack unveiled critical vulnerabilities, leaving investors fearful and questioning the future of decentralized."
-featured_image: "/images/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en.jpg"
-slug: "devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en"
-canonical: "https://novumworld.com/crypto/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "2aec38c4-6c76-78c3-83c3-0d6aa0ddbaac"
+description: Discover how the shocking $290 million DeFi hack unveiled critical vulnerabilities,
+  leaving investors fearful and questioning the future of decentralized.
+featured_image: /images/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en.jpg
+slug: devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en
+canonical: https://novumworld.com/crypto/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 2aec38c4-6c76-78c3-83c3-0d6aa0ddbaac
 ---
 
 ![$290 Million DeFi Hack Exposes Critical Flaws And Leaves Investors Reeling In Fear](/images/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en.jpg)
@@ -76,12 +80,10 @@ In this complex landscape, the need for investor education and awareness is para
 ## Methodology and Sources
 - [defillama.com](https://defillama.com)
 
-
 ## Related Articles
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 - [SEC's Groundbreaking No-Action Position Could Change Crypto Trading Forever](/crypto/sec-breaks-ground-with-no-action-position-on-crypto-trading-interfaces-en/)
 - [$33 Trillion Staked: Crypto And Banks B](/crypto/stablecoin-cbdc-congress-lobbying-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -91,18 +93,7 @@ In this complex landscape, the need for investor education and awareness is para
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "$290 Million DeFi Hack Exposes Critical Flaws And Leaves Investors Reeling In Fear",
-  "description": "Discover how the shocking $290 million DeFi hack unveiled critical vulnerabilities, leaving investors fearful and questioning the future of decentralized.",
-  "image": "https://novumworld.com/images/devastating-290-million-defi-hack-sends-shockwaves-through-the-crypto-community-en.jpg",
-  "datePublished": "2026-04-19T17:41:19",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -112,4 +103,3 @@ In this complex landscape, the need for investor education and awareness is para
     }
   }
 }
-</script>

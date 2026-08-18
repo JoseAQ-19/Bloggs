@@ -1,16 +1,20 @@
 ---
-title: "The Hidden Truth Behind Orangetheory Fitness Closure: Local Communities Are Left Stranded"
-date: 2026-06-06T06:32:59
+title: 'The Hidden Truth Behind Orangetheory Fitness Closure: Local Communities Are
+  Left Stranded'
+date: 2026-06-06 06:32:59
 draft: false
-description: "Discover the untold impact of Orangetheory Fitness closures on local communities and how members are left navigating their fitness journeys alone."
-featured_image: "/images/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en.jpg"
-slug: "orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en"
-canonical: "https://novumworld.com/fitness/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "a85a3b36-dff2-1926-f554-828d698f53b0"
+description: Discover the untold impact of Orangetheory Fitness closures on local
+  communities and how members are left navigating their fitness journeys alone.
+featured_image: /images/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en.jpg
+slug: orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en
+canonical: https://novumworld.com/fitness/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: a85a3b36-dff2-1926-f554-828d698f53b0
 ---
 
 ![The Hidden Truth Behind Orangetheory Fitness Closure: Local Communities Are Left Stranded](/images/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en.jpg)
@@ -87,28 +91,12 @@ Local gyms are not just places to work out; they are essential hubs of community
 - [news.google.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSWRjRVp2bXNXa1d2M216RkRKdExsXzZRMmJCU3E5WEZacjFiSk04MWR5SzIySDdYZXBqajl6bnVXYUQzck90Y2dxUFhxQWk4aGlmTExRN3pyQlJVZTE3anBDMTVucGVvZks1QnlKOWRRSy00ZmdrR1NlR3BmbE1QQVB1cFFZaFdoVS1lUnZ4VWZFS01mSDg4T1J3bXBsSzA4TGNkQ2pCQkYxNEdfV2c?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxObVJGMjZ0Sm8tN1AxYkNFaUxHSE85YkJRWUhVTGhGN1FGdUszdkpXa1pSa25CTGFQb3FvY1gtUzktS3dRU3ZKaDFlcDdrVmE3S053Z1oySWhCTzVtN0pxTklSOHh2MTNVTTNVakdTZEZsbFVfa1NETnpHaGxuc1gyTg?oc=5)
 
-
 ## Related Articles
 - [Heartbreaking Loss: Fitness Influencer Mara Flávia Drowns at Ironman Texas Competition](/fitness/tragedy-strikes-fitness-influencer-drowns-during-ironman-texas-en/)
 - [Xponential Fitness Just Lost $60 Million: The Shocking Truth Behind Their Decline](/fitness/why-is-xponential-fitness-xpof-taking-a-dive-en/)
 - [Storms Can't Stop Planet Fitness: North Texas Damage Analysis Reveals Hidden Membership Growth Risks](/fitness/storms-cant-stop-the-gains-planet-fitness-in-north-texas-faces-damage-after-memorial-day-chaos-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Truth Behind Orangetheory Fitness Closure: Local Communities Are Left Stranded",
-  "description": "Discover the untold impact of Orangetheory Fitness closures on local communities and how members are left navigating their fitness journeys alone.",
-  "image": "https://novumworld.com/images/orangetheory-fitness-closes-its-doors-what-this-means-for-local-fitness-enthusiasts-en.jpg",
-  "datePublished": "2026-06-06T06:32:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -118,4 +106,3 @@ Local gyms are not just places to work out; they are essential hubs of community
     }
   }
 }
-</script>

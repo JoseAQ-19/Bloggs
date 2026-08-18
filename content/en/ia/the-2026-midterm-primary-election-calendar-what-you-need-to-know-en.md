@@ -1,16 +1,20 @@
 ---
-title: "The 2026 Midterm Primary Election Calendar: Critical Dates You Can't Afford to Miss"
-date: 2026-06-14T12:15:25
+title: 'The 2026 Midterm Primary Election Calendar: Critical Dates You Can''t Afford
+  to Miss'
+date: 2026-06-14 12:15:25
 draft: false
-description: "Stay informed with our comprehensive guide to the 2026 Midterm Primary Election Calendar. Discover essential dates and make your vote count!."
-featured_image: "/images/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en.jpg"
-slug: "the-2026-midterm-primary-election-calendar-what-you-need-to-know-en"
-canonical: "https://novumworld.com/ia/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "6d81a8a7-c653-a37f-ee58-3d03d9466b38"
+description: Stay informed with our comprehensive guide to the 2026 Midterm Primary
+  Election Calendar. Discover essential dates and make your vote count!.
+featured_image: /images/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en.jpg
+slug: the-2026-midterm-primary-election-calendar-what-you-need-to-know-en
+canonical: https://novumworld.com/ia/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 6d81a8a7-c653-a37f-ee58-3d03d9466b38
 ---
 
 ![The 2026 Midterm Primary Election Calendar: Critical Dates You Can't Afford to Miss](/images/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en.jpg)
@@ -70,28 +74,12 @@ La elección primaria de 2026 es crucial para determinar el control del Senado y
 - [news.google.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaFAyQUxDbWhPM2hESFdnbFNuTmNyQzlkR3NybTd1REdyaVpKNFItV200WmVkRWVLbjF1X1VQeHgxa1ZZSzM2SEVnZlBkamk4c01DdHdQZkZSdVJhZWM0bHFxZ1dmcC0xUW10M1plblJGQUlSSHM4MEZ0eWRwTXI5NnhB?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBHU3NDZEdGbHpYX3lQY3ppM1owTkN6OTd3LTRJR1NEemxZWXNNOERXdThOdXpGdTVKNm40RWFtSlpqLUtWR2VYOXBhTXRaMk10cWxrYTd5VVU3Skc1QXZDd0hJbFVGQzE3WEtOVW5QdGhRaUh6LTdKSHhtWU1CQQ?oc=5)
 
-
 ## Related Articles
 - [82% Of Companies Fail At Zero-Trust: Project Glasswing Exposes The Alarming Truth](/ia/project-glasswing-revolutionizing-software-security-for-the-ai-age-en/)
 - [The Shocking Truth Behind China's One Million Attack Drones Ordered by 2026](/ia/unpacking-chinas-ai-driven-drone-strategy-a-glimpse-into-future-warfare-en/)
 - [The Hidden Emotional Cost Of Mourning: Grief Therapy Market Set To Skyrocket](/ia/remembering-lives-a-look-at-recent-obituaries-you-might-have-missed-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The 2026 Midterm Primary Election Calendar: Critical Dates You Can't Afford to Miss",
-  "description": "Stay informed with our comprehensive guide to the 2026 Midterm Primary Election Calendar. Discover essential dates and make your vote count!.",
-  "image": "https://novumworld.com/images/the-2026-midterm-primary-election-calendar-what-you-need-to-know-en.jpg",
-  "datePublished": "2026-06-14T12:15:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -101,4 +89,3 @@ La elección primaria de 2026 es crucial para determinar el control del Senado y
     }
   }
 }
-</script>

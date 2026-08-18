@@ -1,14 +1,17 @@
 ---
-title: "Rendimiento del 18%: fondo que apuesta por los 20 mayores unicornios no cotizados"
-date: 2026-06-11T08:09:29
+title: 'Rendimiento del 18%: fondo que apuesta por los 20 mayores unicornios no cotizados'
+date: 2026-06-11 08:09:29
 draft: false
-description: "Descubre cómo invertir en los 20 mayores unicornios no cotizados y alcanzar un rendimiento del 18% con nuestro análisis sobre este atractivo fondo."
-featured_image: "/images/rendimiento-del-18-fondo-que-apuesta-por-los-20-mayores-unicornios-no-cotizados.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "es"
-translationKey: "5b22f3b1-255a-d9e0-1a31-1d5c40281313"
+description: Descubre cómo invertir en los 20 mayores unicornios no cotizados y alcanzar
+  un rendimiento del 18% con nuestro análisis sobre este atractivo fondo.
+featured_image: /images/rendimiento-del-18-fondo-que-apuesta-por-los-20-mayores-unicornios-no-cotizados.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: es
+translationKey: 5b22f3b1-255a-d9e0-1a31-1d5c40281313
 ---
 
 ![Rendimiento del 18%: fondo que apuesta por los 20 mayores unicornios no cotizados](/images/rendimiento-del-18-fondo-que-apuesta-por-los-20-mayores-unicornios-no-cotizados.jpg)
@@ -20,8 +23,6 @@ Un fondo que realiza apuestas significativas por los 20 mayores unicornios no co
 * [Fondo con patrimonio de $475,000 millones en mayo — **Morningstar**]
 
 La inversión en unicornios no cotizados ha capturado la atención de inversores debido a su potencial de crecimiento, a pesar de la volatilidad inherente. El fondo en cuestión se ha beneficiado de una selección cuidadosa de empresas que han demostrado no solo su capacidad de crecer, sino también de adaptarse a un entorno económico cambiante. 
-
-
 
 {{< adsterra_native >}}
 
@@ -89,6 +90,4 @@ Este fondo, con su enfoque en empresas emergentes, podría ser una adición vali
 - [La inflación en la eurozona alcanza el 5% y el BCE prevé subida de tipos](/es/funds/la-inflacion-en-la-eurozona-alcanza-el-5-y-el-bce-preve-subida-de-tipos/)
 - [Top 6 fondos indexados al S&P 500 en 2026: Rentabilidad y comisiones comparadas](/es/funds/top-6-fondos-indexados-al-sp-500-en-2026-rentabilidad-y-comisiones-comparadas/)
 
-
 *Aviso YMYL: La información de este artículo es educativa y no constituye asesoramiento profesional. Consulte a un especialista antes de tomar decisiones financieras o de salud.*
-

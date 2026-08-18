@@ -1,16 +1,20 @@
 ---
-title: "Women Unite: 5 Unforgettable Moments From Sacramento's Kaiser Fitness Festival Igniting Empowerment"
-date: 2026-06-08T07:06:13
+title: 'Women Unite: 5 Unforgettable Moments From Sacramento''s Kaiser Fitness Festival
+  Igniting Empowerment'
+date: 2026-06-08 07:06:13
 draft: false
-description: "Discover five powerful moments from Sacramento's Kaiser Fitness Festival that inspired women to unite and embrace empowerment through fitness and."
-featured_image: "/images/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en.jpg"
-slug: "women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en"
-canonical: "https://novumworld.com/fitness/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "7440262f-58f3-cbde-2979-2318660fd81a"
+description: Discover five powerful moments from Sacramento's Kaiser Fitness Festival
+  that inspired women to unite and embrace empowerment through fitness and.
+featured_image: /images/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en.jpg
+slug: women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en
+canonical: https://novumworld.com/fitness/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 7440262f-58f3-cbde-2979-2318660fd81a
 ---
 
 ![Women Unite: 5 Unforgettable Moments From Sacramento's Kaiser Fitness Festival Igniting Empowerment](/images/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en.jpg)
@@ -90,22 +94,7 @@ The festival serves as a reminder that the quest for empowerment in the fitness 
 - [The Shocking Truth: You Lose 50% Of Muscle Mass By Age 90 And Nobody Knew](/fitness/when-does-your-strength-start-to-fade-insights-from-a-47-year-study-en/)
 - [The Shocking Truth: 20% More Injuries for Soldiers Failing New Combat Fitness Test](/fitness/us-army-unveils-game-changing-7-event-fitness-test-for-soldiers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Women Unite: 5 Unforgettable Moments From Sacramento's Kaiser Fitness Festival Igniting Empowerment",
-  "description": "Discover five powerful moments from Sacramento's Kaiser Fitness Festival that inspired women to unite and embrace empowerment through fitness and.",
-  "image": "https://novumworld.com/images/women-unite-the-empowering-energy-of-sacramentos-kaiser-fitness-festival-en.jpg",
-  "datePublished": "2026-06-08T07:06:13",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -115,4 +104,3 @@ The festival serves as a reminder that the quest for empowerment in the fitness 
     }
   }
 }
-</script>

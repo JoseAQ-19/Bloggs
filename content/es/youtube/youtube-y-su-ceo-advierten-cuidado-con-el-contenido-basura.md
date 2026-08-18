@@ -1,16 +1,19 @@
 ---
-title: "YouTube Y Su CEO Alertan: 70% Del Contenido Es Basura Y Nadie Lo Nota"
-date: 2026-06-22T19:42:42
+title: 'YouTube Y Su CEO Alertan: 70% Del Contenido Es Basura Y Nadie Lo Nota'
+date: 2026-06-22 19:42:42
 draft: false
-description: "YouTube y su CEO advierten que el 70% del contenido en la plataforma es irrelevante. Descubre cómo identificar lo valioso en medio de la basura."
-featured_image: "/images/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura.jpg"
-slug: "youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura"
-canonical: "https://novumworld.com/es/youtube/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "es"
-translationKey: "7540139e-cd18-f027-90de-e66ae795d2e7"
+description: YouTube y su CEO advierten que el 70% del contenido en la plataforma
+  es irrelevante. Descubre cómo identificar lo valioso en medio de la basura.
+featured_image: /images/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura.jpg
+slug: youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura
+canonical: https://novumworld.com/es/youtube/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: es
+translationKey: 7540139e-cd18-f027-90de-e66ae795d2e7
 ---
 
 ![YouTube Y Su CEO Alertan: 70% Del Contenido Es Basura Y Nadie Lo Nota](/images/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura.jpg)
@@ -63,22 +66,7 @@ En un mar de contenido basura, el auténtico brillo siempre encontrará su camin
 - [YouTube Lanza Función Que Elimina La Frustración De Rebobinar: ¡Adiós Al Tercer Minuto!](/es/youtube/youtube-lanza-una-funcion-que-elimina-la-frustracion-de-rebobinar-adios-al-tercer-minuto/)
 - [YouTube, El Monstruo De 44 Minutos](/es/youtube/youtube-meta-adiccion-redes-millones-temor/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Y Su CEO Alertan: 70% Del Contenido Es Basura Y Nadie Lo Nota",
-  "description": "YouTube y su CEO advierten que el 70% del contenido en la plataforma es irrelevante. Descubre cómo identificar lo valioso en medio de la basura.",
-  "image": "https://novumworld.com/images/youtube-y-su-ceo-advierten-cuidado-con-el-contenido-basura.jpg",
-  "datePublished": "2026-06-22T19:42:42",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -88,4 +76,3 @@ En un mar de contenido basura, el auténtico brillo siempre encontrará su camin
     }
   }
 }
-</script>

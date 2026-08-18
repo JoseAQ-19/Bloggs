@@ -83,7 +83,6 @@ The congressional uncovering of $1 billion in crypto scams tied to Donald Trump‚
 - [The Disturbing Truth: Trump‚Äôs Influence Could Trigger $3.24 Trillion in Bitcoin Pump and Dumps](/crypto/trumps-crypto-influence-can-he-really-move-bitcoins-price-en/)
 - [The Shocking Truth Behind Trump‚Äôs Push for Crypto Clarity Act Legislation](/crypto/trumps-crypto-moves-from-gains-to-legislative-calls-for-clarity-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -92,18 +91,7 @@ The congressional uncovering of $1 billion in crypto scams tied to Donald Trump‚
     <h4>‚úçÔ∏è About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Congress Just Unleashed 10 Shocking Crypto Scandals Fueling Trump's Controversies",
-  "description": "Discover the shocking crypto scandals revealed by Congress that are igniting controversies around Trump. Uncover the truth behind the headlines now!.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-20T19:15:47",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -113,4 +101,3 @@ The congressional uncovering of $1 billion in crypto scams tied to Donald Trump‚
     }
   }
 }
-</script>

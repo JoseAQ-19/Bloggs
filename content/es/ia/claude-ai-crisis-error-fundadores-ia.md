@@ -29,8 +29,6 @@ La inteligencia artificial promete resolver nuestros problemas, pero en realidad
 * Un estudio de Anthropic descubrió que tan solo 250 documentos manipulados pueden "envenenar" un modelo de lenguaje, lo que demuestra las alarmantes vulnerabilidades en la seguridad de la IA.
 * La Ley de IA de la UE, totalmente aplicable en agosto de 2026, impondrá estrictos requisitos y posibles multas de hasta 35 millones de euros para los sistemas de IA que no cumplan con las normas, lo que afectará a las empresas que operan en Europa.
 
-
-
 {{< adsterra_native >}}
 
 ## El Apocalipsis Algorítmico: ¿Por Qué Claude y la IA Aman la Bomba Atómica?
@@ -80,6 +78,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [El Mito del Dato: Cómo la Obsesión por las Métricas Nos Está Destruyendo](/es/ia/el-mito-del-dato-como-la-obsesion-por-las-metricas/)
 - [El Capitalismo Zombi: Cómo la Codicia Corporativa Está Devorando el Futuro](/es/ia/el-capitalismo-zombi-como-la-codicia-corporativa-e/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

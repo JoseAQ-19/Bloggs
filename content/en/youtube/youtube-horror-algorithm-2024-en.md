@@ -29,8 +29,6 @@ type: youtube
 * YouTube Shorts accumulate approximately 200 billion views daily, creating an unprecedented distribution channel for horror content that bypasses legacy gatekeepers.
 * The algorithm's focus on "viewers trigger a viewer's viewer" demands creators abandon film-school principles in favor of data-driven audience engagement metrics.
 
-
-
 {{< adsterra_native >}}
 
 ## Viewer's Viewer: How YouTube's Algorithm Upends Hollywood
@@ -73,6 +71,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Facebook Just Invested $3,000 In Creators—Is This The Start Of A Monetization](/en/youtube/facebook-pours-3000-into-tiktok-and-youtube-creatorsis-this-the-new-monetization-war-en/)
 - [Indonesia Bans Kids From Social Media; YouTube Creators Could Lose Billions](/en/youtube/indonesia-youtube-coppa-ban-en/)
 - [Jeopardy! YouTube Gamble: $70 Billion Creator Payouts Hide A Dark Secret](/en/youtube/jeopardy-youtube-strategy-monetization-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

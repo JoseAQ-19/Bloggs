@@ -1,16 +1,19 @@
 ---
-title: "Remembering Brent Allen Butler: The Heartfelt Legacy That Will Not Be Forgotten"
-date: 2026-05-01T11:47:24
+title: 'Remembering Brent Allen Butler: The Heartfelt Legacy That Will Not Be Forgotten'
+date: 2026-05-01 11:47:24
 draft: false
-description: "Discover the enduring legacy of Brent Allen Butler, a heartfelt tribute that celebrates his impact and the memories that will forever inspire us all."
-featured_image: "/images/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en.jpg"
-slug: "remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en"
-canonical: "https://novumworld.com/ia/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "34ddd709-b8f5-95a5-25f8-e8b9bc0aad36"
+description: Discover the enduring legacy of Brent Allen Butler, a heartfelt tribute
+  that celebrates his impact and the memories that will forever inspire us all.
+featured_image: /images/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en.jpg
+slug: remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en
+canonical: https://novumworld.com/ia/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 34ddd709-b8f5-95a5-25f8-e8b9bc0aad36
 ---
 
 ![Remembering Brent Allen Butler: The Heartfelt Legacy That Will Not Be Forgotten](/images/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en.jpg)
@@ -78,28 +81,12 @@ For those navigating today’s hype-heavy tech landscape, Brent Allen Butler’s
 - [news.google.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vWi1wak9OdFZmOFlSRnJ5RWd5TDRQbElXcldoQ0xZVzRpSnB0cndVSGpCajM2THdzMzVVN0N6LXc5NjVaNnVWQmRObjBOOG5OMU9Qb3ZaWGNYTjdVNkQwdVIyOUNidw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE90U3NYdVM5VjdoTEZvbmx0Qng2WnNpeXBvZzRuZTZsTWZ1Q1hIZFZ2OS1EYWU5d1pxeE9VS1NGTmRoVFVQSm16RG9ReWFHbm0taDN6TTFnbHlXQ1lhMEl3?oc=5)
 
-
 ## Related Articles
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 - [Anthropic's Red Lines CRUMBLE? Pentagon AI Used in Iran S](/ia/pentagon-ai-anthropic-iran-strikes-en/)
 - [Digital Elites: Saviors or Soci](/ia/la-elites-digitales-amos-del-mundo-o-nuevos-parasi/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Remembering Brent Allen Butler: The Heartfelt Legacy That Will Not Be Forgotten",
-  "description": "Discover the enduring legacy of Brent Allen Butler, a heartfelt tribute that celebrates his impact and the memories that will forever inspire us all.",
-  "image": "https://novumworld.com/images/remembering-brent-allen-butler-a-life-celebrated-in-his-obituary-en.jpg",
-  "datePublished": "2026-05-01T11:47:24",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ For those navigating today’s hype-heavy tech landscape, Brent Allen Butler’s
     }
   }
 }
-</script>

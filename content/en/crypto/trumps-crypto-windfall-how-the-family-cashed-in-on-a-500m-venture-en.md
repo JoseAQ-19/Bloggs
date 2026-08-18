@@ -1,16 +1,19 @@
 ---
-title: "Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis"
-date: 2026-06-09T17:09:43
+title: 'Trump''s Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis'
+date: 2026-06-09 17:09:43
 draft: false
-description: "Discover how Trump's family capitalized on a staggering $500M crypto venture, exploring the strategies and impacts behind their financial success."
-featured_image: "/images/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en.jpg"
-slug: "trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en"
-canonical: "https://novumworld.com/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "aa1000f7-5c76-5e79-32d8-680b383f8447"
+description: Discover how Trump's family capitalized on a staggering $500M crypto
+  venture, exploring the strategies and impacts behind their financial success.
+featured_image: /images/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en.jpg
+slug: trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en
+canonical: https://novumworld.com/crypto/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: aa1000f7-5c76-5e79-32d8-680b383f8447
 ---
 
 ![Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis](/images/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en.jpg)
@@ -78,12 +81,10 @@ The potential for oligarchic influences to encroach upon the financial landscape
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPY0RZOGRqZlQxX3hrWGRoV2dKMzZfY3NaYjQ1YnhJY0Z6U0xUYXFiWGdnMlI0OHhLWHZGVTZ5bzBlYlNPd0dWdmVSTU1BZ0I1SE9VcEdGZjN1aEtyOWRDejFmWm83Uy1ab0dqMWM2QjZWRFpHbmw4WWhQMjZ4MkFrZEhrejVkTk1NaVE?oc=5)
 
-
 ## Related Articles
 - [Justin Sun Claims Trump Family's Crypto Firm Illegally Stole $320 Million Worth of Tokens](/crypto/trump-family-crypto-firm-under-fire-billionaire-suns-explosive-lawsuit-en/)
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
 - [US Senate’s Crypto Bill Could Propel Bitcoin To $200,000 By 2025](/crypto/us-senates-crypto-bill-a-game-changer-for-digital-assets-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -93,18 +94,7 @@ The potential for oligarchic influences to encroach upon the financial landscape
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Trump's Crypto Windfall: How the Family Cashed in on a $500M Venture Analysis",
-  "description": "Discover how Trump's family capitalized on a staggering $500M crypto venture, exploring the strategies and impacts behind their financial success.",
-  "image": "https://novumworld.com/images/trumps-crypto-windfall-how-the-family-cashed-in-on-a-500m-venture-en.jpg",
-  "datePublished": "2026-06-09T17:09:43",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +104,3 @@ The potential for oligarchic influences to encroach upon the financial landscape
     }
   }
 }
-</script>

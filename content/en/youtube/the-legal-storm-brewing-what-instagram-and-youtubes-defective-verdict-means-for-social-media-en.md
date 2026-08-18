@@ -28,8 +28,6 @@ The recent ruling from the Northern District of California has sent shockwaves t
 
 The recent ruling from the Northern District of California has sent shockwaves through the tech industry, as Instagram and YouTube could face unprecedented legal liability for their role in algorithmically amplifying harmful content. This landmark decision not only challenges the status quo of digital platform protections but also threatens to reshape the landscape of social media accountability.
 
-
-
 {{< adsterra_native >}}
 
 ### Key Points
@@ -91,6 +89,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Good Good Golf''s Meltdown: 1.48 Million Subscribers Can''t Save This Trainwreck](/en/youtube/youtube-golf-wars-business-fallout-en/)
 - [YouTube Studio''s $36 Billion Problem: Glitches Wreak Havoc On Creator Paychecks](/en/youtube/youtube-studio-meltdown-creator-revenue-en/)
 - [Meta Just Paid $3 Billion to Influencers and Nobody Noticed the Implications](/en/youtube/metas-bold-move-paying-influencers-to-bring-their-content-to-facebook-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

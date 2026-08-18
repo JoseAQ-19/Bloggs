@@ -1,14 +1,17 @@
 ---
-title: "Thornburg's THOR ETF Joins Income Builder Franchise, Targeting 5% Annual Yield"
-date: 2026-06-24T08:06:00
+title: Thornburg's THOR ETF Joins Income Builder Franchise, Targeting 5% Annual Yield
+date: 2026-06-24 08:06:00
 draft: false
-description: "Discover Thornburg's THOR ETF as it joins the Income Builder Franchise, aiming for a robust 5% annual yield. Explore its potential benefits today!."
-featured_image: "/images/thornburgs-thor-etf-joins-income-builder-franchise-targeting-5-annual-yield-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "fbf94f29-5bf6-0f3a-3809-657e8c3d1b87"
+description: Discover Thornburg's THOR ETF as it joins the Income Builder Franchise,
+  aiming for a robust 5% annual yield. Explore its potential benefits today!.
+featured_image: /images/thornburgs-thor-etf-joins-income-builder-franchise-targeting-5-annual-yield-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: fbf94f29-5bf6-0f3a-3809-657e8c3d1b87
 ---
 
 ![Thornburg's THOR ETF Joins Income Builder Franchise, Targeting 5% Annual Yield](/images/thornburgs-thor-etf-joins-income-builder-franchise-targeting-5-annual-yield-en.jpg)
@@ -22,8 +25,6 @@ Thornburg’s newly launched THOR ETF aims to provide investors with a targeted 
 The introduction of the THOR ETF is a strategic extension of Thornburg's Income Builder Franchise, which has been well-received for its focus on generating consistent income for investors. The firm’s track record of managing income-oriented strategies suggests a robust foundation for this new ETF. Thornburg's management emphasizes a disciplined approach to income generation, targeting quality income-producing securities across various asset classes.
 
 Investors are increasingly turning towards ETFs for their cost-effectiveness and liquidity. The THOR ETF's expense ratio of 0.48% is competitive in the current market, where the average fee for income-focused ETFs hovers around 0.60%. This fee structure could positively impact long-term performance, particularly for those seeking to maximize net returns. 
-
-
 
 {{< adsterra_native >}}
 
@@ -83,31 +84,9 @@ Risks include interest rate fluctuations, economic downturns, and reliance on th
 **When will the THOR ETF start providing historical performance data?**  
 Performance data will be available once the fund has been operational for a period, typically within one quarter of its launch.
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Thornburg's THOR ETF Joins Income Builder Franchise, Targeting 5% Annual Yield",
-  "datePublished": "2023-10-27",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
   "mainEntityOfPage": "True"
 }
-</script>
 
-<script type="application/ld+json">{</script>
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the expense ratio of the THOR ETF?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The THOR ETF has an expense ratio of 0.48%."
-      }
-    },
     {
       "@type": "Question",
       "name": "How does the THOR ETF compare to other income ETFs?",
@@ -142,13 +121,10 @@ Performance data will be available once the fund has been operational for a peri
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 - [Vanguard](/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en/)
 - [Tencent Reports Steady Growth as AI Investments Yield Positive Returns](/funds/tencent-reports-steady-growth-as-ai-investments-yield-positive-returns-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

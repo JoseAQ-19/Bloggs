@@ -1,16 +1,20 @@
 ---
-title: "The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed"
-date: 2026-04-15T22:19:58
+title: The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline
+  Revealed
+date: 2026-04-15 22:19:58
 draft: false
-description: "Discover the alarming findings on neurocognitive decline in 30% of HIV patients on ART. Uncover causes, implications, and potential solutions now."
-featured_image: "/images/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en.jpg"
-slug: "the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en"
-canonical: "https://novumworld.com/viral/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "f05111b8-6671-176f-df8d-4c43201f44dc"
+description: Discover the alarming findings on neurocognitive decline in 30% of HIV
+  patients on ART. Uncover causes, implications, and potential solutions now.
+featured_image: /images/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en.jpg
+slug: the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en
+canonical: https://novumworld.com/viral/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: f05111b8-6671-176f-df8d-4c43201f44dc
 ---
 
 ![The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed](/images/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en.jpg)
@@ -80,28 +84,12 @@ Investors, tech innovators, and healthcare professionals must collaborate to dri
 - [ncbi.nlm.nih.gov](https://ncbi.nlm.nih.gov/pmc/articles/PMC8494587/)
 - [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5720921/)
 
-
 ## Related Articles
 - [Temu''s $2M FTC Fine: Your Cheap Steak Might Be More](/viral/temu-steak-controversy-en/)
 - [Spurs Blunder: 60% Of Latino Fans On Faceboo](/viral/spurs-tiktok-diversity-backfire-en/)
 - [Ugly Sonic Didn''t Die: His VFX Secr](/viral/sonic-movie-vfx-muzzle-flash-paradox-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking 30% of HIV Patients on ART Experiencing Neurocognitive Decline Revealed",
-  "description": "Discover the alarming findings on neurocognitive decline in 30% of HIV patients on ART. Uncover causes, implications, and potential solutions now.",
-  "image": "https://novumworld.com/images/the-shocking-truth-about-chronic-inflammation-in-hiv-patients-suppressed-but-not-safe-en.jpg",
-  "datePublished": "2026-04-15T22:19:58",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -111,4 +99,3 @@ Investors, tech innovators, and healthcare professionals must collaborate to dri
     }
   }
 }
-</script>

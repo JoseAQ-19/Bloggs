@@ -30,8 +30,6 @@ Gastar 12.000€ para transformarse en un Border Collie puede parecer una extrav
 * La psicóloga Andrea Anaya sugiere que la falta de pertenencia puede llevar a la identificación con "cosas inexplicables" (La Razón).
 * El aumento de visibilidad de los *therians* en España genera preocupación por el bienestar animal y posible explotación, instando a la cautela a organizaciones como PACMA.
 
-
-
 {{< adsterra_native >}}
 
 ## El auge de los *therians* en España: Un fenómeno impulsado por TikTok y explotado por la ultraderecha.
@@ -107,6 +105,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [¡191%! Deepfakes Descontrolados En España: El Cine Mudo Es Sólo El Inicio](/es/youtube/cine-mudo-sci-fi-revelado/)
 - [YouTube, Se Acabó: Obligan a Ver 30 Segundos de Anuncios y la Red Explota](/es/youtube/youtube-anuncios-30-segundos-enfado-usuarios/)
 - [Vultures'' Incendia YouTube: ¿Kanye West Repetirá el Error Legal del 70%?](/es/youtube/kanye-west-vultures-youtube-polemica/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

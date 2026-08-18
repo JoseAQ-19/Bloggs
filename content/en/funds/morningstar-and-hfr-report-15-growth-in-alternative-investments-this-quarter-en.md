@@ -1,14 +1,17 @@
 ---
-title: "Morningstar and HFR Report 15% Growth in Alternative Investments This Quarter"
-date: 2026-05-15T09:24:17
+title: Morningstar and HFR Report 15% Growth in Alternative Investments This Quarter
+date: 2026-05-15 09:24:17
 draft: false
-description: "Discover how Morningstar and HFR report a remarkable 15% growth in alternative investments this quarter. Uncover insights and trends shaping the market."
-featured_image: "/images/morningstar-and-hfr-report-15-growth-in-alternative-investments-this-quarter-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "e44cc3f5-0c57-5602-399f-b340f42c3484"
+description: Discover how Morningstar and HFR report a remarkable 15% growth in alternative
+  investments this quarter. Uncover insights and trends shaping the market.
+featured_image: /images/morningstar-and-hfr-report-15-growth-in-alternative-investments-this-quarter-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: e44cc3f5-0c57-5602-399f-b340f42c3484
 ---
 
 ![Morningstar and HFR Report 15% Growth in Alternative Investments This Quarter](/images/morningstar-and-hfr-report-15-growth-in-alternative-investments-this-quarter-en.jpg)
@@ -20,8 +23,6 @@ Alternative investments have surged by 15% this quarter, reflecting a robust shi
 * 12% — Increase in private equity investments year-over-year — **Morningstar**
 
 The recent report from Morningstar and Hedge Fund Research (HFR) highlights a significant increase in alternative investments, emphasizing a growing preference for hedge funds, private equity, and real estate as viable asset classes. The alternative investment landscape is evolving, offering unique opportunities amidst traditional market fluctuations. Investors are progressively reallocating their portfolios, seeking the potential for higher returns and risk mitigation. 
-
-
 
 {{< adsterra_native >}}
 
@@ -79,6 +80,4 @@ The current landscape of alternative investments presents both opportunities and
 - [Vanguard's International High Dividend Yield ETF Cuts Expense Ratio by 60%](/funds/vanguards-international-high-dividend-yield-etf-cuts-expense-ratio-by-60-en/)
 - [Palantir Reports 120% Revenue Growth Amidst Valuation Concerns](/funds/palantir-reports-120-revenue-growth-amidst-valuation-concerns-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

@@ -1,16 +1,19 @@
 ---
-title: "80% Of Americans Fear AI Will Take Their Jobs Forever"
-date: 2026-06-22T13:19:20
+title: 80% Of Americans Fear AI Will Take Their Jobs Forever
+date: 2026-06-22 13:19:20
 draft: false
-description: "Discover why 80% of Americans are concerned about AI potentially taking their jobs forever and explore the implications for the future of work."
-featured_image: "/images/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en.jpg"
-slug: "why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en"
-canonical: "https://novumworld.com/ia/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "765be3f1-3d52-ea4f-e2d5-a40162096180"
+description: Discover why 80% of Americans are concerned about AI potentially taking
+  their jobs forever and explore the implications for the future of work.
+featured_image: /images/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en.jpg
+slug: why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en
+canonical: https://novumworld.com/ia/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 765be3f1-3d52-ea4f-e2d5-a40162096180
 ---
 
 ![80% Of Americans Fear AI Will Take Their Jobs Forever](/images/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en.jpg)
@@ -64,22 +67,7 @@ The fear surrounding AI and job loss is valid, but it also opens the door to new
 - [Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community](/ia/two-injured-in-monona-countys-shocking-wrong-way-crash-en/)
 - [iA Financial Just Increased Dividends by 11%: What Investors Need to Know](/ia/will-ia-financial-corporations-upcoming-dividend-make-it-a-smart-investment-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "80% Of Americans Fear AI Will Take Their Jobs Forever",
-  "description": "Discover why 80% of Americans are concerned about AI potentially taking their jobs forever and explore the implications for the future of work.",
-  "image": "https://novumworld.com/images/why-80-of-americans-are-skeptical-about-ai-unpacking-the-doubts-en.jpg",
-  "datePublished": "2026-06-22T13:19:20",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -89,4 +77,3 @@ The fear surrounding AI and job loss is valid, but it also opens the door to new
     }
   }
 }
-</script>

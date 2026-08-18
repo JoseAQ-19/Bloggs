@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth: Pope Leo XIV Is Bridging the Digital Divide for Gen Z Catholics"
-date: 2026-05-08T22:34:55
+title: 'The Shocking Truth: Pope Leo XIV Is Bridging the Digital Divide for Gen Z
+  Catholics'
+date: 2026-05-08 22:34:55
 draft: false
-description: "Discover how Pope Leo XIV is connecting Gen Z Catholics with innovative digital tools, bridging the gap between faith and technology for a new generation."
-featured_image: "/images/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en.jpg"
-slug: "pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en"
-canonical: "https://novumworld.com/viral/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "510d7945-c3cd-79b5-7fc8-7f84b0eea3d5"
+description: Discover how Pope Leo XIV is connecting Gen Z Catholics with innovative
+  digital tools, bridging the gap between faith and technology for a new generation.
+featured_image: /images/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en.jpg
+slug: pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en
+canonical: https://novumworld.com/viral/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 510d7945-c3cd-79b5-7fc8-7f84b0eea3d5
 ---
 
 ![The Shocking Truth: Pope Leo XIV Is Bridging the Digital Divide for Gen Z Catholics](/images/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en.jpg)
@@ -97,22 +101,7 @@ In an age of digital disconnection, the Church's true challenge lies in fosterin
 - [Emma McNally Blasts SNL: Why This Tourette''s Joke](/viral/snl-tourettes-controversy-en/)
 - [Temu''s Data Privacy Nightmare Expands: Now They Know Wh](/viral/temu-grocery-expansion-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth: Pope Leo XIV Is Bridging the Digital Divide for Gen Z Catholics",
-  "description": "Discover how Pope Leo XIV is connecting Gen Z Catholics with innovative digital tools, bridging the gap between faith and technology for a new generation.",
-  "image": "https://novumworld.com/images/pope-leo-xiv-the-relatable-story-thats-captivating-hearts-online-en.jpg",
-  "datePublished": "2026-05-08T22:34:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +111,3 @@ In an age of digital disconnection, the Church's true challenge lies in fosterin
     }
   }
 }
-</script>

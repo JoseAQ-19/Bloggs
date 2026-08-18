@@ -20,8 +20,6 @@ This Privacy Policy is intended to meet Google AdSense requirements, the General
 
 ---
 
-
-
 {{< adsterra_native >}}
 
 ## 1. Information We Collect

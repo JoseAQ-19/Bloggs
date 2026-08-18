@@ -1,16 +1,20 @@
 ---
-title: "Andrew Cuomo’s Shocking New Crypto Venture With NYSE Owner Will Disrupt Wall Street"
-date: 2026-06-22T17:38:12
+title: Andrew Cuomo’s Shocking New Crypto Venture With NYSE Owner Will Disrupt Wall
+  Street
+date: 2026-06-22 17:38:12
 draft: false
-description: "Discover how Andrew Cuomo's bold crypto venture with the NYSE owner is set to shake up Wall Street and redefine the future of finance."
-featured_image: "/images/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en.jpg"
-slug: "andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en"
-canonical: "https://novumworld.com/crypto/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "3cecc0e5-43da-a195-f9fb-3ba761d2f43a"
+description: Discover how Andrew Cuomo's bold crypto venture with the NYSE owner is
+  set to shake up Wall Street and redefine the future of finance.
+featured_image: /images/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en.jpg
+slug: andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en
+canonical: https://novumworld.com/crypto/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 3cecc0e5-43da-a195-f9fb-3ba761d2f43a
 ---
 
 ![Andrew Cuomo’s Shocking New Crypto Venture With NYSE Owner Will Disrupt Wall Street](/images/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en.jpg)
@@ -78,7 +82,6 @@ As the landscape continues to evolve, it is clear that innovation will play a cr
 - [The Hidden Risks Behind The $2 Trillion Market Meltdown That Shocked Investors](/crypto/the-real-story-behind-the-market-meltdown-crypto-stocks-and-gold-in-freefall-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -87,18 +90,7 @@ As the landscape continues to evolve, it is clear that innovation will play a cr
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Andrew Cuomo’s Shocking New Crypto Venture With NYSE Owner Will Disrupt Wall Street",
-  "description": "Discover how Andrew Cuomo's bold crypto venture with the NYSE owner is set to shake up Wall Street and redefine the future of finance.",
-  "image": "https://novumworld.com/images/andrew-cuomo-takes-the-helm-new-crypto-venture-with-nyse-owner-unveiled-en.jpg",
-  "datePublished": "2026-06-22T17:38:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +100,3 @@ As the landscape continues to evolve, it is clear that innovation will play a cr
     }
   }
 }
-</script>

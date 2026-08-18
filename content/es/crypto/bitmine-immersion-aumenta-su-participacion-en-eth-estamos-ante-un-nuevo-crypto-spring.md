@@ -1,16 +1,20 @@
 ---
-title: "Bitmine Immersion Aumenta Su Participación en ETH: Un Escándalo Que Nadie Vio Venir"
-date: 2026-05-12T16:40:04
+title: 'Bitmine Immersion Aumenta Su Participación en ETH: Un Escándalo Que Nadie
+  Vio Venir'
+date: 2026-05-12 16:40:04
 draft: false
-description: "Descubre cómo Bitmine Immersion ha aumentado su participación en ETH y por qué este escándalo sorprendió a todos. ¡Infórmate aquí!."
-featured_image: "/images/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring.jpg"
-slug: "bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring"
-canonical: "https://novumworld.com/es/crypto/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "es"
-translationKey: "3c1d0cb4-ced3-34a5-c260-9946c3854403"
+description: Descubre cómo Bitmine Immersion ha aumentado su participación en ETH
+  y por qué este escándalo sorprendió a todos. ¡Infórmate aquí!.
+featured_image: /images/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring.jpg
+slug: bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring
+canonical: https://novumworld.com/es/crypto/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: es
+translationKey: 3c1d0cb4-ced3-34a5-c260-9946c3854403
 ---
 
 ![Bitmine Immersion Aumenta Su Participación en ETH: Un Escándalo Que Nadie Vio Venir](/images/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring.jpg)
@@ -55,12 +59,10 @@ Los datos muestran que la participación de Bitmine en ETH es un fenómeno que p
 ## Metodología y Fuentes
 - [defillama.com](https://defillama.com)
 
-
 ## Artículos relacionados
 - [¿Gas Demasiado Caro en Metamask? Gu](/es/crypto/metamask-gas-fees-guia-completa/)
 - [Harvard Abandona Bitcoin: Apuesta 86](/es/crypto/harvard-bitcoin-ethereum-elite-inversion/)
 - [La Impactante Predicción de TRON (TRX): ¿Hasta Dónde Llegará en 2028?](/es/crypto/la-sorprendente-prediccion-del-precio-de-tron-trx-para-2026-2028-que-no-puedes-ignorar/)
-
 
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
@@ -70,18 +72,7 @@ Los datos muestran que la participación de Bitmine en ETH es un fenómeno que p
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bitmine Immersion Aumenta Su Participación en ETH: Un Escándalo Que Nadie Vio Venir",
-  "description": "Descubre cómo Bitmine Immersion ha aumentado su participación en ETH y por qué este escándalo sorprendió a todos. ¡Infórmate aquí!.",
-  "image": "https://novumworld.com/images/bitmine-immersion-aumenta-su-participacion-en-eth-estamos-ante-un-nuevo-crypto-spring.jpg",
-  "datePublished": "2026-05-12T16:40:04",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -91,4 +82,3 @@ Los datos muestran que la participación de Bitmine en ETH es un fenómeno que p
     }
   }
 }
-</script>

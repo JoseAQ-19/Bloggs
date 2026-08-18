@@ -1,14 +1,17 @@
 ---
-title: "MORN's New Private Credit Data Strategy Strengthens Competitive Moat by 20%"
-date: 2026-05-24T07:58:51
+title: MORN's New Private Credit Data Strategy Strengthens Competitive Moat by 20%
+date: 2026-05-24 07:58:51
 draft: false
-description: "Discover how MORN's innovative private credit data strategy enhances its competitive edge by 20%, reshaping the mutual fund landscape for investors."
-featured_image: "/images/morns-new-private-credit-data-strategy-strengthens-competitive-moat-by-20-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "65adf1dc-29ec-77b7-1201-026466d0a6b6"
+description: Discover how MORN's innovative private credit data strategy enhances
+  its competitive edge by 20%, reshaping the mutual fund landscape for investors.
+featured_image: /images/morns-new-private-credit-data-strategy-strengthens-competitive-moat-by-20-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 65adf1dc-29ec-77b7-1201-026466d0a6b6
 ---
 
 ![MORN's New Private Credit Data Strategy Strengthens Competitive Moat by 20%](/images/morns-new-private-credit-data-strategy-strengthens-competitive-moat-by-20-en.jpg)
@@ -20,8 +23,6 @@ Morningstar's recent strategic pivot in private credit data is anticipated to en
 * [The market for private credit has grown by 25% annually over the last five years — Source: **Lazard**]
 
 The shift towards a more data-centric approach is not merely a reaction to market trends; it signifies a strategic repositioning that could redefine Morningstar’s role within the financial services landscape. The company's commitment to enhancing its private credit data capabilities aligns with the broader industry trend where comprehensive analytics are becoming essential for fund managers and investors seeking alpha in a competitive marketplace.
-
-
 
 {{< adsterra_native >}}
 
@@ -78,26 +79,14 @@ As we analyze the performance metrics, fee structures, and expert insights, it i
 
 We believe that Morningstar’s strategic focus on enhancing its private credit data capabilities provides a formidable competitive edge. As the market continues to evolve, embracing data analytics will likely be a crucial factor in maintaining investor trust and driving fund performance. Balancing the opportunities presented by this strategic shift with the inherent risks will be essential for long-term success in this dynamic environment.
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "MORN's New Private Credit Data Strategy Strengthens Competitive Moat by 20%",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "datePublished": "2023-10-01",
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0lFLWRDTTdNWXZtX2RZVS1GQkFfVEpoY1ZaWnBLNy1kR2ZKd3drWnhiMWQ4Q1IzOXkyOWw0MXpONmZIRHJJcWRob3dyUVVwenM3VXNHYW5jTllRc0pLYkRHWGIzbDRic3NwOW1Hb2ZjZ0JBWG1BQUdfc2JWUEVlRUkyTGlTblA4T1dJNW5uYlFjOVVYRVpleW1FVldLdU5Va1hqcWR1ZjRVTnRjdzktMDhQbUJCYjkxU01qeXcxUGJtNzg2dVd3WC1JZDBKN1kyNU1CTk1XODBRMTlnd29ncDJ30gHiAUFVX3lxTE1LSUUtZENNN01Zdm1fZFlVLUZCQV9USmhjVlpacEs3LWRHZkp3d2taeGIxZDhDUjM5eTI5bDQxek42ZkhEcklxZGhvd3JRVXB6czdVc0dhbmNOWVFzSktiREdYYjNsNGJzc3A5bUdvZmNnQkFYbUFBR19zYlZQRWVFSTJMaVNuUDhPV0k1bm5iUWM5VVhFWmV5bUVWV0t1TlVrWGpxZHVmNFVOdGN3OS0wOFBtQkJiOTFTTWp5dzFQYm03ODZ1V3dYLUlkMEo3WTI1TUJOTVc4MFExOWd3b2dwMnc?oc=5"
 }
-</script>
 
 ## Related Articles
 - [Positive Net Flows of 10% Fail to Offset Aviva's Weaker Protection and Health Indicators](/funds/positive-net-flows-of-10-fail-to-offset-avivas-weaker-protection-and-health-indi-en/)
 - [Top 5 AI Stocks Set to Surpass Market Expectations by 25% Next Year](/funds/top-5-ai-stocks-set-to-surpass-market-expectations-by-25-next-year-en/)
 - [PGIM Real Estate Fund Marks $260M Capital Deployed in 10th Acquisition](/funds/pgim-real-estate-fund-marks-260m-capital-deployed-in-10th-acquisition-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

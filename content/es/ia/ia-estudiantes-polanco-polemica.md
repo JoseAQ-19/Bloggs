@@ -30,8 +30,6 @@ La promesa de la IA como panacea educativa choca de frente con la dura realidad:
 * Según un estudio de LLYC, el 87.9% de los futuros estudiantes tienen gran confianza en la IA para planificar sus estudios, lo que contrasta con la preocupación de los profesores sobre el impacto negativo de la IA en el aprendizaje.
 * Los estudiantes y padres españoles deben priorizar el desarrollo del pensamiento crítico y la comprensión de las limitaciones de la IA para evitar una dependencia excesiva y garantizar un aprendizaje efectivo, mientras que los educadores necesitan preparación para la integración responsable de la IA.
 
-
-
 {{< adsterra_native >}}
 
 ## ChatGPT Suspende: La Decepción Académica de la Generación IA
@@ -71,6 +69,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [OpenAI Desangra España: 12 Fichajes Diarios Y Talento Español En Peligro](/es/ia/openai-fichajes-sueldos-inflados-fuga-cerebros/)
 - [Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/es/ia/ia-arma-armagedon-algoritmico-ceguera-militar/)
 - [¿Estás quemando GPUs en vano? Por qué 'fine-tuning' Transformers con datos](/es/ia/fine-tuning-transformers-datos-escasos-estafa/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

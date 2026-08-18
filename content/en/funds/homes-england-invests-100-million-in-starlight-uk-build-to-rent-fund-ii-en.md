@@ -1,14 +1,17 @@
 ---
-title: "Homes England Invests £100 Million in Starlight UK Build-to-Rent Fund II"
-date: 2026-05-13T08:04:34
+title: Homes England Invests £100 Million in Starlight UK Build-to-Rent Fund II
+date: 2026-05-13 08:04:34
 draft: false
-description: "Discover how Homes England's £100 million investment in Starlight UK Build-to-Rent Fund II aims to boost affordable housing and drive urban development."
-featured_image: "/images/homes-england-invests-100-million-in-starlight-uk-build-to-rent-fund-ii-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "8b7d95b6-b9ec-30a2-4222-6dc74b740321"
+description: Discover how Homes England's £100 million investment in Starlight UK
+  Build-to-Rent Fund II aims to boost affordable housing and drive urban development.
+featured_image: /images/homes-england-invests-100-million-in-starlight-uk-build-to-rent-fund-ii-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 8b7d95b6-b9ec-30a2-4222-6dc74b740321
 ---
 
 ![Homes England Invests £100 Million in Starlight UK Build-to-Rent Fund II](/images/homes-england-invests-100-million-in-starlight-uk-build-to-rent-fund-ii-en.jpg)
@@ -22,8 +25,6 @@ Homes England's recent decision to allocate £100 million to the Starlight UK Bu
 * 20,000 — Number of new homes expected to be built through the fund within the next five years [Source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVpEanVPaHNRX1lKYmRxR2ZmSW9ZcGZsaEJMX2hJaXBmNENaU0dhYmkycVRFSTdYa1hqM3ZKbERQY21weEc4Vm92OWJtT24xamU4SHJWaVpfZWltR0lteWF1Z2tRUWpTSlByM0hmbmplcEZfRFN5UnVWTXUteXlQejByazVoZVpHWUVIc3FOaDZJYm1ZTmZGNW9yUWhzSDNUSlFjZkl5Q0FHY0U?oc=5*
 
 The allocation of funds by Homes England is designed to address the growing housing crisis in the UK, particularly in the rental market, where demand continues to outstrip supply. This investment follows a broader trend of institutional interest in the build-to-rent sector, which has gained traction as a viable solution to the housing shortage.
-
-
 
 {{< adsterra_native >}}
 
@@ -83,16 +84,7 @@ The fund aims to build approximately 20,000 new homes within the next five years
 
 Current market conditions suggest strong demand for rental properties, but investors should remain cautious of economic uncertainties that could impact returns.
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Homes England Invests £100 Million in Starlight UK Build-to-Rent Fund II",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRHI3dWlCV3ZYQi1Mb3IwdWlVeXpxYjlRWmowZG9rLVI2Vllld0hvTzlFMF9BcDFiLUdSU1UyUmlNVWhVS1lFSnd4bllVaXRCbEREVXRSaGdGMkdQN094SDRCTHRaZFBEMFRGUVRMZjFaTGFLR3pJYmhwSy1zSlVlbTVlWGtaTGVvWm9VYU1hTlVMYmZOeWtXQVgzX0I3TnE5SlhuQ0dmTGpJUU43OFlEUmNoT0NFOXk3cDhydmQwM0RzYU56U1VpM0FUdHkzMlpxY3B0Ujc0YzhGb3JWaUZQUFY4bk5INGUybGlZbGFHRkwwYXNYdjFZLXplaFQ2UVdsTkJOTXh2c29zRy11ekNHaw?oc=5",
   "image": {
     "@type": "ImageObject",
@@ -101,20 +93,8 @@ Current market conditions suggest strong demand for rental properties, but inves
     "height": 800
   }
 }
-</script>
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the expected return on investment for Starlight UK Build-to-Rent Fund II?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The projected annual return is approximately 4.7%, which is competitive compared to other funds in the market."
-      }
-    },
+
+},
     {
       "@type": "Question",
       "name": "How does this fund compare to traditional REITs?",
@@ -149,13 +129,10 @@ Current market conditions suggest strong demand for rental properties, but inves
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 - [VOO Surges 281% in](/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en/)
 - [Van](/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

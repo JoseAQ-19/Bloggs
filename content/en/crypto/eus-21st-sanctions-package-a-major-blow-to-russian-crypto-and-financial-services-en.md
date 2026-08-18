@@ -71,12 +71,10 @@ En conclusión, el 21er paquete de sanciones de la UE contra Rusia es un movimie
 - [news.google.com](https://news.google.com/rss/articles/CBMicEFVX3lxTE1fWjB2bHZObEpqWUxIR1NtQ3V5dldpbG9pbnF6LU5XSWxmeWlUWENGalpOc2F0a2tOdGl1TEZSNldvRHNZT1BzZS1YaHBPV2FFaF9fTlljNlZidy01Rms5dGZsY3dDMk0tSmFwM284LVM?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOa1dXT0Z6c2phSmdBZ0hWTjdaXy0ySWhWRkJzT0RMNEZTVlRLb2daczdHRW9OY1VaU212b0oxZDNTX2xXR21BelBEcU9NLUVSOEtzUXZfeE94VXoyS0lIV291UWh6RlhHWXBlOUMzaEtzN3B4WTZTVzNsYWdrWXctWjQtbm9PTWNGdmdqUU0zNk5MeFdyUnNWdk5hdUtEZw?oc=5)
 
-
 ## Related Articles
 - [Goldman Sachs Just Filed For A Bitcoin ETF And Nobody Saw It Coming](/crypto/wall-streets-surprising-love-affair-with-crypto-en/)
 - [The Shocking Truth Behind Trump Donors’ Crypto Venture and SEC’s Latest Moves](/crypto/us-regulator-moves-to-clear-penalty-against-trump-donors-crypto-venture-en/)
 - [The Shocking Truth: Trump’s Crypto Policy Could Propel Bitcoin to $180,000](/crypto/trumps-vision-for-the-future-more-banks-and-a-thriving-crypto-industry-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -86,18 +84,7 @@ En conclusión, el 21er paquete de sanciones de la UE contra Rusia es un movimie
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "EU's New Sanctions Package Deals A Devastating Blow To Russian Financial Services And Crypto",
-  "description": "Explore how the EU's latest sanctions package cripples Russian financial services and crypto, reshaping the landscape of international finance.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-23T17:53:55",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -107,4 +94,3 @@ En conclusión, el 21er paquete de sanciones de la UE contra Rusia es un movimie
     }
   }
 }
-</script>

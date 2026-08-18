@@ -1,16 +1,19 @@
 ---
-title: "Pope Calls For Urgent AI Regulation: 170 Million Jobs At Risk By 2030"
-date: 2026-05-25T12:43:07
+title: 'Pope Calls For Urgent AI Regulation: 170 Million Jobs At Risk By 2030'
+date: 2026-05-25 12:43:07
 draft: false
-description: "Pope Francis urges immediate AI regulation, highlighting the potential risk of 170 million jobs by 2030. Explore the implications for our future workforce."
-featured_image: "/images/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en.jpg"
-slug: "pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en"
-canonical: "https://novumworld.com/ia/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "07917615-111c-2271-77fe-d9b84631e5fd"
+description: Pope Francis urges immediate AI regulation, highlighting the potential
+  risk of 170 million jobs by 2030. Explore the implications for our future workforce.
+featured_image: /images/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en.jpg
+slug: pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en
+canonical: https://novumworld.com/ia/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 07917615-111c-2271-77fe-d9b84631e5fd
 ---
 
 ![Pope Calls For Urgent AI Regulation: 170 Million Jobs At Risk By 2030](/images/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en.jpg)
@@ -45,28 +48,12 @@ The confluence of papal urgency, economic displacement, and regulatory crackdown
 - [news.google.com](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWTZMMTF5REZrX0xDNWNqdFVwampQel9YNGNTOFhqc0N2eHY4dU5oeThqMjloenNsZWhVVGNFVW5mdlQ0V1pOUW5wU2pfajZhUFdLeVlnbzRfWkZkb09RSGZPYlhfa2lGVkxfWVdEdDNnWEVEa1k1UzVYN0VxOWg1QWJsRS1xUVQ1NzZHMGExLVZ6dkNYZnVKOC1YSGw3VGlyaGtCS1pTNUV6b0NhcFVnOWRONmhyamFaWGM4MVhaNFR3bm5jVl8ybENhaGFaUDRjR3FHSzdjdmNoTUJTQURIU3lWU3ItczU5LXlQWVFLOTY5cVFOb3EwSk9Wcw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3BFWHktclhYeTZkcTBDcEtEQkpuWGZBT3pBOXZISmhjbHRzZktQZTltSzNkODVJbUlYM3FlNWJOSnFFVGo1OGlOdG1tdmFrNU1GMWxSazlHT01zeWlNdDFqdUxXd184S3BVUlNMWWR6bWlYRW5lZ2JqUTk0SGVWbkY2OWFCeE82Y05tRnJEZVY1ei1CQnJzU2tkWGdEZ1BjWnBzOENodE1abFEzM1QzVg?oc=5)
 
-
 ## Related Articles
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 - [The Hidden Dangers: 76% of S&P 500 Companies Face AI Iatrogenic Harm](/ia/the-silent-impact-uncovering-iatrogenic-harm-from-ai-safety-measures-en/)
 - [Mysterious Death Rocks Le Mars: 5 Civilian Complaints Expose Police Misconduct](/ia/mysterious-death-investigation-shakes-small-town-le-mars-ia-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Pope Calls For Urgent AI Regulation: 170 Million Jobs At Risk By 2030",
-  "description": "Pope Francis urges immediate AI regulation, highlighting the potential risk of 170 million jobs by 2030. Explore the implications for our future workforce.",
-  "image": "https://novumworld.com/images/pope-issues-urgent-call-for-ai-regulation-to-safeguard-humanitys-future-en.jpg",
-  "datePublished": "2026-05-25T12:43:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -76,4 +63,3 @@ The confluence of papal urgency, economic displacement, and regulatory crackdown
     }
   }
 }
-</script>

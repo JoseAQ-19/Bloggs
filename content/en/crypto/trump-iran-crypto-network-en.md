@@ -1,16 +1,19 @@
 ---
-title: "The Hidden Crypto Ties Between Trump and Iran That Shocked the World"
-date: 2026-05-18T17:17:14
+title: The Hidden Crypto Ties Between Trump and Iran That Shocked the World
+date: 2026-05-18 17:17:14
 draft: false
-description: "Explore the surprising connections between Trump, Iran, and cryptocurrency that have sent shockwaves through global politics and finance. Uncover the."
-featured_image: "/images/trump-iran-crypto-network-en.jpg"
-slug: "trump-iran-crypto-network-en"
-canonical: "https://novumworld.com/crypto/trump-iran-crypto-network-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "46d76721-6e0c-ca37-1d8e-d4fa7913eabd"
+description: Explore the surprising connections between Trump, Iran, and cryptocurrency
+  that have sent shockwaves through global politics and finance. Uncover the.
+featured_image: /images/trump-iran-crypto-network-en.jpg
+slug: trump-iran-crypto-network-en
+canonical: https://novumworld.com/crypto/trump-iran-crypto-network-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 46d76721-6e0c-ca37-1d8e-d4fa7913eabd
 ---
 
 ![The Hidden Crypto Ties Between Trump and Iran That Shocked the World](/images/trump-iran-crypto-network-en.jpg)
@@ -75,7 +78,6 @@ The complexities of the current geopolitical climate underscore the necessity fo
 - [SEC''s Brutal Shift:](/crypto/secs-bold-move-defining-the-boundaries-of-crypto-securities-en/)
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -84,18 +86,7 @@ The complexities of the current geopolitical climate underscore the necessity fo
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Hidden Crypto Ties Between Trump and Iran That Shocked the World",
-  "description": "Explore the surprising connections between Trump, Iran, and cryptocurrency that have sent shockwaves through global politics and finance. Uncover the.",
-  "image": "https://novumworld.com/images/trump-iran-crypto-network-en.jpg",
-  "datePublished": "2026-05-18T17:17:14",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -105,4 +96,3 @@ The complexities of the current geopolitical climate underscore the necessity fo
     }
   }
 }
-</script>

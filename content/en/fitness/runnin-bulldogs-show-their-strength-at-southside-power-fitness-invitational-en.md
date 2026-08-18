@@ -1,16 +1,20 @@
 ---
-title: "30% Of College Athletes Quit: The Hidden Crisis Behind Runnin' Bulldogs' Strength Training"
-date: 2026-04-12T06:04:17
+title: '30% Of College Athletes Quit: The Hidden Crisis Behind Runnin'' Bulldogs''
+  Strength Training'
+date: 2026-04-12 06:04:17
 draft: false
-description: "Discover the alarming truth behind college athletics: 30% of athletes quit due to strength training challenges. Uncover the Runnin' Bulldogs' hidden."
-featured_image: "/images/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en.jpg"
-slug: "runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en"
-canonical: "https://novumworld.com/fitness/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "48bd6392-bb22-fecc-416b-ff2c8cfb141b"
+description: 'Discover the alarming truth behind college athletics: 30% of athletes
+  quit due to strength training challenges. Uncover the Runnin'' Bulldogs'' hidden.'
+featured_image: /images/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en.jpg
+slug: runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en
+canonical: https://novumworld.com/fitness/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: 48bd6392-bb22-fecc-416b-ff2c8cfb141b
 ---
 
 ![30% Of College Athletes Quit: The Hidden Crisis Behind Runnin' Bulldogs' Strength Training](/images/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en.jpg)
@@ -75,28 +79,12 @@ The crisis in college athletics demands immediate attention to athlete mental he
 - [scstatehouse.gov](https://www.scstatehouse.gov/sess126_2025-2026/bills/4327.htm)
 - [cityofflorencesc.gov](https://www.cityofflorencesc.gov/news/florence-track-club-athletes-excel-usatf-sc-state-championship)
 
-
 ## Related Articles
 - [This Personalized Nutrition Market Is S](/fitness/metabolic-age-acceleration-en/)
 - [VO2 Max Plateau Myth: Your G](/fitness/vo2max-plateau-bad-protocol-en/)
 - [Bodybuilding''s Deadly](/fitness/natural-bodybuilding-contest-prep-dangers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "30% Of College Athletes Quit: The Hidden Crisis Behind Runnin' Bulldogs' Strength Training",
-  "description": "Discover the alarming truth behind college athletics: 30% of athletes quit due to strength training challenges. Uncover the Runnin' Bulldogs' hidden.",
-  "image": "https://novumworld.com/images/runnin-bulldogs-show-their-strength-at-southside-power-fitness-invitational-en.jpg",
-  "datePublished": "2026-04-12T06:04:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +94,3 @@ The crisis in college athletics demands immediate attention to athlete mental he
     }
   }
 }
-</script>

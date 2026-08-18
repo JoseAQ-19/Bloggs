@@ -27,8 +27,6 @@ type: youtube
 * Communications Minister Meutya Hafid's "digital emergency" justification clashes with data showing only half of Indonesian parents believe regulations will actually curb children's online access, creating a regulatory credibility gap. 
 * YouTube faces a potential revenue crisis in Indonesia, compounded by persistent 8-12% failure rates in YouTube Kids' content filtering, forcing an urgent reassessment of regional strategy and monetization models. 
 
-
-
 {{< adsterra_native >}}
 
 ## The $158 Million YouTube Question: Revenue Apocalypse in Jakarta
@@ -82,6 +80,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [Is This The End Of Hollywood? Matt Belloni Takes The Town To YouTube.](/en/youtube/matt-belloni-the-town-youtube-en/)
 - [73% Quit: The Dark Side Of YouTube''s Creator Burnout Crisis Exposed.](/en/youtube/youtube-media-giant-en/)
 - [The Hidden Strategy Behind MrBeast's Insane Challenges That Everyone Missed](/en/youtube/mrbeast-mega-era-why-you-cant-escape-his-next-wild-challenge-en/)
-
 
 *Editorial Disclosure: This content is for informational and educational purposes only. It does not constitute professional advice. NovumWorld recommends consulting with a certified expert in the field.*

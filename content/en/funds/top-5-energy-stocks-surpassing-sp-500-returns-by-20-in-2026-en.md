@@ -31,8 +31,6 @@ In 2026, energy stocks have outperformed the S&P 500 by a staggering 20%, highli
 
 The energy sector has emerged as a key player in the financial landscape, driven by a combination of geopolitical events, regulatory changes, and a shift towards sustainable energy practices. Investors are increasingly recognizing that not all energy stocks are created equal, and several companies have consistently outshined their peers and the broader market.
 
-
-
 {{< adsterra_native >}}
 
 ## Comparative Analysis of Top Energy Stocks
@@ -108,6 +106,5 @@ This article was analyzed and validated by the NovumWorld research team. The dat
 - [T. Rowe Price Fund''s $15.5 Billion Question: A Morningstar Review Analysis.](/en/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en/)
 - [Vanguard Slashes Fees on 53 Funds: Will 0.01% Savings Move the Needle?](/en/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en/)
 - [Morningstar Awards 2026: Thailand''s Top 5 Mutual Funds Revealed](/en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en/)
-
 
 *Editorial Disclosure: This article is for informational and educational purposes. It does not constitute financial advice or an investment recommendation. Decisions based on this information are the sole responsibility of the reader.*

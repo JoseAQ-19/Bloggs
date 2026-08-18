@@ -1,16 +1,19 @@
 ---
-title: "The Shocking Truth Behind the $10.7 Million Losses at Old National Events Plaza"
-date: 2026-05-17T06:38:07
+title: The Shocking Truth Behind the $10.7 Million Losses at Old National Events Plaza
+date: 2026-05-17 06:38:07
 draft: false
-description: "Discover the surprising details behind the $10.7 million losses at Old National Events Plaza and what it means for the future of the venue."
-featured_image: "/images/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en.jpg"
-slug: "fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en"
-canonical: "https://novumworld.com/fitness/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en/"
-tags: ["Biohacking & Fitness"]
-categories: ["fitness"]
-type: "fitness"
-language: "en"
-translationKey: "ddba23af-1d10-973b-aabc-243c694470d6"
+description: Discover the surprising details behind the $10.7 million losses at Old
+  National Events Plaza and what it means for the future of the venue.
+featured_image: /images/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en.jpg
+slug: fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en
+canonical: https://novumworld.com/fitness/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en/
+tags:
+- Biohacking & Fitness
+categories:
+- fitness
+type: fitness
+language: en
+translationKey: ddba23af-1d10-973b-aabc-243c694470d6
 ---
 
 ![The Shocking Truth Behind the $10.7 Million Losses at Old National Events Plaza](/images/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en.jpg)
@@ -69,28 +72,12 @@ In fitness as in business, adaptation is the key to survival.
 - [news.google.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMXVKekVJd0tvSGhFeWdBMVNFYjVadFA0ejdESFVKdHBPZWNiQmc1WVJweHVDcjF2dGtVbjc5THpQY2tISGxLaVhEc1dLalE3VnRiNnBZSk5udTdiUnNSeGtNdE5JR2RXSThLUXdEeTRQS3I2NzBRUHRWVE9pSmVGb29MSTMzSTFoandhamJyRjk1eXRuSlllRkpn?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxONnJxclBXSnNwWGN2eG41cF9ydkkyTHFBRS05STh5Z0xRbzEyLTRMX0xYc2R6UHhhRmt3RzZ1NEJMZWFoN1h1WXlBQnRHYXo5RzFjNFczX3gwN1A5djJvY0lENDRpZnBHVWxzMDVlaXo0QUN2WW01Wi01TjQ0d2NUdUlQem1zc3hmR29xSFBsMGRBT1ZuZ243VTc1RjhiQm8?oc=5)
 
-
 ## Related Articles
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 - [Whoop Just Unveiled Clinical Consultations That Could Revolutionize Fitness Tracking Forever](/fitness/whoop-takes-fitness-tracking-to-the-next-level-with-new-clinical-consultations-en/)
 - [The Shocking Truth About Folding Treadmills: 61% of Remote Workers Are at Risk](/fitness/the-ultimate-guide-to-the-best-folding-treadmills-approved-by-runners-and-remote-workers-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind the $10.7 Million Losses at Old National Events Plaza",
-  "description": "Discover the surprising details behind the $10.7 million losses at Old National Events Plaza and what it means for the future of the venue.",
-  "image": "https://novumworld.com/images/fitness-expo-takes-over-old-national-events-plaza-what-you-need-to-know-en.jpg",
-  "datePublished": "2026-05-17T06:38:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -100,4 +87,3 @@ In fitness as in business, adaptation is the key to survival.
     }
   }
 }
-</script>

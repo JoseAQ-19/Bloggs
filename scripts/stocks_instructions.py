@@ -70,8 +70,7 @@ ARTICLE_STRUCTURE = """
 12. LAST SECTION RULE: The final H2 NEVER uses 'Conclusion'. Use action-oriented headers like 'Our Verdict' or 'Investment Strategy'. CRITICAL: NEVER use 'The Machine's Verdict' — always write in first-person plural ("we believe", "our analysis shows").
 13. CHUNKING (GEO OPTIMIZATION - ZERO FLUFF):
     Under EVERY H2 or H3 header, the VERY FIRST sentence MUST directly and concisely answer the premise of the header. No introductions.
-14. SCHEMA MARKUP (JSON-LD STRUCTURE - SEO 2026):
-    At the absolute END of the article, you MUST generate a valid `<script type="application/ld+json">` block containing NewsArticle and FAQPage schema.
+14. SCHEMA MARKUP: Handled automatically by Hugo layout templates. Do not output raw <script type="application/ld+json"> code blocks.
 15. REAL USER FAQs (INFORMATION GAIN):
     You MUST include a FAQ section as the penultimate H2 based on real investor complaints/doubts from Forums/Reddit.
 """

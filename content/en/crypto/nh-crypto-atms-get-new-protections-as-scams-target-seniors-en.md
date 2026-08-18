@@ -86,12 +86,10 @@ Seniors should be encouraged to seek guidance before engaging in cryptocurrency 
 - [news.google.com](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY3VZODktX2dQMENyT0lhWjF3THBuQm5DeHVfZ0E1c04tbHFESDJ4Tmticy1hbkRCczBiR2VUbUxscXRFTG5QUVFmcmQ2czNCVTYzamtzRXI4WXlTa3M0cDdGMElnR2ZhdUdTeWF5RTRiTjJuQUxiUXFLSVRtbk1XbktDVUxpTV96YlV4TkVTd0Q4b2V2R3BCTDRJdzdrb1l6eU9qUElBbWdLcmxCZEpxSlpBYkxZOV9pMUpGTjhROEItU08tSkc1R2JnaTBMU0ltS3EzVlNvUWJlcWE0dWc?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSjZzbGVuM3A0cWx4R1JPeWNILWhySDhjZkRHU3hXSnd6NUkwbVpHMVBJSjBidzg1U3V1Nk96NTJmTl9kanhLYTBRRWFVVlpSY0JtQXlsNmhfS2syOW4wbkc1UzJYWkdvZ2MtRTU1U0xKcENxbUJtVVRhVHhyZ2YtZVZkcTg3Wlg1UGJzQ2VKYXl1OUttbzZWR1RkaGlCdlR4OTlKQk5iU29qMExjSEl1SGtIMzB6Zw?oc=5)
 
-
 ## Related Articles
 - [Washington's Crypto Clash: $6.6 Trillion In Bank Deposits At Risk From Stablecoin Yields](/crypto/washingtons-crypto-showdown-the-fight-over-stablecoin-regulation-heats-up-en/)
 - [US-Iran's Crypto Battle: Five Key Strategies Behind Their Sanctions Warfare](/crypto/us-irans-crypto-showdown-a-high-stakes-game-of-sanctions-and-strategy-en/)
 - [The Shocking Truth Behind Trump’s $500 Million Crypto Investment From UAE Royals](/crypto/trumps-500-million-uae-crypto-deal-national-security-vs-family-profit-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -101,18 +99,7 @@ Seniors should be encouraged to seek guidance before engaging in cryptocurrency 
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "New Protections For NH Crypto ATMs As Scams Target Seniors With $40,000 Losses",
-  "description": "Discover new protections for NH crypto ATMs as scams hit seniors hard, leading to staggering losses of $40,000. Stay informed and safeguard your finances.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-06-26T16:58:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -122,4 +109,3 @@ Seniors should be encouraged to seek guidance before engaging in cryptocurrency 
     }
   }
 }
-</script>

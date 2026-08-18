@@ -83,28 +83,12 @@ protocol:
 - [news.google.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHk2eENBalo4U19PWHlzcXBnOU90M3RCUFAxMjl3VUNacnBLdjJRMjJvcktUNGxEbWdFamZQYmZOeEdGWjdiRzFIbm1nSmV4M1dxNTBkM0V4ZWVWNl84UVprZ3ZwWFZ5ZlF4SDNETFJLTVlTRkE3WXdJdldQaTlWcGFMZUlFcjZrZGpFVmtTYl9FRFg3d3pZMjEtcw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxONExoZXMzRnZsQ3J3dENtdnVNRnY2ZjVyZkIxQXNpcXVaM2xzNFRZV2xzeWFJSFVUNjVZV21uMk9CLXk0dUdXRTV3NmJCOEZQcmRkZ2owOFQ0NS1FV1U4aXBNdG56RjRjU2hCclhrcUJ2eHAxUnNNYXVqVzVMLUt1dlk3SmJjVnVKeExkeDM4UTVpb25F?oc=5)
 
-
 ## Related Articles
 - [Th](/fitness/transform-your-bone-health-top-fitness-gadgets-you-need-to-try-now-en/)
 - [Unlocking Longevity: 13% Lower Mortality Risk for Every 1-MET Improvement in VO2max](/fitness/unlocking-longevity-how-staying-fit-after-40-can-transform-your-life-en/)
 - [89.4% Of Soldiers Engage In Physical Activity, But PTSD Rates Remain Alarming](/fitness/usarj-soldiers-foster-community-and-trust-through-fitness-initiatives-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Prime Day Shock: Fitbit Charge 6 Dropped to Record Low of $89.95",
-  "description": "Discover the incredible deal on the Fitbit Charge 6 as Prime Day brings it down to a record low of $89.95. Don't miss out on this limited-time offer!.",
-  "image": "https://novumworld.com/images/defaults/default-fitness.jpg",
-  "datePublished": "2026-06-25T06:50:36",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -114,4 +98,3 @@ protocol:
     }
   }
 }
-</script>

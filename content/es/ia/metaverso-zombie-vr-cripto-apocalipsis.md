@@ -26,8 +26,6 @@ type: ia
 ## Resumen Ejecutivo
 El concepto del Metaverso, impulsado por la metamorfosis de Facebook a Meta, se ha revelado como un proyecto fallido que no solo ha decepcionado en su promesa de crear un mundo virtual inmersivo, sino que ha planteado serias preocupaciones sobre la privacidad, la vigilancia y el control social. La transición de Meta hacia la Inteligencia Artificial (IA) no es más que un intento de desviar la atención de un fracaso evidente, mientras que la infraestructura diseñada para el Metaverso se convierte en un mecanismo de recolección de datos que alimenta algoritmos de vigilancia. A medida que la tecnología avanza, los riesgos asociados, como la manipulación política, la erosión de la privacidad y el impacto en la salud mental, se vuelven cada vez más alarmantes. En este análisis, exploraremos los elementos que han llevado al Metaverso a este estado de "coma inducido" y cómo la realidad virtual, lejos de ser una solución, se ha convertido en una prisión digital.
 
-
-
 {{< adsterra_native >}}
 
 ## El Metaverso: Un Espejismo de Interacción
@@ -107,6 +105,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [NOVUMWORLD: La burbuja de la élite que nadie quiere pinchar](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 - [La Verdad Oculta: Los 80% de Autores Españoles Temen el Saqueo Digital de](/es/ia/la-polemica-detras-del-saqueo-digital-deberian-pagar-los-gigantes-de-la-ia-por-el-contenido-de-inter/)
 - [¿Tablas Prohibidas? El Arma Secreta de la Desinformación](/es/ia/tablas-prohibidas-el-arma-secreta-de-la-desinforma/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

@@ -1,16 +1,20 @@
 ---
-title: "Blockworks Just Acquired Messari: The Shocking Truth Behind This Discount Deal"
-date: 2026-06-12T18:16:17
+title: 'Blockworks Just Acquired Messari: The Shocking Truth Behind This Discount
+  Deal'
+date: 2026-06-12 18:16:17
 draft: false
-description: "Discover the surprising details behind Blockworks' acquisition of Messari. Uncover the reasons for this unexpected discount deal in our latest article."
-featured_image: "/images/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en.jpg"
-slug: "blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en"
-canonical: "https://novumworld.com/crypto/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "d0507243-2708-54e5-8155-e443ee238faf"
+description: Discover the surprising details behind Blockworks' acquisition of Messari.
+  Uncover the reasons for this unexpected discount deal in our latest article.
+featured_image: /images/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en.jpg
+slug: blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en
+canonical: https://novumworld.com/crypto/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: d0507243-2708-54e5-8155-e443ee238faf
 ---
 
 ![Blockworks Just Acquired Messari: The Shocking Truth Behind This Discount Deal](/images/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en.jpg)
@@ -80,7 +84,6 @@ In an environment where many firms are struggling, Blockworks' move could be see
 - [94% Of Institutional Investors Believe Blockchain Is The Future And Nobody Cares](/crypto/wall-streets-battle-with-crypto-whos-really-winning-en/)
 - [U.S. Rep. Steil Secures $119 Million From Crypto Super PACs, Igniting Industry Support](/crypto/us-rep-steil-champions-crypto-industry-rallies-behind-his-campaign-en/)
 
-
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
 ---
@@ -89,18 +92,7 @@ In an environment where many firms are struggling, Blockworks' move could be see
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Blockworks Just Acquired Messari: The Shocking Truth Behind This Discount Deal",
-  "description": "Discover the surprising details behind Blockworks' acquisition of Messari. Uncover the reasons for this unexpected discount deal in our latest article.",
-  "image": "https://novumworld.com/images/blockworks-snags-messari-a-discount-deal-shakes-up-the-crypto-data-landscape-en.jpg",
-  "datePublished": "2026-06-12T18:16:17",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -110,4 +102,3 @@ In an environment where many firms are struggling, Blockworks' move could be see
     }
   }
 }
-</script>

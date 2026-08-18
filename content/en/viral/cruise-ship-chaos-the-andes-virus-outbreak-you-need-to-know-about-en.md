@@ -1,16 +1,19 @@
 ---
-title: "The Shocking 38% Fatality Rate of The Andes Virus On A Cruise Ship"
-date: 2026-05-12T22:43:07
+title: The Shocking 38% Fatality Rate of The Andes Virus On A Cruise Ship
+date: 2026-05-12 22:43:07
 draft: false
-description: "Discover the alarming 38% fatality rate of the Andes virus aboard a cruise ship and learn about its implications for public health and safety."
-featured_image: "/images/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en.jpg"
-slug: "cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en"
-canonical: "https://novumworld.com/viral/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en/"
-tags: ["Viral & Trends"]
-categories: ["viral"]
-type: "viral"
-language: "en"
-translationKey: "9102ab85-88fa-cf7a-1187-4f0e2693df9f"
+description: Discover the alarming 38% fatality rate of the Andes virus aboard a cruise
+  ship and learn about its implications for public health and safety.
+featured_image: /images/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en.jpg
+slug: cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en
+canonical: https://novumworld.com/viral/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en/
+tags:
+- Viral & Trends
+categories:
+- viral
+type: viral
+language: en
+translationKey: 9102ab85-88fa-cf7a-1187-4f0e2693df9f
 ---
 
 ![The Shocking 38% Fatality Rate of The Andes Virus On A Cruise Ship](/images/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en.jpg)
@@ -89,28 +92,12 @@ As the Andes virus reminds us, the seas may be calm, but the storms of infectiou
 - [news.google.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE9obHN2RWk4anRPVzc4b3lnaFU0UEg4RXZUblB6aFV4dUlQejdaLTh1TFQxaHpNdFZBWnNOa3NpTDhhZ0JMUFhrSFdxUE1Zd0JGX3h3X0lFeVVNQllWcmxZbWRvTkRKOEQ3RmRHb2NSZnQ3bjhyMWkxd0llbw?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi_AJBVV95cUxOdmdxbTVHMlU0WmJyaG1id3E1eWtkQnFjc1ZhRGt6NTlneEhoNzFta0tOX2hRd3hSNXViT2NUQWFkV2YwYU5pdEExU0k2b2FRMi04QW9NSmhJejl3TTVpLWc1dk5QWXd3R0phd2FiZ1R5LUFqVS1oY0cyX2xrUnhYNEl2SEJuZmltaXJLcmh6MWVDLVgtU2pHcjJISmVyMXBfS0plZE1WbGtEbjBvR0pFcGxpelhZNlhqcXRZdm9DRXlXbmNNQjFmeWZQSDJsUXZkQThZQnN1cTdvb1hHcWx3MU9TdjhZcUVpQTBTVmJxYi1keFlwajFjcjFWdXU4Vi1vRkIxRGFwU0dySUR4Y2Y0M2MtUnpHejFqNDZvYmFFNTNLY1BxSExwMnM5dnVRMFZ1bVRUc2JMUTJYTVVUSkQ2WEViZEo0ZWlfQmI3c3ZnWWxZQ0dRRVg1bHNlV3hhcnlWSml4VFc1S2RrSEstYUhiN0tPdWw1RHc1djN2Vg?oc=5)
 
-
 ## Related Articles
 - [The Shocking Truth About Travel Pillows: 70% Fail To Provide Real Neck Support](/viral/this-travel-pillow-changed-the-game-a-frequent-flyers-review-en/)
 - [77,000 Steam Accounts Hacked Monthly: Are YOU Next? Valve](/viral/steam-malware-threat-en/)
 - [Shocking Ring Camera Footage Reveals Disturbing Threat: 'Where Is Your Daughter?](/viral/shocking-home-invasion-caught-on-ring-camera-where-is-your-daughter-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking 38% Fatality Rate of The Andes Virus On A Cruise Ship",
-  "description": "Discover the alarming 38% fatality rate of the Andes virus aboard a cruise ship and learn about its implications for public health and safety.",
-  "image": "https://novumworld.com/images/cruise-ship-chaos-the-andes-virus-outbreak-you-need-to-know-about-en.jpg",
-  "datePublished": "2026-05-12T22:43:07",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -120,4 +107,3 @@ As the Andes virus reminds us, the seas may be calm, but the storms of infectiou
     }
   }
 }
-</script>

@@ -1,16 +1,19 @@
 ---
-title: "68.7% Recidivism Rate Reveals Dark Truth About Iowa's Juvenile Justice System"
-date: 2026-04-18T11:49:05
+title: 68.7% Recidivism Rate Reveals Dark Truth About Iowa's Juvenile Justice System
+date: 2026-04-18 11:49:05
 draft: false
-description: "Explore Iowa's troubling juvenile justice system as we unveil the shocking 68.7% recidivism rate and its implications for reform and youth rehabilitation."
-featured_image: "/images/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en.jpg"
-slug: "high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en"
-canonical: "https://novumworld.com/ia/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "a4d85259-490b-c407-553f-6eb794771d21"
+description: Explore Iowa's troubling juvenile justice system as we unveil the shocking
+  68.7% recidivism rate and its implications for reform and youth rehabilitation.
+featured_image: /images/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en.jpg
+slug: high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en
+canonical: https://novumworld.com/ia/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: a4d85259-490b-c407-553f-6eb794771d21
 ---
 
 ![68.7% Recidivism Rate Reveals Dark Truth About Iowa's Juvenile Justice System](/images/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en.jpg)
@@ -78,28 +81,12 @@ Iowa’s juvenile justice system is failing its youth, particularly those from m
 - [iowacourts.gov](https://www.iowacourts.gov/courtcases/20150/embed/CourtAppealsOpinion)
 - [news.google.com](https://news.google.com/rss/articles/CBMickFVX3lxTE1CRDYzM1JDMU85b0JVX1RWVmhmYzFScDJjWndMbVBYYmkxbFFJVnBEX2xaWWFFNHdoaER2NHRNSTBzWWlyeG5raldEZlVPWXNXRHFqaktNbTFEV0FyODVDUXN4LTlmYWZDWGZmeTRRN1d6Zw?oc=5)
 
-
 ## Related Articles
 - [Black Box Data Exposed: Shocking Truth Behind Calhoun County Fatal Crash](/ia/tragic-crash-in-calhoun-county-claims-one-life-leaves-another-injured-en/)
 - [Hail Damage Claims Expose $342 Million Crisis in Dunlap's Solar Industry](/ia/storm-devastation-dunlaps-battle-against-heavy-hail-damage-en/)
 - [A Monument to Naivety and Greed](/ia/monument-naivety-greed-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "68.7% Recidivism Rate Reveals Dark Truth About Iowa's Juvenile Justice System",
-  "description": "Explore Iowa's troubling juvenile justice system as we unveil the shocking 68.7% recidivism rate and its implications for reform and youth rehabilitation.",
-  "image": "https://novumworld.com/images/high-stakes-iowa-teen-assault-case-ends-in-jail-time-for-local-man-en.jpg",
-  "datePublished": "2026-04-18T11:49:05",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -109,4 +96,3 @@ Iowa’s juvenile justice system is failing its youth, particularly those from m
     }
   }
 }
-</script>

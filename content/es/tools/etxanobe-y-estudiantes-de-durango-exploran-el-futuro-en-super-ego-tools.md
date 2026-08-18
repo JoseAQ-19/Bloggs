@@ -1,16 +1,20 @@
 ---
-title: "Etxanobe y Estudiantes de Durango Revelan 400,000 Empleos en Peligro por la IA"
-date: 2026-04-18T13:21:25
+title: Etxanobe y Estudiantes de Durango Revelan 400,000 Empleos en Peligro por la
+  IA
+date: 2026-04-18 13:21:25
 draft: false
-description: "Etxanobe y estudiantes de Durango analizan el impacto de la IA, revelando que 400,000 empleos están en riesgo. Descubre las implicaciones."
-featured_image: "/images/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools.jpg"
-slug: "etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools"
-canonical: "https://novumworld.com/es/tools/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools/"
-tags: ["Tools & Productivity"]
-categories: ["tools"]
-type: "tools"
-language: "es"
-translationKey: "ffe2f47e-f1ee-1a4b-68fc-7dd75db2681a"
+description: Etxanobe y estudiantes de Durango analizan el impacto de la IA, revelando
+  que 400,000 empleos están en riesgo. Descubre las implicaciones.
+featured_image: /images/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools.jpg
+slug: etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools
+canonical: https://novumworld.com/es/tools/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools/
+tags:
+- Tools & Productivity
+categories:
+- tools
+type: tools
+language: es
+translationKey: ffe2f47e-f1ee-1a4b-68fc-7dd75db2681a
 ---
 
 ![Etxanobe y Estudiantes de Durango Revelan 400,000 Empleos en Peligro por la IA](/images/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools.jpg)
@@ -72,28 +76,12 @@ La obsolescencia laboral impulsada por la IA no es una teoría del futuro, sino 
 - [nagb.gov](https://www.nagb.gov/content/dam/nagb/en/documents/publications/reports-papers/preparedness/appendix_j-literature-review-skills-of-the-future.pdf)
 - [files.eric.ed.gov](https://files.eric.ed.gov/fulltext/ED038661.pdf)
 
-
 ## Artículos relacionados
 - [1.5 Millones de Empleos Perdidos: Cómo la IA Redefinirá el Trabajo en 2026](/es/tools/como-la-ia-redefinira-el-mundo-laboral-en-2026-tendencias-que-no-puedes-ignorar/)
 - [Ranger 2025: El Fallo Del Biturbo 2L Que](/es/tools/desglose-tecnico-herramientas-ranger-2025/)
 - [Alarma Google Workspace: Tu Automatizació](/es/tools/google-workspace-cli-automatizacion-ia/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Etxanobe y Estudiantes de Durango Revelan 400,000 Empleos en Peligro por la IA",
-  "description": "Etxanobe y estudiantes de Durango analizan el impacto de la IA, revelando que 400,000 empleos están en riesgo. Descubre las implicaciones.",
-  "image": "https://novumworld.com/images/etxanobe-y-estudiantes-de-durango-exploran-el-futuro-en-super-ego-tools.jpg",
-  "datePublished": "2026-04-18T13:21:25",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -103,4 +91,3 @@ La obsolescencia laboral impulsada por la IA no es una teoría del futuro, sino 
     }
   }
 }
-</script>

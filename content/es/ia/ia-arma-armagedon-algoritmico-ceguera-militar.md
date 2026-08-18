@@ -27,8 +27,6 @@ type: ia
 
 * **Solo 250 documentos maliciosos pueden comprometer modelos de lenguaje de cualquier tamaño, insertando puertas traseras permanentes según un estudio de Anthropic.** **España registró 29,886 incidentes cibernéticos en 2025, uno cada 13 minutos según Inetum LiveSOC, exponiendo sistemas de defensa basados en IA.** **Más del 50% de las españolas empresas carecen de estrategia de ciberseguridad dedicada a sistemas de IA, según el Centro de Ciberseguridad Nacional.**
 
-
-
 {{< adsterra_native >}}
 
 ## Defensa vulnerable: La amenaza del envenenamiento de datos al escudo de la IA militar española.
@@ -86,6 +84,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [: El Año en que el Futuro se Rompió (Y Nadie Hizo Nada)](/es/ia/el-ano-en-que-el-futuro-se-rompio-y-nadie-hizo-na/)
 - [Suscripciones Fantasma: La Estafa del Siglo XXI](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 - [La IA En Educación Inclusiva: 73% De Los Profesores Ya La Usan, ¿Pero A Qué](/es/ia/la-revolucion-de-la-ia-en-la-educacion-inclusiva-una-ponencia-imperdible-de-concha-barcelo/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

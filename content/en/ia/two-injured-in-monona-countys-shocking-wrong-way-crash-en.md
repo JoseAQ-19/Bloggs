@@ -1,16 +1,20 @@
 ---
-title: "Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community"
-date: 2026-06-11T12:44:22
+title: Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the
+  Community
+date: 2026-06-11 12:44:22
 draft: false
-description: "A shocking wrong-way crash in Monona County leaves two injured, sparking community outrage and concern. Discover the details of this tragic accident."
-featured_image: "/images/two-injured-in-monona-countys-shocking-wrong-way-crash-en.jpg"
-slug: "two-injured-in-monona-countys-shocking-wrong-way-crash-en"
-canonical: "https://novumworld.com/ia/two-injured-in-monona-countys-shocking-wrong-way-crash-en/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "en"
-translationKey: "0247e2ed-a889-da39-00b9-a2dfb2d961d3"
+description: A shocking wrong-way crash in Monona County leaves two injured, sparking
+  community outrage and concern. Discover the details of this tragic accident.
+featured_image: /images/two-injured-in-monona-countys-shocking-wrong-way-crash-en.jpg
+slug: two-injured-in-monona-countys-shocking-wrong-way-crash-en
+canonical: https://novumworld.com/ia/two-injured-in-monona-countys-shocking-wrong-way-crash-en/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: en
+translationKey: 0247e2ed-a889-da39-00b9-a2dfb2d961d3
 ---
 
 ![Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community](/images/two-injured-in-monona-countys-shocking-wrong-way-crash-en.jpg)
@@ -77,28 +81,12 @@ The Monona case is a stark reminder that high-speed chases are not just adrenali
 ## Methodology and Sources
 - [news.google.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYWdlZHN6cncwSVhFUXhvS2htSHBMcVZYLWlkLWJWaTRtQXU0enhoaE8zZmsxaU42WUF5OUtPVFNKM1NVamtTQkpuMmJ1dUZvUDl2aV9tdU1QR1I5SnpCcHd0MElxSFhDSmkwYnRMV3hSWDd4Y21OTy05eTZYRmxSVWtNR0VZd2JHQ3NlV0dlVVJhNWVkR2lHclFlTkEzVk56d3FIaHR0cDQtczJDRk9jME9YN3VkTktRNUMyVWROd2lyVi1DQWt6MVR3NUxEWDdCU216RVNTc2xKNHItUmswWmJoWC1oUGlJZWc?oc=5)
 
-
 ## Related Articles
 - [Sutherland''s Water Crisis: 94% of Su](/ia/sutherland-ias-drinking-water-crisis-what-you-need-to-know-en/)
 - [Black Box Data Exposed: Shocking Truth Behind Calhoun County Fatal Crash](/ia/tragic-crash-in-calhoun-county-claims-one-life-leaves-another-injured-en/)
 - [Scientists Just Unlocked 99.55% Accuracy in Type Ia Supernovae Simulations](/ia/unlocking-cosmic-mysteries-insights-from-combined-simulations-of-type-ia-supernovae-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Two Injured in Monona County's Horrifying Wrong-Way Crash That Shocked the Community",
-  "description": "A shocking wrong-way crash in Monona County leaves two injured, sparking community outrage and concern. Discover the details of this tragic accident.",
-  "image": "https://novumworld.com/images/two-injured-in-monona-countys-shocking-wrong-way-crash-en.jpg",
-  "datePublished": "2026-06-11T12:44:22",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -108,4 +96,3 @@ The Monona case is a stark reminder that high-speed chases are not just adrenali
     }
   }
 }
-</script>

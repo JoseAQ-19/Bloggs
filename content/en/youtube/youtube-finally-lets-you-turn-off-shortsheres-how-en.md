@@ -1,16 +1,19 @@
 ---
-title: "YouTube Just Gave You Power: Turn Off Shorts And Reclaim Your Feed"
-date: 2026-04-17T19:37:12
+title: 'YouTube Just Gave You Power: Turn Off Shorts And Reclaim Your Feed'
+date: 2026-04-17 19:37:12
 draft: false
-description: "Discover how to take control of your YouTube experience! Learn to turn off Shorts and customize your feed for a more personalized viewing journey."
-featured_image: "/images/youtube-finally-lets-you-turn-off-shortsheres-how-en.jpg"
-slug: "youtube-finally-lets-you-turn-off-shortsheres-how-en"
-canonical: "https://novumworld.com/youtube/youtube-finally-lets-you-turn-off-shortsheres-how-en/"
-tags: ["Creator Economy"]
-categories: ["youtube"]
-type: "youtube"
-language: "en"
-translationKey: "28f96c4d-4668-4a0f-62d8-0de6658142a2"
+description: Discover how to take control of your YouTube experience! Learn to turn
+  off Shorts and customize your feed for a more personalized viewing journey.
+featured_image: /images/youtube-finally-lets-you-turn-off-shortsheres-how-en.jpg
+slug: youtube-finally-lets-you-turn-off-shortsheres-how-en
+canonical: https://novumworld.com/youtube/youtube-finally-lets-you-turn-off-shortsheres-how-en/
+tags:
+- Creator Economy
+categories:
+- youtube
+type: youtube
+language: en
+translationKey: 28f96c4d-4668-4a0f-62d8-0de6658142a2
 ---
 
 ![YouTube Just Gave You Power: Turn Off Shorts And Reclaim Your Feed](/images/youtube-finally-lets-you-turn-off-shortsheres-how-en.jpg)
@@ -75,28 +78,12 @@ In the battle for attention, control is the new currency—reclaim yours and red
 - [news.google.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSTlIdUliYzJpRkcxMFdoSVp5QnktRHlsandXYW1lcTFoVVFSeXpoc3FEY0lVWTJ1TDZadVVpX2JtNVRTSEJ4TFBNdGFrY1kzbjJfbldHZlhHZHFvOVd0Ry1VU1ZrZFBxMV9VbmF1ZlJ4SDYtU210WkVRVmxRdS1DeUxSeW0waUlvcDB5LXo0Z0RfQkZIbnVPZ19SMzAwOUhaLXk3LXM5a1MweWV1WmxoVk9MaDI5NmxwVGhoRWFESzRNaGxTb0paYlVKMFVGQQ?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVJqXzRYSUxVenFxY3ZXX2VlOEZFaFowcnlOblVpbFVheGlMQXozNFU4LUktUmJHWU1TQ3FiSnI3Q2puNFFuSktTekQyaFVxcGlCQlNfU1E4RlpUMHA0eWNxV0d0RU90YmtwcDhoVVlyUHJFWHZwb2h0WDdScDNPYXRvTnd6dGtMalkyLTlEZlNOWXZaWkxVdTlYZ3JPTXNGcUQ1N3NqOA?oc=5)
 
-
 ## Related Articles
 - [Nathanson''s Prediction: YouTube TV Will](/youtube/youtube-tv-subscriber-retention-en/)
 - [YouTube''s AI Crackdo](/youtube/youtube-deepfake-crackdown-politicians-journalists-en/)
 - [The Hidden Truth Behind YouTube's Shorts Algorithm: 2 Billion Users Affected](/youtube/youtubes-game-changer-now-you-can-hide-shorts-on-mobile-en/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "YouTube Just Gave You Power: Turn Off Shorts And Reclaim Your Feed",
-  "description": "Discover how to take control of your YouTube experience! Learn to turn off Shorts and customize your feed for a more personalized viewing journey.",
-  "image": "https://novumworld.com/images/youtube-finally-lets-you-turn-off-shortsheres-how-en.jpg",
-  "datePublished": "2026-04-17T19:37:12",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -106,4 +93,3 @@ In the battle for attention, control is the new currency—reclaim yours and red
     }
   }
 }
-</script>

@@ -29,8 +29,6 @@ Meta está desesperada por captar la atençión de la Generación Z y está disp
 * Según datos de [la Comisión Nacional del Mercado de Valores (CNMV)](https://www.cnmv.es/DocPortal/Publicaciones/Newsletters/News_Finfluencers.aspx), el 70% de los "finfluencers" en España incumplen la normativa europea sobre publicidad engañosa, lo que evidencia un problema sistémico de desinformación monetizada.
 * La inversión en marketing de influencers en España alcanzó los 79.2 millones de euros en 2023, un aumento del 23.9% respecto al año anterior, lo que demuestra que las marcas siguen ciegamente financiando esta burbuja a pesar de la erosión de la confianza — **Informe de inversión en marketing de influencers 2023**.
 
-
-
 {{< adsterra_native >}}
 
 ## Dinero por Confianza: ¿Está Meta Sobornando a Creadores y Traicionando a 33.2 Millones de Usuarios Españoles?
@@ -74,6 +72,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Conan O’Brien Desata Risas Sobre el Futuro de los Oscar y Causa Polémica en](/es/youtube/conan-obrien-se-rie-del-futuro-de-los-oscar-y-desata-una-ola-de-risas-en-youtube/)
 - [Tom Scott Regresa a YouTube y Declara la Guerra a la Mediocridad Educativa](/es/youtube/el-regreso-de-tom-scott-la-leyenda-que-domino-youtube-por-una-decada/)
 - [La NBA Reúne a Más de 200 Creadores en el All-Star Weekend de Los Ángeles](/es/youtube/nba-gathers-200-plus-creators-for-all-star-weekend-in-los-angeles-variety/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*

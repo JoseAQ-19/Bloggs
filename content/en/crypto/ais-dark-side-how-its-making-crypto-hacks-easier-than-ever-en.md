@@ -1,16 +1,19 @@
 ---
-title: "AI-Powered Phishing Stole Over $2.17 Billion in Crypto and Nobody Noticed"
-date: 2026-04-05T16:28:59
+title: AI-Powered Phishing Stole Over $2.17 Billion in Crypto and Nobody Noticed
+date: 2026-04-05 16:28:59
 draft: false
-description: "Discover how AI-driven phishing schemes have swindled over $2.17 billion in cryptocurrency, exposing vulnerabilities that went unnoticed for too long."
-featured_image: "/images/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en.jpg"
-slug: "ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en"
-canonical: "https://novumworld.com/crypto/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "4df6ece4-ac9a-f8d4-233c-b2a6892c337f"
+description: Discover how AI-driven phishing schemes have swindled over $2.17 billion
+  in cryptocurrency, exposing vulnerabilities that went unnoticed for too long.
+featured_image: /images/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en.jpg
+slug: ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en
+canonical: https://novumworld.com/crypto/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: 4df6ece4-ac9a-f8d4-233c-b2a6892c337f
 ---
 
 ![AI-Powered Phishing Stole Over $2.17 Billion in Crypto and Nobody Noticed](/images/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en.jpg)
@@ -68,12 +71,10 @@ As AI continues to evolve, the potential for more sophisticated scams looms larg
 - [defillama.com](https://defillama.com)
 - [news.google.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnNRNWxoR0hfMkFhSmMxMnNJemRwVlJNOHV2SlRNekZSYkNiSlc0clBEQUxYV2RMN2VPU1lLdXc0N1RGV1l5YkIyUmlKZ3NCTFRvR0lEX19wUkxqY09DX0tHTnctYzdnRTYyM0xodXBHcDNYamg5OUlVNFNYQlJXLXp3YXBWU3k2VHk5NE83ODFLVDZncDNVNlZHbkhsQjdMNl94ZWtDWi1JNlU?oc=5)
 
-
 ## Related Articles
 - [$2.6 Billion Crypto Crackdown: Is Your DeFi Nex](/crypto/sec-enforcement-crypto-regulation-en/)
 - [$33 Billion Mess: Did Kraken''s Fed](/crypto/kraken-fed-access-crypto-implications-en/)
 - [Wisconsin Missed $4M In Staking: Is Lorenz](/crypto/wisconsin-banks-crypto-staking-risks-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -83,18 +84,7 @@ As AI continues to evolve, the potential for more sophisticated scams looms larg
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "AI-Powered Phishing Stole Over $2.17 Billion in Crypto and Nobody Noticed",
-  "description": "Discover how AI-driven phishing schemes have swindled over $2.17 billion in cryptocurrency, exposing vulnerabilities that went unnoticed for too long.",
-  "image": "https://novumworld.com/images/ais-dark-side-how-its-making-crypto-hacks-easier-than-ever-en.jpg",
-  "datePublished": "2026-04-05T16:28:59",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -104,4 +94,3 @@ As AI continues to evolve, the potential for more sophisticated scams looms larg
     }
   }
 }
-</script>

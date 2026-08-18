@@ -1,16 +1,20 @@
 ---
-title: "The Shocking Truth Behind Trump’s Meme Coins: $4.3 Billion Erased From Retail Investors"
-date: 2026-04-25T16:26:40
+title: 'The Shocking Truth Behind Trump’s Meme Coins: $4.3 Billion Erased From Retail
+  Investors'
+date: 2026-04-25 16:26:40
 draft: false
-description: "Discover the hidden reality of Trump’s meme coins and the staggering $4.3 billion loss for retail investors. Uncover the truth behind the hype now!."
-featured_image: "/images/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en.jpg"
-slug: "mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en"
-canonical: "https://novumworld.com/crypto/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en/"
-tags: ["Crypto & Web3"]
-categories: ["crypto"]
-type: "crypto"
-language: "en"
-translationKey: "ea511691-8480-43c5-77e1-8f693fb610d2"
+description: Discover the hidden reality of Trump’s meme coins and the staggering
+  $4.3 billion loss for retail investors. Uncover the truth behind the hype now!.
+featured_image: /images/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en.jpg
+slug: mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en
+canonical: https://novumworld.com/crypto/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en/
+tags:
+- Crypto & Web3
+categories:
+- crypto
+type: crypto
+language: en
+translationKey: ea511691-8480-43c5-77e1-8f693fb610d2
 ---
 
 ![The Shocking Truth Behind Trump’s Meme Coins: $4.3 Billion Erased From Retail Investors](/images/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en.jpg)
@@ -83,12 +87,10 @@ However, the SEC is increasing its focus
 - [news.google.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmRLUVhiODZ1S3hyNFhobGdSb0w5eUxIam5nWXd6TjVfWk9iSnYtR1dkMHBMVF9Iem1xV014YWNmaHZfZWFSNXZMcXNFVmxXQWl1bTN2blRuUWZIUXNXZG1oMXN6alVXYU5YQXQwRVdFSWtwQ3ZvbG5Pc2V2aC1QWGpLdF9MYWR3eU93SzZ3RGxJcE9aWEZ5c3NfVlNVRkdaNDF4SXVLUXVXNlIzS3dNX1g4TVJKZVo0WlBoQlBBR2xaTF9DbG85dDlzRXNWRkdr?oc=5)
 - [news.google.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEdSMno1SDgzSzltdnlWVmFXczhaanJZUWFjeXpfaXNYSl9RQWhLOGxFbjU3d1ZVU0dBZGpuRTNSWld1QjBGUHhZRlpLd2lvS252cWlUMUR1cGtrcy1sODRXeUdlWUN3SDRoOUsyN2VtNUx1WU5LeGU2NV9Wa2E5YVlxUy1oOFJSTWg0dUdtTExvaDFsWVJZUkVOY3NyWVhWT1lUXzhZTnNtTHFvWkNDUWVKcjhRZ0Q2OXlKQ1lXYmxzQVJEcm5Md1p6MWozMkl1QllKbi1Va2k?oc=5)
 
-
 ## Related Articles
 - [Pakistan's Crypto Comeback: $10 Billion In Remittances May Bypass Traditional Banks](/crypto/pakistans-crypto-comeback-banks-set-to-support-licensed-providers-after-seven-year-ban-en/)
 - [The Dark Side of Crypto: $39.6 Billion in Illicit Transactions Fueling Unconventional Warfare](/crypto/the-dark-side-of-crypto-how-special-ops-are-using-it-as-a-double-edged-sword-en/)
 - [Plymouth Man Loses $37,000 In Crypto: A Shocking Tale of Investment Risk](/crypto/plymouth-man-crypto-scam-en/)
-
 
 > [!CAUTION]
 > **Risk Warning & Disclaimer:** The content provided is strictly for educational and informational purposes. It does not constitute financial, legal, or investment advice. Trade at your own risk and consult a certified professional.
@@ -98,18 +100,7 @@ However, the SEC is increasing its focus
     <h4>✍️ About the Analyst</h4><p><strong>NovumWorld Financial Intelligence</strong> is a team of market experts dedicated to decoding institutional trends and capital flows. Our reports cross-reference on-chain data and macroeconomics to deliver noise-free projections.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The Shocking Truth Behind Trump’s Meme Coins: $4.3 Billion Erased From Retail Investors",
-  "description": "Discover the hidden reality of Trump’s meme coins and the staggering $4.3 billion loss for retail investors. Uncover the truth behind the hype now!.",
-  "image": "https://novumworld.com/images/mike-tyson-trump-and-meme-coins-the-crypto-circus-at-mar-a-lago-en.jpg",
-  "datePublished": "2026-04-25T16:26:40",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -119,4 +110,3 @@ However, the SEC is increasing its focus
     }
   }
 }
-</script>

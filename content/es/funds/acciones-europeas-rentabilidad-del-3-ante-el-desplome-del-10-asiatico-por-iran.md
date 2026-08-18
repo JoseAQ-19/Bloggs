@@ -26,8 +26,6 @@ El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopo
 
 El desplome del 10% en las bolsas asiáticas tras los recientes incidentes geopolíticos en Irán contrasta con el leve repunte del 3% en las acciones europeas, según datos de Bloomberg. ¿Es este un espejismo o una oportunidad para los inversores?
 
-
-
 {{< adsterra_native >}}
 
 ## Acciones Europeas: Rentabilidad del 3% ante el desplome del 10% asiático por Irán.
@@ -105,6 +103,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [Invertir en guerra: Rentabilidad del 10% en ''Magallanes Value'' pese a Irán](/es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran/)
 - [Guerra Irán: 3 sectores defensivos y un fondo refugio con rentabilidad del](/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5/)
 - [Premios Morningstar 2026: Magallanes Value Investors, triplete histórico como](/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo/)
-
 
 *Aviso Editorial: Este artículo tiene fines informativos y educativos. No constituye asesoramiento financiero ni recomendación de inversión. Las decisiones basadas en esta información son responsabilidad exclusiva del lector.*

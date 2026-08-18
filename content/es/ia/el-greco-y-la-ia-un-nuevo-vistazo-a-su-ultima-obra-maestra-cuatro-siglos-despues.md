@@ -1,16 +1,19 @@
 ---
-title: "El Greco y la IA: La Verdadera Autenticidad de Su Última Obra Maestra Revelada"
-date: 2026-04-18T10:06:21
+title: 'El Greco y la IA: La Verdadera Autenticidad de Su Última Obra Maestra Revelada'
+date: 2026-04-18 10:06:21
 draft: false
-description: "Descubre cómo la inteligencia artificial desvela la autenticidad de la última obra maestra de El Greco, fusionando arte y tecnología de manera."
-featured_image: "/images/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues.jpg"
-slug: "el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues"
-canonical: "https://novumworld.com/es/ia/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues/"
-tags: ["IA & SaaS"]
-categories: ["ia"]
-type: "ia"
-language: "es"
-translationKey: "3f442ab3-66a1-1bda-c63b-c824e3ab462c"
+description: Descubre cómo la inteligencia artificial desvela la autenticidad de la
+  última obra maestra de El Greco, fusionando arte y tecnología de manera.
+featured_image: /images/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues.jpg
+slug: el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues
+canonical: https://novumworld.com/es/ia/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues/
+tags:
+- IA & SaaS
+categories:
+- ia
+type: ia
+language: es
+translationKey: 3f442ab3-66a1-1bda-c63b-c824e3ab462c
 ---
 
 ![El Greco y la IA: La Verdadera Autenticidad de Su Última Obra Maestra Revelada](/images/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues.jpg)
@@ -86,28 +89,12 @@ La ironía suprema es que utilicemos la inteligencia artificial más avanzada pa
 - [arteesetica.org](https://www.arteesetica.org/la-ia-generativa-una-maquinacion-extractivista/)
 - [esmusica.org](https://www.esmusica.org/la-propuesta-de-reforma-del-estatuto-del-artista-regula-por-primera-vez-el-uso-de-la-inteligencia-artificial-en-el-contrato-artistico/)
 
-
 ## Artículos relacionados
 - [Suscripciones Fant](/es/ia/suscripciones-fantasma-la-estafa-del-siglo-xxi/)
 - [Trabajo y: La Dist](/es/ia/trabajo-y-la-distopia-2026-que-nadie-quiso-ver/)
 - [NOVUMWORLD:](/es/ia/novumworld-la-burbuja-de-la-elite-que-nadie-quiere/)
 
-
-
-
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "El Greco y la IA: La Verdadera Autenticidad de Su Última Obra Maestra Revelada",
-  "description": "Descubre cómo la inteligencia artificial desvela la autenticidad de la última obra maestra de El Greco, fusionando arte y tecnología de manera.",
-  "image": "https://novumworld.com/images/el-greco-y-la-ia-un-nuevo-vistazo-a-su-ultima-obra-maestra-cuatro-siglos-despues.jpg",
-  "datePublished": "2026-04-18T10:06:21",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -117,4 +104,3 @@ La ironía suprema es que utilicemos la inteligencia artificial más avanzada pa
     }
   }
 }
-</script>

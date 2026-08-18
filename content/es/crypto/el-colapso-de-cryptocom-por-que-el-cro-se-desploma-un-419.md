@@ -67,7 +67,6 @@ La plataforma debe implementar cambios significativos en su estrategia y operaci
 - [TRON: Justin Sun Controla el 60% y Tú Pa](/es/crypto/tron-trx-predicciones-precio-2026-2028/)
 - [Más de $137 Millones en Pérdidas: El Colapso de Traders de Bitcoin y Ethereum](/es/crypto/liquidaciones-masivas-en-el-mercado-cripto-mas-de-137m-en-perdidas-para-traders-de-bitcoin-y-ethereu/)
 
-
 > [!CAUTION]
 > **Aviso de Riesgo y Exención de Responsabilidad:** El contenido expuesto tiene carácter puramente educativo e informativo. No constituye asesoramiento financiero, legal ni recomendación de inversión. Opere bajo su propio riesgo y consulte a un profesional certificado.
 ---
@@ -76,18 +75,7 @@ La plataforma debe implementar cambios significativos en su estrategia y operaci
     <h4>✍️ Sobre el Analista</h4><p><strong>NovumWorld Financial Intelligence</strong> es un equipo de expertos en mercados dedicados a decodificar tendencias institucionales y flujos de capital. Nuestros reportes cruzan datos on-chain y macroeconomía para ofrecer proyecciones libres de ruido corporativo.</p>
 </div>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Crypto.com Alerta: El Dramático Colapso del CRO Que Nadie Vio Venir",
-  "description": "Descubre el impacto del inesperado colapso del CRO en Crypto.com. Analizamos las causas y las consecuencias de este evento alarmante.",
-  "image": "https://novumworld.com/images/defaults/default-crypto.jpg",
-  "datePublished": "2026-07-28T17:22:51",
-  "author": {
-    "@type": "Organization",
-    "name": "NovumWorld Editorial Team"
-  },
+,
   "publisher": {
     "@type": "Organization",
     "name": "NovumWorld",
@@ -97,4 +85,3 @@ La plataforma debe implementar cambios significativos en su estrategia y operaci
     }
   }
 }
-</script>

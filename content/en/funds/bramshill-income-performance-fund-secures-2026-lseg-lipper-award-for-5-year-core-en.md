@@ -1,14 +1,18 @@
 ---
-title: "Bramshill Income Performance Fund Secures 2026 LSEG Lipper Award for 5-Year Core Bond Excellence"
-date: 2026-04-22T09:01:52
+title: Bramshill Income Performance Fund Secures 2026 LSEG Lipper Award for 5-Year
+  Core Bond Excellence
+date: 2026-04-22 09:01:52
 draft: false
-description: "Discover how the Bramshill Income Performance Fund earned the prestigious 2026 LSEG Lipper Award for its exceptional 5-year core bond performance."
-featured_image: "/images/bramshill-income-performance-fund-secures-2026-lseg-lipper-award-for-5-year-core-en.jpg"
-tags: ["Funds & Stocks"]
-categories: ["funds"]
-type: "funds"
-language: "en"
-translationKey: "109ff07c-dc9b-387d-8a9b-3535bc2117b0"
+description: Discover how the Bramshill Income Performance Fund earned the prestigious
+  2026 LSEG Lipper Award for its exceptional 5-year core bond performance.
+featured_image: /images/bramshill-income-performance-fund-secures-2026-lseg-lipper-award-for-5-year-core-en.jpg
+tags:
+- Funds & Stocks
+categories:
+- funds
+type: funds
+language: en
+translationKey: 109ff07c-dc9b-387d-8a9b-3535bc2117b0
 ---
 
 ![Bramshill Income Performance Fund Secures 2026 LSEG Lipper Award for 5-Year Core Bond Excellence](/images/bramshill-income-performance-fund-secures-2026-lseg-lipper-award-for-5-year-core-en.jpg)
@@ -22,8 +26,6 @@ The Bramshill Income Performance Fund has achieved a remarkable milestone by sec
 This accolade is a testament to the fund's resilience and strategic management, particularly in a challenging interest rate environment characterized by volatility and inflationary pressures. The fund's objective revolves around capital preservation while generating a stable income, primarily investing in a diversified portfolio of high-quality bonds. 
 
 Over a five-year horizon, the fund has outperformed many of its peers, not only in terms of returns but also in risk management. The consistent focus on credit quality, coupled with a tactical approach to duration positioning, has been pivotal. The fund's management team, led by veteran portfolio managers, has adeptly navigated market fluctuations, positioning the fund favorably against benchmarks.
-
-
 
 {{< adsterra_native >}}
 
@@ -87,34 +89,11 @@ While the fund has historically provided consistent returns, future performance 
 
 Yes, the fund's focus on capital preservation and income generation makes it a suitable option for conservative investors, although they should consider the associated risks. 
 
-
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bramshill Income Performance Fund Secures 2026 LSEG Lipper Award for 5-Year Core Bond Excellence",
-  "datePublished": "2023-10-01",
-  "author": {
-    "@type": "Person",
-    "name": "Senior Financial Analyst"
-  },
+,
   "mainEntityOfPage": "https://your-article-url.com"
 }
-</script>
 
-<script type="application/ld+json"></script>
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes the Bramshill Income Performance Fund stand out among other bond funds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The fund's strong historical performance, strategic investment approach, and experienced management team contribute to its standout position in the bond fund category."
-      }
-    },
+},
     {
       "@type": "Question",
       "name": "How does the fund manage risk?",
@@ -149,13 +128,10 @@ Yes, the fund's focus on capital preservation and income generation makes it a s
     }
   ]
 }
-</script>
 
 ## Related Articles
 - [VanEck Launches 5 Multi-Asset ETF Model Portfolios on Orion Platform](/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en/)
 - [Morningstar Award](/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en/)
 - [Top 5 REITs with Over 10% Annual Returns for 2026](/funds/top-5-reits-with-over-10-annual-returns-for-2026-en/)
 
-
 *YMYL Disclaimer: This article is for informational purposes only and does not constitute professional advice. Always consult a certified specialist before making financial or health-related decisions.*
-

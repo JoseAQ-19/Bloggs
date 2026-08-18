@@ -29,8 +29,6 @@ La creciente sofisticación de los modelos generativos ha impulsado la circulaci
 * El 59% de los casos de desinformación identificados durante las elecciones españolas de 2023 se distribuyeron a través de WhatsApp, un canal cifrado de extremo a extremo que escapa a cualquier moderación automatizada convencional.
 * Un 74% de los responsables de ciberseguridad coincide en que el uso de inteligencia artificial para generar información engañosa supone un riesgo significativo para los procesos democráticos, revela una encuesta de Swimlane.
 
-
-
 {{< adsterra_native >}}
 
 ## La Amenaza Silenciosa de la IA en la Democracia Española
@@ -54,6 +52,5 @@ Este artículo fue analizado y validado por el equipo de investigadores de Novum
 - [IA y el Futuro del Trabajo: Un Análisis Técnico Profundo](/es/ia/ia-futuro-trabajo-analisis-tecnico/)
 - [Defensa Ciega: 250 Documentos Bastan Para Doblegar la IA Militar Española.](/es/ia/ia-arma-armagedon-algoritmico-ceguera-militar/)
 - [La Dictadura de la Indiferencia: Cómo el Está Bien Nos Está Destruyendo](/es/ia/la-dictadura-de-la-indiferencia-como-el-esta-bien/)
-
 
 *Aviso Editorial: Este contenido es para fines informativos y educativos. No constituye asesoramiento profesional. NovumWorld recomienda consultar con un experto certificado en la materia.*
