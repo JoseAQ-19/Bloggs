@@ -156,42 +156,42 @@
   "b617f752d1163e6059ff2361053b36ad803a3d5411c279bf35d5e8a97000751b": {
     "data": [
       {
-        "title": "July Proves A Chilly Month For Tech Hedge Funds",
+        "title": "Former senator used campaign funds for gifts at state utility agency, Braun alleges",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Turkish Funds Urge Action as Stock Swings Threaten MSCI Status",
+        "title": "‘No trade-off’: ESG income funds delivered both ESG and income",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday Amid Stalled US-Iran Talks",
+        "title": "Nick Reiner fights for access to trust fund for defense, hearing continued to October",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "FEMA authorizes funds to fight Hagen, Wrights Spring fires in Oregon",
+        "title": "10 Stocks the Best Europe Equity Income Fund Managers Have Been Buying",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       },
       {
-        "title": "Laurel Springs School to Accept ESA Funds from Arizona, Alabama, Arkansas, and New Hampshire",
+        "title": "Rebounding biotech funds expected to spur CDMO growth within year",
         "source": "google_news",
         "lang": "en",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1786459476.6709278,
+    "cached_at": 1787063500.5809252,
     "func": "fetch_google_news",
     "args_summary": "('funds',)"
   },
@@ -460,5 +460,40 @@
     "cached_at": 1787061762.7662969,
     "func": "fetch_exa_news",
     "args_summary": "('youtube noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
+  },
+  "37d5c249b922217036b31f4a2862220d673bb81bccb85c774abdf931bbcc3133": {
+    "data": [
+      {
+        "title": "La serie de Kingdom Hearts no podría haber empezado mejor: una importante revelación y un reto de Tetsuya Nomura para los fans",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/kingdom-hearts-tv-series/232634/la-serie-de-kingdom-hearts-no-podria-haber-empezado-mejor-una-importante-revelacion-y-un-reto-de-tet"
+      },
+      {
+        "title": "Reach Capital raises $265M Fund V to back AI founders building to 'expand human potential' | TechCrunch",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/"
+      },
+      {
+        "title": "Brand New Day alcanza un hito que ninguna otra película de Spider-Man había conseguido",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/spider-man-brand-new-day/232637/brand-new-day-alcanza-un-hito-que-ninguna-otra-pelicula-de-spider-man-habia-conseguido"
+      },
+      {
+        "title": "Homem-Aranha: Um Novo Dia se torna o primeiro filme do Homem-Aranha a atingir 2 bilhões de dólares nas bilheterias",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://br.ign.com/homem-aranha-um-novo-dia/155373/homem-aranha-um-novo-dia-se-torna-o-primeiro-filme-do-homem-aranha-a-atingir-2-bilhoes-de-dolares-na"
+      }
+    ],
+    "cached_at": 1787063500.9529812,
+    "func": "fetch_exa_news",
+    "args_summary": "('funds noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
