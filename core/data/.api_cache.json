@@ -908,5 +908,82 @@
     "cached_at": 1787089426.4638805,
     "func": "fetch_exa_news",
     "args_summary": "('crypto noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "6b917a81fd9eedfed0c8175dfe38aafa9e90472ee53445d8e4541e481f95984d": {
+    "data": [
+      {
+        "title": "Waffle House explains why it fired viral rapper Rockstar Riley",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "The viral couple who met outside Fenway Park during the World Cup have broken up",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "From screen to school: How viral fashion trends shape Fresno State style",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Ossoff just went viral again. That was probably the point.",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "‘King of Waffle House’ says he was fired after viral music videos; company cites policy violations",
+        "source": "google_news",
+        "lang": "en",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787097719.9835114,
+    "func": "fetch_google_news",
+    "args_summary": "('viral',)"
+  },
+  "78419185a472eac00403a11a229938d32ad88b963bbfbf48284eb0cbba1ee66b": {
+    "data": [
+      {
+        "title": "YouTube cambia su contador de vistas: ahora registrará cada reproducción al instante",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://latam.ign.com/youtube/114220/youtube-cambia-contador-vistas-reproduccion-instantanea-2026"
+      },
+      {
+        "title": "Brand New Day alcanza un hito que ninguna otra película de Spider-Man había conseguido",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/spider-man-brand-new-day/232637/brand-new-day-alcanza-un-hito-que-ninguna-otra-pelicula-de-spider-man-habia-conseguido"
+      },
+      {
+        "title": "Una teoría sobre el nuevo tráiler de Vengadores: Doomsday apunta a un segundo Doctor Doom",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/avengers-the-kang-dynasty/232635/una-teoria-sobre-el-nuevo-trailer-de-vengadores-doomsday-apunta-a-un-segundo-doctor-doom"
+      },
+      {
+        "title": "El Batmóvil ya está en las calles para el regreso de Robert Pattinson como Batman",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://es.ign.com/the-batman-2/232669/el-batmovil-ya-esta-en-las-calles-para-el-regreso-de-robert-pattinson-como-batman"
+      }
+    ],
+    "cached_at": 1787097720.3350108,
+    "func": "fetch_exa_news",
+    "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
   }
 }
