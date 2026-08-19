@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-10T08:25:25.747777",
+  "analyzed_at": "2026-08-19T14:20:53.074860",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-10T08:25:10.067907",
+      "analyzed_at": "2026-08-19T14:20:36.481523",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-10T08:25:18.493197",
+      "analyzed_at": "2026-08-19T14:20:44.604951",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|Hfw!#pM ^n?gRz$WByD &>gg% R$^ <k%t $rD<& VLOCK|yV$s<Bk P#j<&nMStgT SWnh? @TH x#MG p$?T# rFB?LOCK|pdH^P#C Bq<<xJ@F?@$ $<Vs^ &^y #gdc #DBsfb^!S&Y$? ?@%^NView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|Z<pP@$ ><V$h fQ>TbY P^Y!$mSxD &$%GD %@^-^-fLOCK|DPZBl! ?jTtV jcG^W% >rTkQ@@HW p^zmT MQDvLOCK|g<>$@% ZBw@< hL$H?N SBpHx!J<? Yt<>< GXqW-zView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|!gjW R>P> K#YbB#L#F< zT^c^>DZ$vW &f$qngY!CR Lm<^ – N!^tH>@$j#^<W #cVK!&LOCK|qg#m V&Zm J<@jSS#zFw G#@^kz>n&k# %@!%%lZ><N ?%%y – gZtM$B!&VG #vDl^CLOCK|MlS! qn%>qM#J%X& &qZT pXLy> W!>View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|F? @Vvdh ?$b#zm C^ZzNH !qvjvPLOCK|vb HTM>dx!G&DKnG PJDhzL #V$@q#&q qP%W ?#!LOCK|&WBzlN !v^^?vh >.D. $SkdrSc H!>q^% hvDView Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|Flvpg dJ Z^!<<-%j< <P@$$!fzv, gc$wB$ XmB G$>LRxgQM M!>$> $QXLOCK|@mG<mt $$@F<N> $%w%?t%Rk>wt? J>TP l?%> - J!rP? #W$LOCK|bKNHr& KR<rXBN ^ghDm'? nV&@crtq^@ f@#l - Q?>^B &tkView Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|lmwPkQx gs&?>xyt>jp @#c&@ ?^# J>f? kVsq? wLOCK|TwX<qX? ^#PT!&#v@S$ >Pgvj %GF YB>Y Bhtjq @%>LOCK|%k!kHQ! ?@$>%GKVm<> J$L>D m^G hQJz %n<T$!gR@%lbW TRP@nView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|RP%$Sm NbDdN #DBW!M ngbl#&@^^ #pN#^ Cj?-G-D@PfLOCK|?nYQx% lq&#P f?yxv> $<xR$d?>? kGg&Z C$LOCK|KnWfsq @W%lN MXdGry #KT@rF$!k Pl^tq @#p#-^R^vView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|X#RR >s&k J&sN$YWy#& FlklLtG@%FH ?L$PPypwlG QF@$ – c<zkhBng&vP>q M<vsdLOCK|G^qY <Qfn ^^LK<mK%R$ #Z?@CJy#pJv ^l#Y>vpxm? zcvK – D&k@Mp%lC@ bL^tR<?LOCK|!#V# c<fS^&?^@&C MW?B @<qMw tM&View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|sn pbZlZ yrnw<t yQG$kT sBl#LOCK|H? !>FVD%vN<kbl$ &G>@q# $&&mKX%j f^Bk %fkLOCK|$mJ&sX ?v!&j>P @.?. &<RYjPt ^@&t@> J!hQView Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|v^S%v %r PPxb>-&xv Y@D#G!&%@, D&&L$h @G& lH!F$??GZ T^F<Z lXjsLOCK|^%vs!% !<P!#<> q>%<%#?^>@W^F !mcN $@Cs - @Q<<@ <SdjLOCK|?vW>?h ^kG%pQR <%T%<'$ #Rb$#$p^>^ cp&C - L%FRC %HView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -99,7 +99,6 @@
             "small cap": 6,
             "dividend etf": 5,
             "etfalps shares": 5,
-            "view full": 4,
             "list allspring": 4,
             "class aallspring": 4,
             "sector dividend": 4,
@@ -109,7 +108,8 @@
             "etho climate": 4,
             "climate leadership": 4,
             "leadership etfcalvert": 4,
-            "high dividend": 4
+            "high dividend": 4,
+            "etfview full": 4
           },
           "has_disclaimer": false
         },
@@ -169,34 +169,30 @@
           "sample_texts": [
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
-            "Global Weekly CommentaryA quiet August? Not for investors",
-            "Model PortfoliosTech Selloff Creates an OpportunityAug 5, 2026|ByRuss Koesterich, CFA, JDIn this article, Russ Koesterich explains how the recent market rotation has pressured tech stocks while creating an attractive long-term buying opportunity.",
-            "BlackRock Investment Institute (BII)Weekly market commentaryAug 3, 2026|ByBlackRock Investment InstituteScarcity, not demand, is shaping markets, keeping borrowing costs higher and strengthening the case for durable income."
+            "Global Weekly CommentaryTwo market signals, one story",
+            "FUND TYPEMutual fundsiShares ETFsClosed-end funds",
+            "ASSET CLASSCash alternativesCommodity fundsStock fundsBond fundsMulti-asset fundsReal estate funds"
           ],
-          "disclaimers_detected": [],
+          "disclaimers_detected": [
+            {
+              "keyword": "investment advice",
+              "context": "This material is provided for educational purposes only and is not intended to constitute investment advice or an investment recommendation within the meaning of federal, state or local law. You are s"
+            }
+          ],
           "common_phrases": {
-            "byruss koesterich": 3,
-            "koesterich cfa": 3,
-            "koesterich explains": 3,
-            "multi asset": 3,
-            "asset income": 3,
-            "model portfoliostech": 2,
-            "explains how": 2,
-            "long term": 2,
-            "blackrock investment": 2,
-            "investment institute": 2,
-            "institute bii": 2,
-            "byblackrock investment": 2,
-            "the case": 2,
-            "case for": 2,
-            "investor guide": 2,
-            "guide the": 2,
-            "the burgeoning": 2,
-            "burgeoning space": 2,
-            "space economy": 2,
-            "fixed income": 2
+            "this material": 3,
+            "college savings": 2,
+            "and the": 2,
+            "and more": 2,
+            "educational purposes": 2,
+            "the education": 2,
+            "education and": 2,
+            "and information": 2,
+            "information contained": 2,
+            "contained this": 2,
+            "strategies discussed": 2
           },
-          "has_disclaimer": false
+          "has_disclaimer": true
         }
       }
     }
@@ -204,6 +200,6 @@
   "summary": {
     "total_competitors": 8,
     "es_with_disclaimers": 0,
-    "en_with_disclaimers": 0
+    "en_with_disclaimers": 1
   }
 }
