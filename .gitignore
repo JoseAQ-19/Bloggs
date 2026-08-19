@@ -43,3 +43,6 @@ service-account.json
 !static/images/
 !static/images/**
 !static/images/**/*.webp
+
+# Graphify AST caches
+graphify-out/cache/

@@ -37,7 +37,7 @@ SECTION_ALIASES = {
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--category', '--section', dest='section', type=str, required=True, help='Category/Section or tools')
-    parser.add_argument('--lang', type=str, choices=['es', 'en'], default=None, help='Force language: es (Spain) or en (US)')
+    parser.add_argument('--scout-only', action='store_true', help='Ejecutar solo la fase Scout de tendencias')
     args = parser.parse_args()
     raw_cat = args.section.lower().strip()
     cat = SECTION_ALIASES.get(raw_cat, raw_cat)
@@ -46,6 +46,14 @@ def main():
     # --- MODO STANDARD ---
     if cat not in NICHES:
         print(f"❌ Categoría inválida.")
+        return
+
+    # --- MODO SCOUT ONLY ---
+    if args.scout_only:
+        import trend_scout
+        scout_lang = forced_lang or "es"
+        print(f"🔭 [Scout-Only] Ejecutando scouting para '{cat}' [{scout_lang.upper()}]")
+        trend_scout.scout(cat, scout_lang)
         return
 
     print(f"🚀 INICIANDO PENTAGON: {NICHES[cat]['name']}")
@@ -104,13 +112,30 @@ def main():
         except Exception as e:
             print(f"   ⚠️ [Relay-Race] Error leyendo {trends_file}: {e}. Cayendo a TrendHunter...")
     
-    # --- FALLBACK: TrendHunter clásico si no hay JSON o no hay temas válidos ---
+    # --- FALLBACK: TrendScout / TrendHunter directo si no hay JSON en disco ---
     if not tema:
-        if os.environ.get("GITHUB_ACTIONS") == "true":
-            print("🛑 [Relay-Race] Ejecución en GitHub Actions: no hay JSON válido. Terminando paso con 0 para evitar errores en falso.")
-            sys.exit(0)
-            
-        print(f"   🔄 [Fallback] Usando TrendHunter clásico...")
+        print(f"   🔄 [Fallback Directo] Sin JSON previo en disco. Ejecutando Scout en vivo...")
+        try:
+            import trend_scout
+            target_scout_lang = forced_lang or "es"
+            trend_scout.scout(cat, target_scout_lang)
+            if os.path.exists(trends_file):
+                with open(trends_file, 'r', encoding='utf-8') as f:
+                    fresh_data = json.load(f)
+                for t in fresh_data.get("topics", []):
+                    candidate = t.get("title", "")
+                    if candidate and orchestrator.safety_check(candidate) and not orchestrator.is_topic_redundant(candidate, cat):
+                        tema = candidate
+                        if not tema_lang:
+                            tema_lang = t.get("lang", target_scout_lang)
+                        print(f"   ✅ [Fallback Scout] Tema seleccionado: {tema} [{tema_lang.upper()}]")
+                        os.remove(trends_file)
+                        break
+        except Exception as e_scout:
+            print(f"   ⚠️ [Fallback Scout Error] {e_scout}")
+
+    if not tema:
+        print(f"   🔄 [Fallback TrendHunter] Buscando tendencia en fuentes adicionales...")
         for topic_attempt in range(5):
             candidate = trend_hunter.TrendHunter.get_trend(cat)
             if not candidate:
@@ -123,13 +148,11 @@ def main():
                 print(f"   🔄 [Intento {topic_attempt+1}/5] Tema '{candidate}' es redundante. Reintentando...")
                 continue
             tema = candidate
-            tema_lang = random.choice(["es", "en"])
+            tema_lang = forced_lang or random.choice(["es", "en"])
             break
     
     if not tema:
         print(f"🚫 ABORTADO: No se encontró tema válido para '{cat}'.")
-        if os.environ.get("GITHUB_ACTIONS") == "true":
-            sys.exit(0)
         return
     
     print(f"🎯 TEMA: {tema} | IDIOMA ORIGEN: {tema_lang.upper()}")
