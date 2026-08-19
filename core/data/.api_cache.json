@@ -985,5 +985,82 @@
     "cached_at": 1787097720.3350108,
     "func": "fetch_exa_news",
     "args_summary": "('viral noticias tendencias', ['techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com', 'ign.com'])"
+  },
+  "f02566478553ad999d5aa5f15d5cb85bc6708be991b07f7a82fb7a004d9587d6": {
+    "data": [
+      {
+        "title": "Neuberger Berman lanza NB Balanced Fund 60/40 USA",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Think more mutual funds mean better diversification? Here's why your portfolio may still be concentrated",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Fund Manager Survey (BofA): los gestores se vuelven alcistas con Europa y señalan a España como su mercado favorito",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Lone Star Funds completa venta de Vigor Marine Group",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Copenhagen Infrastructure Partners cierra su Growth Markets Fund II con 3.000 millones de dólares",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      }
+    ],
+    "cached_at": 1787124497.2547,
+    "func": "fetch_google_news",
+    "args_summary": "('funds',)"
+  },
+  "08bcfd66bf32d0b31cffe5efc861213ec72d15d52ef8fb9e8481094ddb139e97": {
+    "data": [
+      {
+        "title": "Esto dicen las 10 rondas de startups más importantes en lo que va de año",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://www.businessinsider.es/startups/10-rondas-startups-mas-importantes-que-va-ano_7026327_0.html"
+      },
+      {
+        "title": "Mark Zuckerberg, CEO de Meta: “Donaremos el 99% de nuestras acciones para buscar la igualdad social” - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/actualidad/sociedad/mark-zuckerberg-ceo-de-meta-donaremos-el-99-de-nuestras-acciones-para-buscar-la-igualdad-social-f202608-n/"
+      },
+      {
+        "title": "'Superman' es el nuevo robot humanoide de Unitree que salta más alto y corre más rápido que un humano. La pregunta es para qué",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/robotica-e-ia/superman-nuevo-robot-humanoide-unitree-que-salta-alto-corre-rapido-que-humano-pregunta"
+      },
+      {
+        "title": "“La IA tiende a concentrar el poder”: el CEO de Anthropic cree que la solución es regular a empresas como la suya",
+        "source": "exa",
+        "lang": "en",
+        "score": 0,
+        "url": "https://www.xataka.com/empresas-y-economia/ia-tiende-a-concentrar-poder-ceo-anthropic-cree-que-solucion-regular-a-empresas-como-suya"
+      }
+    ],
+    "cached_at": 1787124497.6315224,
+    "func": "fetch_exa_news",
+    "args_summary": "('funds noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   }
 }

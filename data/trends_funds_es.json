@@ -1,56 +1,22 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-10T08:26:51.529119+00:00",
-  "total_candidates": 2,
+  "scouted_at": "2026-08-19T07:28:23.111163+00:00",
   "topics": [
     {
       "rank": 1,
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "lang": "es",
-      "source": "google_news_finance"
+      "title": "Neuberger Berman lanza NB Balanced Fund 60/40 USA",
+      "lang": "es"
     },
     {
       "rank": 2,
-      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
-      "lang": "es",
-      "source": "google_news_finance"
-    }
-  ],
-  "competitor_analysis": {
-    "key_phrases": {
-      "con nosotros": 3,
-      "gracias por": 3,
-      "manteniéndose inversión": 3,
-      "inversión durante": 3,
-      "durante periodo": 3,
-      "periodo años": 3,
-      "nos pondremos": 2,
-      "pondremos contacto": 2,
-      "contacto contigo": 2,
-      "por descargar": 2,
-      "esperamos que": 2,
-      "que sea": 2,
-      "sea interés": 2
-    },
-    "competitors_with_disclaimers": 0,
-    "sample_styles": {
-      "morningstar_es": "Institucional, datos Morningstar, rating con estrellas, tablas de rendimiento",
-      "bestinver": "Value investing, cartas trimestrales a partícipes, tono serio y conservador",
-      "carmignac_es": "Análisis macro, perspectivas de mercado, tono europeo sofisticado",
-      "vanguard_es": "Gestión pasiva, indexación, enfoque de largo plazo, educación financiera"
-    }
-  },
-  "all_headlines": [
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+      "title": "Think more mutual funds mean better diversification? Here's why your portfolio may still be concentrated",
+      "lang": "es"
     },
     {
-      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
+      "rank": 3,
+      "title": "Fund Manager Survey (BofA): los gestores se vuelven alcistas con Europa y señalan a España como su mercado favorito",
+      "lang": "es"
     }
   ]
 }
