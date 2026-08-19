@@ -198,6 +198,27 @@
   "4618dd580265f460566f713ecc35b03ce5ab52b17e317eed8d0201579ddcf0d6": {
     "data": [
       {
+        "title": "Héctor Leiro, entrenador personal: \"Para perder peso no necesitas reventarte, solo hacer un paseo de abuelo cinco días a la semana\"",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Golden Fitness amplía su propuesta con un nuevo espacio y un novedoso abono para todas las actividades",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
+        "title": "Henrry Rodriguez, experto en fitness: \"Salir a caminar a partir de los 55 años está bien, pero las personas deben incorporar dos o tres sesiones de fuerza a la semana para mantener la masa muscular\"",
+        "source": "google_news",
+        "lang": "es",
+        "score": 0,
+        "url": ""
+      },
+      {
         "title": "Planet Fitness, Inc. Stock 12‑Month Price Target Cut to $66.25, Implies 31% Upside",
         "source": "google_news",
         "lang": "es",
@@ -205,46 +226,32 @@
         "url": ""
       },
       {
-        "title": "El diseño gana protagonismo en el sector fitness: Evergy Hybrid, reconocido en los FIT Sport Design Awards 2026",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Henrry Rodriguez, experto en fitness: «A los 55, dos o tres sesiones de fuerza a la semana son suficientes para mantener la masa muscular»",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "Markus Frison, exatleta profesional: “No necesitas vivir en el gimnasio para estar fuerte, definido y sentirte atlético a los 30 y 40 años”",
-        "source": "google_news",
-        "lang": "es",
-        "score": 0,
-        "url": ""
-      },
-      {
-        "title": "La Casa de la Juventud abre este miércoles las inscripciones en 986 plazas de 36 cursos y 15 talleres gratuitos de informática, para jóvenes de 14 a 30 años",
+        "title": "La presentadora Trinny Woodall comparte su entrenamiento con mancuernas de 15 minutos para tener unos brazos fuertes y definidos a los 62 años: \"Es una de mis maneras favoritas de empezar bien el día\"",
         "source": "google_news",
         "lang": "es",
         "score": 0,
         "url": ""
       }
     ],
-    "cached_at": 1787054140.7957811,
+    "cached_at": 1787116622.7774348,
     "func": "fetch_google_news",
     "args_summary": "('fitness',)"
   },
   "f57c7b2f36f1b097c5b6ce234958742b388d8049bb95db71d158ac3ca0835b52": {
     "data": [
       {
-        "title": "Expertos coinciden: combinar fuerza y cardio no arruina tus ganancias musculares, salvo en una única excepción",
+        "title": "'Superman' es el nuevo robot humanoide de Unitree que salta más alto y corre más rápido que un humano. La pregunta es para qué",
         "source": "exa",
         "lang": "en",
         "score": 0,
-        "url": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-combinar-fuerza-cardio-no-arruina-tus-ganancias-musculares-salvo-unica-excepcion"
+        "url": "https://www.xataka.com/robotica-e-ia/superman-nuevo-robot-humanoide-unitree-que-salta-alto-corre-rapido-que-humano-pregunta"
+      },
+      {
+        "title": "El futuro ya está aquí: España sonríe - AS.com",
+        "source": "exa",
+        "lang": "es",
+        "score": 0,
+        "url": "https://as.com/masdeporte/polideportivo/el-futuro-ya-esta-aqui-espana-sonrie-f202608-n/"
       },
       {
         "title": "De cero a 800 km/h en 5,3 segundos: China ha vuelto a romper un récord mundial con su apuesta por la levitación magnética",
@@ -254,21 +261,14 @@
         "url": "https://www.xataka.com/movilidad/cero-a-800-km-h-5-3-segundos-china-ha-vuelto-a-romper-record-mundial-su-apuesta-levitacion-magnetica"
       },
       {
-        "title": "Rodrigo llega a Barcelona: “Es un sueño y vamos a por todo” - AS.com",
+        "title": "El Movistar presenta su equipazo para La Vuelta y Van Aert y Roglic confirman su presencia - AS.com",
         "source": "exa",
         "lang": "es",
         "score": 0,
-        "url": "https://as.com/futbol/rodri-llega-a-barcelona-es-un-sueno-y-vamos-a-por-todo-f202608-n/"
-      },
-      {
-        "title": "Alcaraz trabaja en Murcia para llegar al US Open - AS.com",
-        "source": "exa",
-        "lang": "es",
-        "score": 0,
-        "url": "https://as.com/tenis/fotorrelato/alcaraz-trabaja-en-murcia-para-llegar-al-us-open-f202608-f/"
+        "url": "https://as.com/ciclismo/vuelta_espana/el-movistar-presenta-su-equipazo-para-la-vuelta-y-van-aert-y-roglic-confirman-su-presencia-f202608-n/"
       }
     ],
-    "cached_at": 1787054141.2107718,
+    "cached_at": 1787116623.0582292,
     "func": "fetch_exa_news",
     "args_summary": "('fitness noticias tendencias', ['xataka.com', 'genbeta.com', 'applesfera.com', '3djuegos.com', 'as.com', 'businessinsider.es'])"
   },
