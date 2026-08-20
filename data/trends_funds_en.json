@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-19T14:20:53.075535+00:00",
+  "scouted_at": "2026-08-20T14:24:14.196047+00:00",
   "total_candidates": 16,
   "topics": [
     {
       "rank": 1,
-      "title": "Morningstar Downgrades the Struggling $2.3B Baron Fund: Inside the Underperformance Red Flags",
+      "title": "Why 3 \"Innovative\" ETFs Lost 15% to Their Benchmark in 2025: A Cautionary Tale",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "North Square Funds Smash $4B in Assets as Inflows Reveal a Surprising Active-Fund Comeback",
+      "title": "Our Analyst Says HUB24 (HUB) is 30% Overvalued—Here’s the Hidden Risk",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Clarion Partners Real Estate Fund’s 4-Market Industrial Outdoor Storage Push: A Contrarian Real Asset Play",
+      "title": "Healthcare ETFs Just Posted a 22% Q2 Return: Breaking Down the 3 Top Holdings Driving the Surge",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -51,34 +51,39 @@
   },
   "all_headlines": [
     {
-      "title": "Clarion Partners Real Estate Investment Fund Expands Strategic Industrial Outdoor Storage Platform Across Four U.S. Markets",
+      "title": "The Index Fund Turns 50: How Vanguard’s Jack Bogle Changed Investing Forever",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVkoxWm9vRzlCU3lNY3ZNdmNzbXBmelVUdlZHY3RTcXpfc1h4ZTlBZGJReWFpVmF4QzFnTWtFVGtPZnJ4MVhIQjBHaVd6ckNWc3hOd1hiS0dXTlVLUWtoRzdxUUpWdFhNSkhONElDbHJPQlVQcmZqS0o5YmltU1R4bDRzSGZDak5fV2NVbW9heGRqbE83RXA4UktkZnl4c18zLVJMYzU1bWptUmtMX3c2NHhMTkhTaS1mV1NFTmx2OHA5VWloUmdXM3NGZll4QjBpRUplMEFVWjhyUXVqekJXNXJzdGtRWkNKLXdwemNmVlNhVEdMZkJyNjVNTlZWU3VIRWhfTXBDLU44QzZqRTJwRg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5"
     },
     {
-      "title": "Buy The Dip Ideas Beyond ETFs With Morningstar Ameriprise And MSCI",
+      "title": "These ‘Innovative’ ETFs Have Been Disastrous for Investors",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYjdzSTJ0NnNuN0hxaER2dkFPTUJ3QXpqOWR4YURNNWRTZGVrSUtoaGZFU1ZxVlBkUmFDMTZiUHVVNU92VFF2TVp4RVFPTDFSZFgtSGdjSENSQzN2UWhOalhKSExWNnpsSEJLVnNHd2xCM3FxUUt3NW0xUjh2ekF3ekdGOE52ODZrMlJCUm14cVhvYk91azRKdWNqN3dYazJLMUlPZzhfdGw5cmJWODdSRG1TV0o2Mm54UnNYZ2MybnNmZXVycFc1WUhhUmEzb2FmY1ByaFNSYUdJNHRzYXZ0V0h30gHiAUFVX3lxTE1iN3NJMnQ2c243SHFoRHZ2QU9NQndBemo5ZHhhRE01ZFNkZWtJS2hoZkVTVnFWUGRSYUMxNmJQdVU1T3ZUUXZNWnhFUU9MMVJkWC1IZ2NIQ1JDM3ZRaE5qWEpITFY2emxIQktWc0d3bEIzcXFRS3c1bTFSOHZ6QXd6R0Y4TnY4NmsyUkJSbXhxWG9iT3VrNEp1Y2o3d1hrMksxSU9nOF90bDlyYlY4N1JEbVNXSjYybnhSc1hnYzJuc2ZldXJwVzVZSGFSYTNvYWZjUHJoU1JhR0k0dHNhdnRXSHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3M0bDFVcmdOQUNtRWZscXJ2eWtmalVYVlZ1TFdNbENuNWxydHlaVDdRT25SVThWVm1malMzWXRFbkJmbk1ZZ0syekVEVGJrdkE5b2ZKcmVjLVZlam9STTZ4NkNQUW5nbE85UzRCNU1WX2MzcmFSOFdFZ1paMnFYRnhhM1VscWV5eF9oTkRpMA?oc=5"
     },
     {
-      "title": "Morningstar downgrades struggling $2.3bn Baron fund",
+      "title": "Levi & Korsinsky Reminds Peabody Energy Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of August 24, 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVFQSXI5VlNyOXZidTdHV2xacU1FTDFZVTZBMXhJODlkN3F0MktEQWhSZjhQVkc1V3BZM08zaUFpN1NHX1BLbXlDRWEyRmU3SzZidXdPcERRaTJpdmd6dlZrdEliUDQ3ZDZ6b1V3Rk5RdFNVb1Y0V00yMEtWTmpMd01ldHJ2UWxlc19IMWhIYWwzMGJSb1NBQS1Hcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbXhjUVJGTnd6QmR1aHEzd2daWVNOd29BeTFzUUk0UlRVRkgweF9FOHMyS3dac3hrQWJwY1Jnc2ZldzByMWlYdGFSWHJQQlhCa1BBaWJCc0lCbWVXcDc0ZF9GTFEtc1Z3bi1UU3hoSGkwY1plUjJKMExGZlgzNnpkVXZUSG9wcW5kRzVRdzV4bENLdVkyWXJsRmRwQUdHMmd5MHExVUtIcVFmWDdwbFdRUmdqUTNaTnFBVjRjWnEyRDBUdHpxWHh0T21xTHJhRVdFMm1TUklWYmtZTk1ndjRya1J4ckxGNlFpODlHanVuZ01UQ2FEWU1kTnBwd194YnZaQlppdFhSd3lBRmF1amRIMEQ5NUs5cEFjcVNTam02Ukp6R2c?oc=5"
     },
     {
-      "title": "3 Great Dividend Stock ETFs",
+      "title": "The Top High-Dividend ETFs for Passive Income in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9senlRMUZad1ROSG5Qdjliem13ZHNsdThXc3ZtWXlBUG1rQnpvRVFUWXJpaTR6Y2wyNkNkNFRuNVVyZW1sR1pfMzhpV1JZblRocTIzazlCODBPZEVuZEJPeVFjTENHNTROY1lMZzBocjM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5"
     },
     {
-      "title": "North Square Funds Surpass $4 Billion in Assets with Inflows Fueled by Strong Performance",
+      "title": "BlackRock Large Cap Focus Growth V.I. Fund Q2 2026 Commentary",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQzRUc0l3SjBlVFRCdFV4TGhCZzFVSjhEci1oQkpQbGRVeXNhZWlfRUJBUnhyZUJmMXBHOGFDUmtuQmoySUlJQjZicjhsSUJuakY3QUM2X0MzZmoxOFRaT3N4cVhsb0FFNmdUVGRERnBXT2JvN2Rjam13c0dHTS1adFVsOGtnelViNm1Id2VzVUJfaUxDTlE3OEhvTm5CcmZaZDMxRGREb2h2SVFZYmRhSGhmWEFPcENzX2NiQTJvLUt1RDl6Wkpzd0ZpSWx5ZGZGUGVZWF83NUZfSDlBdmlSalB3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFRNdjhPZ1p4MWxjdDVjejhrWXUycVRwY0o3TlViLU0yWUU5aUZvdl94eGQzNUJLNHBTYk1mZWhRTkNhWUVHQ3piWVdzNDFWbnVqd3E5TF9ueXBpWW5qUkNBQS1pejMtbGZhWDVmTTIyZlJTUkhvSEM1U3gzdnZmcTdrZWx2V0ZScWZhZkx5UlpzOW91bU1idWVxdkpmblktZUozWERNZHNoaEZndGRNTXlEQUNFUnpNZEJn?oc=5"
     },
     {
-      "title": "Morningstar Just Named 15 Stocks That Wiped Out Billions in Value",
+      "title": "Morningstar says market is over-valuing HUB24",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkJ1LTZVbVlZSmI1VFlXeTNBcnRsTENZRjh1VklrdkZWVVA2aEt6TDIyV3VaUUEyY295WVR3XzI3dXN6TVE0Wm5BVTFGYlVES0VUTUVpUk1SdnVBM0pnS01helc3cXIxOG1wMGwxeFk5ekNHSllRTlZ5b0dpRkdoNmNn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUm5JWTc2dVFKQlFySlZLNzlITEQzVGhuLXFQSGtiemRaU2VpUkJIZ2J5d1ExdFBGRm0wRDVRNVB3NlZYRDV0Snp5bUVoRW1zUVV0QVpDX3lyUFU5TXdLaWtMcHlwT3dQVzFZUDFOVEFNWDg0djhoQ043ZWpueHpDUk9xLWI1YklIZVM4WG5GR1Q?oc=5"
+    },
+    {
+      "title": "MERXWIRE Releases East Asia Art Market Analysis Report Highlighting Regional Trends and Market Opportunities",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaC1BdTg0MmhrNnBSakJTZl9ZX1hlcGpuQ3AtaUEyQVN1dDZveWtVUUU1clhlcThHbU1EX0NRZjBiaG1PWGlsZTFzNUdWNnNKcGFydVhxOC15a2ptTmt6Tjl2bFRzT0syUWt1eUxkUVVuMS13c2dMRTdoZ0Z4UmJhOXlDVHZsNDRuMU51Ri14TUlNeEx3dXNjTWg2MnpxbGozeS0zck1Od21ocjVMR1E2c2o4S2lZVTFOcFBmaWNJZWhPVTZoT3VTcUFucGdWcUpLZFFmN3puLUlzSEtLZDdyaXREOFE5ZkozbmhWOXFMTHlBSGlfVmc?oc=5"
     },
     {
       "title": "Is Value Investing Dead?",
@@ -86,19 +91,24 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zTHdGaFFOTmRLd0g4a3NxSWxKYmpQUDQ3cmhqNWxwV2Q2eDNLenVqQTFSbFg2cWwxS1RxRnBmNUhSalM3R1phVUhEcjl3d042N0JLQ1dkTmR6MUpHVjZjal9jWmxlSmlEZ19jcXN3ZVFCYTlJ?oc=5"
     },
     {
-      "title": "Morningstar (MORN) Is Up 6.8% After Stepped-Up Buybacks Amid Generative AI Jitters",
+      "title": "The Top High-Dividend ETFs for Passive Income in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObURSRXU3T08tNi1ZX3o5NU5xeldfd3FoX1VOZU9VWkVOQUJGNTlCSkRWQ3FsY3NDckc1c0J6LUxtd1VBNUlMYkFhZF84N2d6TGZVUXVWS29ORkxiNnN1SEZBQ0x0LUFsdXhSLW1ySXAtSHp3dE1Xc1pjTTlJTjdaRmc5SDVXcFdmbG5IV0dyYVV5dVg5M2M4aFJBZV9HVzc5Tkc0RDA3Y2VhWXVqRFBNdmlvVkhpbTAwcW8wbHQ3c29mbDdhT1g5U1duYS1EeGxCZ1N4eXBZVmZSWFRq0gHiAUFVX3lxTE4xbi1PQjNRc3FNTDZ1Q0pPQ3FyZDY4QnV3b01Fa1gxQ0ItMWR3aDBxZ0FBWGkwVVVQRUdfRXk4akhqbEtubnVfWkV4QkVPenJHYXZVTEpiRzkyRzlvY2RqenBtNWdwSFo5TGFUM0RVYWpKck5xMFBTeUJQZGlTY2JaZGo1WkFiNVJmTVlvcEVKQ0ZmZGRjRzJBdGtMY1ZhaUhuRmtfbXlUQ0NFTFRMOFZ5bEZnV3AxZDc0WmplYk56OThsb1pNX0tyTkVua21fUlNPaHZZSE9tVXVGSHZkTzczdFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5"
     },
     {
-      "title": "The Best S&P 500 ETFs to Buy Now",
+      "title": "7 Best Emerging-Market ETFs to Buy for 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Lemd0eVpFNWFrcnZFMEhBQ0tnUEJCMEE3VURmby1lNmVxTVpJZ0pCZUx3S1pNWS0zMTEwd0xUQ1JRY0tOMF94VkZTazhUaGtjSE9TN1FBZm5QeTliN2Y5c09hYVNfaVByYlFMYzVLeGpyLW5U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VcXZ3U0FsNjQ1T1ZRYUtSTWVhRE5kblJtMnF0NlF6TzlYNG51WXdfRDVUTjVhMjUzY3VWbjFpa0MzdDNiTWxvUWpyNU1CWU1pclY1Q0hHMUlrTW1GTmhzMUNMVjR0ZFJYa1FpMTFNWXJVaURXbW13UA?oc=5"
     },
     {
-      "title": "Sector & Industry Performance",
+      "title": "6 Best Mutual Funds to Invest in 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWEtZUzJ1Y0JsejVfb1o5VkF5Z3BFdWVwYzdCcEJ6dWJ3N19uOFNoY2VaYnMtUVpLeTdSUE83a3pkTWtOQmpTUm01aEJteWVhNU5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTBQR3hTLW1DdTZaOVFOUHZUZGl6djNwTGhvWjAzZkg3TnFOb3QzOGdPbGV3b3R5cXNoSlVzVlZQeWFSSnpOWEFKeGFCYTRMcVpGdFdrcVRFd0N0Y09XUTlkdHprMmZ5M2o5emtLamVsdGRKQ0tpdlNyVXo0TFFjeEFxY24yR0VxTDBhZQ?oc=5"
+    },
+    {
+      "title": "The 5 Safest Vanguard Funds to Own in a Volatile Market",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVVSSUp1TjlMbUdKWmRuYWRlVG1ZakRDanpNUXdUbUdUOFRMYUkwX0NhSUVwemRubFZGSzFiNzV1YTFqUkU0dWVMTDRiaW5WejltVEF2TUhadnJ0SHk0QTlBM1g3VWxpc3c3WlBEM0diNEpYaGVaaFl2TEx0M3JhbElMSVVOU19oZWM1a0t6bEJUTDBRTWhqcjNJb3dhZlRoUTlWNm1KQUhzb1hsWHl5YUNCZUd1ZEk?oc=5"
     },
     {
       "title": "10 Best Online Brokerages For 2026",
@@ -106,29 +116,19 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQXRNQXZPbllYWFhtLTR6ZWZMNWZKUkJkYVVJUV94bHQ4ei11eXZVZ2hOYi00cWN4RlRTMGpZbXlQZEZyRlYyNXRzMHVlRHR5ZWFLYmp4QjhnaUthYXZIREhMU2o5VVFTYldvTHFR?oc=5"
     },
     {
-      "title": "The Best Bond ETFs to Buy",
+      "title": "The Best S&P 500 ETFs to Buy Now",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LSGYxLVcxbVdHcmNRTDYxSHVyd1hiNW9IclpuOEtVeWFlY0VHbUx2c1B4Q1drMVBjNUlJYnktUmgzRHRpdmlhWmNKTmNTbEdGT2dLZHlMLUhKZzkzWk83bHdXY1daWExGbGxGdTRENA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Lemd0eVpFNWFrcnZFMEhBQ0tnUEJCMEE3VURmby1lNmVxTVpJZ0pCZUx3S1pNWS0zMTEwd0xUQ1JRY0tOMF94VkZTazhUaGtjSE9TN1FBZm5QeTliN2Y5c09hYVNfaVByYlFMYzVLeGpyLW5U?oc=5"
     },
     {
-      "title": "This Bronze-Rated ETF Carries Strictly Canadian Real Estate Investment Trusts",
+      "title": "Healthcare ETFs Are Looking Up: Here's Why",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkV5WlRzVV9WNHhWLVlkY2NRbS1yMFh3UFU0aGRlbEdlOXhocFUzVU9IT0NNS3lHaXZxR1FXZEJjME1yNWJya3VoeUc3MWZFNDVNVmZ2SExmUDB5NGxnMjI0RDR4STNibTJpWVpCR0FqY0lrcHBVMGRodnRrTDhzT25SY2c0MTFreExVNl9NSW1CWHEtVEFDZXJXZVNsbFNIMzJEZGIyclMyeHgwZmVMUWtCdmgxOFhzTHhN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbndKRUZOV2hXd19HSFY0bndrWDRBVzh0UDRNNXMwazJaUWtLeHIzWk5FbTFxazAydUwwSzlxeUljVmdZeHlwTkNzR1NJbVhISGg2M0laVlY2VEQ2b0RZVjh1aXlncXNhSndTazRwelRiMFUyVFlHcmNyb21RUFByMGtXWTBoSzIycEVqdWUxcnhqMThoT2VVZVBWVnZfdw?oc=5"
     },
     {
-      "title": "4 Best Energy ETFs for 2026 and How to Invest",
+      "title": "Best Nasdaq ETFs for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EcGZNMnhxY0ducUNsem9UbVBERURZZ3ZyU2h1eVhqUEs0QWhYY0lMeEJGS25rMVNlTmdJMXV5ZGtvamJFZm9TY3o0WXlmRDZMUnk4cEE3RjlFcHVXemc3YWdxNFZGWkowSlF0ZmRpTQ?oc=5"
-    },
-    {
-      "title": "SAI Globinvest launches ETF replicating Bucharest Stock Exchange’s reference BET-XT index",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWp0ZWlFOUtKTG1wLTU2R0JXd1gtaTdUX1ZTeEsxSGZJV0ZrX3M0X1FkWjNxQ3FjVDBxazduZUJSTE1NUnFHMTB0M0JQYlhvSHViUnUza1IwN1dvV1NDV2tKV3JLZWkxdGVRaDRtM1lLT2xWUjhqMElMTWhCc3BWS3FabG1INDRCY2dlRUdYaWPSAZYBQVVfeXFMUFlWdTNwVHFxbE9BN05pbWVyZnV1X1Jyc2FpcEt6aVlIb25qZDBrZHpRa3FiLTBMcXFOTGc1MDNSdk9lbm1zOFh3LWg3WjZmSDVDdVd2dDNwUTFkY3RZX2VqN3pHa3dhVTN1RUtYcUZ3NGNxcldLRVI2NXlMdExBRUNOT0Z4ZnZxNGc0YS1XcFc5RDljR1Vn?oc=5"
-    },
-    {
-      "title": "Best Stocks to Buy Now for August 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkU0ZUg0VDB5bkJPdTVMWkNJMC1VbFczZEdOb3JJTGFmU2JxX2xtWFRxYnk5NEFqaHBDNWxTYy0yN1BydHIxZ3BxT2hmenh4MUVOTFA4TWpLVU0wZDlmNFJWTmg3djZlWXB6MWd0SW16UzNZVXdNeXpPeHRtQ2owdlp3?oc=5"
     }
   ]
 }

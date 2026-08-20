@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-19T14:20:53.074860",
+  "analyzed_at": "2026-08-20T14:24:14.195509",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-19T14:20:36.481523",
+      "analyzed_at": "2026-08-20T14:23:59.206119",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-19T14:20:44.604951",
+      "analyzed_at": "2026-08-20T14:24:06.998196",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,11 +82,11 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|lmwPkQx gs&?>xyt>jp @#c&@ ?^# J>f? kVsq? wLOCK|TwX<qX? ^#PT!&#v@S$ >Pgvj %GF YB>Y Bhtjq @%>LOCK|%k!kHQ! ?@$>%GKVm<> J$L>D m^G hQJz %n<T$!gR@%lbW TRP@nView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|RP%$Sm NbDdN #DBW!M ngbl#&@^^ #pN#^ Cj?-G-D@PfLOCK|?nYQx% lq&#P f?yxv> $<xR$d?>? kGg&Z C$LOCK|KnWfsq @W%lN MXdGry #KT@rF$!k Pl^tq @#p#-^R^vView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|X#RR >s&k J&sN$YWy#& FlklLtG@%FH ?L$PPypwlG QF@$ – c<zkhBng&vP>q M<vsdLOCK|G^qY <Qfn ^^LK<mK%R$ #Z?@CJy#pJv ^l#Y>vpxm? zcvK – D&k@Mp%lC@ bL^tR<?LOCK|!#V# c<fS^&?^@&C MW?B @<qMw tM&View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|sn pbZlZ yrnw<t yQG$kT sBl#LOCK|H? !>FVD%vN<kbl$ &G>@q# $&&mKX%j f^Bk %fkLOCK|$mJ&sX ?v!&j>P @.?. &<RYjPt ^@&t@> J!hQView Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|v^S%v %r PPxb>-&xv Y@D#G!&%@, D&&L$h @G& lH!F$??GZ T^F<Z lXjsLOCK|^%vs!% !<P!#<> q>%<%#?^>@W^F !mcN $@Cs - @Q<<@ <SdjLOCK|?vW>?h ^kG%pQR <%T%<'$ #Rb$#$p^>^ cp&C - L%FRC %HView Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|q%^L!T? &^<W@&kLvm! ?ntV> Qcz >y#f ZhTz! &nLOCK|XS%<#^$ ZHt#lgq?<s# M<^g@ #%d l&k$ ^JR&^ M>?%LOCK|Cy%@$BL >%<BL$%PhKP cD^f< @?^ kDrY pn#r&LG%N@<VT pmT!^#XView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|cStN@B %KJ$$ c!B&<Q xbz<%pT?N !y&jq L<b-G-l^!LOCK|pMP!@# xgwPW L<<$KX Q>?gyTRYz &R>QR xQBbLOCK|#!sqJt >%>>% VDCH%c x!g<yD%%< NRh>m Wk^c-ZView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|%Qjq nyfQ &^#J@@<n>Z #HqGyS?z#H$ !Z%MWmBQxB %JNN – M@XgxvLM>$rR^ nD!#p?^LOCK|jjXj >!Tr Ll<y?L?ygN rdXd!j^Vx@T M?%kLxdyZT ?@y% – #sLbN$<Vf# Z#<yRx^NLOCK|#HRZ Py#%>P@<c^% Hdhv ^Z^tt fD^gFView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|?& Kv^X! sqn<wt MZK>Qf ?&cS!SLOCK|nd n%wT<cSlxvCHT KNt&%N hCf%HL@P s&$L @G!wLOCK|SK^?^# #&>z%X^ D.!. <k$$Lt$ !rSqR@ !%<jNView Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|Tt?rL WW <<z%Z-cw< B#s%^$?qn, pfd>#Z kMS J%^n%XpBH GfFYC #$$<kLOCK|&^#!#^ PmTZJMh K$yzx>K^fv>yn ^CT! @XZ@ - KPq?P BLOCK|@qJ&xG lN?N^nk @>t#!'r J?H#^Q^%>m #Cjk - xmb^M >RMqView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
@@ -109,7 +109,7 @@
             "climate leadership": 4,
             "leadership etfcalvert": 4,
             "high dividend": 4,
-            "etfview full": 4
+            "view full": 4
           },
           "has_disclaimer": false
         },
