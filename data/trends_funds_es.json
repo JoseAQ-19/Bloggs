@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-20T07:33:00.891075+00:00",
-  "total_candidates": 10,
+  "scouted_at": "2026-08-21T07:35:05.852532+00:00",
+  "total_candidates": 6,
   "topics": [
     {
       "rank": 1,
-      "title": "¿Flujos inversos pese a mínimos? Analizamos VGLT y TLT: 2 ETFs de renta fija con datos sorprendentes en 2026",
+      "title": "TLT y VGLT rozan mínimos históricos pese a las entradas récord: qué revela la subida del bono a 30 años de EE.UU. para tu cartera de renta fija",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Las 5 acciones del Ibex 35 con mayor potencial alcista: desglose por métricas de valoración",
+      "title": "El aviso de Bank of America que nadie en la fiebre de la IA quería escuchar: por qué el analista Raedler anticipa un retroceso del sector y cómo blindar tu cartera",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Comparamos las cuentas remuneradas de Revolut, N26 y Trade Republic: ¿dónde está el verdadero diferencial de costes?",
+      "title": "VTI de Vanguard bajo la lupa: el ETF que replica toda la bolsa de EE.UU. por solo un 0,03% de comisiones — precio, rendimiento y perspectivas 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,49 +49,29 @@
   },
   "all_headlines": [
     {
+      "title": "Por qué están subiendo los rendimientos de los bonos y por qué podrían seguir al alza",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUlpVzY3WDJpRzlFOWVLM1N3a1ZFaXJ2dG1NaGMtMXJkVkI5NFgzbExLQndLWXhNbHVqR0Z1MmpsZEM2WFZYNVV5V3d2NmtITG55UkNudEhyRzFncm03Qm1HOERXZmJsUzJCNzJXMVMwUnpDbkd3eFlZR2p0YnQ5Y25RZl9DWWJCTEZlMmpkQ2Z5SmczLVVBVU04dm9URzNnSkJwYmtXeE9VNmtsTVBPbjRWa19CTVE4eXM5bGd3?oc=5"
+    },
+    {
       "title": "“Hay muchas formas en las que esto puede salir mal”: Raedler, de Bank of America, advierte de un retroceso en el sector de la IA",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcm5aQmZNRGxmMXpUUXp3QVJnTm1iUUo0MWZaWE9ZLUpBMTlZLUg0ZkxyREhSN3BZWnBtd1dTd2hxWnFDWVY0ZlUtczZJdGxxV3ByT2RJVkIwNE9fSEFvT3Y0SERlSjZnY3RWRlR6cml3NVoyZl9PRzI1SXNqbk1mWVF5cXNJM250b0o3TkI5d1hvWmNkRktRdnhwNE5kcjZfa0FlenYyRy02bFZoVkFadW1zX0s4MnlHemRGbm1XaVQ2TDF4N282NWpPWHNHRE1iZVlyNXppVVhRNl9aNWZtT0V4Q191eTFRM084S2plUEt4Rjl0bmc?oc=5"
     },
     {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
+      "title": "ETF SP500: mejores fondos y brókers para invertir en 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHNfY2Q2NEg1alJ1SDhTWkw5X0NjRmszZ1hlMEFwbGl1ZTZuTW0xV1hOdEdBWXZzZkFZd2g5QWNGZzQtRFJvSEIyY1RLNDRJRnRDd0VNYnpaczBxdXo2YkpBc2piTjFVWmxGa2hNSlE4ZUpqS01tN3YzMzBwSXZIT1lZZw?oc=5"
     },
     {
-      "title": "Mejores neobancos para ahorrar e invertir (2026)",
+      "title": "Mejores cuentas conjuntas 2026 en España",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnJLUHJRUlNXRWs3ZEVtTnlWSGhncVdZTjBteWZHYW1kRllzWTRpdFFRVDE3MG5pNFlFLXNrbWctdFhDVkVXOFVkNFdBZHM2NzVHTnNZbXh0RmN1R0xjM0NxdWpjakVRZEVBSmxOV3JNZjdmYmt1MWY3d0RSOEprbWRKUUpnOVE0WXRIeVdPQTVSckpHWWRRYVlqMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
     },
     {
-      "title": "Valores del S&P 500 que lideran las subidas y con recorrido alcista a largo plazo",
+      "title": "Análisis del ETF VTI de Vanguard: precio, rendimiento y perspectivas 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV21udzd4NDB6N2VXS21BMnItVFAzdENiRDRWWnBwbTh0ck55WDBKNDZCZ002QnZVdUYwUzFZamlDYWdFS0FmVm9mYWYwNWVkTXdlVVgwdG1MVEt6aTBiRm4yNGdhZVlfeGp2QmZEUTctdkYxYmxubkJLc0hreklpTEpBRWo3bGZoZVJTODRXY2w5V0xCQmlmTTJMcHpFNmdEdlRiaENKOWZ0d0VkV2YwZXZxZWtxa2hLWFVyZ3YtcGh1Nk4yeEHSAaIBQVVfeXFMTUhjcHBXZndaV2tDZWhELUdmRVBxTm9BSFVlRENJeWk1U0JiQUxOU2dQMkhqQTFLa0NaUFJ0OUZjX1NyUzhwODNIdUo2cV9hNUlSMXczLWd0YkhiVUhsd1FLcG1fY2Z4czl4YmsyRExPZ1hjMTdyUlRvQ3lfbUhIRC11YWRNbk5JUjZDQm1iRzFXY1ZaUGF0R2pVcndBRnZ2NHFB?oc=5"
-    },
-    {
-      "title": "Revolut vs Trade Republic: ¿qué cuenta remunerada elegir en 2026?",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU4YnBLNlBMejZGQVo3Nmc2N1lDZkROclluQVFvX2E5MGtreHI2QnFYWHpsSjM1eHo2Z2dLNjdTSzVhMHZXSnlvUWZuaWVkQlVsT2lYd0UzVGNJT25OODVDRjZfd0l3Rkl3MGR6eDZFUXdnYWY0SEZPMk83VTJBeHpHTng1V0Nuc2d5WWdUMlUxdURpVnBwVG1XVG9xZ3VuMnUzM3k0RDZmTGo1UmxwcUNQYw?oc=5"
-    },
-    {
-      "title": "Perspectivas de los 5 grandes valores del Ibex 35 en bolsa",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFhLeWxKMnd4aUREclRHYzItNHlXeHZKcUR1bWtHZFRVWFY5QjY0NERJWWtvczZnZ3RBZkxaMDFoYkhtdjJWbEVnQ1VtTjF5TGFhVWlBZGpvNGNtb2E5V1FtNkk5T3djVjFXY181X0c3SF9VdEsyOEFUVWdzci1jZGFXbFFaTVR6bno1Yko2Z1ZmclNsczJzMGpsaFpjT2U0ek1HU1dUYjUyUEs0eDJTdW5zd1BQellmcFlyM1FucWRiUlY1cFHSAZ8BQVVfeXFMT0JwRDhOeS1VSkpFa2RkR2dRcFJQYmpNa01saEhFa2hNY0JYYVUyclNWLWRTSXJ5Znc5WkRCbFNhUmhlX0NIN3RMWk9NenBDWFdObzhjT1dETE9Da2ZpeXR6cF91WmR6cFlSSVBDcHZjV3Z2QWlEMVk2cjhsREk0ZnRReEhuVHpWa2U1UlpVTlZWaTZHVlg2MWNxaVRfR0NJ?oc=5"
-    },
-    {
-      "title": "Cómo declarar tu cuenta Revolut en la declaración de la Renta 2025-2026: todo lo que necesitas saber",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRkWTNEd3dYbXhhcUpUYl84bUR6MDBGNFRfamtRQmF0TDR6MDl6Zms3eVY4UXQ2Z1FERU9Hdklkc25MUVY0Vkx0b25HeEZUaUFqaExFZmR3ek0xa0xqWGZFbzRTN1hycTZyeGdZSXAzMm9LOERwZlFlU1pFNEZHaFU3MWtJWnNPR0pyTkRpRDBhSWpVMF9UMHo0aE9maEhvQmZEcVdKOXNZQ0Jza1FtV181MGRnVE5MV3FlMDZR?oc=5"
-    },
-    {
-      "title": "Revolut vs N26: ¿qué cuenta elegir? Comparativa 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNall3aUxzMlZ4eTQwMDdLakNHZTkyQkhpN3czSGE4Um9zZlVUVmhiblp4UjBoaUhQN2xCNXREZUhTU0VwUFRlU0czcjlONGltdURLcnVZLVZFWnpXSXZ0LW5HV0pCSEhMNUY1ZUZqU0oyR0p5QUh6TE1iZlBWRTdtNHFjcGRDWFp4WUhOSHBFbHpxUnNaWUNJV2swLVoteXpFYlE?oc=5"
-    },
-    {
-      "title": "Las Mejores Cuentas de Ahorro",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNC0tTUNyMTdKTURYQkZjWUxWaTlQLVdPams1Q0x1aHM5T2xEV2R2TWRiZl8tc1pJaFl2SXlvVzFOaW1kYVRrTGlHby1oZUxEbXpMYjltTXRKcE9CRUlhNWZ0Z0lqdURHcjN2eDdwR004VmFfNDNfSzZMWjRoTVdwMU5wUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlhjNmNnN19zUTdNLTMwc3N0RjhJd1dIN003UDhHaHptRkJJSkxXNjl2UjFYVzJ5NHRqUFZGT1hYcDhCVkRuMXRMaTd3ZFVKa3JURXhYYmFySGY0SzV0WGFCVVdyQ3ZSLW9CdTlOcy1JNTk1cWZkV0xDT1hiNUlPUkFnbE9TOUt4MGlaY1dRVQ?oc=5"
     },
     {
       "title": "VGLT y TLT cerca de mínimos históricos pese a entradas mientras sube el rendimiento a 30 años de EE. UU.",
