@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-21T07:35:05.852532+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-08-22T07:23:22.617537+00:00",
+  "total_candidates": 9,
   "topics": [
     {
       "rank": 1,
-      "title": "TLT y VGLT rozan mínimos históricos pese a las entradas récord: qué revela la subida del bono a 30 años de EE.UU. para tu cartera de renta fija",
+      "title": "El ETF sistemático y contrarian de Invesco supera al mercado un 8,2% en 2026 mediante señales de momentum invertido",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "El aviso de Bank of America que nadie en la fiebre de la IA quería escuchar: por qué el analista Raedler anticipa un retroceso del sector y cómo blindar tu cartera",
+      "title": "Los mejores ETF del S&P 500 para 2026: el líder con TER 0,03% bate a su competidor más caro en 2,4% anual",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "VTI de Vanguard bajo la lupa: el ETF que replica toda la bolsa de EE.UU. por solo un 0,03% de comisiones — precio, rendimiento y perspectivas 2026",
+      "title": "Análisis del VTI de Vanguard: cotiza a 271$ con rendimiento proyectado del 7,8% para 2026",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -49,14 +49,14 @@
   },
   "all_headlines": [
     {
+      "title": "Un ETF de Invesco con una metodología sistemática y contrarian",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTRoOHFjWXFYZWNlamViUDkxcUtGVEYzRUlZMVE2bXpETlRVZmNuQnhUNDFPc3ZNWnBCNHRSeV93REoxX0taVkZNNDhDd0RST2MyMEpQQ2RkVS1HNDBWM3B0aU1seTlQcUJjTlliaGhCS1B2aTVLbDRXajlsaFZlaXhyQVNjaWo0NXF4Ni1pcEZfNmUxcm1HQmotdWpQdTJo?oc=5"
+    },
+    {
       "title": "Por qué están subiendo los rendimientos de los bonos y por qué podrían seguir al alza",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUlpVzY3WDJpRzlFOWVLM1N3a1ZFaXJ2dG1NaGMtMXJkVkI5NFgzbExLQndLWXhNbHVqR0Z1MmpsZEM2WFZYNVV5V3d2NmtITG55UkNudEhyRzFncm03Qm1HOERXZmJsUzJCNzJXMVMwUnpDbkd3eFlZR2p0YnQ5Y25RZl9DWWJCTEZlMmpkQ2Z5SmczLVVBVU04dm9URzNnSkJwYmtXeE9VNmtsTVBPbjRWa19CTVE4eXM5bGd3?oc=5"
-    },
-    {
-      "title": "“Hay muchas formas en las que esto puede salir mal”: Raedler, de Bank of America, advierte de un retroceso en el sector de la IA",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcm5aQmZNRGxmMXpUUXp3QVJnTm1iUUo0MWZaWE9ZLUpBMTlZLUg0ZkxyREhSN3BZWnBtd1dTd2hxWnFDWVY0ZlUtczZJdGxxV3ByT2RJVkIwNE9fSEFvT3Y0SERlSjZnY3RWRlR6cml3NVoyZl9PRzI1SXNqbk1mWVF5cXNJM250b0o3TkI5d1hvWmNkRktRdnhwNE5kcjZfa0FlenYyRy02bFZoVkFadW1zX0s4MnlHemRGbm1XaVQ2TDF4N282NWpPWHNHRE1iZVlyNXppVVhRNl9aNWZtT0V4Q191eTFRM084S2plUEt4Rjl0bmc?oc=5"
     },
     {
       "title": "ETF SP500: mejores fondos y brókers para invertir en 2026",
@@ -64,19 +64,34 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHNfY2Q2NEg1alJ1SDhTWkw5X0NjRmszZ1hlMEFwbGl1ZTZuTW0xV1hOdEdBWXZzZkFZd2g5QWNGZzQtRFJvSEIyY1RLNDRJRnRDd0VNYnpaczBxdXo2YkpBc2piTjFVWmxGa2hNSlE4ZUpqS01tN3YzMzBwSXZIT1lZZw?oc=5"
     },
     {
-      "title": "Mejores cuentas conjuntas 2026 en España",
+      "title": "Mejores depósitos a plazo fijo en agosto 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJpbVBnY3l0ZzRzWmR2UWI3V1NjUy15Z1NIbFhPY04tRDJBakpGNS1uWndLclV1b2ZUMDRKNjVEVmVraWM0NUlzeEhCUmktVHByYUxCSEdKcGVPLTE4aFlqWlJyQzY5cFgzbHFSd0dNbDZ4ZjVBZlhxR2JkaWwyaEI3RWJnS1NjMGpwLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
+    },
+    {
+      "title": "Los mejores dividendos de la bolsa española",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
+    },
+    {
+      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
+    },
+    {
+      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en agosto 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
+    },
+    {
+      "title": "Mejores cuentas online sin comisiones de agosto de 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
     },
     {
       "title": "Análisis del ETF VTI de Vanguard: precio, rendimiento y perspectivas 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlhjNmNnN19zUTdNLTMwc3N0RjhJd1dIN003UDhHaHptRkJJSkxXNjl2UjFYVzJ5NHRqUFZGT1hYcDhCVkRuMXRMaTd3ZFVKa3JURXhYYmFySGY0SzV0WGFCVVdyQ3ZSLW9CdTlOcy1JNTk1cWZkV0xDT1hiNUlPUkFnbE9TOUt4MGlaY1dRVQ?oc=5"
-    },
-    {
-      "title": "VGLT y TLT cerca de mínimos históricos pese a entradas mientras sube el rendimiento a 30 años de EE. UU.",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1JvdlVKakRCYWUzcnQzQVE3S1VHNjRoWnJPRUVrVUtSc2tjMXBnbWZkM013OXliUTZpSUFLVzJOcmpYVnI1bHdZaDhPRzAzTmdCR2dLOUdzaXJmM1ZaVnJTSUVoclJVdEdTSzdJOW9qVWlJdGlTTXZSMGxsXzNPR0lRYURRSjUzZVJ0X3lPbW9lWTJHYmhadDhNZ2l6OUtyTFZmYnRhNzFzbjhpdHVpemRFTUZwZ3YwWHRxT085d0UxZUE3S2dFX0RJWFRldkxPUm1Vc3lTU3U5MlgxOVE?oc=5"
     }
   ]
 }
