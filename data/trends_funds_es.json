@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-22T07:23:22.617537+00:00",
-  "total_candidates": 9,
+  "scouted_at": "2026-08-23T07:24:46.641013+00:00",
+  "total_candidates": 4,
   "topics": [
     {
       "rank": 1,
-      "title": "El ETF sistemático y contrarian de Invesco supera al mercado un 8,2% en 2026 mediante señales de momentum invertido",
+      "title": "El ETF contrarian sistemático de Invesco bate al Euro Stoxx 50 en un 11,2% en 2025 con su metodología de bajo precio relativo",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Los mejores ETF del S&P 500 para 2026: el líder con TER 0,03% bate a su competidor más caro en 2,4% anual",
+      "title": "El rendimiento del bono a 10 años español sube a 4,1% y el fondo Nordea European Enhanced Bond cae un 2,8%: por qué seguirá al alza",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Análisis del VTI de Vanguard: cotiza a 271$ con rendimiento proyectado del 7,8% para 2026",
+      "title": "ETF S&P 500: iShares Core cobra 0,07% frente a 0,09% de Vanguard para 2026, comparativa de brókers para inversores en España",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,39 +59,14 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUlpVzY3WDJpRzlFOWVLM1N3a1ZFaXJ2dG1NaGMtMXJkVkI5NFgzbExLQndLWXhNbHVqR0Z1MmpsZEM2WFZYNVV5V3d2NmtITG55UkNudEhyRzFncm03Qm1HOERXZmJsUzJCNzJXMVMwUnpDbkd3eFlZR2p0YnQ5Y25RZl9DWWJCTEZlMmpkQ2Z5SmczLVVBVU04dm9URzNnSkJwYmtXeE9VNmtsTVBPbjRWa19CTVE4eXM5bGd3?oc=5"
     },
     {
+      "title": "Invertir en fondos de inversión: listado completo",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcWlBeVdlZV92V1k1R244d2FLdTkya2xadFVNdERFV1RTMGlMRWxMall2SUJzSDNTb1I1bzA1eWNCaVhNWmVLVEJ3SVk3V0NVRndRdW1kMVZiWklSZjluUDJhT1ZiX3V0TjlBVlY1S3NCbHc?oc=5"
+    },
+    {
       "title": "ETF SP500: mejores fondos y brókers para invertir en 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHNfY2Q2NEg1alJ1SDhTWkw5X0NjRmszZ1hlMEFwbGl1ZTZuTW0xV1hOdEdBWXZzZkFZd2g5QWNGZzQtRFJvSEIyY1RLNDRJRnRDd0VNYnpaczBxdXo2YkpBc2piTjFVWmxGa2hNSlE4ZUpqS01tN3YzMzBwSXZIT1lZZw?oc=5"
-    },
-    {
-      "title": "Mejores depósitos a plazo fijo en agosto 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRWxmMGdGS1hZYThBNjdRWTZKQjk5bGRCMXltMzJVcnlQY1ppQ1QybzJPUTFLUEQ2YktCSFNaQ3dvbkxabnQ0MmpVelljcG1lTTdVczJaRU03VVFwbFZIUG1iQ3ppMVgxSVlXQnZSb2FiRnRCQ0VGX1psTQ?oc=5"
-    },
-    {
-      "title": "Los mejores dividendos de la bolsa española",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JhZ0RrS0lMZnVHZFFNcjZzVDM3a0VOUWgtWlFvNkpTSnBaT1hIZGVweGFhVlNMMlQwMF83eGJ0aUhRUi14MUZEaFVZZmg2bHVqNEdNVVByRWkzR2dVT3JWeENGeDdPZVpzNlViYlRpbHN0X2xJbmVMU2tBWVA3c2J4ZGhKcmw3eTk2TmZvdUVkY1dxN1JUOEpsYUJMWmphSjFLU3hoOHVwczZZdHNnS1Y1V1VDY3p00gGgAUFVX3lxTE5PTVNjWTktYzJNNUlyUmtZTUtNbFVUU0hKZFl0cFdLWDVQemMzUW1OVUJOc0JoakVQOTBzTHhGTjVuaTJBSkxvdE9ieE9pOFM3X0w1b0gxLWJRN19FYnpUYnlpMVQtcGtyUUJFUmdGNXhONDNoZVM3NjBOX1ZNRTFnRHB6X0d6U0ZDMjlsWlhSWWQ5MmNXVE04WTktd2FKc20?oc=5"
-    },
-    {
-      "title": "Mejores planes de pensiones para complementar tu jubilación en este momento",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWdwZThKZDlTSEJUaUVGZl9tYUZ3amlGSUtxQVo3Z2dQdmxqRlJ0VWVQLVN2bHc3cC1ka1lYeFhGLW5NQXZQRW91cG5iZGRkVHBkU25MeDdnbEJQUE9wUkRPVXRscDF5RXFSWGstRVZWYkhzQ2hmVnBHQW9oaXd1NlJrMWJqS0VkMkNiY3dCYVZYcFR3UzFhbEJSc0owNF9hTHJDWXVYcTdpdF84ZEtta1l2bGFoejlFTGt1c1pzc3VOOHlQV1FGZWN1eS3SAagBQVVfeXFMT2NmT3h3YWtzVm1PazFVMkFYVmhnWW01MzM1WGNBUUc1ZG5WQVpwUUVNVTQtSnNPRVZyMERLSXpsVHQ3S1dEZXNCNWNxdmxPRVRGbXFXY0E3eUtOUjd2MVJUeWJYc2FvR0lQcUF3RzN3dXRTYmdHR09TSEg3VVV1NUw2eGVBdFRJTmFROFF4cTNkY3piNE9NUHJjRWdKd1F4dmVjQ0VvVVdL?oc=5"
-    },
-    {
-      "title": "Mejores cuentas remuneradas: más intereses y sin comisiones en agosto 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZlFjN3paakxwVXBKOFdLdVhDMEIxZnQ1Vnh6MFlYR2t5dXZsSGNpVGsySE9RT1N0X3Nka2JhUDVJTl9taFBsaWhmUzB4UmN6VTdCb3B4dTV1S1JNVnV1S0Jsb1JNN1MtTURLNjRORG80dFJWT2cwQ1NCVEJfa25TUE1YdmZiZFRDbWc?oc=5"
-    },
-    {
-      "title": "Mejores cuentas online sin comisiones de agosto de 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUdXZFltU05fWUtKM1N4akVyTVNZMEJZSWJpZV80ZGR4TjV1ckJFWU5ZSXBqWmtKeVhTNXNKc1pEcXhaM1FyRWhpa0M1cmRlbldfTVdsMmF6ellQc1Aya2JrUmQ5VzQ0di1YOEo0MEhuR240S0ZXOHBqbDRVNTJLVkVLbw?oc=5"
-    },
-    {
-      "title": "Análisis del ETF VTI de Vanguard: precio, rendimiento y perspectivas 2026",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlhjNmNnN19zUTdNLTMwc3N0RjhJd1dIN003UDhHaHptRkJJSkxXNjl2UjFYVzJ5NHRqUFZGT1hYcDhCVkRuMXRMaTd3ZFVKa3JURXhYYmFySGY0SzV0WGFCVVdyQ3ZSLW9CdTlOcy1JNTk1cWZkV0xDT1hiNUlPUkFnbE9TOUt4MGlaY1dRVQ?oc=5"
     }
   ]
 }
