@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-22T14:02:45.422107+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-08-23T14:02:44.169850+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "These 'Innovative' ETFs Have Been an Investor Disaster: Down 50%+ While the S&P 500 Doubled—Inside the Thematic Fund Trap",
+      "title": "Lord Abbett Floating Rate Fund (LFRIX) Q2 2026: The 0.9% Expense-Adjusted Outperformance That Defied Rate-Cut Bets",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "You Can Finally Buy SpaceX via SPCX—Here's Why Its $400 Billion Valuation Should Give Most Investors Pause",
+      "title": "QQQ Monthly Performance Review: August 2026's 1.8% Gain Hides a Surprising 22% Concentration in Two Stocks",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "AI's Power Crunch Is Supercharging Nuclear ETFs—But Only One of the Top 3 Has Actually Beaten the S&P 500 Over 5 Years",
+      "title": "Lazard Global Total Return and Income Fund's July Distribution: 42% Estimated Return of Capital Warns Income Investors",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -27,6 +27,7 @@
     "key_phrases": {
       "fund class": 22,
       "full list": 20,
+      "view full": 7,
       "index fund": 7,
       "equity fund": 6,
       "growth portfolio": 6,
@@ -34,7 +35,6 @@
       "small cap": 6,
       "dividend etf": 5,
       "etfalps shares": 5,
-      "view full": 4,
       "list allspring": 4,
       "class aallspring": 4,
       "sector dividend": 4,
@@ -66,16 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTlFMFhVODRQSl9Sa09XbVN0OFh4TnZaYS1BNlNabXNvWTVHOXVUWG1NQlp6Y2M5Sk41MjBfdlplWndSalI3dTZ4Qm1wUzZ1QzVjTTFwSkpqTzktX1IxeV85bTJiaGplSUcxSTBRaW5qR0hneUVpTHJtNV9yRnVpWWo3X05kNnVFVWpKNmdOaTFSTlJ5aThEbWVsajIxMzVTSXhvTEktdllIT081T3JydHkxZjRDX3FBOENfOTE5S2VrVXZCNkNz?oc=5"
     },
     {
-      "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVVpNdXlCeFNmNHluLVkzUjdaVm5OTm9YSXNoRWtRZjNDWThCcFJ0TlJQSVA1dU9ncTJ0bVdWZ1NKdkc4N1JCS3RkS1h5N2RxbTlBUTNkbG1ZNC1hd0ZMMjlHR3RYSGlTWjFxWkdlLWs3MW9Ia3p3aDd0ZjcyVlQxUkRjY1ZTdkNfLVRTSXktc1NUUDdZSUE2SGd0ZjJRR3dnOUVub0NOUUd1aFpRYVlUd3QxcVlTdWY5d1AydEhvOUNLTnpLRk9aalM0bDdpN2Y0SWdUaTAyZjVGZDBQREJOZnZKcnZnYTVkRC1hbWFhZDZKdlhHMF9jQ1otVkZRUG15YVlUa1JBMko?oc=5"
-    },
-    {
-      "title": "These ‘Innovative’ ETFs Have Been Disastrous for Investors",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3M0bDFVcmdOQUNtRWZscXJ2eWtmalVYVlZ1TFdNbENuNWxydHlaVDdRT25SVThWVm1malMzWXRFbkJmbk1ZZ0syekVEVGJrdkE5b2ZKcmVjLVZlam9STTZ4NkNQUW5nbE85UzRCNU1WX2MzcmFSOFdFZ1paMnFYRnhhM1VscWV5eF9oTkRpMA?oc=5"
-    },
-    {
       "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in July",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUGNvbUZYbU1meTNqMnhsMEF1Vkp2WXd6cUV1R3MwZGExSGl2M2tDcEFwOU1tQ2M4ek9xX3VtRDBFY3JXZE9CN0t1NEZhZkNKQjRZcDRFR05wTTBDRU55UjhJREJjdVFmMy1GTFRDSlZ0V0ZsMDhPVzMzSGozdzFHNDliMWh2VnpiVWwwZDN6SVZJeGhpeEF4cTZHbGh3WXJTZ3dvbUdCNnZFRmdRczB1XzV1SG5zc1NualphRHlpa29lekVHZm9YVFpSYnI2OURpQ0VrcUtTcFA2dDdVX0xxd1p4VThLeEtnam14TTRtRFM1RW9TRFpESktZRE94VEhxNHB2b1FiWVJLQTJXZURNeXVGNmViZEN5TFdSVFpyVVdIeXFHMnBF?oc=5"
@@ -86,19 +76,24 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVlnaUluYkg3OXdXTjZRNXNXZGtQS3FCWEpRZk1EMXViN2JXV3N0UWJXLTJPTUhhODhlUC1YSDgwMzMwTUxYUzlMNEtzV09icmdiNVZKRDhLQzZ0ZERwOTFZb0NJNDVDOXN0TFlqdnhDT3QySjl1WVBVNUlGSDVfZGhvX3pmQ1hkbzlYY0VEdVV4MURQWTk1V2t4R28tVUsya0lnTkdKR1hTR01MOVJYLUlOLWs4VkYwT1FXdURn?oc=5"
     },
     {
-      "title": "7 Best Long-Term ETFs to Buy and Hold",
+      "title": "Lord Abbett Floating Rate Fund Q2 2026 Commentary (LFRIX)",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUNvR2tNeVFfRGRneGFaUXBoZi1JVXIzQ0dGX3RQbkFDUkpySHdSYWh6WF9lbGlLM1B2SElkNmhLUlRCY2xEVGFuVUFEampVVnlPamdvN0JsWkdJOUtHbHJ4NzhmOEZKdWZLbmc0T1ZyMHFjcHFpTGlGZ0dnSWpxZWEwbEpYTDNPTEJ6SQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVEprV2hUYmJsS0JSdjdnMjVpXzJDRGFHTDF0cVVIMlRVMVl6bjl6LWhGOWZfVWFlUFpNcEIyRGFUU1dhQ1VWWFVLeFVtMnc2M3c4VmVIaE5TZENBRUMyek1yM2N0WlFzRXNyTzZickVwVkk4WlAxNW9TX3NpNUdCdjNJU01JN0plQnBwYlMwdkpOQkUy?oc=5"
     },
     {
-      "title": "The Best Mutual Funds Of 2026",
+      "title": "For Emerging Market Stock Funds, Concentration Risk May Be Eclipsing Macro Risk",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanRJRjg5S0R1aW91VXBFdHBNV0lSVkNscVVlelJhUi1kTTRaa3BNQzhpZ1VCZVVuOTdRNFd4SDlqS0QwdzhxakRXOWk1eDhaWDdjNTkySnpta1RUb2hjT28xVjBsOFBoa0g2R1hCRlREdUo2RzN0UmlJU1hIdFYzY29IVUZXWEl0UDI5RDlGNi1uU29MTF9hb3Q0N2F6RGNlQjBYbWxCY0dCN3hkUWU0?oc=5"
     },
     {
-      "title": "Best Performing Canadian ETFs of the Last 1, 3, 5, and 10 Years",
+      "title": "Private Credit Is Showing More Signs of Distress",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3hOeWtYbmFocDhhdUxjSDFhdW9jenVLd2RTRjJiYUxGaVZqQjd4c0RNanotejBWYVJuZmUzZjB6QTFQMFRkeHF3emxlb2hicmxicjI3MHFROG5TeXZvNEZtZ2FFbGNXMzlWODlmNXlfSmlPb3hadmZzRDFqenNFNDBiSkRaN3l2eVVhZ09EU2x1QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1NwV3l0VTExT3g0M0tFYlRLZXdadmhscXZaNE8wNGFHMTliTXg4X2dXTDVvcmstYmZyZVNoZkNETlR4Sm5aLVN2LUNkZzh6V2RQN25yamxTcWlFc3RUWjlTempOMTMyQ1JCMU1mR0ZWX1VScDJRSGxoaUVOMjVIQzFPRDZhUGU1?oc=5"
+    },
+    {
+      "title": "7 Best REIT ETFs to Buy for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYlJRcFVzSWw2akl1VWRjT3dQU3hKeFNVZWNpR1V2dzBXeUdoWmZGVnRBQk9BWFFMSUc3Q1hhQXRoZVZZYm9xNlI0ZUlqVWlwZTVUcDJaY01XUFdYTmNBTGZ3al9yS1hXQXhwQ3ZEYk9ZTVFQWW1WSg?oc=5"
     },
     {
       "title": "Monthly Performance Review QQQ",
@@ -111,24 +106,34 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckw1dlctX2gxYjgxeGpYMnRUcmVJRnMwY2piaTgwQ0NHQVFCdnFJOGhDZWNQZThWVnRNNm03RnE0ekVBMW5RbkxfTFRtTDFteXREQlljOGx5emxoVU9ncXo0c3lfbmFkWThiNFV0WTJLMWZHNGNFSDJEWTdrekVmSlJXc09HZEozMnJESjhpenM?oc=5"
     },
     {
-      "title": "7 Best Cryptocurrency ETFs to Buy",
+      "title": "Mid-cap mutual funds are those that invest at least 65 per cent of the corpus in companies lying between 101-250 by market capitalisation. Top performing mid cap funds are the top rated mid cap funds giving good returns.",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGotQ2NadUQwc2FCQkdaMWt4UFdHT0d6TjZpQ20ydTNkem1pWDQzb0NiOTM2UGJfUFFZR3QzVHFYWG5hTmk3TnVDTFFGYVpZUkExYzlKZ0o4QXBaUUdYdHdDVWNnNXQ4UHhKSXRJMDZMS0xBeFpCbW5kUThqZkZEYQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFdhLUVfMFZPTEl4RGVOVkpEN2REN2FhU2dqSHNuTGI4VEIwZEwwU2QyU0JBX0k3aDFLQ2FLXzlRNlhtRWpQN3d2Ym90c2FtT1gtQ2JULXB0TW00anl1ZGxtbjhJZDdsRnNvZnN3OWhSR2V0YVc1N1pNbktDX1h4Mi1FSQ?oc=5"
     },
     {
-      "title": "How to Invest In SpaceX (SPCX) — And How Not To",
+      "title": "Gold Price Today: August 20, 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96bGJtS3ROV2hGR1lHUXNWeUxPYlhyZUV1bmFFbmRKLTNOcXhFNGF5VVRUMUZjNUthY0NTNS1nS2I1Q3kyeGJMUzNzbkhVZEFXREFwT3lnaGxuSGtpLWpLSm56NGItVEpUWlNTVmN6bkRTYmU4bmVzWVVSSGM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zX1NXTllPckpxeXBCVHlJc0I2dDBaRVRVdllsN19XQUhXYjBxWkx5TjNlVGF4NWx2RDFkSzA0V2FocXh4Z2lrUHMzZkV3a3ZnVXMwZjhZdU9LLWVQX3RyNVVn?oc=5"
     },
     {
-      "title": "Best ETFs for Day Trading – Updated Lists and Statistics",
+      "title": "8 Best Cybersecurity Stocks for 2026 and How to Invest",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XRUhCcm5WcFdVZzdOTHpDTTVqaE83X3FhSEp2blFnWjZDN0tIMGliLUd3VTJidlMtSzZLY00wX2J0VHNvZHJaYXk5MzhfMkxBeWs2Z1Y4dVhlS3JnX3pZbEZqRFZMSzVLTkUyaktxWkVHWkdTNUVsRlNFQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2ZyblJhV0lMb1VLVTl1Ul9ScGJlblAycnVKLVZzUHA4cUdPV25mOF96dzJoVGFVZmtvVHFlSTFYd3pyenV5TWlOSmliNWhnd2JQd0pTVE1mNkgzWU1DSy0xLTJhVlRxNjU5S190SUtfREpYeUFoYlJIM05Fa0ZaWGpmaWlmdlZOMUg1TjFHTzlvVHhkUnZHUGdVLW15eFZzRWpCbFN3?oc=5"
     },
     {
-      "title": "The Best Mutual Funds Of 2026",
+      "title": "Top 10 Large-Cap Stocks To Invest In India August 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Umc2bTk2TnJOSHJFRFM3eEJFWFVwSjN3Wld4YXFfNjRKWEY2NWJjSjdhR3REblBUZmc5Nm5RMDBVX05FRU9pRXdNMGJialVpTDl2c1FpVllXWGsxbkJBLU9VR1Y1WEF2VWc0dkZZSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXh6NFFST0ZQUmk4eEo2aHNQejFyaV9abmNubFBHd2VlaUtiZEFwVWZhenFYTXZBUlhaQU8zRlJoa0ZyMVgxb3pOd29hOFRNbGM5YjBjb0g0dXNkUE9VT3hmNzNYZ3pkQy1Cc1NZdUkzdVVCSEVJc1F4cXRWMzFWMHFKaUpVQ0F1RVRhdEVuVHE1d2duWGlOVkx2UzNMWmVLQUtMV3otSkdwcFdIbTRXb2Z1UWVONldyMVJ4NGd3?oc=5"
+    },
+    {
+      "title": "15 Best MNC Stocks To Buy In India August 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVNHNnFGU09LdFFyc2ZScFFSRE1ITEx4NFdVMzNvanVCendCTDBOVTJ3c19BakdjTVFSc1hwa2oxd1F6a0s4R2IySW1hN24wYW0wMkRPWWV4c0RnMGx4YklNSFFiM1FFX3FQc3dJdVhEWjFUM1ZLcUpDcWJmekVNeUp6MS12QQ?oc=5"
+    },
+    {
+      "title": "7 Best REIT ETFs to Buy for 2026",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYlJRcFVzSWw2akl1VWRjT3dQU3hKeFNVZWNpR1V2dzBXeUdoWmZGVnRBQk9BWFFMSUc3Q1hhQXRoZVZZYm9xNlI0ZUlqVWlwZTVUcDJaY01XUFdYTmNBTGZ3al9yS1hXQXhwQ3ZEYk9ZTVFQWW1WSg?oc=5"
     }
   ]
 }
