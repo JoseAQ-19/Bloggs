@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-23T07:24:46.640452",
+  "analyzed_at": "2026-08-24T07:48:55.318443",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-23T07:24:32.959376",
+      "analyzed_at": "2026-08-24T07:48:41.233587",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -73,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-23T07:24:40.286381",
+      "analyzed_at": "2026-08-24T07:48:48.972739",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,17 +82,16 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|!X<%Mb& ?!<<^>!&LQq Npf%q &Ns j$mg k%!Wf !pYQLOCK|SJ<TK$S %!!tz$F#H!P ^tkx$ @L! >X&% LjQf? Gc#z$LOCK|>@s#t#s W>&r^@yylNh t@!VL z#B @vx@ #WlpL<!sd?!$Z c%cH<View Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|mnCd^P #q?t% Rh#qh& >%$r#!Cpg X!mxw #^b-&-^lLOCK|$Znz#$ j<&Kw h<H@&v RC<w?fnmn vm!VD h<>LOCK|%@?#ZN ^PDC> N#$&&k Vnl&y%?<l @@M>r &XXx-!jD?View Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|$kyb x@MQ $%lY>j!?>K w%<<VgYdYL! Fhj#d$p!B% C>># – !#Z>X^z^#?K#D ^L!&WPLOCK|<@^m z#K! @#J$fGw$L> K?M?$hQnBR! &&LvFs^@%< SpZ> – @@d>nXVp!> Q>gFV!LOCK|$g># HdY!g%gLybH S$^F @$XD< zxZView Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|d& <><$b sGt^vy ^P>zfh q<hB$LOCK|mm $N@Z^^$myZr@> ZDyPTW tDp^BZB> tqQf pVz^!LOCK|<#&!H# yvg@h^C d.!. >!<nzy& gM<tN^ @q@View Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|?HM^r J@ #ZGZR->Bc nkTYVnC>y, w$jF<h wS@ Jx@#H>@@G Nm!HV jZ?@LjLOCK|&?DjdB Vpx>h#P >?$Z?!VG#^?>% Hl!H %%wg - bw$BN <LOCK|QyxG@x $v!^&>% T>$$c'X Ht^Khtck!N @MLr - &p#D@ #View Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|wY>JzL! nBy!h#r?DD& $?rb@ !<q D#$? %^#Sv &&pxLOCK|!l?@Fy@ cK$j$fNn%Cl wv>&# >@c trR@ TLn%w xpYkLOCK|Y$J<?qb !R>xPlybPCR !S<q@ JYp !wZY !kMW$TDdC$n<s Dt%%PvView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|!&LW$S #Bzd! !>yP<X b<S!Z<>n& @?h$$ yZ!-V-S^!&LOCK|@Ltb@B %v<F$ Rzddfn >g?c^%q<w #f?X? bLOCK|??L$@! Z%fp& ?L#c?b KBt%YtC&X ZG&^y &##s-&$#mView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|vpX^ &Fhm Tsx!c>?&vM !K&K!z%F#&x Zrg$vkmXl$ Hl$J – lDZ&K<#HFNs^Y hJC&hLOCK|l%rC ?NP? !F^%c$D<h# SZR#TM>JVf# !#$&r?^zJh ?>cN – FY<F?xgv&$ @VkT>CLOCK|<%%r Twksl^Td<D? @T!% ?M@!^ QhR<&View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|!% ^VSG^ @<jhM@ pRL%>J qlq#xgLOCK|vm Q%gSW^PVM#Lr> #?M<C$ W!Y%D!VB t<DF <qFz%LOCK|>lx&?J xnKLL$m c.G. Sg?!Y?z lX%Qt# L@?^View Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|wsp#g nJ @pH?Q-l@Z !Q!>?R&B!, ?HY<qV jk@ ^jP&l%Kn@ wD&qm FC>LOCK|T^BRmc !<@?G^< >m%<vN$p<$T&v Kq#& ^>m< - $>l<! ^<LOCK|!$wjWB ?W?Vhv% r$>Y%'z ZQm!T$Pgyv XFVV - xyX>v @bView Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 22,
             "full list": 20,
-            "view full": 7,
             "index fund": 7,
             "equity fund": 6,
             "growth portfolio": 6,
@@ -100,6 +99,7 @@
             "small cap": 6,
             "dividend etf": 5,
             "etfalps shares": 5,
+            "view full": 4,
             "list allspring": 4,
             "class aallspring": 4,
             "sector dividend": 4,
