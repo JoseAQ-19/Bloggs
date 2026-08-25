@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-24T07:48:55.319023+00:00",
-  "total_candidates": 6,
+  "scouted_at": "2026-08-25T07:34:59.874303+00:00",
+  "total_candidates": 3,
   "topics": [
     {
       "rank": 1,
-      "title": "Éxito de la gestión activa en Europa 2026: 68% de los fondos Morningstar baten a su índice",
+      "title": "Éxito de fondos activos europeos: ¿por qué el 40% supera a los índices en 2024?",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos activos en EE. UU. vs pasivos: los activos logran 0,8% más de retorno ajustado a riesgo",
+      "title": "Fondos activos vs. ETFs: cómo el 12% de comisiones extra puede ganar a largo plazo",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "El ETF contrarian y sistemático de Invesco: 11% de sobrerendimiento inesperado vs índice",
+      "title": "MyInvestor y la seguridad: más protecciones que el 90% de los bancos tradicionales",
       "lang": "es",
       "source": "llm_selected_finance"
     }
@@ -59,24 +59,9 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN1pLRXY4RVBDY2F2dmZ3UlRYWldseUQtUk5fRG0yWGJ0MFpRc2xEN203NW1WaUFGQUQtQVMxZ1JNUDlZZWFERDFHSUtWWV91TUl4NXJHUmZNWkR4ZTgweWFMbmJ1SzUtaC04d19IOWtNLTd0UVJlZjZydEZJNFZxQmsyV1M4OHd5eklkbG1pUXkyUkZHYWowUFo1NmJDM1RHX2p4Zl9kZWowVzk1Q1dMQ1RZa2Y4VFlQeGdhUGxLVjNWbDFadlpjSGJHS3pUY28zdjFDLUpPNnRSZUEyQU9ETjVHVQ?oc=5"
     },
     {
-      "title": "Un ETF de Invesco con una metodología sistemática y contrarian",
+      "title": "¿Es seguro MyInvestor? Las protecciones para tu ahorro e inversión",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTRoOHFjWXFYZWNlamViUDkxcUtGVEYzRUlZMVE2bXpETlRVZmNuQnhUNDFPc3ZNWnBCNHRSeV93REoxX0taVkZNNDhDd0RST2MyMEpQQ2RkVS1HNDBWM3B0aU1seTlQcUJjTlliaGhCS1B2aTVLbDRXajlsaFZlaXhyQVNjaWo0NXF4Ni1pcEZfNmUxcm1HQmotdWpQdTJo?oc=5"
-    },
-    {
-      "title": "Invertir en Renta Fija: situación actual y perspectivas",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ueDVIZGYzSXF5OW9iZEZSMkdXbFBFZm5HcHN6T2NyQzNqNVczUTFRS3ZocWVuX3VaRF9EMFpNS2ZUbFduNTYwZE10a3JfSEpRVDhpUlp6NGo3NkZ0cUd6S2NNU0ZFSTVtTE5R?oc=5"
-    },
-    {
-      "title": "El ciclo económico y su influencia en la inversión bursátil",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEFKWXBNenJ5NHFybzZiX2FmS3VXM216ZmNhMDYyUFU0Z0lSVEc0NHZYMG4wM3k5cDZaeEFiaDdwdG5mMEVZVGYwOGJBRkNTM01UTkVMX2dTRG0wSDNfamNKbHI4S2hKc0Z4dnl4NlBrNEdKVFBoUjJDY2VEY1NjdXlsODd6Ukp3STc5SC1tcGRBbmc2eld2d2JzMzViRWxucndYU1N0WFZpVWtrN2tkTUNXR1QwQTR1UHBRNklTek1OcVc3TFo5aThfVTBYZ9IBpAFBVV95cUxNbkc3LWhiMjNOM0UzWEs4SU1QTkRFRHNlWVhDejlIbGtWMWNmUnRfSGdaV05uTzh2Ull4VmxQM0FFRFRHbHZJTHlNdm5ZTmhRMGFqM0tkLTVlZUpOTXlSZVE3MV9zYl8tVlZScWV5SXVXUThQQmlrT2Q5VjVZQk9fVzNyUERFcnBKMjdqNHl3Yzk5djFHUDJIYnVvelltb21XTEVyOQ?oc=5"
-    },
-    {
-      "title": "Los bróker esperan que las acciones de BBVA y Santander suban un 30%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5tYTFsZmRFeWFzaFNEVlZDM2JwMTdjdEJWVXNJSEVVdEw4MzdVdHRqVjlTWWtqblN0dzNUb3lPT2xDd1ZyWDlVYkpTN3pLc3JPVVJtbHlaQkljRWRwV1AwNktlR1lhd0tGeWdyaWoyNlluWk9EY2NrSFFiMXFncDRDWWo2LVFOdVQtWWNveDZ1THRSYkQ0eTlzNjlZaG1ibFdFWldPSU1nWWlqRmNSTGdFczFLR0lMVDdEbHpnaVZzdWRQOE1rR3UyeTBNaDBkSFFCVFAwZ3hBbGdicXRrVUFvWdIBngFBVV95cUxNcFhTaXZ0U0VOa3AwY1EzdUZobGRjMTNLLXB6NExab1VZbzRkZDNSVm5RMklmYmN0MnBldVdjRHc5dEhkWWluWVBpX3Nla0laZUpfbWktVmRFa2ZNWmdzRTJrNkNUQlVNemZnNnVfYWdySTVDVkNVRFB1T1YxMGNtUzB6cEt3MGs0M2piOW9FVlNTUkJBVWFJaUtiazg5dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVdHVkctWG16TVJZZmVwZ1BOQ2FXazEzektiNU1xNHUxNzdTb1JmZHVid1otNURXbGZWU2pEeVBMY2Zpd1o5ZlI5emtHR3BYU3pRU2ZtSUNMeGxjSUhnaGRkTkVrR0xZM01sU2xTQkdIX2hic1ZWcFVMSmE1U0o0cFg3WHYycVJMRmN2MjB6Vkk1TEhEc1p2WXp6ZW1UQnNPYzNNeGtFSmU?oc=5"
     }
   ]
 }
