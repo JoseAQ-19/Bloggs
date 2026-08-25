@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-24T07:48:55.318443",
+  "analyzed_at": "2026-08-25T14:34:21.155260",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-24T07:48:41.233587",
+      "analyzed_at": "2026-08-25T14:33:49.886009",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -20,31 +20,11 @@
           "name": "Bestinver",
           "url": "https://www.bestinver.com",
           "declared_style": "Value investing, cartas trimestrales a partícipes, tono serio y conservador",
-          "pages_scraped": 1,
-          "text_blocks_extracted": 20,
-          "sample_texts": [
-            "Haz click en el teléfono al que deseas llamar",
-            "Nuestra puerta al conocimiento sobre elahorro y la inversión, contados de forma didáctica y pedagógica.",
-            "Si quieres saber más sobre las etapas de un proceso de inversión y la importancia del tiempo a la hora de invertir, aquí tienes dos de nuestros últimos posts.",
-            "Si quieres estar al día de todos los contenidos que publicamos,suscríbetea nuestra newsletter y recibirás en tuemailtodos los meses:",
-            "Carta trimestralanalizando nuestros fondos"
-          ],
+          "pages_scraped": 0,
+          "text_blocks_extracted": 0,
+          "sample_texts": [],
           "disclaimers_detected": [],
-          "common_phrases": {
-            "con nosotros": 3,
-            "gracias por": 3,
-            "manteniéndose inversión": 3,
-            "inversión durante": 3,
-            "durante periodo": 3,
-            "periodo años": 3,
-            "nos pondremos": 2,
-            "pondremos contacto": 2,
-            "contacto contigo": 2,
-            "por descargar": 2,
-            "esperamos que": 2,
-            "que sea": 2,
-            "sea interés": 2
-          },
+          "common_phrases": {},
           "has_disclaimer": false
         },
         "carmignac_es": {
@@ -73,7 +53,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-24T07:48:48.972739",
+      "analyzed_at": "2026-08-25T14:34:12.049740",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -82,16 +62,17 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|wY>JzL! nBy!h#r?DD& $?rb@ !<q D#$? %^#Sv &&pxLOCK|!l?@Fy@ cK$j$fNn%Cl wv>&# >@c trR@ TLn%w xpYkLOCK|Y$J<?qb !R>xPlybPCR !S<q@ JYp !wZY !kMW$TDdC$n<s Dt%%PvView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|!&LW$S #Bzd! !>yP<X b<S!Z<>n& @?h$$ yZ!-V-S^!&LOCK|@Ltb@B %v<F$ Rzddfn >g?c^%q<w #f?X? bLOCK|??L$@! Z%fp& ?L#c?b KBt%YtC&X ZG&^y &##s-&$#mView Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|vpX^ &Fhm Tsx!c>?&vM !K&K!z%F#&x Zrg$vkmXl$ Hl$J – lDZ&K<#HFNs^Y hJC&hLOCK|l%rC ?NP? !F^%c$D<h# SZR#TM>JVf# !#$&r?^zJh ?>cN – FY<F?xgv&$ @VkT>CLOCK|<%%r Twksl^Td<D? @T!% ?M@!^ QhR<&View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Emerging Sector Dividend Dogs ETFLOCK|!% ^VSG^ @<jhM@ pRL%>J qlq#xgLOCK|vm Q%gSW^PVM#Lr> #?M<C$ W!Y%D!VB t<DF <qFz%LOCK|>lx&?J xnKLL$m c.G. Sg?!Y?z lX%Qt# L@?^View Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|wsp#g nJ @pH?Q-l@Z !Q!>?R&B!, ?HY<qV jk@ ^jP&l%Kn@ wD&qm FC>LOCK|T^BRmc !<@?G^< >m%<vN$p<$T&v Kq#& ^>m< - $>l<! ^<LOCK|!$wjWB ?W?Vhv% r$>Y%'z ZQm!T$Pgyv XFVV - xyX>v @bView Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|%Sx^j^q @kYdVVC!JjB L^B#% bz< Kpv< my$xC dLOCK|?M@&Y!! #Jddzn?G?Cr NrQQ@ >%h HL#< CWz$M &!LOCK|M>dH%!p b<G!LtkvQbs GmKmm SC> $lSC zz&x?cv#CXLt& !FrxjView Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|#j^tv& qR%NN >H?<%$ $mFq&wd?t %dsk$ ^v<-V-&hGtLOCK|?L$HsJ !SScz R^h&n& <&<q^#C#g Z%?q% &%<LOCK|P$!cv# Qcw>B $&D>!L $H>z?yD>J gbPr? n@Bl-??!&View Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|>?>k !$!# %qT%S%m^#k ZT?Fhl#Hm@R ?<B?kz^zgS Xy^F – ?%VMcFwlKkcpS b?K?WLOCK|>YSW <jZR <@&vj!C?D^ !XbvYbbt&$j Sw$rB%RnSh >&t^ – <T!%^^C>YY %m>qgFLOCK|VqzB &JWY&jqW!Br fL<K V!mW^ %g&@View Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Equal Sector Weight ETFLOCK|VF $>RyWNf?wnPCB rp#jcM $P@%ytbt zc@^ h@&s%!LOCK|^x$cVN b@mC%#> ^.?. <XZ>#t@ %Jxlks FLbsLOCK|>Vc!> LJ?# X!@%$<m @cdzWF?S^r X.@. X$##View Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|&@fV? !> rXTfC-?<r $XNW>pnJ>, N^V?#h <BN <M?rLMm$R #h$@F j<lBlLOCK|!rsHHd &<^GSlz >$k!^'f W@ZqqB$jqS !mly - %C#&t ^^VLOCK|$@v Pl%Bq% dx$?DrgsnxYP^ CM>n@$G r%LN r&>j%h<@$wX&# #%kPl?View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 22,
             "full list": 20,
+            "view full": 8,
             "index fund": 7,
             "equity fund": 6,
             "growth portfolio": 6,
@@ -99,11 +80,10 @@
             "small cap": 6,
             "dividend etf": 5,
             "etfalps shares": 5,
-            "view full": 4,
             "list allspring": 4,
             "class aallspring": 4,
-            "sector dividend": 4,
-            "dividend dogs": 4,
+            "equal sector": 4,
+            "sector weight": 4,
             "list amplify": 4,
             "amplify etho": 4,
             "etho climate": 4,
