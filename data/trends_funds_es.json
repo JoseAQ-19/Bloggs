@@ -1,44 +1,30 @@
 {
   "category": "funds",
   "lang": "es",
-  "scouted_at": "2026-08-25T07:34:59.874303+00:00",
-  "total_candidates": 3,
+  "scouted_at": "2026-08-26T07:36:55.080689+00:00",
+  "total_candidates": 7,
   "topics": [
     {
       "rank": 1,
-      "title": "Éxito de fondos activos europeos: ¿por qué el 40% supera a los índices en 2024?",
+      "title": "Los ETF de renta fija japonesa captan 1.500 millones USD en 2026: el récord de flujos que desafía a los bonos europeos",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Fondos activos vs. ETFs: cómo el 12% de comisiones extra puede ganar a largo plazo",
+      "title": "Gestión activa en Europa 2026: el 63% de los fondos activos bate a los pasivos según Morningstar",
       "lang": "es",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "MyInvestor y la seguridad: más protecciones que el 90% de los bancos tradicionales",
+      "title": "Fondos activos de EE. UU. vs pasivos: sobrerendimiento activo de 2,2% en 2026, la sorpresa del mercado",
       "lang": "es",
       "source": "llm_selected_finance"
     }
   ],
   "competitor_analysis": {
-    "key_phrases": {
-      "con nosotros": 3,
-      "gracias por": 3,
-      "manteniéndose inversión": 3,
-      "inversión durante": 3,
-      "durante periodo": 3,
-      "periodo años": 3,
-      "nos pondremos": 2,
-      "pondremos contacto": 2,
-      "contacto contigo": 2,
-      "por descargar": 2,
-      "esperamos que": 2,
-      "que sea": 2,
-      "sea interés": 2
-    },
+    "key_phrases": {},
     "competitors_with_disclaimers": 0,
     "sample_styles": {
       "morningstar_es": "Institucional, datos Morningstar, rating con estrellas, tablas de rendimiento",
@@ -49,14 +35,34 @@
   },
   "all_headlines": [
     {
+      "title": "Morningstar y PitchBook se asocian con Google Cloud en herramienta de IA",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkM3aEZnQXNYZlZObnBKdkl1SDRUQmJHN1AtNkpaSVg4WGhDU21fMmg2N0lsakZmWUVvakRLMHVyMVdCYWIxakJRRGhEQnBDTGFFM3BfZFh1bGZ1MGRUWkhJQ3pqaU1fWmV0WFFLVG5rSGVfN0x5VVkzY3VDZEowZ1RrT2czUVY5UkJZVVVkXzJpYW5POU5YMHQ2cHVmVEh1RVhhaEI5X2NDRG9FVFF1TGRVWXJZLXNpTHBIZzNNMXhoQUVvX3Jv?oc=5"
+    },
+    {
       "title": "Éxito gestión activa Europa Morningstar 2026",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSU9ic1BiTV9JaVNWYm05bW0tMGpvNHc1OVJLQzBOY0txbUZMTHBBYmlQWnlmbFViU3ZReFp1VkVQaXgyMzd3d1gwVlI4WHVid0FmWmNnYUQya3k5eEtjdVhVeWh0MTl1UlJndnllWkZTMi1fTTNqR1E0WHVRYTdSdVZyZ21sWTRFMG5Lbk93WXBvZ19yUG90MDVSVDZCMThnNFVBQnFUSV9rbzZKZnE3SGFjWEJXM0NTOWRyd0h2bFd3SzViRFBPZmRkYkRPa1VwUXJ2ZS1hdUs0cWc0TmhEUg?oc=5"
     },
     {
+      "title": "Los fondos cotizados de renta fija japonesa atraen una cifra récord de 1.500 millones USD en lo que va de 2026, según Morningstar",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndhVmxjbEw4Mm9nMW9rcXVZYkFkNzlucnFlTVU1ZnhzRU5UbVFnR29vaDM4VTZHVGVLZ1FEb2RDb1ZJZzl6Q2RnUVZ0VkdoRF93a3h4OUNxY1dYVk9xbFpacE5FSHpqZlBCX2ZPR1V3SUhuNnQ0VnJTWWs5R3phYWxHejM0cEhjejJiQlJiWG9FZDZocTNJUmxKUHF4bFN6Y1RabmxibmozVU9kSF9YUkhzd3M3UUFCVnU1U1hNR0pacUZKWHpvY2w2c051dmpyNzdnM0hYSHp5TmxsUHJIb3NCcUFZdWtfUEs4?oc=5"
+    },
+    {
       "title": "Fondos Activos en EE. UU. Rendimiento vs Pasivos",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN1pLRXY4RVBDY2F2dmZ3UlRYWldseUQtUk5fRG0yWGJ0MFpRc2xEN203NW1WaUFGQUQtQVMxZ1JNUDlZZWFERDFHSUtWWV91TUl4NXJHUmZNWkR4ZTgweWFMbmJ1SzUtaC04d19IOWtNLTd0UVJlZjZydEZJNFZxQmsyV1M4OHd5eklkbG1pUXkyUkZHYWowUFo1NmJDM1RHX2p4Zl9kZWowVzk1Q1dMQ1RZa2Y4VFlQeGdhUGxLVjNWbDFadlpjSGJHS3pUY28zdjFDLUpPNnRSZUEyQU9ETjVHVQ?oc=5"
+    },
+    {
+      "title": "Morningstar y PitchBook se asocian con Google Cloud en IA",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblFMSEpnWnQxczQyd1VaeFA1VzF2eVdicjNYUkpvdXFFU2V6cFp6U1hHZU56OWJGZXkwWnNPSGRNNmpsWjhmZVJUMzFJWm5pczIxdEhGVFdMak5ySENCclFPMHdWdXB5YkhQc0FHNENnMW5zaWJCN2FtWHhCVklnaDVMZ3V0S3RoZzV2MUlMUUNZSkk2N3BRemhRWTloeW1kemZ4WWZ4NEJ1UWF4bnNzQUVNOA?oc=5"
+    },
+    {
+      "title": "La bolsa hoy: Claves y agenda económica del día",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ckxPMVJvMVR5VWFYZXNkdU8ySXBEdE9fc0NXd3ZUMFZVT3VyazhkRzFZdXpGSmdIcXllLUN2cERBN2xIcE14NGlpVTFpeE1SZjA4RGU4ckZhOXBEMWxuWkxGZ2IxMVJIVmpWN1A0dU4?oc=5"
     },
     {
       "title": "¿Es seguro MyInvestor? Las protecciones para tu ahorro e inversión",
