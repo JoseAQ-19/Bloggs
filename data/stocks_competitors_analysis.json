@@ -1,9 +1,9 @@
 {
-  "analyzed_at": "2026-08-25T14:34:21.155260",
+  "analyzed_at": "2026-08-27T17:57:39.399801",
   "markets": {
     "es": {
       "lang": "es",
-      "analyzed_at": "2026-08-25T14:33:49.886009",
+      "analyzed_at": "2026-08-27T17:57:23.301887",
       "competitors": {
         "morningstar_es": {
           "name": "Morningstar España",
@@ -20,11 +20,31 @@
           "name": "Bestinver",
           "url": "https://www.bestinver.com",
           "declared_style": "Value investing, cartas trimestrales a partícipes, tono serio y conservador",
-          "pages_scraped": 0,
-          "text_blocks_extracted": 0,
-          "sample_texts": [],
+          "pages_scraped": 1,
+          "text_blocks_extracted": 20,
+          "sample_texts": [
+            "Haz click en el teléfono al que deseas llamar",
+            "Nuestra puerta al conocimiento sobre elahorro y la inversión, contados de forma didáctica y pedagógica.",
+            "Si quieres saber más sobre las etapas de un proceso de inversión y la importancia del tiempo a la hora de invertir, aquí tienes dos de nuestros últimos posts.",
+            "Si quieres estar al día de todos los contenidos que publicamos,suscríbetea nuestra newsletter y recibirás en tuemailtodos los meses:",
+            "Carta trimestralanalizando nuestros fondos"
+          ],
           "disclaimers_detected": [],
-          "common_phrases": {},
+          "common_phrases": {
+            "con nosotros": 3,
+            "gracias por": 3,
+            "manteniéndose inversión": 3,
+            "inversión durante": 3,
+            "durante periodo": 3,
+            "periodo años": 3,
+            "nos pondremos": 2,
+            "pondremos contacto": 2,
+            "contacto contigo": 2,
+            "por descargar": 2,
+            "esperamos que": 2,
+            "que sea": 2,
+            "sea interés": 2
+          },
           "has_disclaimer": false
         },
         "carmignac_es": {
@@ -53,7 +73,7 @@
     },
     "en": {
       "lang": "en",
-      "analyzed_at": "2026-08-25T14:34:12.049740",
+      "analyzed_at": "2026-08-27T17:57:31.313650",
       "competitors": {
         "morningstar_com": {
           "name": "Morningstar",
@@ -62,17 +82,16 @@
           "pages_scraped": 1,
           "text_blocks_extracted": 20,
           "sample_texts": [
-            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|%Sx^j^q @kYdVVC!JjB L^B#% bz< Kpv< my$xC dLOCK|?M@&Y!! #Jddzn?G?Cr NrQQ@ >%h HL#< CWz$M &!LOCK|M>dH%!p b<G!LtkvQbs GmKmm SC> $lSC zz&x?cv#CXLt& !FrxjView Full List",
-            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|#j^tv& qR%NN >H?<%$ $mFq&wd?t %dsk$ ^v<-V-&hGtLOCK|?L$HsJ !SScz R^h&n& <&<q^#C#g Z%?q% &%<LOCK|P$!cv# Qcw>B $&D>!L $H>z?yD>J gbPr? n@Bl-??!&View Full List",
-            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|>?>k !$!# %qT%S%m^#k ZT?Fhl#Hm@R ?<B?kz^zgS Xy^F – ?%VMcFwlKkcpS b?K?WLOCK|>YSW <jZR <@&vj!C?D^ !XbvYbbt&$j Sw$rB%RnSh >&t^ – <T!%^^C>YY %m>qgFLOCK|VqzB &JWY&jqW!Br fL<K V!mW^ %g&@View Full List",
-            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Equal Sector Weight ETFLOCK|VF $>RyWNf?wnPCB rp#jcM $P@%ytbt zc@^ h@&s%!LOCK|^x$cVN b@mC%#> ^.?. <XZ>#t@ %Jxlks FLbsLOCK|>Vc!> LJ?# X!@%$<m @cdzWF?S^r X.@. X$##View Full List",
-            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|&@fV? !> rXTfC-?<r $XNW>pnJ>, N^V?#h <BN <M?rLMm$R #h$@F j<lBlLOCK|!rsHHd &<^GSlz >$k!^'f W@ZqqB$jqS !mly - %C#&t ^^VLOCK|$@v Pl%Bq% dx$?DrgsnxYP^ CM>n@$G r%LN r&>j%h<@$wX&# #%kPl?View Full List"
+            "Alger Focus Equity Fund Class YAlger Growth & Income Fund Class AAlger Growth & Income Fund Class ZLOCK|M^<hp@P @<<@mbVrtzz ?XDDB JvH &xy# &ZNJ< L<LOCK|<W>y$?J lH?@^l#vmqF @>J!t Q$& SLk! S@YW# p<KXVLOCK|%g<<&xP fM>Pb>r$$r^ !b$c& Xwd !!bp <f$H??J$%%Qt^ rrWDfm#View Full List",
+            "American Funds Growth Portfolio Class 529-AAmerican Funds Growth Portfolio Class 529-EAmerican Funds Growth Portfolio Class 529-F-2LOCK|K>sr$w @?zf& MPw%bt ^cjycsskc @^!vH ^%l-f-%zKLOCK|$!dLR> ^@#$! hxF&cL PjX>@Ph^< w^>$$ &^WPLOCK|<!FddT lzz&N l@Pkc% &r<rgNr@< ZC&># !<Nz-pView Full List",
+            "Fidelity Advisor Convertible Securities Fund - Class IFidelity Advisor Convertible Securities Fund - Class ZFidelity Convertible Securities FundLOCK|V<Qg q%nG CNS#sZF#>g @jyG!VC&Yl$ K!!XKf<Q^Z !mGB – %?bxmyC<swV%^ xR&G?LOCK|m!Y$ ZM?< <<WK<%Qz%q $^QVrmYs&<% tc>&<HFcPp C>g< – #&?$Tp%%gj ZgzxvLOCK|QXw? tL^@#%Lnx%^ MkBs wfm>Y <xView Full List",
+            "Allspring Index Fund - Class AAllspring Index Fund - Class AdminALPS Equal Sector Weight ETFLOCK|Dx t#FscZq!J!%c& >^@VT% zjF^&>$F vN@p R@TLOCK|dZWPJ% Zpn>?$% l.Q. S#$TJxl Nwsy<y y<@$LOCK|VD$&d ^d?< &XyF>Pg z!>nV?^>yW &.@. !Z<b#View Full List",
+            "Amplify Etho Climate Leadership U.S. ETFCalvert Green Bond Fund Class ICalvert Green Bond Fund Class R6LOCK|?@cS# r@ yyV@>-wXy qXYk%WmP<, qg>TrS $bx n<^>STzVw KhN<t &!&@hZLOCK|<k<KG? !@Zfp!r l?V%t'& ^&fSZj!w#F fqv@ - >@Y&& $&@LOCK|#YF %q>lZZ j%!><Ynn#fv%? @&<h@&J q%@t yf$YnV$LPwTZt P@kTfPq>View Full List"
           ],
           "disclaimers_detected": [],
           "common_phrases": {
             "fund class": 22,
             "full list": 20,
-            "view full": 8,
             "index fund": 7,
             "equity fund": 6,
             "growth portfolio": 6,
@@ -80,6 +99,7 @@
             "small cap": 6,
             "dividend etf": 5,
             "etfalps shares": 5,
+            "view full": 4,
             "list allspring": 4,
             "class aallspring": 4,
             "equal sector": 4,
@@ -150,27 +170,36 @@
             "I consult or invest on behalf of a financial institution.",
             "To reach a different BlackRock site directly, please update youruser type.",
             "Global Weekly CommentaryTwo market signals, one story",
-            "FUND TYPEMutual fundsiShares ETFsClosed-end funds",
-            "ASSET CLASSCash alternativesCommodity fundsStock fundsBond fundsMulti-asset fundsReal estate funds"
+            "Bonds / Fixed IncomeCIO Perspective: AI, the Fed and Market OpportunitiesAug 27, 2026|ByRick RiederRick Rieder discusses AI, Fed policy and inflation, highlighting potential opportunities across equities, fixed income and portfolio strategy.",
+            "CIO Perspective: AI, the Fed and Market Opportunities"
           ],
           "disclaimers_detected": [
             {
-              "keyword": "investment advice",
-              "context": "This material is provided for educational purposes only and is not intended to constitute investment advice or an investment recommendation within the meaning of federal, state or local law. You are s"
+              "keyword": "risk",
+              "context": "BlackRock Investment Institute (BII)Income restored – but stay flexibleAug 26, 2026|ByBlackRock Investment InstituteHigher yields have brought income back to the forefront of investing. Opportunities "
             }
           ],
           "common_phrases": {
-            "this material": 3,
-            "college savings": 2,
-            "and the": 2,
-            "and more": 2,
-            "educational purposes": 2,
-            "the education": 2,
-            "education and": 2,
-            "and information": 2,
-            "information contained": 2,
-            "contained this": 2,
-            "strategies discussed": 2
+            "fixed income": 3,
+            "blackrock investment": 3,
+            "investment institute": 3,
+            "institute bii": 3,
+            "byblackrock investment": 3,
+            "still headlines": 3,
+            "headlines but": 3,
+            "but new": 3,
+            "new stock": 3,
+            "stock market": 3,
+            "market stories": 3,
+            "stories emerge": 3,
+            "emerge from": 3,
+            "investment opportunity": 3,
+            "bonds fixed": 2,
+            "perspective the": 2,
+            "the fed": 2,
+            "fed and": 2,
+            "and market": 2,
+            "fed policy": 2
           },
           "has_disclaimer": true
         }

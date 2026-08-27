@@ -1,1994 +1,1088 @@
 {
   "articles": [
     {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-launches-model-portfolios-with-apollo-and-jpmorgan-targeting-10-retu-en.md",
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/scotiabank-y-bbva-superan-a-la-competencia-con-rendimientos-del-15-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-10-fondos-que-superan-al-ibex-35-en-un-15-en-el-ultimo-trimestre.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-espanol-xyz-supera-al-mercado-con-un-15-mas-de-retorno-en-2023.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/inflacion-en-la-zona-euro-disminuye-un-2-consecuencias-para-los-tipos-de-interes.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/acciones-de-amazon-superan-a-sus-competidores-por-un-20-en-el-ultimo-ano.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/comparativa-2026-depositos-a-plazo-fijo-hasta-3-tae-en-espana.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/la-inflacion-en-la-eurozona-alcanza-el-5-y-el-bce-preve-subida-de-tipos.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/indexa-capital-bajada-de-comisiones-en-2026-podria-sumar-260000-a-tu-inversion.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cinco-acciones-del-ibex-35-que-ofrecen-dividendos-superiores-al-5-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/las-5-estrellas-de-los-fondos-de-inversion-con-mas-del-10-de-rentabilidad-en-202.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ferrovial-destaca-en-el-top-5-de-morningstar-con-un-rendimiento-del-12-anual.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/que-pasa-con-los-dividendos-en-agosto-solo-1-empresa-del-ibex-35-paga-un-90-meno.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/6-acciones-europeas-que-superan-en-un-30-a-sus-competidores-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-fondos-de-inteligencia-artificial-superan-el-30-de-rentabilidad-en-un-ano.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/las-letras-del-tesoro-a-12-meses-alcanzan-un-264-un-nuevo-record-para-europa.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/spacex-ipo-valoracion-de-780b-y-su-impacto-en-el-mercado-tecnologico.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-activos-baten-al-indice-63-logra-rendimientos-superiores-en-un-ano-volati.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/magallanes-gana-su-tercer-premio-consecutivo-y-consolida-su-liderazgo-en-gestion.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-premiados-por-morningstar-en-2026-con-un-potencial-de-retorno-del-15.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/nokia-y-cables-submarinos-superan-al-euro-stoxx-50-por-un-15-en-2024.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/guerra-iran-3-sectores-defensivos-y-un-fondo-refugio-con-rentabilidad-del-5.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/invertir-en-renta-fija-situacion-actual-y-perspectivas.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondo-de-inversion-en-20-unicornios-promete-rendimientos-del-20-en-2024.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ocho-fondos-de-inversion-en-espana-que-superan-el-10-de-rendimiento-en-2023.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/voo-alcanza-1-billon-de-dolares-impacto-en-inversores-europeos-en-un-contexto-in.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/hamco-global-value-fund-r-fi-alcanza-un-1604-en-5-anos-superando-a-la-competenci.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/rendimiento-del-18-fondo-que-apuesta-por-los-20-mayores-unicornios-no-cotizados.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/sp-500-2026-el-indice-supera-al-90-de-gestores-que-fondo-indexado-gana-con-005-c.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/nao-protea-european-equities-un-analisis-profundo-de-su-enfoque-y-resultados-con.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-lidera-el-ranking-europeo-de-morningstar-con-un-rendimiento-del-1.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-ct-lux-global-technology-fund-logra-un-retorno-del-585-en-un-ano.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-fondos-sostenibles-frenan-sus-lanzamientos-ante-la-incertidumbre-regulatoria.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/etfs-de-renta-variable-europea-analisis-del-flujo-de-6940-millones-y-sus-destino.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/geopolitica-y-ia-fondos-de-inversion-crecen-un-12-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/vanguard-espana-5-datos-sorprendentes-sobre-sus-nuevos-fondos-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/asml-valoracion-de-300-por-accion-pero-con-proyecciones-de-crecimiento-del-30.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ishares-core-euro-stoxx-50-asml-debe-crecer-para-mantener-la-subida-del-44.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-75-de-los-fondos-de-bolsa-espanola-fracasaron-en-el-primer-trimestre.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-renta-variable-en-espana-que-lograron-un-15-de-rendimiento-en-2025.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/las-10-plataformas-mas-recomendadas-para-invertir-en-fondos-en-junio-de-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/scotiabank-y-bbva-destacan-con-fondos-que-superan-el-10-de-rendimiento-en-mexico.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/premios-morningstar-2026-magallanes-value-investors-triplete-historico-como-mejo.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/morningstar-revela-tres-acciones-de-ia-que-deben-evitarse-en-2023.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-premiados-morningstar-2026-los-que-superan-el-15-de-rendimiento.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/top-5-dividendos-del-ibex-35-en-octubre-2023-con-mas-del-5-de-rendimiento.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-lidera-el-ranking-de-morningstar-por-segundo-mes-consecutivo-en-e.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/acciones-europeas-rentabilidad-del-3-ante-el-desplome-del-10-asiatico-por-iran.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-de-inversion-xyz-supera-al-ibex-35-en-un-15-este-trimestre.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/renta-4-megatendencias-fi-ariema-hidrogeno-30-de-crecimiento-transforma-tu-inver.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-lidera-el-mercado-europeo-con-un-rendimiento-del-12-en-2023.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-inversion-de-scotiabank-y-bbva-crecen-un-20-mas-que-el-promedio-en-202.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-fondos-indexados-al-nasdaq-100-en-espana-superan-el-30-de-rentabilidad-en-2.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/las-acciones-de-amazon-podrian-variar-un-15-tras-los-resultados-trimestrales.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/invertir-en-guerra-rentabilidad-del-10-en-magallanes-value-pese-a-iran.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/spacex-ipo-valorado-en-780b-analisis-de-una-posible-inversion-perdida.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/premios-morningstar-2026-inbursa-el-factor-clave-de-su-consistencia-y-un-ratio-d.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-xyz-supera-a-sus-competidores-en-un-25-en-el-ultimo-trimestre.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/voo-supera-el-billon-de-dolares-y-transforma-el-mercado-de-etfs-en-espana.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-indexados-al-sp-500-muestran-un-rendimiento-del-12-en-2025.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/con-un-1604-hamco-global-value-fund-r-fi-lidera-entre-los-fondos-en-espana.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/vanguard-logra-un-rendimiento-del-20-en-su-etf-estrella-del-ultimo-ano.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/exito-gestiones-activas-europa-40-supera-indices-en-2024.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-microchips-en-mexico-rendimientos-del-800-en-un-ano-de-crisis-economic.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/morningstar-dbrs-confirma-calificaciones-de-rural-hipotecario-tras-revision-anua.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cinco-fondos-de-renta-variable-espanola-con-mas-del-15-de-rentabilidad-en-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/spacex-una-valoracion-de-200000-millones-justificada.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/actinver-y-morningstar-lanzan-fondo-con-05-de-comisiones-para-invertir-en-mexico.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-5-fondos-de-inversion-que-alcanzaron-mas-del-15-de-rentabilidad-en-2023.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-indexados-al-sp-500-lograron-un-rendimiento-del-10-en-2025.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/spacex-podria-alcanzar-un-valor-de-100-mil-millones-de-dolares-en-su-salida-a-bo.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-rebote-de-las-energias-renovables-5-fondos-que-prometen-un-55-de-rentabilidad.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/europa-resiste-subida-del-2-en-acciones-pese-a-caida-del-5-asiatica.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-espanoles-pinchan-un-5-en-el-primer-trimestre-de-2023-frente-a-2022.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/magallanes-european-equity-logra-un-294-de-rentabilidad-superando-su-categoria-e.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/azvalor-iberia-alcanza-un-960-de-rentabilidad-superando-a-sus-competidores-en-20.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-microchips-en-mexico-reportan-un-aumento-del-800-en-rendimientos-anual.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-esg-en-mexico-activos-caen-12-y-rendimientos-rezagados-frente-a-etfs.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-inversion-en-inteligencia-artificial-que-superan-el-30-de-rendimiento-.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-se-posiciona-como-el-fondo-europeo-numero-1-en-2026-con-un-15-de-.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-renta-variable-2026-xyz-lidera-con-un-retorno-del-15.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/silverway-asset-management-y-su-nuevo-fondo-objetivo-de-rentabilidad-del-10-en-2.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/vanguard-presenta-su-nuevo-equipo-en-espana-y-su-impacto-en-fondos-de-inversion-.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cinco-fondos-de-renta-variable-espanola-que-superaron-el-20-en-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/resultados-de-tesla-estrategias-para-inversores-y-un-potencial-de-crecimiento-de.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondo-a-supera-el-30-de-rentabilidad-en-2023-frente-a-fondo-b.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-artemis-smartgarp-european-equity-destaca-con-un-retorno-del-5714-en-un.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/oro-en-la-eurozona-5-etfs-large-cap-superan-el-12-anual.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/10-fondos-y-etfs-que-lograron-rendimientos-superiores-al-15-en-el-ultimo-ano.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/bestinver-bolsa-se-impone-con-un-1633-en-fondos-de-renta-variable-espanola.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/comparativa-de-rendimiento-fondos-de-ia-superan-a-la-renta-fija-en-un-15.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/comparativa-2026-robo-advisors-que-ofrecen-hasta-un-7-de-rentabilidad.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-espanol-que-supera-al-mercado-en-un-12-comprando-barato.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/comparativa-2026-fondos-indexados-al-sp-500-que-superan-el-15-de-rentabilidad.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-fondos-de-renta-fija-que-rinden-mas-del-2-en-deuda-global-negativa.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/descubre-como-indexa-capital-supera-a-la-competencia-con-un-rendimiento-del-12-e.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ferrovial-se-posiciona-como-el-unico-valor-espanol-en-la-lista-de-favoritos-de-m.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/la-ia-aumenta-la-inversion-global-un-25-en-las-bolsas-del-mundo.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/bitcoin-cae-un-30-en-un-mes-impacto-en-el-mercado-europeo-de-criptomonedas.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/record-flujos-de-1500m-usd-en-etf-renta-fija-japonesa-supera-a-bonos-europeos-20.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-inversion-en-inteligencia-artificial-que-superan-el-30-de-rentabilidad.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ct-lux-global-technology-fund-alcanza-un-retorno-del-585-en-un-ano.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ct-lux-global-technology-fund-alcanza-un-retorno-del-585-en-un-ano-frente-al-25-.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ferrovial-muestra-un-potencial-de-inversion-del-34-para-2026-segun-morningstar.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ct-lux-global-technology-fund-alcanza-un-585-y-un-ratio-sharpe-de-13-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-etfs-que-superan-el-15-de-rendimiento-para-transformar-tu-cartera-este-vera.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/myinvestor-incorpora-ishares-de-blackrock-en-su-cartera-moderada-con-un-rendimie.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/33-acciones-usa-subvaloradas-con-potencial-de-crecimiento-del-30-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-bono-espanol-a-10-anos-rinde-un-3-mas-que-el-fondo-indexado-xyz.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondo-actinver-y-morningstar-supera-a-competidores-mexicanos-en-4-de-rendimiento.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-asesorado-por-eleconomista-obtiene-un-1633-de-rentabilidad-hasta-abril.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-se-mantiene-como-el-primer-fondo-europeo-de-morningstar-durante-d.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/planes-predisenados-de-lightyear-con-blackrock-y-vanguard-superaran-al-mercado-e.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/dividendo-2026-3-estrategias-para-no-caer-en-la-trampa-segun-morningstar.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-indexados-al-sp-500-en-2026-comparativa-de-rentabilidad-revela-15-de-dife.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-indexados-al-sp-500-en-2026-descubre-cual-ha-subido-un-15-en-los-ultimos-.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-etf-de-vanguard-supera-al-fondo-tradicional-en-rentabilidad-por-un-15.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/estudios-value-lidera-europa-con-un-rendimiento-del-15-en-el-primer-semestre-de-.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/top-6-fondos-indexados-al-sp-500-en-2026-rentabilidad-y-comisiones-comparadas.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/guerra-iran-golpe-del-5-a-ing-santander-y-bbva-impacto-real-en-fondos.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ataque-en-iran-stoxx-600-recupera-un-2-sostenible-o-rebote-efimero.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/premios-morningstar-2026-magallanes-value-investors-logra-su-tercer-galardon-con.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/iberdrola-incrementa-su-dividendo-a-0427-euros-tras-un-aumento-del-22-en-benefic.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-indexados-superan-el-5-frente-al-bono-espanol-a-10-anos-en-rendimiento.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-fondo-azvalor-internacional-se-destaca-con-un-87-frente-a-la-media-global.md",
       "score": 10,
       "issues": [
         "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
+        "Lenguaje basura detectado: arma de doble filo"
       ]
     },
     {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/bingx-tradfi-partners-with-tradingview-for-enhanced-multi-asset-trading-insights-en.md",
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/en-2026-el-48-de-las-empresas-del-sp-500-superan-el-indice-por-un-10.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-bono-espanol-a-10-anos-ofrece-un-3-mas-que-un-fondo-indexado.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/ocho-fondos-de-inversion-en-espana-que-superan-al-ibex-35-en-rentabilidad.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/bankinter-y-plenium-partners-adquieren-un-30-de-access-capital-partners.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/bestinver-bolsa-fi-lidera-el-mercado-espanol-con-un-4905-de-rentabilidad-en-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-5-fondos-mas-rentables-de-2026-generan-un-12-mas-que-el-indice-de-referencia.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/energia-y-latinoamerica-5-fondos-espanoles-que-desafian-la-norma-con-un-18-de-re.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/etfs-el-20-mercados-privados-y-clases-de-acciones-revolucionan-la-industria.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cinco-fondos-premiados-por-morningstar-en-2026-con-mas-del-15-de-rentabilidad-an.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-6-fondos-indexados-al-sp-500-que-superan-el-8-de-rentabilidad-en-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/como-tu-fondo-puede-recuperar-el-3-de-rentabilidad-perdida-anualmente.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cuentas-remuneradas-333-tae-vs-2-sin-condiciones-una-comparacion-reveladora.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/6-acciones-europeas-con-per-12-su-ventaja-competitiva-que-no-puedes-ignorar.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-fondos-de-renta-fija-superan-el-2-en-un-ano-de-deuda-negativa.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/etfs-sp-500-2026-rentabilidades-del-12-frente-a-comisiones-del-005.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/tres-fondos-indexados-al-nasdaq-100-en-espana-que-superan-el-25-en-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/el-45-de-los-inversores-elige-etfs-de-dividendos-por-su-rentabilidad-constante.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cme-group-y-morningstar-30-mas-oportunidades-en-derivados-sobre-indices-europeos.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/cinco-fondos-de-dividendos-que-superan-el-10-de-rentabilidad-en-2023.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/indexa-capital-y-inversion-independiente-desempeno-en-2023-con-un-12-de-diferenc.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/fondos-de-inversion-2026-el-lider-alcanza-un-15-de-rentabilidad.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/morningstar-estima-un-crecimiento-del-5-en-la-banca-espanola-para-2026.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/los-5-fondos-europeos-con-mayor-fortaleza-en-2026-cual-ha-aumentado-un-15-en-los.md",
+      "score": 50,
+      "issues": [
+        "TranslationKey nulo o roto (metadatos rotos)",
+        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/carmignac-portfolio-flexible-bond-refugio-ideal-con-un-rendimiento-superior-al-4.md",
+      "score": 20,
+      "issues": [
+        "Fuga del prompt de IA detectada: {{, }}"
+      ]
+    },
+    {
+      "path": "/home/runner/work/Bloggs/Bloggs/content/es/funds/rheinmetall-oportunidad-de-inversion-tras-una-caida-del-30-en-sus-acciones.md",
       "score": 10,
       "issues": [
         "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-thailand-awards-2026-identifying-top-funds-in-a-challenging-market-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/new-study-shows-target-date-funds-retain-80-of-retirement-investors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/sp-500-fund-showdown-voo-vs-spy-with-a-003-expense-ratio-difference-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-cme-derivatives-deal-boosts-morns-investment-story-by-25-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-5-reits-with-over-10-annual-returns-for-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/why-spacexs-ipo-valuation-is-30-higher-than-industry-standards-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-5-energy-stocks-surpassing-sp-500-returns-by-20-in-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-achieves-100-integration-of-crsp-into-its-indexes-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/meitav-investment-house-reports-20-growth-in-business-data-for-may-2026-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-and-perplexity-boost-research-efficiency-for-advisors-by-40-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/re-vc-adds-siderow-as-senior-advisor-targeting-15-growth-in-real-estate-tech-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-for-top-honors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/42-of-cfos-to-boost-ai-investment-by-over-30-within-two-years-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/thornburgs-thor-etf-joins-income-builder-franchise-targeting-5-annual-yield-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/kudu-investment-management-reports-15-growth-in-q3-investment-returns-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-top-funds-to-buy-now-amidst-market-uncertainty-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/pgim-real-estate-fund-marks-260m-capital-deployed-in-10th-acquisition-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-thailand-awards-2026-top-5-funds-outperforming-with-over-12-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-encourages-blackrock-inc-mutual-fund-investors-to-inquire-about-s-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/xovr-allocates-30-million-to-kalshi-enhancing-private-market-strategy-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/homes-englands-national-housing-bank-invests-100-million-in-starlight-uk-build-t-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-morn-enhances-competitive-moat-with-20-accessible-private-market-por-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/stockoracletm-cuts-analysis-time-by-80-with-ai-powered-insights-recognized-by-be-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-downgrades-1bn-hartford-fund-after-pms-abrupt-departure-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-thailand-2026-fund-x-outperforms-competitor-y-by-8-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/uv-blocking-nanoparticle-additives-market-to-reach-2-billion-by-2036-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-vanguard-active-etfs-surpassing-market-returns-by-5-in-2023-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/green-street-infrastructure-reports-three-league-tables-for-2023-investment-land-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-international-etfs-projected-to-outperform-by-15-in-2026-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/oakm-morningstar-names-this-active-etf-a-top-pick-for-2026-citing-15-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/broadridges-ai-powered-communication-boosts-financial-literacy-by-30-in-ireland-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-ai-stocks-set-to-outperform-the-market-by-20-in-2024-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hartfords-850-million-fund-downgrade-morningstar-points-to-subadvising-risks-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/bramshill-income-performance-fund-secures-2026-lseg-lipper-award-for-5-year-core-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-bond-etfs-to-buy-as-yields-climb-to-5-year-highs-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/20-years-of-success-thornburg-global-opportunities-fund-outperforms-peers-by-15-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-deeper-snowflake-integration-boosts-data-driven-investment-strategy-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/high-fees-and-redemption-challenges-40-of-private-credit-funds-underperforming-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/investor-success-increases-by-40-with-lower-costs-and-transparency-says-mornings-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/pgim-jennison-us-core-equity-etf-launches-as-active-etf-strategy-expands-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/fidelity-gold-funds-182-rally-examining-drivers-and-future-prospects-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/stockoracletm-cuts-analysis-time-by-90-with-ai-powered-insights-recognized-by-be-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/lazard-reports-200-billion-in-assets-under-management-as-of-june-2026-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hautais-new-body-analysis-tool-could-boost-personalized-bodycare-market-by-30-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-mutual-fund-investors-to-explore-class-action-option-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/palantir-reports-triple-digit-growth-of-120-amidst-valuation-concerns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-reports-30-increase-in-advisors-shifting-to-private-equity-and-ventu-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/abrdn-national-municipal-income-fund-vfl-lifts-investment-restrictions-on-high-y-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/amazons-new-supply-chain-services-limited-impact-expected-in-the-short-term-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/smartx-expands-marketplace-with-27-new-strategies-from-top-asset-managers-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-indexes-integrate-crsp-a-major-milestone-in-2026-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/thornburg-global-opportunities-fund-turns-20-surpassing-300-total-return-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/broadridges-ai-initiative-boosts-financial-literacy-in-ireland-by-30-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-7-us-dividend-kings-yielding-over-4-to-buy-in-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/abrdn-national-municipal-income-fund-vfl-removes-policy-on-high-yield-securities-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/alula-development-company-begins-numaj-construction-aiming-for-20-growth-in-tour-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/blackrock-inc-mutual-fund-investors-advised-to-act-on-class-action-investigation-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/new-research-shows-85-target-date-fund-retention-among-retirement-investors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-urges-congress-lower-costs-can-boost-investor-returns-by-20-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/innovative-etfs-lose-50-as-sp-500-gains-100-a-thematic-fund-disaster-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-multi-market-income-fund-mmt-boosts-monthly-distribution-by-22-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-and-perplexity-enhance-investment-research-efficiency-by-30-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/ai-rally-boosts-dividend-stocks-sp-500-surges-by-5-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-vanguard-active-etfs-exceeding-market-performance-by-10-in-2023-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/shareholders-approve-changes-to-abrdn-global-infrastructure-income-funds-term-st-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-2026-top-active-etf-oakms-strategy-delivers-outperformance-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-5-reits-delivering-over-10-annual-returns-in-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-top-5-funds-for-investing-excellence-in-malaysia-reveale-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/ici-data-reveals-15-shift-from-mutual-funds-to-etfs-in-2023-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-investments-declares-distribution-amounts-for-2023-us-closed-end-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-urges-congress-30-lower-costs-drive-investor-success-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-dividend-kings-to-buy-in-2026-for-robust-income-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-star-fund-balances-income-and-volatility-top-morningstar-pick-for-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/amundi-caceis-and-ant-international-forge-blockchain-solutions-for-enhanced-trea-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/index-funds-show-20-less-diversification-than-actively-managed-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-public-pensions-achieve-85-funding-ratio-best-since-2009-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/manager-research-team-endorses-15-interval-funds-in-envestnets-latest-offering-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-selects-5-asia-funds-poised-for-2026-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/voo-surges-281-in-a-decade-but-concentration-risk-looms-large-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/10-timeless-investing-lessons-from-fidelitys-will-danoff-for-2023-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: ever-evolving"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morns-new-cme-derivatives-licensing-deal-increases-investment-opportunities-by-2-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-ai-integration-enhances-microsoft-365-copilot-investment-insights-b-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/brian-ferdinand-reveals-5-key-metrics-for-resilient-investment-strategies-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-thailands-top-5-mutual-funds-revealed-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/palantir-reports-120-revenue-growth-amidst-valuation-concerns-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: double-edged sword"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/2026-lseg-lipper-award-bramshill-income-performance-fund-achieves-best-5-year-co-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-top-10-funds-recognized-for-investing-excellence-in-hong-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-investment-management-investors-to-join-class-action-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/intertek-accepts-eqts-bid-valued-at-2-billion-in-private-equity-deal-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-undervalued-with-a-differentiated-business-model-nasdaqmorn-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-values-spacex-at-780-billion-half-of-ipo-target-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-top-5-funds-recognized-for-investing-excellence-in-malay-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/spacex-ipo-overvalued-30-premium-over-comparable-aerospace-stocks-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/copeland-capital-management-acquires-17378-shares-of-morningstar-inc-morn-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-thailand-awards-2026-recognizing-investing-excellence-key-winners-hi-en.md",
-      "score": 20,
-      "issues": [
-        "Contiene H1 en el cuerpo (penaliza SEO)",
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/brian-ferdinands-5-risk-models-that-outperform-market-volatility-by-20-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-ai-investment-intelligence-enhances-microsoft-365-copilot-for-advis-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/70-of-retirement-investors-show-strong-retention-in-target-date-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/q1-2026-review-bluerock-fund-delivers-875-annualized-distribution-rate-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: double-edged sword"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/xael-ai-enters-us-market-builds-on-30-growth-in-china-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/across-ventures-and-sbi-holdings-launch-100-million-micro-vc-fund-of-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/orion-platform-integrates-7-vaneck-multi-asset-etf-model-portfolios-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-reports-investigation-for-putnam-investment-management-llc-mutual-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-completes-100-integration-of-crsp-into-its-indexes-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguard-slashes-fees-on-53-funds-is-your-portfolio-getting-a-break-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/xael-ai-enters-us-market-after-150-growth-in-china-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-investments-us-closed-end-funds-announce-5-distribution-payment-increas-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/amundi-and-caceis-collaborate-with-ant-international-for-2023-blockchain-treasur-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/avivas-health-and-protection-indicators-down-6-yet-net-flows-rise-5-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/index-fund-performance-10-returns-vs-5-for-actively-managed-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/southern-energys-q1-2026-financial-results-show-15-growth-amid-williamsburg-agre-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-managers-find-15-value-in-concentrated-small-cap-market-opportunities-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/inspire-corporate-bond-fund-beats-99-of-peers-with-5-star-morningstar-rating-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/spacex-valuation-at-780-billion-implications-for-your-mutual-fund-investment-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-markets-show-5-decline-amid-mixed-company-earnings-reports-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-investment-management-investors-to-explore-class-act-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-pimco-vs-vanguard-dominates-thai-fund-landscape-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-energy-stocks-surpassing-the-sp-500-by-12-in-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-plans-20-index-overhaul-ahead-of-spacex-ipo-launch-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/advisors-shift-to-private-equity-venture-capital-growth-surges-by-30-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/lazard-global-total-return-fund-announces-05-monthly-distribution-for-april-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/ici-paper-reveals-6-trends-in-tokenization-impacting-mutual-fund-performance-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-urges-congress-5-key-metrics-for-lowering-investment-costs-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/tencent-reports-in-line-results-as-ai-investments-yield-15-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/blackrock-fund-halts-withdrawals-after-9-redemptions-blk-shares-drop-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/dfrobots-ai-maker-projects-showcase-at-robot-hokoten-attracts-25-more-visitors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguard-vymis-10-basis-point-cut-is-sub-025-enough-to-beat-the-competition-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/april-mcclain-delaney-unloads-15-of-morningstar-nasdaqmorn-stock-holdings-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguard-fee-cuts-save-investors-250-million-in-2026-a-morningstar-analysis-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/1-million-scarlet-student-fund-launches-rutgers-business-school-students-take-re-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-ai-investment-intelligence-boosts-microsoft-365-copilot-by-30-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/bingx-tradfi-partners-with-tradingview-enhancing-pro-grade-trading-by-30-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/meitav-investment-house-reports-business-data-for-may-2026-with-key-metrics-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/direxions-skhl-offers-200-daily-exposure-to-sk-hynix-for-aggressive-investors-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/private-equity-and-venture-capital-see-40-rise-in-advisor-allocations-this-year-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/three-new-league-tables-released-by-green-street-news-infrastructure-this-quarte-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/europe-drives-30-recovery-in-global-sustainable-fund-flows-says-morningstar-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/intertek-accepts-eqts-bid-valued-at-6-billion-for-strategic-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/new-study-shows-80-retention-rate-for-target-date-funds-among-retirement-investo-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-municipal-income-fund-declares-25-increase-in-monthly-distribution-amou-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/harel-insurance-investments-reports-15-revenue-growth-in-q1-2026-results-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/private-equity-investments-underperform-diversification-expectations-by-30-in-20-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/envestnet-approves-10-interval-funds-for-enhanced-investment-opportunities-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/boardwalk-reit-reports-operational-update-and-q2-results-timing-announcement-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/roundhill-sports-betting-etf-shifts-to-active-management-aiming-for-20-better-re-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/index-funds-70-of-investors-misjudge-their-true-diversification-levels-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/balerion-space-ventures-reports-15-increase-in-q3-fund-performance-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/lazard-global-total-return-fund-declares-005-monthly-distribution-for-april-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/top-5-ai-stocks-set-to-surpass-market-expectations-by-25-next-year-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/2026-morningstar-awards-top-hong-kong-funds-achieve-10-return-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-gdp-growth-is-stronger-than-it-looks-but-theres-a-red-flag-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-deeper-snowflake-integration-boosts-data-analysis-by-30-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/balerion-space-ventures-sees-20-growth-amid-market-corrections-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/advisors-boost-research-efficiency-30-with-morningstar-perplexity-and-plaid-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-public-pensions-achieve-85-funded-status-highest-since-2009-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-thailand-2026-top-3-funds-outperform-by-15-in-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/your-fund-holding-spacex-is-now-worth-56-of-ipo-target-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-investment-management-investors-amid-class-action-in-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/fluent-financial-llc-invests-heavily-in-morningstar-inc-morn-surges-by-5-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-top-10-hong-kong-funds-recognized-for-excellence-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/berkshire-hathaways-380-billion-cash-hoard-implications-for-q1-2026-investors-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: double-edged sword"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/tesla-shares-drop-10-despite-25-growth-in-q2-deliveries-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vaneck-launches-5-multi-asset-etf-model-portfolios-on-orion-platform-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/kos-biotechnology-partners-secures-123-million-in-global-life-sciences-fund-clos-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/ici-report-highlights-5-key-ways-tokenization-transforms-asset-management-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/ai-etfs-surge-30-this-year-but-risks-remain-high-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-key-investing-insights-from-fidelitys-will-danoff-to-enhance-portfolio-perform-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/kudu-investment-management-reports-15-growth-in-aum-over-last-quarter-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-for-investing-excellence-thailand-2026-evaluating-the-top-3-f-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/1bn-hartford-fund-faces-18-downgrade-from-morningstar-after-pm-leaves-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/envestnet-unveils-10-interval-funds-approved-by-manager-research-team-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/brian-ferdinands-5-strategies-for-building-resilient-investment-portfolios-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-key-investment-insights-from-fidelitys-will-danoff-for-2024-success-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-thailand-2026-awards-fund-xs-15-lead-over-its-peer-group-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/27-leading-asset-managers-join-smartx-marketplace-enhancing-investor-opportuniti-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguard-slashes-fees-investors-to-save-250-million-boosting-returns-by-003-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/xovr-allocates-30-million-to-kalshi-in-private-market-expansion-strategy-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-fast-track-ipo-index-strategy-boosts-morn-investment-case-by-20-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/dfrobot-displays-7-innovative-ai-maker-projects-at-akihabaras-robot-hokoten-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hautai-reports-25-growth-in-ai-powered-body-analysis-services-amid-rising-demand-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-top-bond-etfs-offering-stability-amid-rising-yields-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: double-edged sword"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/active-management-shift-roundhill-sports-betting-etf-aims-for-15-higher-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/advisors-shift-30-of-alternatives-to-private-equity-and-venture-capital-mornings-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hidden-river-invests-20-in-nec-targeting-future-tech-growth-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: double-edged sword"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-multi-market-income-fund-increases-monthly-distribution-by-22-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/brian-ferdinand-achieves-15-better-returns-with-data-driven-investment-strategie-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-reports-25-increase-in-advisors-shifting-to-private-equity-and-ventu-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-2026-picks-5-asia-funds-with-15-projected-annual-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/meitav-investment-house-sees-32-revenue-surge-to-nis-598-million-in-q1-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-morn-earnings-and-index-rebrand-raise-the-question-of-whether-shares-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/harel-insurance-investments-reports-2026-q1-results-with-20-year-over-year-growt-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/opus-fund-administration-sees-30-growth-potential-with-lindsay-muldoon-at-sales--en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/advisors-gain-30-efficiency-with-morningstar-perplexity-and-plaid-innovations-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanecks-trusector-etfs-truf-and-truh-enhance-financials-and-healthcare-exposure-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: ever-evolving"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/positive-net-flows-of-10-fail-to-offset-avivas-weaker-protection-and-health-indi-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/fluent-financial-llc-invests-10-million-in-morningstar-inc-morn-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/1-million-scarlet-student-fund-launches-rutgers-students-make-real-investment-de-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/3-vanguard-active-etfs-that-outperform-market-benchmarks-by-15-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-thailand-2026-examining-the-top-3-fund-performers-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstars-data-driven-narrative-transformed-by-snowflake-integrations-35-enha-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/your-fund-holding-spacex-analyze-the-50-valuation-decline-now-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/direxion-launches-skhl-for-2x-daily-exposure-to-sk-hynix-investments-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/bonds-and-cash-provide-30-stability-for-equity-investors-amid-market-volatility-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-stock-market-forecast-2024-growth-at-8-and-top-funds-to-buy-now-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-fpa-competes-with-pimco-and-vanguard-in-thailand-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-thailand-2026-funds-surpassing-benchmarks-by-15-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/the-winning-formula-for-fund-investors-and-why-others-left-money-on-the-table-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-indexes-achieve-100-integration-with-crsp-a-landmark-transformation-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-inc-stock-rises-18-as-data-demand-fuels-fintech-growth-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-pimco-and-capital-group-lead-with-3-top-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/envestnet-wealth-solutions-expands-alternative-investments-by-30-at-elevate-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/homes-england-invests-100-million-in-starlight-uk-build-to-rent-fund-ii-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/kos-biotechnology-partners-secures-123-million-in-third-closing-of-life-sciences-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/2026-mid-year-review-index-funds-outperform-actively-managed-funds-by-3-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/t-rowe-price-funds-155-billion-question-a-morningstar-review-analysis-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/mutual-fund-fees-stick-near-historic-lows-a-2025-analysis-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguards-international-high-dividend-yield-etf-cuts-expense-ratio-by-60-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/sustainable-flexible-packaging-to-propel-box-pouch-market-to-usd-8126-million-by-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-ai-stocks-projected-to-outperform-traditional-tech-funds-by-20-in-2024-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-top-5-funds-in-malaysia-recognized-for-excellence-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/private-equity-vs-traditional-funds-25-more-risk-less-diversification-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/tencent-reports-steady-growth-as-ai-investments-yield-positive-returns-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: game-changer"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/42-of-cfos-to-boost-ai-investment-by-over-30-in-two-years-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-announces-2026-malaysia-investment-excellence-awards-winners-with-to-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/chow-investor-alert-100-million-lawsuit-over-chowchow-cloud-securities-fraud-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/envestnet-expands-alternative-investment-access-by-25-at-elevate-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/microsoft-stock-projected-to-reach-usd-600-outpacing-tech-sector-growth-by-25-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-names-oakm-a-top-active-etf-for-2026-a-5-year-outlook-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/bill-ackmans-new-fund-attracts-500-million-from-mexican-investors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/vanguard-slashes-fees-on-53-funds-will-001-savings-move-the-needle-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-fund-investors-to-join-class-action-investigation-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-and-hfr-report-15-growth-in-alternative-investments-this-quarter-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/2023-ici-report-shows-30-migration-from-mutual-funds-to-etfs-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-stock-drops-15-following-rep-mcclain-delaneys-unloading-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: here is, {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/shareholders-approve-removal-of-term-structure-for-abrdn-global-infrastructure-i-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-10000-putnam-investment-management-investors-to-act-now-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/index-funds-exposed-only-30-truly-diversified-in-2023-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-awards-2026-pimco-and-capital-group-lead-with-5-top-funds-en.md",
-      "score": 10,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}",
-        "Lenguaje basura detectado: ever-evolving"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morns-new-private-credit-data-strategy-strengthens-competitive-moat-by-20-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-investments-us-closed-end-funds-declare-5-distribution-payment-for-q4-2-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-urges-congress-lower-costs-could-boost-investor-returns-by-20-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/katten-expands-in-miami-with-dla-pipers-capital-markets-leader-joining-team-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-downgrades-1-billion-hartford-fund-amid-leadership-changes-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/protect-your-portfolio-4-tips-funds-performing-10-better-than-inflation-rate-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hfr-index-shows-hedge-funds-outperforming-equities-by-3-in-q3-2023-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/asml-shares-surge-15-amid-geopolitical-tensions-and-market-reactions-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/turkish-airlines-joins-saffa-fund-boosting-portfolio-diversification-by-15-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/pgim-real-estate-fund-marks-260m-with-10th-property-acquisition-completed-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/private-credit-funds-struggle-with-20-redemption-rates-amid-high-fee-pressures-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-indexes-gain-30-value-from-crsp-integration-milestone-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/why-spacexs-ipo-is-overvalued-by-30-compared-to-industry-standards-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/manager-research-team-endorses-10-interval-funds-from-envestnet-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-handpicked-asia-funds-by-morningstar-projected-to-outperform-by-15-in-2026-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-putnam-fund-investors-to-investigate-potential-class-action-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/10-key-metrics-morningstar-analysts-use-to-evaluate-fund-managers-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/rosen-law-firm-urges-blackrock-investors-to-act-on-class-action-investigation-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/spacex-exposure-in-etfs-surprising-funds-with-20-holdings-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/pgim-expands-etf-offerings-introducing-pgim-jennison-us-core-equity-etf-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/us-markets-decline-28-as-earnings-reports-disappoint-investors-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/aberdeen-investments-declares-distribution-amounts-for-5-us-closed-end-funds-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/opus-fund-services-celebrates-20-years-of-alpha-discovery-with-old-city-partners-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/investment-discipline-brian-ferdinands-approach-reduces-risk-by-15-in-volatile-m-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-outperforms-knockoutstocks-by-5-in-2026s-key-sectors-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/5-long-term-stocks-that-could-outperform-the-market-by-20-over-the-next-decade-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/hidden-river-invests-50-million-in-nec-targeting-15-annual-returns-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/doubleline-income-solutions-fund-declares-august-2026-distribution-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/agilent-boosts-investment-in-halo-x-ray-technologies-by-25-this-quarter-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/nuveens-takeover-of-schroders-confirmed-fair-value-estimate-rises-by-15-en.md",
-      "score": 50,
-      "issues": [
-        "TranslationKey nulo o roto (metadatos rotos)",
-        "Muro de texto continuo sin vinetas (Cero formato [BLUF])"
-      ]
-    },
-    {
-      "path": "/home/runner/work/Bloggs/Bloggs/content/en/funds/morningstar-analysis-shows-spacex-ipo-overvalued-by-20-compared-to-rivals-en.md",
-      "score": 20,
-      "issues": [
-        "Fuga del prompt de IA detectada: {{, }}"
+        "Lenguaje basura detectado: arma de doble filo"
       ]
     }
   ]
