@@ -1,24 +1,24 @@
 {
   "category": "funds",
   "lang": "en",
-  "scouted_at": "2026-08-26T14:30:12.970185+00:00",
-  "total_candidates": 16,
+  "scouted_at": "2026-08-27T23:10:48.668412+00:00",
+  "total_candidates": 17,
   "topics": [
     {
       "rank": 1,
-      "title": "Inspire Corporate Bond Fund’s 5-Star Rating Puts It in the Top 1% of Its Peers",
+      "title": "Why This $105B Vanguard Fund Warns It Could Become a One-Stock Bet — Concentration Risk Hits a Tipping Point",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 2,
-      "title": "Morningstar’s Upgrade of a $9B Fidelity Fund Signals a Major Shift in Strategy",
+      "title": "Morningstar Just Upgraded This $9B Fidelity Fund — Inside the Rating Shift That Caught the Market's Eye",
       "lang": "en",
       "source": "llm_selected_finance"
     },
     {
       "rank": 3,
-      "title": "Why This Simple Move Could Be Your Best Defense Against the Coming Bear Market",
+      "title": "The ETFs That Beat the Market Over 1, 3, 5, and 10 Years — Full Performance Data Breakdown",
       "lang": "en",
       "source": "llm_selected_finance"
     }
@@ -27,7 +27,6 @@
     "key_phrases": {
       "fund class": 22,
       "full list": 20,
-      "view full": 8,
       "index fund": 7,
       "equity fund": 6,
       "growth portfolio": 6,
@@ -35,6 +34,7 @@
       "small cap": 6,
       "dividend etf": 5,
       "etfalps shares": 5,
+      "view full": 4,
       "list allspring": 4,
       "class aallspring": 4,
       "equal sector": 4,
@@ -51,6 +51,11 @@
   },
   "all_headlines": [
     {
+      "title": "Morningstar’s Pitchbook Teams with Gemini Enterprise AI for Investment Intelligence",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1NOSHlQY3pmdHdxeDFXWHF1LXMzbDIwRG5LZDlfeDdjMTQ1UHoyTDM3azNUTWJ4QVlmVjZaLUJ6bXJPUXNLUDA1ZFhtQTJQaGZqUEtIbDI4SjdzdVU5OExXYXJrZE5sSS04Rkx5VkdKbDhzRzJxX0g4NjF5UW82YmR5Q0RlNGJpMVVJa1JYV0ZSeFJBeTlodTNSeEhGdWNNTkpmNFFWX3dMUlNBWkZ2NUJlUQ?oc=5"
+    },
+    {
       "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSkRPTzlYOFJNWGZMSmxOLXkyX3A5MUtlc2RXMk50MmZSXzc2bWZCeElGY0NoQzlwQjlpajRYN2hWMFVLNUZLMjMxalFWdGlOUERJckw3TzV5bklwTWE5MkhocGxZTm92ZGNxTHVyOVRhOHFYY3NGbXpCQml1a1dJZG1EczdIMHJiZ3BJN1pRei1MVXM0ZUNaSFhfWmtVVWlaUkpTYUZZSFRVU2thT0loTnJ2SVpOa2RiX01UYVdHSGFpS1pPUkNob19QbDZ6cVdoNEhmeHlVZVozT0otV18yRW9paGF3aTFkdm5xejJIZE9mblFDMlc0U25XOXhFazdKREdpMXJ0UEU?oc=5"
@@ -61,19 +66,14 @@
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONEI4cEh1aGVQeHVHUldlUk12SmhJbFRtVnpFcWdlSDNIY1FpcUw4Uk5BdzJtWV81dTNZYVdoZlZvUW9UdnpvNWNodnNWS1hQcTh6YzVBS1NXTDhETGxJRk1kT2ZzeHI2VnJ4R252NEhuVURsZ0d6dTFVVFcxbGwwZXAycHVwZEM4UU41cTdPMTVjVkc4c014VGVCVGgyUVAyLWR2MkpzdHhoTFcxOWtjMkp6THkxb21HbXEtYW1KMlVxbG5UX0RBX1pCelRKWkxzNDZzVUNSdzBVY2V2MWlWVFlsQXFjdVZ3VEhlM1BMOXlfYU42eDVfR21QcDZuaGNNdVJBUG5WYXE4NGozb1JGcTRFMk56d1VkLVV6ZHFPY3NCQUZ4dVg2dWdUSGV4eGlDdEM3UE9pRndJUklJ?oc=5"
     },
     {
+      "title": "Factor Investing Is Very Much Alive",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekJmbVRRZUlvY05ISEgtQzJtczAxUEQtUTJ1a1RCVXBCeTl3TlVLUklVR0RseUtRalktb1RIV1lVZFJJU2p5V1lMUU0wMjBKZTFrbGd0Zmdyb2ZNVlRSdDVYM3ZFYnRwQV9LRElHTkxjWEhvZWNJWGtFOUdfMV9VdWpDN3d6SWRDUXc?oc=5"
+    },
+    {
       "title": "Inspire Corporate Bond Fund (IBD) Receives 5-star Overall Morningstar Rating™ Among 155 Corporate Bond Funds",
       "source": "google_news_finance",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX2YwRWQtWE5pVDJ2OTRBcTZzaVFTUGlXX2I1OC1BbnYtZTVhd1RaRXJJU2xiQ0RBZ1BRREYtM2tnU29wYXJiWDlNRkNGblBTZkg3QjM1M0tSa1g0Y3RtLUJxRmlURDh6c0R4NDNveF9QUTNTYzlVM0dVaFFzX2NxQi01aFZ6SWhSVzg2Tkt4Qk16RXlCZkxMczRSemUtOWxqUm5aNk5sQ1otbXI0ZjJvSHQzWkk5eXdxa1Q2Q3c3OFRZUHd1TGhsLVVDVmVlX1ZTT0tGbDNMc0VCdG5FVnpmTUd1MjBwUUtCQ25QVF8wb19JMlk?oc=5"
-    },
-    {
-      "title": "Managed Account Users Save More in 401(k)s, Morningstar Finds",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDBQN2U0NUZQR09OM1lNYTVCM3RVanlBdFZxY3pIT21mMWVvQkhaN3R0My1fd0ZsTmhHREhNUFI5MzNtX0VGOTUxRWN2LVNSa3VPNU5kZ001NGx5Q3ptbTQ1OVQwMTFTblE5NEg1Z09qcTB2RFh3WUNyaDNObVFuXy1aX1BiaUhpMjJ1clVVb0MzYk1FdDNFbnBCdw?oc=5"
-    },
-    {
-      "title": "Harel Insurance Investments and Financial Services reports record second quarter 2026 results; comprehensive income up 30% to NIS 1.024 billion, ROE 37%",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYU1FTnlNc3ZlTFB1dTlLM09DV0dLQ0hXNkJpLVBVLTNiUVZWY2dhNHQ2V2xlbXVOc0NIYVYyTHR5WHRWR1p3Q2FwdVQxTS1aQ2xDUlRhZmNhTFZOUWhqajBRRnhzUk9XV1cwN0ptMVpLRUJTaTJOVmEyME5Tel93TkVqbU9JdWFlZkpLWVdDdUd4elBhSndrVWJRQ0VSQ3VNVFhyWmY3QW5ienlHQmVleGlrR2pTYVREVTg0bjBBLXhCaWxfZ0doTHh1VEZjNU5sZmJIbTdxQzBjaGFfTVc5N0d5S09RTEM0WEh5SVluVnZFQlVvdTd1RG1CNjVaT0RoTjV6VjdaUmVrM3ZTUXpxRzdBdUowZ3pjSjRSLWxrX3g4SWN4cl9BalZacHZnb0NiYVE?oc=5"
     },
     {
       "title": "Morningstar upgrades $9bn Fidelity fund",
@@ -81,24 +81,34 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnhLY2thbDZxQW1KNGxaQU44eUtqeEd3VTR4M3Y1OWlEaHNnaEo2ekpneXREdHFLVENRMEotbEJ3RUtTa1MxdDF3WVc0dFJLZ1p1R0tJdHpkYWJPUkNEMWFGYVRaZnNhQkpuY3BlTW4zUlozczNqcm1PQkU3SEZQUll5dEtPMFUzOUJN?oc=5"
     },
     {
-      "title": "Morningstar executive chairman Joseph Mansueto sells $1.24m in shares",
+      "title": "Managed Account Users Save More in 401(k)s, Morningstar Finds",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZVB3OW10YS02ZEZWeUlfX3o2VGdkcm5sd1dzVTRWNjhFMHBkTEtuN3ZSOGpkdDZYZDY2Zmk0cWVQQU51QnZ6WDNRdWdrLUR4SWNQSzdqVnZZakxQd3RsLUUtNUw3SkRxUW54cTMtVmRSS0RiUnEzQmRhOUhfWFVJVk5wbDdzamFsLUJ2TjdMYXR4S2Rid1lGdVMzMmpNM0pueEZ2SFpNU3R1dnVQXzY2MlhWZUxGdFc3bjBPb2RJekRhOGFKa2FSb2tUQ0I?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDBQN2U0NUZQR09OM1lNYTVCM3RVanlBdFZxY3pIT21mMWVvQkhaN3R0My1fd0ZsTmhHREhNUFI5MzNtX0VGOTUxRWN2LVNSa3VPNU5kZ001NGx5Q3ptbTQ1OVQwMTFTblE5NEg1Z09qcTB2RFh3WUNyaDNObVFuXy1aX1BiaUhpMjJ1clVVb0MzYk1FdDNFbnBCdw?oc=5"
     },
     {
-      "title": "BlackRock Floating Rate Income Fund Q2 2026 Commentary (BFRIX)",
+      "title": "Continuim Equity Partners Announces Strategic Growth Investment in Resodyn",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGpfY0MtTzBJRlRSYW1mcWY1ZUt1T3BZODVjU2RRQU1oTWZDSFhFTVM3eElXcGFhVTZ3VmxvNlBneUE0d0UzTG0za1pFdjZWRWtGNFdtY05faFpIZDl2WHVBRHQ2VWlLMGEwMTdCYXhOWmo2cHZGU1pHeTBFWDBjTEY4XzU3TXYxbGVnd3U3NTY0dDJ0emxsYmdGaDFzdVQ1R2xRaTBYRThDVjV0YmtjbWp1elhrazlQNk80SQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM21GeFNERUkxUlphdnJfM25pdHVOMmNHRDFLTEhnY0wwMG5RamhQNm00R0JpczIzOFZBWUlCY3pYOWxYaFllQjdWWFVqM3FkaEJ1UEc1X0NyQjVJYkVIOVFFT01kTlRDRUdjei1Zd21iY1Y4dURULThpclp6THNOcmhVMjVOUEhrNzR2SkI5ZXNuYWtta0FlOFdlcGRVZnM5NlhIbXlEaWdZY1dWOWhDTWRoeDQ4eVQzTWtSaTJMN3pVRjJDVGZvd1lSbFU1RTl6?oc=5"
     },
     {
-      "title": "Best ESG ETFs to Buy in 2026",
+      "title": "8 Best Index Funds to Buy in August 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmNWX1lMUWJiSk5JVXB1YWNocVVRbkh0UU1aUWc5eWFTZDc0eWRoOVZvVmdFUW1VU2xjV1RMZlJvekJtM0ZNVjdPOTlIVzQwdHEwbkpPaEx1MTJFNlktLTJHWFJKTnZKN2Rxa0hnaDVwWFNCWnI4TVdKeUdkR2tHeGQ4VEc3MUlmQ1ZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aUDNDZmhSWXhsb1hJNHplMThzSExJaHhyYTk5N2JiSUU0N1IwRUxXem5Id3I5YldrdzB0NDZteGJuMGllY1p6RUpPRUdEbG1VZi1GUmFwV3dKWEFzSW1kUjBWcHVjcmRBeXp4Y0hqWS0zMzYyNEM2emxSOXdtNFE?oc=5"
     },
     {
-      "title": "7 Best Energy ETFs to Buy Now",
+      "title": "The 4 Best Global Large-Cap Equity ETFs to Buy",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YaUE2X1loYXhnN2p3Mmh3c0hOaHpuOF9SZ1RaMGEwbkRSc0xZWUU1bU5XYjBra1poVjJsakZUZnA1YktJMEJGRHJxcnUzTFZkQWVXTVlvYnV0R291V1FwaVc5VFpteXc5X0JCNEJuMTRqUWR3aDRlNnhuQlZ5Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObURTYXF5QUdsSnB2U2ljczNwVS1aY3djbll4MTd5cmYwTXBwRXhRZUdVaVNZSEtoNUpNbm5mSFZPTW9kaHROY1FyY0JfQ1lja1lSc21oZzB2dUhscFZNcm52T1dDa3IxcnB1RkZZRzgyZWdFT1FxeHlLME9TRlo0UmY5OVlwaVBJ?oc=5"
+    },
+    {
+      "title": "Nvidia's Best Day Since April 2025, Cybersecurity Stocks Go Vertical: Stock Market Today",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVFyWDg4SWpQcnJsRG9YdXpPQ1J1Z0txVWx6VkpaUV9sZlFMelI5Z0dOc0NoNGp4WXdvMFQ2NjJjODFTUE05WnJoakxoYVBMa196VUpDakt2SEVncmlrNjFwYzNiaXRzRXRoSVhlcExBUWRLU1FMdnV3UjZ0M0NlakR0aEdjSU5HOGFBQUhEY0dFS2xydElCRXFEZzhQVDBaWVBmT1FhbjhwcmN6dXFFaGxYajFKd3otMTZDbkVtR2FfY0c5ZE9qSGE5UXZYYUkyNXlUanFpdUpfU1ltd3c?oc=5"
+    },
+    {
+      "title": "7 Best Monthly Dividend ETFs to Buy Now",
+      "source": "google_news_finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZi1MUFNRNkRsT05qNnJRWVY2cWwzb21uaUpTMGItaGJWNmstU1FYMUZxaE9JQXNhTHVyMl9DdWwwd3lJQXk0SXpxS0R6cWZ0eUx3VzROUmY4alI3bmlpbllSTHFPOFEzSk5sTWdwanJrb0RzMDhuNFhuSEJ4RzFabTVsNFpxTjJh?oc=5"
     },
     {
       "title": "Best Index Funds: Top Funds For the S&P 500, Nasdaq, and Dow Jones",
@@ -106,29 +116,24 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yZFpKSE5COWJxVlBQU25WaGt0WXByc1VrcXp6R3JlQUJUcDNtRVhoTnkzWHluWWlWWUZtakV6bEVjc1ZqTnlUMHRnbHVFSkNhWk9SUEFjNEZ2YllycUE1MjhJOFhHRFh5ZGJucmNtb1dyaFc1RXNUUw?oc=5"
     },
     {
-      "title": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
+      "title": "5 Best Money Market Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uMlR0VjZzd053WEktaXdURDZ1SWFGUS1Kb1hLVjJOU1BSNEIxdFB2bnVRV0lYZENwMTREQWFFMW5RVTZjVXZoTURzRk1yYVFQNEs5ZmcycVR4NHQ2bWhMUjN6TXJBaGFJSERpM0I3aExlc2t1S1Y4TmFJd2hoRXM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
     },
     {
-      "title": "The Rise of Evergreen Funds: A New Way to Access Private Markets",
+      "title": "Best Performing ETFs of the Last 1, 3, 5, and 10 Years",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FU3NwOWxXVVczbU9ZT2ZZUThPXzhOQURGZl8tUlR0YTVvc1J2V1RLa3RreHpNV1QwVnZhY19ZbjU4N0JBa29FR3NRSDJvYV9QY0FLeUJYcFg1Wm95QXJLc2xoSXZsOFJpWDgybkRrS2VDbjFiLU1pa0dneXhLVlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnY1c1NsbTIzaTdyNXFFc3I4Qk1NWjNNT0dVNWYtaHlubFFBYk5YTGw0VERKUzF2MkNEbmo3bWY1MmMxYTdIRlJjTlM0Tld4eVhmYThud2ppMmllN2EzM01nODU0QW1RbWpyMlV5N1g0NC1qZ2RIeGwyamhaczFzVmJ3dWN5cFZQZmc?oc=5"
     },
     {
-      "title": "Best Stocks to Buy Now for August 2026",
+      "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHJHdlRYbC12UjlQdWtKZ0FLRDVKdnFqU2N5NUtIVC1DSnpaZkVQMFR3UEpYMzh0LTQ3S0VPZ1VsTlRwYVZyRDZtZnJIRTdZV25VZEljcUdyTXFyaGdFd2JBdjJ5M3NWdXlCc3hQcXphbnBS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUJ4VkVBQlJySFlScFJJZU54ZUhqZG9YZENnNkRkM1JZU0xaRVg2UlpXOHBsYldQSXRzN2NSUFJlclBUanM2OHN0MW1IOVhqUXhZeTY1aFhFNDFZWjFJSGJTaFJfVWNBM2ptZlBpMjJXc1k2d0JaVnRzN3VCY25YVE51YnQ1MHBWS0E1Rm9TdlpsZGV3WHdEdWtOak9sUWZNZElucVZIck9aQjlIS2ROaC1LWGxMTW9uaURFMUZFVWhSZw?oc=5"
     },
     {
-      "title": "KXI: International Exposure Offers Limited Benefits (NYSEARCA:KXI)",
+      "title": "5 Best Money Market Mutual Funds Of 2026",
       "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZm00WmdYZEFWN0dxM0ZqNnhCLXJhTjRYejZqMnBKZ0gzanJmaGpMLUlLS0ZwbXBRb082SFRzbDVVZWI2SE90ZnJsTVdWWHpzeXVZcUcwRkx4Y29wak03bkRnNzQ4Um5HRXhQZ0hoOW4ydDdzRmFFU25zZjc3ZXF2OVFZaGdXcUxZdmFtOWtYLVpDTXlkLVE?oc=5"
-    },
-    {
-      "title": "7 Best Data Center Stocks, ETFs and REITs",
-      "source": "google_news_finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZjF0RzBPMU0wV0lnaW4zRUg4RmNFcFJPdmE0VW5UcHQwTm5fUXpnZ1hFRlIwTnp6dG1pYXZZbF9FdXN1OUFud1AzOGtQTFdmdFNSTXBMY0NFTHpOcjQzcEpmeEM5ZEgwR2E0Y3Iwc2xOOFY2YXI2UlVfd0FYQnN5b0d3?oc=5"
     }
   ]
 }
